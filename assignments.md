@@ -25,19 +25,14 @@ Some questions to ask yourself as you write the long essay:
 
 ### Group Presentation
 
-In three sessions towards the end of the semester, we will open the class with one or two presentations lasting 15-20 minutes each. This will make up 15% of the total grade for the module. Each presentation will be given by a group of two to four students and each are required to deliver at least part of the presentation. Please distribute a handout to classmates before the session which gives an outline of the presentation and a list of any sources discussed. Broadly speaking, these are to have a historiographical theme. The presentations may take any of the following three forms:
-
-* Compare two or three of the assigned secondary readings in terms of their approach to one particular question or aspect of Japanese imperialism, and include a discussion that evaluates both strengths and weaknesses of each.
-* Focus on one particular question or aspect of Japanese imperialism addressed in the module and discuss it in a broader global or comparative frame. How does what we have learned relate to developments elsewhere at the same time, or have connections with broader historical questions that are important in other places and periods?
-* Introduce a new case, example, or problem related to Japanese imperialism, based on reading in at least three works, either new or unassigned portions of existing readings. Consider it a proposal for an additional week for the module and connect it to our existing themes and readings. Argue for its importance relative to the other topics of the course.
 
 Questions to consider as you prepare:
 
 * Did the distributed handout accurately summarize the general points to be made in the presentation
 * If appropriate, did the handout include any important dates, sources, or a map for the discussion?
-* Was the 20 minute limit strictly observed in the presentation as divided between presenters?
+* Was the 30 minute limit strictly observed in the presentation as divided between presenters?
 * Was the presentation well structured, organized, and focus on a few key points?
-* Was there a good balance of arguments and a few examples to suppor them?
+* Was there a good balance of arguments and a few examples to support them?
 * Did the material presented by each member of the group fit coherently together as a unit?
 
 ### Short Essays
