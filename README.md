@@ -1,7 +1,7 @@
 china-revolutions-mo3337
 ========================
 
-Course handbook for China's Revolutions honours module at St. Andrews School of History
+Course handbook for China's Revolutions honours module for third years students in the School of History at the University of St Andrews
 
 The Spring 2015 Version of This Module Handbook is now bundled as a release:
 
