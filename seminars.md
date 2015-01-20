@@ -86,9 +86,9 @@
 
 **Films of Interest:**
 
-* Raise the Red Lantern (1991) - set in 1920s but captures the insularity of the domestic experience for many 
-* Fairwell My Concubine (1993) - also 20th century but again, captures the breadth of transformations
-* To Live (1994) - a third movie that gives a full sweep
+* Raise the Red Lantern (大红灯笼高高挂 1991) - set in 1920s but captures the insularity of the domestic experience for many 
+* Fairwell My Concubine (霸王别姬 1993) - also 20th century but again, captures the breadth of transformations
+* To Live (活着 1994) - a third movie that gives a full sweep
 
 \newpage
 
@@ -289,9 +289,15 @@
 
 * Devils on the Doorstep (鬼子来了 2000)
 * City of Life and Death (南京！南京！2009)
+* Red Sorghum (红高粱 1987)
 * Yellow Earth (黄土地 1984)
 * Lust, Caution (色，戒 2007)
+* The Last Emperor (1987)
 * The Mountain of Tai Hang (太行山上 2005)
+* Back to 1942 (一九四二 2012)
+* Feng Shui (风水 2011)
+* The Message (风声 2009)
+
 
 \newpage
 
@@ -335,7 +341,7 @@
 **Films of Interest:**
 
 * To Live (活着 1994)
-* The Blue Kite (蓝风筝 1993)
+* The Blue Kite (蓝风筝 1993）
 
 \newpage
 
@@ -437,7 +443,7 @@
 * Gymnaslærer Pedersen (2005) - Comedy about a Norwegian maoist high school teacher
 * See You at Mao (1970)
 * La Chinoise (1967) - French comedy.
-* United Red Army (実録・連合赤軍 あさま山荘への道程 2007) - On the rise and fall of Japan's most violent and self-destructive Communist organisation.
+* United Red Army (実録•連合赤軍 あさま山荘への道程 2007) - On the rise and fall of Japan's most violent and self-destructive Communist organisation.
 * Baader Meinhof Complex (Der Baader Meinhof Komplex 2008) - German film on the multiple generations of the famous German terrorist organisation
 * Eight Glorious Years of Nepali People's War (2004) - Propaganda piece by Communist Party of Nepal (Maoist) on Archive.org 
 
