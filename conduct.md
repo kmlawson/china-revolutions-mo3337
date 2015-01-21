@@ -14,7 +14,7 @@ The University's policy covers the behaviour of both undergraduate and postgradu
 
 All students are advised to familiarise themselves with the University’s guide to Good academic practice or the relevant information in the Students' Association’s web site.
 
-http://www.st-andrews.ac.uk/staff/policy/goodacademicpractice/goodacademicpolicy/
+https://www.st-andrews.ac.uk/students/rules/academicpractice/
 
 If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CAPOD, which provides an extensive range of training on Academic Skills.
 
