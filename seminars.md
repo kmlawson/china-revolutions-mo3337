@@ -189,6 +189,7 @@
 
 * 1911 (2011) - An pretty awful movie with Jackie Chan
 * Xinhai Revolution (辛亥革命 - 2011) - Chinese TV miniseries on the revolution in 41 parts.
+* The Soong Sisters (宋家皇朝 1997)
 
 \newpage
 
@@ -238,7 +239,9 @@
 
 **Films of Interest:**
 
-* I have not yet come across good films that directly deal with May 4th
+* My Early Days in France (我的法兰西岁月 2012)
+* My 1919 (我的1919 1999)
+* Epoch-Making（开天辟地 2011)
 
 \newpage
 
