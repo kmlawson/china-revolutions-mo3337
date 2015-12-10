@@ -16,3 +16,9 @@ Here I list some of the significant changes in this module over the years, after
 * Added basic chronology
 * Changed short essay format to critical review or long essay prospectus
 * Added section on romanisation and pronunciation
+
+## Spring 2016
+
+* made shorter presentations a more regular thing
+* refined the long presentation to focus more on assigned material
+* improved chronology

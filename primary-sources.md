@@ -135,6 +135,8 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Japanese American Evacuation and Resettlement Digital Archive](http://bancroft.berkeley.edu/collections/jais/)
 * [Korean American Digital Archive](http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll126)
 * [Japanese Wartime Policy in Korea Digital Archive (Korean/Japanese)](http://www.kstudy.com/japan/index.htm)
+* [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
+    * Good archive of documents, maps, and images from the Dutch East India Company and the West-Indische Compagnie
 * Foreign Broadcast Information Service 1974-1996
     * search SAULCAT
 * [National Taiwan University Digital Projects Home (Chinese)](http://www.digital.ntu.edu.tw/en/achievements.jsp)

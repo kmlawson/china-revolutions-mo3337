@@ -34,7 +34,7 @@ This module traces the modern history of China through the lens of its most tran
 **60% Coursework**  
 Long Essay (5,000 Words 50% of coursework) - 15 April midnight   
 Presentation (20% of coursework)  
-2 Short Essays (400-600 Words 15% each of coursework) - 25 February, 1 April, midnight
+2 Short Essays (600-800 Words 15% each of coursework) - 25 February, 1 April, midnight
 
 **40% Exam**  
 Take-Home Examination - Date TBD, 3/6 Questions, 12 Hours  
