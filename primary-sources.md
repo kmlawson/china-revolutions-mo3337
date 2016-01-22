@@ -50,6 +50,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * Digital collection of historical journals and other materials related to women's university education in Japan. (Japanese)
 * [Puka Puka Parade](http://evols.library.manoa.hawaii.edu/handle/10524/11835)
     * Post 1945 Newsletter of 100th Infantry Battalion of Japanese-American veterans
+* [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t) 
 
 ### Government Documents
 
@@ -64,12 +65,17 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Truman Library Documents on Decision to Drop the Atomic Bomb](http://www.trumanlibrary.org/whistlestop/study_collections/bomb/large/index.php)
 * [The Gazette (British Government newspaper)](https://www.thegazette.co.uk/)
 * [Digital South Asia Library](http://dsal.uchicago.edu/)
+* [Nineteenth Century Collections Online - Asia and the West](http://tinyurl.galegroup.com/tinyurl/KKyD0)
+    * U.S. State Department Consular and Diplomatic Records - despatches from many US consuls in region
+    * British Foreign Office Political Correspondence: Japan
+    * Korean, Siamese, Japanese and Chinese legations in teh United States
+    * Missionary Correspondence and Journals
 
-* Burma, the Struggle for Independence, 1944-1948: Documents from Official and Private Sources (books)
+* Burma, *The Struggle for Independence, 1944-1948: Documents from Official and Private Sources*
     * Many British documents on Burma from this time
-* Towards Freedom: Documents on the Movement for Independence in India, 1943-1944
+* *Towards Freedom: Documents on the Movement for Independence in India, 1943-1944*
     * Many documents on India from this time
-* The Transfer of Power 1942-7
+* *The Transfer of Power 1942-7*
     * Many British documents on India from this time
 
 
@@ -124,6 +130,8 @@ Below are a selection of potential starting points for primary sources relevant 
 ### Other
 
 * [Harvard Yenching Library Chinese Republican Period 1911-1949 digitization project](http://lms01.harvard.edu/F/E55C3JS9G51IFD76QJSQX5T3YTUBJKL6T97A5A9VEKSKGF7QRU-03820?func=find-c&amp=&amp=&CCL_TERM=%28Harvard+Yenching+Library+Chinese+Republican+Period+%281911-1949%29+digitization+project%29&adjacent=1&pds_handle=GUEST) - Chinese books digitized by Harvard-Yenching library.
+* [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
+    * Good archive of documents, maps, and images from the Dutch East India Company and the West-Indische Compagnie
 * [Chinese maritime digitization project](http://lms01.harvard.edu/F/V56MPVPFVL95L9E7PM2EHV8B8D6IJBVHCHMFDRMTGEPK18E5GS-00588?func=find-acc&amp=&acc_sequence=083196078&pds_handle=GUEST)
     * Digitised books in Harvard-Yenching from 1860s-1940s
 * [Selection of Scanned Open Access Harvard-Yenching Books from Japan on Google Books](http://books.google.com/books?uid=112335248006826328631&as_coll=1001&hl=ja&source=gbs_lp_bookshelf_list)
