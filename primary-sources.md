@@ -51,9 +51,12 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Puka Puka Parade](http://evols.library.manoa.hawaii.edu/handle/10524/11835)
     * Post 1945 Newsletter of 100th Infantry Battalion of Japanese-American veterans
 * [Japan Times 1998-](http://www.nexis.com/api/version1/sf?sfi=GB00NBGenSrch&csi=169018&shr=t) 
+* [Kobe University Newspaper Clippings Archive (Japanese)](http://www.lib.kobe-u.ac.jp/sinbun/e-index.html)
 
 ### Government Documents
 
+* [Wilson Center Digital Archive](http://digitalarchive.wilsoncenter.org/)
+    * Massive collection of Cold War period documents, many of them translated and transcribed
 * [Cabinet Papers 1915-1984](http://www.nationalarchives.gov.uk/cabinetpapers/)
 * [Parliamentary Papers](http://parlipapers.chadwyck.co.uk/home.do)
 * [FRUS - Foreign Relations of the US](http://uwdc.library.wisc.edu/collections/FRUS)
@@ -105,13 +108,14 @@ Below are a selection of potential starting points for primary sources relevant 
 
 ### Propaganda, Posters, and Pamphlets
 
+* [Chinese Propaganda Poster Collection](http://chineseposters.net/index.php)
 * [Chinese Pamphlets](http://ecollections.crl.edu/cdm4/index_hunters.php?CISOROOT=/hunters)
     * from early People's Republic of China - browse by subject, may not show all pamphlets in browse mode
 * [Korean War Propaganda Leaflets](http://faculty.kirkwood.edu/ryost/koreanleaflets.html)
 
 ### Photographs, Postcards, Films
 
-* [Colonial Film Database of the British Empire](http://colonialfilm.org.uk/home)
+* [Showa Period Photo Archive from Shashin Shūhō 1938-1944](http://www.jacar.go.jp/shuhou/home.html)(Japanese)
 * [Memories of Metropolis - Tokyo](http://www.library.metro.tokyo.jp/Portals/0/tokyo/index.html) - Japanese (and some English), mostly photographs from various sources on the history of Tokyo. OA.
 * [Joseph Needham Photographs - Wartime China, 1942-1946](http://www.nri.org.uk/JN_wartime_photos/home.htm)
 * [Historical Chinese Postcard Project: 1896-1920](http://postcard.vcea.net/Browsing.php)
@@ -123,6 +127,24 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Lafayette College East Asian Postcard Collections](http://digital.lafayette.edu/collections/eastasia)
 * [MIT Visualising Cultures](http://ocw.mit.edu/ans7870/21f/21f.027/home/vis_menu.html)
 * [Formosa Nineteenth Century Images](http://cdm.reed.edu/cdm4/formosa/)
+* [Sydney Gamble Photographs of China and Japan](http://library.duke.edu/digitalcollections/gamble/)
+* [Japanese Photographs from Late-Tokugawa and Meiji period](http://hikoma.lb.nagasaki-u.ac.jp/en/)
+* [Vintage Formosa](http://www.taipics.com/)
+    * some 7000 photos of historical Taiwan
+* [Hedda Morrison Photographs of China](http://hcl.harvard.edu/libraries/harvard-yenching/collections/morrison/)
+* [Botanical and Cultural Images of Eastern Asia](http://www.arboretum.harvard.edu/library/image-collection/botanical-and-cultural-images-of-eastern-asia/)
+* [Colonial Film Database of the British Empire](http://colonialfilm.org.uk/home)
+* [British Pathe Historical Footage](http://www.britishpathe.com/)
+* [Korean Movie Database](http://www.youtube.com/user/KoreanFilm/playlists)
+    * Often with English subtitles
+    * Includes full length Korean historical movies from earlier decades
+    * see more at http://www.kmdb.or.kr/
+
+### Recordings and Sound
+
+* [1900-1950 Japanese Sound Archive (Japanese)](http://rekion.dl.ndl.go.jp/)
+* [NHK Japanese Oral History Testimony Archive (Japanese)](http://www.nhk.or.jp/shogenarchives/)
+    * Also contains historical news clips and other footage
 
 ### Maps and GIS
 
@@ -135,30 +157,58 @@ Below are a selection of potential starting points for primary sources relevant 
 * [東洋文庫 中華帝国図等](http://124.33.215.236/gazou/ChinaMap/ChinaMapList.php)
     * Historical maps of China in the Oriental library
 * [USC Asian Map Collection](http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll71)
+* [ChinaX Map](https://worldmap.harvard.edu/maps/chinaX)
+    * Amazing collection of GIS layers related to Chinese history
+* [Disaster of Japan's 2011 Disasters](http://jdarchive.org/)
+* [Japan Map](https://worldmap.harvard.edu/japanmap/)
+    * Collection of GIS layers related to Japan's 2011 Disasters
+* [WorldMap](http://worldmap.harvard.edu/)
+    * Many GIS layers and maps are available to browse and sometimes download here
+* [China Historical GIS](http://www.fas.harvard.edu/~chgis/)
+    * can download shapefiles for creating historical maps of China
 
 ### Other
 
-* [Harvard Yenching Library Chinese Republican Period 1911-1949 digitization project](http://lms01.harvard.edu/F/E55C3JS9G51IFD76QJSQX5T3YTUBJKL6T97A5A9VEKSKGF7QRU-03820?func=find-c&amp=&amp=&CCL_TERM=%28Harvard+Yenching+Library+Chinese+Republican+Period+%281911-1949%29+digitization+project%29&adjacent=1&pds_handle=GUEST) - Chinese books digitized by Harvard-Yenching library.
 * [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
     * Good archive of documents, maps, and images from the Dutch East India Company and the West-Indische Compagnie
-* [Chinese maritime digitization project](http://lms01.harvard.edu/F/V56MPVPFVL95L9E7PM2EHV8B8D6IJBVHCHMFDRMTGEPK18E5GS-00588?func=find-acc&amp=&acc_sequence=083196078&pds_handle=GUEST)
     * Digitised books in Harvard-Yenching from 1860s-1940s
+
+# Japan
+
 * [Selection of Scanned Open Access Harvard-Yenching Books from Japan on Google Books](http://books.google.com/books?uid=112335248006826328631&as_coll=1001&hl=ja&source=gbs_lp_bookshelf_list)
 * [Japan Air Raids Bilingual Historical Archive](http://www.japanairraids.org/)
+* [Prange Digital Children's Book Collection 1945-49 (Japanese)](http://digital.lib.umd.edu/prange)
+* [Joseph B. Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html)
+* [Japanese American Evacuation and Resettlement Digital Archive](http://bancroft.berkeley.edu/collections/jais/)
 * [Hiroshima Archive](http://hiroshima.mapping.jp/)
 * [PRCHistory.org Document of the Month](http://prchistory.org/document-of-the-month/)
-* [Taiwan Postwar National Historical Archive (Chinese)](http://nhd.drnh.gov.tw/AHDPortal/index.jsp)
 * [Japanese National Diet Library (Japanese)](http://iss.ndl.go.jp/)
     * has a variety of digital resources
+* [National Archives of Japan Digital Collections](http://www.digital.archives.go.jp/index_e.html)
+* [Japan Center for Asian Historical Records](http://www.jacar.go.jp/) (Japanese)
+    * Massive archive of especially military records from pre-1945 Japan
+* [Digital Library of the Meiji Period (Japanese)](http://kindai.ndl.go.jp/)
+    * pretty much every book published in the Meiji period is digitized here, Taisho period books increasingly available too
+* [Denshō Archive for Japanese-American internment](http://www.densho.org/)
+
+# Korea
+
 * [Korean National Archives (Korean)](http://www.archives.go.kr/next/viewMain.do)
     * some documents can only be viewed within Korean libraries
 * [Korean History Digital Archive (Korean)](http://www.koreanhistory.or.kr/)
     * a variety of historical sources can be found here
-* [Japanese American Evacuation and Resettlement Digital Archive](http://bancroft.berkeley.edu/collections/jais/)
+* [1945-50 Korean Literary Collection (Korean) Univ. Washington](http://content.lib.washington.edu/koreanweb/)
+* [Histopia (Korean)](http://www.histopia.net/zbxe/home)
+    * Collection of digitized historical Korean sources
 * [Korean American Digital Archive](http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll126)
+* [Korean Independence Outbreak Movement Online Exhibit](https://exhibitions.cul.columbia.edu/exhibits/show/kio)
 * [Japanese Wartime Policy in Korea Digital Archive (Korean/Japanese)](http://www.kstudy.com/japan/index.htm)
 * Foreign Broadcast Information Service 1974-1996
     * search SAULCAT
+
+# Taiwan
+
+* [Taiwan Postwar National Historical Archive (Chinese)](http://nhd.drnh.gov.tw/AHDPortal/index.jsp)
 * [National Taiwan University Digital Projects Home (Chinese)](http://www.digital.ntu.edu.tw/en/achievements.jsp)
 * [Taiwan History Digital Library (Chinese)](http://thdl.ntu.edu.tw/)
 * [Taiwan National Repository of Cultural Heritage (Chinese)](http://newnrch.digital.ntu.edu.tw/prototype/index.php)
@@ -170,47 +220,21 @@ Below are a selection of potential starting points for primary sources relevant 
 * [National Taiwan University Taiwan Historical Photo Archive (Chinese)](http://photo.lib.ntu.edu.tw/pic/db/oldphoto.jsp)
 * [National Taiwan University Institutional Repository (Chinese)](http://ntur.lib.ntu.edu.tw/)
     * historical records related to NTU
-* [Joseph B. Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html)
     * chief prosecutor in the Tokyo war crimes trials
-* [National Archives of Japan Digital Collections](http://www.digital.archives.go.jp/index_e.html)
-* [Showa Period Photo Archive from Shashin Shūhō 1938-1944](http://www.jacar.go.jp/shuhou/home.html)(Japanese)
-* [Kobe University Newspaper Clippings Archive (Japanese)](http://www.lib.kobe-u.ac.jp/sinbun/e-index.html)
-* [Korean Movie Database](http://www.youtube.com/user/KoreanFilm/playlists)
-    * Often with English subtitles
-    * Includes full length Korean historical movies from earlier decades
-    * see more at http://www.kmdb.or.kr/
-* [Japan Center for Asian Historical Records](http://www.jacar.go.jp/) (Japanese)
-    * Massive archive of especially military records from pre-1945 Japan
-* [Prange Digital Children's Book Collection 1945-49 (Japanese)](http://digital.lib.umd.edu/prange)
-* [Digital Library of the Meiji Period (Japanese)](http://kindai.ndl.go.jp/)
-    * pretty much every book published in the Meiji period is digitized here, Taisho period books increasingly available too
-* [British Pathe Historical Footage](http://www.britishpathe.com/)
+
+# China
+
+* [Chinese maritime digitization project](http://lms01.harvard.edu/F/V56MPVPFVL95L9E7PM2EHV8B8D6IJBVHCHMFDRMTGEPK18E5GS-00588?func=find-acc&amp=&acc_sequence=083196078&pds_handle=GUEST)
+* [Harvard Yenching Library Chinese Republican Period 1911-1949 digitization project](http://lms01.harvard.edu/F/E55C3JS9G51IFD76QJSQX5T3YTUBJKL6T97A5A9VEKSKGF7QRU-03820?func=find-c&amp=&amp=&CCL_TERM=%28Harvard+Yenching+Library+Chinese+Republican+Period+%281911-1949%29+digitization+project%29&adjacent=1&pds_handle=GUEST) - Chinese books digitized by Harvard-Yenching library.
 * [Chinese Digital Archive 1966-1976](https://digitalcollections.anu.edu.au/handle/1885/7575)
     * much of it in Chinese
 * [Virtual Shanghai](http://www.virtualshanghai.net/)
-* [Sydney Gamble Photographs of China and Japan](http://library.duke.edu/digitalcollections/gamble/)
-* [Japanese Photographs from Late-Tokugawa and Meiji period](http://hikoma.lb.nagasaki-u.ac.jp/en/)
-* [Vintage Formosa](http://www.taipics.com/)
-    * some 7000 photos of historical Taiwan
-* [Hedda Morrison Photographs of China](http://hcl.harvard.edu/libraries/harvard-yenching/collections/morrison/)
-* [Botanical and Cultural Images of Eastern Asia](http://www.arboretum.harvard.edu/library/image-collection/botanical-and-cultural-images-of-eastern-asia/)
-* [1945-50 Korean Literary Collection (Korean) Univ. Washington](http://content.lib.washington.edu/koreanweb/)
-* [Histopia (Korean)](http://www.histopia.net/zbxe/home)
-    * Collection of digitized historical Korean sources
 * [Chinese Text Project](http://ctext.org/)
     * Collection of classical Chinese texts with translations
 * [Heidelberg University China Digital Archive](http://www.zo.uni-heidelberg.de/boa/digital_resources/dachs/subject_heading_de.html)
     * need to apply for an account to access, application online
-* [China Historical GIS](http://www.fas.harvard.edu/~chgis/)
-    * can download shapefiles for creating historical maps of China
 * [Chinese Civilization in Time and Space](http://ccts.ascc.net/)
-* [Chinese Propaganda Poster Collection](http://chineseposters.net/index.php)
-* [1900-1950 Japanese Sound Archive (Japanese)](http://rekion.dl.ndl.go.jp/)
-* [NHK Japanese Oral History Testimony Archive (Japanese)](http://www.nhk.or.jp/shogenarchives/)
-    * Also contains historical news clips and other footage
 * [Hiroshima Archive](http://hiroshima.mapping.jp/)
-* [Korean Independence Outbreak Movement Online Exhibit](https://exhibitions.cul.columbia.edu/exhibits/show/kio)
-* [Denshō Archive for Japanese-American internment](http://www.densho.org/)
 
 ### See Me
 
