@@ -78,7 +78,6 @@ Below are a selection of potential starting points for primary sources relevant 
 * *The Transfer of Power 1942-7*
     * Many British documents on India from this time
 
-
 ### Memoirs, Diaries, Digitised Books etc.
 
 * [Archive.org](http://archive.org/)
@@ -104,8 +103,15 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Gallica](http://gallica.bnf.fr/) (French)
     * National Library of France has digitised a huge amount of materials, including a wide range of materials, memoirs, books, images, related to East Asia and Indochina.
 
-### Visually Rich Materials
+### Propaganda, Posters, and Pamphlets
 
+* [Chinese Pamphlets](http://ecollections.crl.edu/cdm4/index_hunters.php?CISOROOT=/hunters)
+    * from early People's Republic of China - browse by subject, may not show all pamphlets in browse mode
+* [Korean War Propaganda Leaflets](http://faculty.kirkwood.edu/ryost/koreanleaflets.html)
+
+### Photographs, Postcards, Films
+
+* [Colonial Film Database of the British Empire](http://colonialfilm.org.uk/home)
 * [Memories of Metropolis - Tokyo](http://www.library.metro.tokyo.jp/Portals/0/tokyo/index.html) - Japanese (and some English), mostly photographs from various sources on the history of Tokyo. OA.
 * [Joseph Needham Photographs - Wartime China, 1942-1946](http://www.nri.org.uk/JN_wartime_photos/home.htm)
 * [Historical Chinese Postcard Project: 1896-1920](http://postcard.vcea.net/Browsing.php)
@@ -114,6 +120,9 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Francis E. Stafford photographs of China 1909-1933](http://searchworks.stanford.edu/view/9615156)
 * [Visualising China 1850-1950](http://visualisingchina.net/)
 * [Hoover Institution Political Poster Database](http://hoohila.stanford.edu/poster/)
+* [Lafayette College East Asian Postcard Collections](http://digital.lafayette.edu/collections/eastasia)
+* [MIT Visualising Cultures](http://ocw.mit.edu/ans7870/21f/21f.027/home/vis_menu.html)
+* [Formosa Nineteenth Century Images](http://cdm.reed.edu/cdm4/formosa/)
 
 ### Maps and GIS
 
@@ -137,7 +146,6 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Selection of Scanned Open Access Harvard-Yenching Books from Japan on Google Books](http://books.google.com/books?uid=112335248006826328631&as_coll=1001&hl=ja&source=gbs_lp_bookshelf_list)
 * [Japan Air Raids Bilingual Historical Archive](http://www.japanairraids.org/)
 * [Hiroshima Archive](http://hiroshima.mapping.jp/)
-* [Chinese Pamphlet Digital Archive (Chinese)](http://ecollections.crl.edu/cdm4/index_hunters.php?CISOROOT=/hunters)
 * [PRCHistory.org Document of the Month](http://prchistory.org/document-of-the-month/)
 * [Taiwan Postwar National Historical Archive (Chinese)](http://nhd.drnh.gov.tw/AHDPortal/index.jsp)
 * [Japanese National Diet Library (Japanese)](http://iss.ndl.go.jp/)
@@ -162,7 +170,6 @@ Below are a selection of potential starting points for primary sources relevant 
 * [National Taiwan University Taiwan Historical Photo Archive (Chinese)](http://photo.lib.ntu.edu.tw/pic/db/oldphoto.jsp)
 * [National Taiwan University Institutional Repository (Chinese)](http://ntur.lib.ntu.edu.tw/)
     * historical records related to NTU
-* [Lafayette College East Asian Postcard Collections](http://digital.lafayette.edu/collections/eastasia)
 * [Joseph B. Keenan Digital Collection](http://www.law.harvard.edu/library/digital/keenan-digital-collection.html)
     * chief prosecutor in the Tokyo war crimes trials
 * [National Archives of Japan Digital Collections](http://www.digital.archives.go.jp/index_e.html)
@@ -185,12 +192,9 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Japanese Photographs from Late-Tokugawa and Meiji period](http://hikoma.lb.nagasaki-u.ac.jp/en/)
 * [Vintage Formosa](http://www.taipics.com/)
     * some 7000 photos of historical Taiwan
-* [Formosa Nineteenth Century Images](http://cdm.reed.edu/cdm4/formosa/)
 * [Hedda Morrison Photographs of China](http://hcl.harvard.edu/libraries/harvard-yenching/collections/morrison/)
 * [Botanical and Cultural Images of Eastern Asia](http://www.arboretum.harvard.edu/library/image-collection/botanical-and-cultural-images-of-eastern-asia/)
-* [Korean War Propaganda Leaflets](http://faculty.kirkwood.edu/ryost/koreanleaflets.html)
 * [1945-50 Korean Literary Collection (Korean) Univ. Washington](http://content.lib.washington.edu/koreanweb/)
-* [MIT Visualising Cultures](http://ocw.mit.edu/ans7870/21f/21f.027/home/vis_menu.html)
 * [Histopia (Korean)](http://www.histopia.net/zbxe/home)
     * Collection of digitized historical Korean sources
 * [Chinese Text Project](http://ctext.org/)
@@ -204,7 +208,6 @@ Below are a selection of potential starting points for primary sources relevant 
 * [1900-1950 Japanese Sound Archive (Japanese)](http://rekion.dl.ndl.go.jp/)
 * [NHK Japanese Oral History Testimony Archive (Japanese)](http://www.nhk.or.jp/shogenarchives/)
     * Also contains historical news clips and other footage
-* [Colonial Film Database of the British Empire](http://colonialfilm.org.uk/home)
 * [Hiroshima Archive](http://hiroshima.mapping.jp/)
 * [Korean Independence Outbreak Movement Online Exhibit](https://exhibitions.cul.columbia.edu/exhibits/show/kio)
 * [Denshō Archive for Japanese-American internment](http://www.densho.org/)
