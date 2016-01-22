@@ -271,4 +271,18 @@ Below are a selection of potential starting points for primary sources relevant 
 
 * [CiNii Japanese Article Database](http://ci.nii.ac.jp/) - the "Google Scholar" of Japan. Often has links to PDFs of Japanese language scholarship
 
+### Some Good LibGuides for East Asia Related Sources
+
+* These will include links to many resources available only to students of that university
+* [Harvard Korea Research Guide](http://guides.library.harvard.edu/c.php?g=310159)
+* [Harvard Japan Research Guide](http://guides.library.harvard.edu/c.php?g=310291)
+* [Harvard China Research Guide](http://guides.library.harvard.edu/Chinese)
+* [U of California Berkely East Asia Research Guide](http://guides.lib.berkeley.edu/history/asia/ps_eastasia)
+* [University of Washington East Asia Guide](http://guides.lib.uw.edu/c.php?g=341401&p=2298652)
+* [Yale China English Sources Research Guide](http://guides.library.yale.edu/China-English)
+* [Yale China Research Guide](http://guides.library.yale.edu/China)
+* [Yale Japan Research Guide](http://guides.library.yale.edu/japan)
+* [Yale Korea Research Guide](http://guides.library.yale.edu/korea)
+* 
+
 
