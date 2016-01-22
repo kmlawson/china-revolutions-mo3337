@@ -48,6 +48,8 @@ Below are a selection of potential starting points for primary sources relevant 
 * [PRCHistory.org Archive of Journals Remembrance and Yesterday](http://prchistory.org)
 * [奈良女子大学所蔵資料電子画像集](http://www.lib.nara-wu.ac.jp/nwugdb/)
     * Digital collection of historical journals and other materials related to women's university education in Japan. (Japanese)
+* [Puka Puka Parade](http://evols.library.manoa.hawaii.edu/handle/10524/11835)
+    * Post 1945 Newsletter of 100th Infantry Battalion of Japanese-American veterans
 
 ### Government Documents
 
@@ -91,6 +93,10 @@ Below are a selection of potential starting points for primary sources relevant 
 * [National Taiwan University Open Access Books](http://ebooks.lib.ntu.edu.tw/Home/ListBooks) (Chinese)
 * [Diary of Joseph Stilwell 1900-1946](http://www.hoover.org/library-archives/collections/diaries-general-joseph-w-stilwell-1900-1946)
 * [World War II Diaries of Ernest F. Easterbrook, 1944–45](http://www.hoover.org/library-archives/collections/world-war-ii-diaries-ernest-f-easterbrook-1944-45)
+* [Hawaii Karate Museum Collection](http://evols.library.manoa.hawaii.edu/handle/10524/1054)
+    * PDFs of books in English, Japanese, and Korean on Karate and martial arts, mostly 1950s.
+* [Gallica](http://gallica.bnf.fr/) (French)
+    * National Library of France has digitised a huge amount of materials, including a wide range of materials, memoirs, books, images, related to East Asia and Indochina.
 
 ### Visually Rich Materials
 
@@ -135,8 +141,6 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Japanese American Evacuation and Resettlement Digital Archive](http://bancroft.berkeley.edu/collections/jais/)
 * [Korean American Digital Archive](http://digitallibrary.usc.edu/cdm/landingpage/collection/p15799coll126)
 * [Japanese Wartime Policy in Korea Digital Archive (Korean/Japanese)](http://www.kstudy.com/japan/index.htm)
-* [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
-    * Good archive of documents, maps, and images from the Dutch East India Company and the West-Indische Compagnie
 * Foreign Broadcast Information Service 1974-1996
     * search SAULCAT
 * [National Taiwan University Digital Projects Home (Chinese)](http://www.digital.ntu.edu.tw/en/achievements.jsp)
