@@ -187,7 +187,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * Good archive of documents, maps, and images from the Dutch East India Company and the West-Indische Compagnie
     * Digitised books in Harvard-Yenching from 1860s-1940s
 
-# Japan
+#### Japan
 
 * [Selection of Scanned Open Access Harvard-Yenching Books from Japan on Google Books](http://books.google.com/books?uid=112335248006826328631&as_coll=1001&hl=ja&source=gbs_lp_bookshelf_list)
 * [Japan Air Raids Bilingual Historical Archive](http://www.japanairraids.org/)
@@ -206,7 +206,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Denshō Archive for Japanese-American internment](http://www.densho.org/)
 * [Japanese Historical Text Initiative](http://pnc-ecai.oiu.ac.jp/jhti/index.html)
 
-# Korea
+#### Korea
 
 * [Korean National Archives (Korean)](http://www.archives.go.kr/next/viewMain.do)
     * some documents can only be viewed within Korean libraries
@@ -223,7 +223,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * Foreign Broadcast Information Service 1974-1996
     * search SAULCAT
 
-# Taiwan
+#### Taiwan
 
 * [Taiwan Postwar National Historical Archive (Chinese)](http://nhd.drnh.gov.tw/AHDPortal/index.jsp)
 * [National Taiwan University Digital Projects Home (Chinese)](http://www.digital.ntu.edu.tw/en/achievements.jsp)
@@ -239,7 +239,7 @@ Below are a selection of potential starting points for primary sources relevant 
     * historical records related to NTU
     * chief prosecutor in the Tokyo war crimes trials
 
-# China
+#### China
 
 * [Chinese maritime digitization project](http://lms01.harvard.edu/F/V56MPVPFVL95L9E7PM2EHV8B8D6IJBVHCHMFDRMTGEPK18E5GS-00588?func=find-acc&amp=&acc_sequence=083196078&pds_handle=GUEST)
 * [Harvard Yenching Library Chinese Republican Period 1911-1949 digitization project](http://lms01.harvard.edu/F/E55C3JS9G51IFD76QJSQX5T3YTUBJKL6T97A5A9VEKSKGF7QRU-03820?func=find-c&amp=&amp=&CCL_TERM=%28Harvard+Yenching+Library+Chinese+Republican+Period+%281911-1949%29+digitization+project%29&adjacent=1&pds_handle=GUEST) - Chinese books digitized by Harvard-Yenching library.
