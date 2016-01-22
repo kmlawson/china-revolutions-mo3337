@@ -86,14 +86,14 @@ Below are a selection of potential starting points for primary sources relevant 
 
 ### Memoirs, Diaries, Digitised Books etc.
 
-* [Archive.org](http://archive.org/)
-* Google Books
-* Gutenberg Project
-* [Historical Texts](http://historicaltexts.jisc.ac.uk/)
-    * Especially the British Library digitised books 1789-1914
+* [Archive.org](http://archive.org/) - Huge and fantastic resource for published works before 1920s
+* [Google Books](https://books.google.com/) - If there is only snippet view on old works, try archive.org
+* [Gutenberg Project](http://www.gutenberg.org/) - Pure text versions of many popular out of copyright books
 * [Hathi Trust](http://www.hathitrust.org/)
     * massive collection of digitized books
     * when they cannot be viewed because they are in copyright, they can still help you pin point which pages things are mentioned
+* [Historical Texts](http://historicaltexts.jisc.ac.uk/)
+    * Especially the British Library digitised books 1789-1914
 * [Robert Hart Diaries](http://cdm15979.contentdm.oclc.org/cdm/search/collection/p15979coll3)
     * http://digitalcollections.qub.ac.uk/site/hart-diaries/diaries/show_vol.php?v=31
     * http://gis.rchss.sinica.edu.tw/cmcs/collections-at-academia-sinica/the-diaries-of-sir-robert-hart
@@ -120,6 +120,10 @@ Below are a selection of potential starting points for primary sources relevant 
 ### Photographs, Postcards, Films
 
 * [Showa Period Photo Archive from Shashin Shūhō 1938-1944](http://www.jacar.go.jp/shuhou/home.html)(Japanese)
+* [National Archives UK on Flickr](https://www.flickr.com/photos/nationalarchives/)
+* [US National Archives on Flickr](https://www.flickr.com/people/usnationalarchives/)
+* [New York Public Library Digital Collections](http://digitalcollections.nypl.org/)
+* [Boston Museum of Fine Arts Image Collection](http://www.mfa.org/collections/mfa-images)
 * [Mainichi Photo Bank](https://photobank.mainichi.co.jp/php/KK_search.php)
     * You can search the archive of photos from the Mainichi newspaper and see relatively small watermarked images
 * [Memories of Metropolis - Tokyo](http://www.library.metro.tokyo.jp/Portals/0/tokyo/index.html) - Japanese (and some English), mostly photographs from various sources on the history of Tokyo. OA.
