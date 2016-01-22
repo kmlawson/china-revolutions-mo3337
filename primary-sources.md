@@ -283,6 +283,5 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Yale China Research Guide](http://guides.library.yale.edu/China)
 * [Yale Japan Research Guide](http://guides.library.yale.edu/japan)
 * [Yale Korea Research Guide](http://guides.library.yale.edu/korea)
-* 
 
 
