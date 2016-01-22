@@ -58,6 +58,7 @@ Below are a selection of potential starting points for primary sources relevant 
 
 * [Wilson Center Digital Archive](http://digitalarchive.wilsoncenter.org/)
     * Massive collection of Cold War period documents, many of them translated and transcribed
+* [British Documents on the End of Empire](http://bdeep.org/)
 * [Cabinet Papers 1915-1984](http://www.nationalarchives.gov.uk/cabinetpapers/)
 * [Parliamentary Papers](http://parlipapers.chadwyck.co.uk/home.do)
 * [FRUS - Foreign Relations of the US](http://uwdc.library.wisc.edu/collections/FRUS)
@@ -141,10 +142,14 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Formosa Nineteenth Century Images](http://cdm.reed.edu/cdm4/formosa/)
 * [Sydney Gamble Photographs of China and Japan](http://library.duke.edu/digitalcollections/gamble/)
 * [Japanese Photographs from Late-Tokugawa and Meiji period](http://hikoma.lb.nagasaki-u.ac.jp/en/)
+* [UW Milwaukee Asia and Middle East Photos from American Geographical Society](http://collections.lib.uwm.edu/cdm/landingpage/collection/agsphoto)
 * [An American GI in Japan, Autumn 1945: A Photographic Memoir](http://ettoreinjapan.com/ettore_page2.html)
+* [Philippine Photographs Digital Archive](http://quod.lib.umich.edu/s/sclphilimg)
+* [The United States and its Territories 1870-1925 photographic collections](http://quod.lib.umich.edu/p/philamer/)
 * [Vintage Formosa](http://www.taipics.com/)
     * some 7000 photos of historical Taiwan
 * [Hedda Morrison Photographs of China](http://hcl.harvard.edu/libraries/harvard-yenching/collections/morrison/)
+* [Dutch East Indies in Photographs, 1860-1940](http://www.geheugenvannederland.nl/?/en/collecties/nederlands-indie_in_fotos,_1860-1940)
 * [Botanical and Cultural Images of Eastern Asia](http://www.arboretum.harvard.edu/library/image-collection/botanical-and-cultural-images-of-eastern-asia/)
 * [Colonial Film Database of the British Empire](http://colonialfilm.org.uk/home)
 * [British Pathe Historical Footage](http://www.britishpathe.com/)
@@ -183,9 +188,14 @@ Below are a selection of potential starting points for primary sources relevant 
 
 ### Other
 
+* [Inside Indonesia](http://nla.gov.au/nla.obj-88227234) - bulletin of the Indonesia Resources and Information Programme, Australia, 1983-2007
+* [Online Burma/Myanmar Library](http://www.burmalibrary.org/) - archive of relatively recent digital documents, and portal to more resources
+* [Digital Bodleian](http://digital.bodleian.ox.ac.uk/)
 * [Atlas of Mutual Heritage](http://www.atlasofmutualheritage.nl/en/)
     * Good archive of documents, maps, and images from the Dutch East India Company and the West-Indische Compagnie
     * Digitised books in Harvard-Yenching from 1860s-1940s
+* [LawPhil Philippine Laws and Jurisprudence](http://www.lawphil.net/) - Massive legal database for the Philippines with court rulings and case info on thousands of cases from recent Philippine history
+* [Philippine Diary Project](http://philippinediaryproject.com/) - Collection of digitised diaries from Filipinos from the past two centuries
 
 #### Japan
 
