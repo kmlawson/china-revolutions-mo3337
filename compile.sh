@@ -1,1 +1,1 @@
-pandoc -S --latex-engine=xelatex -V papersize:"a4paper" -V geometry:margin=1in --template=template.tex -o handbook.pdf cover.md overview.md assignments.md exam.md assessment.md policies.md conduct.md film.md seminars.md pinyin.md chronology.md readings.md primary-sources.md
+pandoc -S --latex-engine=xelatex -V papersize:"a4paper" -V geometry:margin=1in --template=template.tex -o handbook.pdf cover.md overview.md assignments.md exam.md assessment.md policies.md conduct.md reference.md film.md reading.md seminars.md pinyin.md chronology.md readings.md primary-sources.md

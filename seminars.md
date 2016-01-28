@@ -6,28 +6,40 @@
 
 **Preparation:**
 
-* Read through the handbook
-* Look up William C. Kirby, Peter K. Bol and Mark C. Elliot. What kinds of history do each of these scholars do? They will be in a number of video clips from China X that we will use as a basic introduction to some background in the course.
+* Our module is not a general survey of Chinese history but will focus in on the history of its revolutions. While you will get some general background video clips on Chinese history (see below) from week to week, I suggest you purchase an introductory survey text on modern Chinese history to read as the course goes along. A few of the most popular survey texts include:
+    * Jonathan Spence, *The Search for Modern China* (old, longer work, but still used as textbook in most courses on modern China)
+	* Diana Lary *China’s Republic* (short, interesting mix of materials)
+	* Patricia Ebrey, *Cambridge Illustrated History of China* (if you want something that covers pre-modern period as well)
+	* Rana Mitter, *A Bitter Revolution* (we’ll read parts of this, more episodic and character based with a narrower argumentative narrative)
+	* Karl, Rebecca E. *Mao Zedong and China in the Twentieth-Century World: A Concise History* (this has less on the pre-1949 period)
 * Memorise the basic chronology in the student handbook up to 1927. Look up 2 of these events online and read a bit about them. Be prepared to say something you find interesting or curious about them.
 * Write down 2-3 things about revolution that you know, or alternatively, things that you are hoping to learn about
-* You will usually need to set aside about 30 minutes a week to watching some introductory history videos from the Harvard China X history course that will help give you some background.
-* China X: Learn the (Major) [Dynasty Song](https://www.youtube.com/watch?v=2sF8tgmREPo#t=140) and be prepared to sing it in class. 
-* China X: Watch the [Historical Overview](https://www.youtube.com/watch?v=XupdENYui-Y) for the 20th Century
-* China X: Whatch the [Space and Place](https://www.youtube.com/watch?v=5aqgxVuHCvc#t=13) video.
-* China X: Watch [Physical Geography](https://www.youtube.com/watch?v=LwsqKYHIYvU#t=10)
-* China X: Watch [Ethnicity](https://www.youtube.com/watch?v=RZhYQz6D_bM)
-* China X: Watch [Language](https://www.youtube.com/watch?v=SmP9iuK9NWw)
-* China X: Watch [Written Language](https://www.youtube.com/watch?v=g5Hh-P-plF8)
-
-* China X: Visit and browse the spatial data layers for Qing, Republic, and People's Republic on the [China X WorldMap](http://worldmap.harvard.edu/maps/chinaX) (Turn off the pre-Qing layers for a clearer look). Use this map throughout the semester to help orient you in your reading.
-
+* Each week you will be asked to watch a few clips from the Harvard China X online history course that, while often available from general textbooks, can be a fun visual way to get background information on the week’s topics. This first week, please watch the following clips: 
+    * China X: Learn the (Major) [Dynasty Song](https://www.youtube.com/watch?v=2sF8tgmREPo#t=140) and be prepared to sing it in class. 
+    * China X: Watch the [Historical Overview](https://www.youtube.com/watch?v=XupdENYui-Y) for the 20th Century
+    * China X: Whatch the [Space and Place](https://www.youtube.com/watch?v=5aqgxVuHCvc#t=13) video.
+    * China X: Watch [Physical Geography](https://www.youtube.com/watch?v=LwsqKYHIYvU#t=10)
+    * China X: Watch [Ethnicity](https://www.youtube.com/watch?v=RZhYQz6D_bM)
+    * China X: Watch [Language](https://www.youtube.com/watch?v=SmP9iuK9NWw)
+    * China X: Watch [Written Language](https://www.youtube.com/watch?v=g5Hh-P-plF8)
+* Look up William C. Kirby, Peter K. Bol and Mark C. Elliot. What kinds of history do each of these scholars do? They will be in a number of video clips from China X that we will use as a basic introduction to some background in the course.
+* ChinaX WorldMap: Visit and browse the spatial data layers for Qing, Republic, and People's Republic on the [China X WorldMap](http://worldmap.harvard.edu/maps/chinaX) (Turn off the pre-Qing layers for a clearer look). Use this map throughout the semester to help orient you in your reading.
+* Be ready to sick the dynasty song from the link above!
+* For Week 2 we will read the entirety of Henrietta Harrison's *The Man Awakened from Dreams: One Man's Life in a North China Village, 1857-1942*, consider ordering your own copy or getting a head start to avoid a rush for the short loan copy.
 
 **Overview:**
 
 * China, some of the basics
+* Discuss: What things do you already know about the Chinese revolution, what do you want to know about?
+* Task: We will sing the dynasty song together
 * What this course will cover and not cover
-* The long essay as focus for semester efforts
-* Why revolutions in plural, 1911 and 1949, and the long/plural Communist revolutions in China
+* Why revolutions in plural, 1911 and 1949, and the long/plural Communist revolutions in China?
+* Getting to know the course:
+    * The long essay as focus for semester efforts: start thinking about it now
+    * Strategies for reading and preparation in this course
+    * Our shared notes document
+    * How presentations work
+* If Time: Discuss events you looked up and some of the aspects of them you found interesting.
 
 \newpage
 
@@ -35,10 +47,10 @@
 
 **Preparation:**
 
-* Memorise the names of China's (post-1949 provinces), and location of some cities that will come up in our course: Beijing, Nanjing, Shanghai, Qingdao, Hong Kong, Tianjin, Guangzhou, Chongqing, Wuhan, Hangzhou, Harbin, Shenyang, and Yan'an. You will be quizzed on this in class.
-* Decide which week you would like to give a presentation on supplemental reading
-* Look over the seminar topics for the remaining weeks of the semester. Pick two or three topics that especially interest you for the long essay. Be ready to discuss them in class.
-
+* Memorise the names of China's (post-1949 provinces), the major rivers, and location of some cities that will come up in our course: Beijing, Nanjing, Shanghai, Qingdao, Hong Kong, Tianjin, Guangzhou, Chongqing, Wuhan, Hangzhou, Harbin, Shenyang, and Yan'an. You will be quizzed on this in class.
+* Decide which week you would like to give a presentation and choose a backup week just in case
+* Decide which two additional weeks you want to be a text guide
+* Look over the seminar topics for the remaining weeks of the semester. Pick two or three topics that especially interesting to you for the long essay. Be ready to discuss them in class.
 * X: [Dynastic Change](https://www.youtube.com/watch?v=oW74ajXNARw#t=58), [II](https://www.youtube.com/watch?v=91LR6fSylas)
 * X: [Qing Economic Growth](https://www.youtube.com/watch?v=ACd-2ScUxIA)
 * X: [Expansion under Qianlong](https://www.youtube.com/watch?v=V1LLTBvYg58)
@@ -59,8 +71,8 @@
 
 **Reading (~200):**
 
-* Harrison, A Man Awakened From Dreams 1857-1942, entire book.
-* Mitter, Modern China: A Short Introduction, 1-30.
+* Harrison, *A Man Awakened From Dreams 1857-1942*, entire book.
+* Mitter, *Modern China: A Short Introduction*, 1-30.
 
 **Further Reading:**
 
@@ -73,16 +85,22 @@
 
 **Overview:**
 
-* Map quiz
-* Assign presentation weeks
-* Briefly exchange ideas for possible topics for long essay
+* Task: Map quiz
+* Intro to Chinese pronunciation
+* Assign presentation weeks and text guides
+* Discuss: Briefly exchange ideas for possible topics for long essay
 * Examples of prospectus for short essay, using conference abstracts as model
-* Discussion to focus on Harrison and the experience of change.
+* Discuss: focus on Harrison and the experience of change.
 
 **Questions for discussion:**
 
 1. What factors leading to Qing decline suggest they might pose challenges for 20th century regimes as well?
 2. What changes in the later Qing dynasty that were likely to be most felt from the perspective of individuals outside of the larger cities?
+
+**Long Essay Ideas:**
+
+* The 19th century or late Qing period is a critical period to examine the broader structural changes to Chinese society. Exploring some aspect of these changes in a place or a particular moment and its longer legacy and consequences could be interesting.
+* Sources from this period include a large number of primary sources in English from travellers to China, missionaries, and those with economic ties. These sources have their limitations but they may also yield interesting new perspectives.
 
 **Films of Interest:**
 
@@ -96,6 +114,9 @@
 
 **Preparation:**
 
+* In addition to the main readings choose one of the following large political upheavals and be prepared to say something about its particular characteristics, causes, longer legacy: Boxer Rebellion (1899-1900), Taiping Rebellion (1850-1864), Nian Rebellion (1852-1868), Panthay Rebellion (1856-1873), the Eight Trigrams Uprising (1813) or White Lotus Rebellion (1796-1804)
+* Review the pronunciation and romanisation section of this handbook, and visit a website or online video or two to practice some of the main sounds for Chinese. This can help you pronounce names and places throughout the course with greater confidence.
+* The reading for this week is especially light. Take advantage of this time to complete your first long essay
 * X: [Rise of Hong Xiuquan](https://www.youtube.com/watch?v=skbTJcnumEA)
 * X: [Taiping: Age of Great Peace](https://www.youtube.com/watch?v=hHGxR16iem8)
 * X: [Fall of the Heavenly Kingdom](https://www.youtube.com/watch?v=3CogSb2NHv8)
@@ -126,13 +147,21 @@
 
 **Overview:**
 
-* Map quiz, again!
-* Focus of discussion on Taiping and Boxer rebellions
+* Task: Map quiz, we'll do it again!
+* Discuss: Will examine the primary sources closely and then discuss Cohen and Perry readings
+* Reviewing formation of analytical arguments for essays
+* Check in with everyone on progress forming a topic for long essay
 
 **Questions:**
 
 1. In what ways did environmental factors, and their man-made contributing aspects impact the rebellions of the late Qing?
 2. If the rebellions of the late Qing have provided powerful material for 20th century revolutionary movements, what aspects of them are less useful? That is, what process of forgetting might be required?
+
+**Long Essay Ideas:**
+
+* Notice that neither of the past two weeks have included much of anything on the Opium Wars. In any standard narrative of modern China that war plays a very powerful role in the narrative and for some, the founding event of modern Chinese history. Like the Boxer and Taiping Rebellions it is also a moment that is looked back upon again and again in later periods for inspiration and for its key role in the rise of anti-imperialist and later nationalist ideas in China. Students are welcome to focus in on some aspect of the Opium Wars for their long essay.
+* The rebellions of the 19th century and the later histories and myths of these rebellions are rich ground for exploration. For those who cannot read Chinese, there are also many primary sources with outsider perspectives on some of these events that may suggest interesting ways to approach these periods.
+* The political and economic tumult of this period is also interesting material for comparative long essays that look at connections and contrasts between the great rebellions, for example, and those found elsewhere in the world.
 
 **Films of Interest:**
 
@@ -146,9 +175,8 @@
 
 **Preparation:**
 
-* Do a little preliminary research on your potential long essay topic. What kinds of primary sources are out there for your area of interest (unless you are doing a historiographical essay) in languages you can work with? What kinds of historical scholarship has been done? 
-* Come to class with a well-formed idea for your long essay. This does not have to be your final topic, but should be a topic to discuss with your classmates. Write it down along with a sentence or two on: What kinds of sources? What are possible arguments you are exploring? Why does this interest you? What are potential problems you face with this topic?
-
+* The reading for this week is again light. Do some more preliminary research on your potential long essay topic as the first short essay is due soon. What kinds of primary sources are out there for your area of interest (unless you are doing a historiographical essay) in languages you can work with? What kinds of historical scholarship has been done? 
+* Come to class with a well-formed idea for your long essay and your first short essay if it was a prospectus so we can share ideas with each other and get feedback. 
 * X [Resistance of Reform](https://www.youtube.com/watch?v=SZl3vXOXya0)
 * X [Reform](https://www.youtube.com/watch?v=CT9Fl7IoRYA)
 * X [End of Empire](https://www.youtube.com/watch?v=mbiF6ZATBOY)
@@ -176,14 +204,20 @@
 
 * Long essay topics and discussion on them.
 * Discussion on essay types, historiographical, primary source driven
-* Discussion on making analytical arguments in historical essays
-* Focus of discussion will be on late Qing reformers, and visions of what China was to become. 
+* Discussing the balance between narration and analysis in writing argumentative historical essays
+* Focus of discussion will be on late Qing reformers, and visions of what it meant to be "Chinese" and the emergence of a modern Chinese nation and identity.
 
 **Questions:**
 
 1. In what sense was 1911 a revolution? Or, if you prefer, why does it not deserve the name?
 2. In what way do visions of what a post-Qing republic by intellectuals differ from the Nationalist and Communist political orders to come?
 3. What kind of legacies did the revolution have and what lost opportunities were there?
+
+**Long Essay Topics:**
+
+* As we have seen, this period is filed with rich discussions about what China was to become. There are also a significant number of translated texts on the vibrant intellectual life in the late Qing Dynasty, as well as English language primary sources on the turbulent period from period of the early republic. Long essays that focus in on one of these visions of what China should become, the perspectives of one Chinese intellectual, or what hopes and fears outside observers had for what China was to become are possible topics. 
+* 1911 gave rise to a deeply chaotic period during which it is even harder than usual to generalise about changes across China. Consider exploring this early post-1911 period or the "warlord period" more broadly at the regional level.
+* Japan, individual Japanese figures, and Chinese in Japan played an important role in the late Qing period, during the 1911 revolution and in the aftermath. There are many aspects of this relationship which are worth examining more closely.
 
 **Films of Interest:**
 
@@ -197,7 +231,7 @@
 
 **Preparation:**
 
-* You need to complete your first short essay, due the day before class on MMS
+* The reading is again light this week to allow you the time to work on the second essay as well as continue your exploratory research for you long essay. Please make use of this time as reading loads will increase in the weeks ahead.
 * Have a look at these posters from post-1949: [May 4 Posters Landsberger Collection](http://chineseposters.net/themes/may-fourth-movement.php)
 * X [China and Culture](https://www.youtube.com/watch?v=ZxNgF95wKh0)
 * X [May Fourth Movement](https://www.youtube.com/watch?v=9UWfpaLAPaY)
@@ -228,8 +262,14 @@
 
 **Overview:**
 
-* Bring a copy of your already submitted short essay to class. We will discuss them in pairs and share feedback on your long essay ideas
 * Our discussion will be divided between a concentrated look at the primary sources from the New Culture Movement and thinking about how May 4th continues to be something that is repeatedly looked back to in a way that 1911 is not.
+
+**Long Essay Ideas:**
+
+* The new culture movement is an exciting transformative period. In addition to the many new debates being carried out among youth and students within Japan there are many Chinese increasingly active abroad. Focusing in on some aspect of the internationally based Chinese can be an interesting focus for an essay.
+* This period overlaps with intense competition among various Western powers and Japan for control in China which will intensify anti-imperialism around China
+* This is the period of the formation of the Communist Party in China and a period of far greater diversity of ideas and vision both within the party and among revolutionaries of various kinds. Focusing in on some aspect of this for a long essay can make use of a rich secondary literature and availability of translations of early Communist leaders.
+* There are lots of interesting comparisons to be made between the May 4th Movement and movements elsewhere. The work of Erez Manela on the "Wilsonian Moment" can give you some ideas both for this week, and broader ideas for transnational long essays throughout the essay.
 
 **Questions:**
 
@@ -249,8 +289,9 @@
 
 **Preparation:**
 
-* Begin work on your second short essay
-* Refine your long essay topic and progress with your reading
+* Begin work on your second short essay. Time management is important this week and next especially.
+* Refine your long essay topic and progress with your reading for it. 
+* The reading is quite heavy this week. Try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
 * X [The Long March](https://www.youtube.com/watch?v=NbeZNdnlfc0)
 * X [Yan'an](https://www.youtube.com/watch?v=j7ZRA4I61ME)
 * X [Introduction](https://www.youtube.com/watch?v=6E0REcJ4bX8)
@@ -261,18 +302,19 @@
 
 * SOURCES, 396-450 (Ch 34-35 Communist Revolution, Communist Praxis)
 
-* Zarrow, China in War and Revolution, 271-288, 295-303 (Ch 14, part of Ch 15)
-* Goodman, North China at War, 1-18 (Explaining Revolution)
-* Johnson, Peasant Nationalism and Communist Power, 1-30 (Ch 1 Peasant Nationalism)
-* Selden, China in Revolution, 320-352 (Conclusion, Epilogue)
-* Kataoka, Resistance and Revolution, 1-11, 303-311 (Intro, Conclusion)
-* Chen, Making Revolution, 1-19, (Intro, Conclusion)
-* Gatu, Village China at War, 1-15 (Introduction)
-* Wou, Mobilizing the Masses, 1-19 (Introduction)
+* Read all but two of the following introductions to these works. Then choose one of them, based on what you found interesting, and read a bit more in depth (1-3 chapters) in one of these texts and be ready to talk about it in class. Consider sharing your notes from your in depth reading on our collaborative notes document:
+    * Zarrow, China in War and Revolution, 271-288, 295-303 (Ch 14, part of Ch 15)
+    * Goodman, North China at War, 1-18 (Explaining Revolution)
+    * Johnson, Peasant Nationalism and Communist Power, 1-30 (Ch 1 Peasant Nationalism)
+    * Selden, China in Revolution, 320-352 (Conclusion, Epilogue)
+    * Kataoka, Resistance and Revolution, 1-11, 303-311 (Intro, Conclusion)
+    * Chen, Making Revolution, 1-19, (Intro, Conclusion)
+    * Gatu, Village China at War, 1-15 (Introduction)
+    * Wou, Mobilizing the Masses, 1-19 (Introduction)
 
 **Further Reading:**
 
-* Read rest of Selden, Johnson, Kataoka, Wou, Chen, or Gatu
+* Consider completing one of Selden, Johnson, Kataoka, Wou, Chen, or Gatu
 * Mitter, China's War with Japan
 * Lary, The Chinese People at War
 * Etō, Hai-Lu-Feng: The First Chinese Soviet Government, 43-98 - an earlier example
@@ -280,13 +322,20 @@
 **Overview:**
 
 * A brief check-in with all of you on how your long essay research is progresing, giving you a chance to share discoveries
-* We will focus in on debates over what impact the war had for the prospects of the Communist Party
+* We will focus in on debates over what impact the war had for the prospects of the Communist Party. 
 
 **Questions:**
 
 1. In the debates over the relevance of the second Sino-Japanese war on the rise of the Communist party, evaluate the claims of two historians whose arguments can be said to significantly contradict one another.
 
 2. What is one way that regional differences matter in discussing the impact of the second Sino-Japanese war on the rise of the Communist party during this period?
+
+**Long Essay Ideas:**
+
+* This is one of the most active areas of research on modern Chinese history. While the war itself does not have a huge amount of scholarship compared to its impact, as you saw this week the historiography on the connection of the war to CCP growth and later success is massive. You might consider wading into this debate in some modest way, perhaps with a focus on a particular case, place, or specific aspect of the argument. 
+* If the historiography is heavily on the CCP, exploring the role of the war on the nationalist party might also be worth exploring.
+* Many international visitors came to China or went from China to other parts of the world and commented on the conflict. Primary sources related to this are more accessible if you don't read Chinese and can offer some interesting perspectives.
+* Again here there are rich opportunities for comparative studies or looking at influences and interactions across borders.
 
 **Films of Interest:**
 
@@ -308,7 +357,7 @@
 
 **Preparation:**
 
-* This is a heavy reading week. Please make enough time to get through it.
+* This is a heavy reading week but you also have your short essay coming due. Please make enough time to get through it.
 * Clips on the Hundred Flowers Movement and repression that followed:
     * X: [Hundred Flowers Movement](https://www.youtube.com/watch?v=jv2qHZQtdPA)
     * X: [Scholars and Emperors](https://www.youtube.com/watch?v=9FzMH4xWFlU)
@@ -336,6 +385,11 @@
 * This seminar covers a lot of ground. An entire course could easily be given on this period of China's history itself, from the wartime repression of the Rectification movement, the civil war with the GMD from 1945-9, the early postwar Land Reform movement, China's involvement in the Korean War and the rise of anti-Americanism, the Hundred Flowers campaign and the anti-Rightist campaign that followed, and perhaps most importantly: the great famine of the Great Leap Forward, which is only rivalled by the Sino-Japanese war in terms of its devastation to the Chinese population.
 * Our focus in the discussion will not be on the details of this or that campaign, but on better understanding the patters of how these campaigns were carried out, eahc of which various led to the deaths of thousands or hundreds of thousands of Chinese, and why the Great Leap famine rose above them all with its death toll in the millions.
 
+**Long Essay Ideas:**
+
+* This is also a very dark period in Chinese history and more difficult to explore without the ability to read Chinese primary sources. However, those of you interested in economic history have a lot of possibilities to explore the economic aspects of the great famine and the commune system, and there are also possibilities to explore this period from a comparative perspective. 
+* From an international perspective it might be interesting to explore how this period was depicted abroad at the time with a close case study. 
+
 **Questions:**
 
 1. Do what degree do the severity of the various political campaigns have to do with individual action versus structural factors?
@@ -350,14 +404,14 @@
 
 ## Spring Vacation
 
+* Please relax and enjoy your spring vacation!
+
 ## Week 8 - The Cultural Revolution
 
 **Preparation:**
 
-* Your second short essay is due the day before class
-* The reading is deliberately light this week to allow you to continue your work on your long essay, which is due in two weeks. Don't miss this opportunity to make progress. Think of the second short essay as an exercise in demonstrating that progress, rather than as a self-contained assignment.
-
-* Please watch Morning Sun (2003) - 2 Hour Documentary by Carma Hinton. It is available in the library reference area. Consider scheduling a time to watch it together with 2-3 classmates. The fact the DVD was in use the day before class is not an appropriate excuse for not having watched the documentary. Plan ahead.
+* The reading is deliberately very light this week to allow you to continue your work on your long essay. Don't miss this opportunity to make progress. 
+* Watch Morning Sun (2003) - 2 Hour Documentary by Carma Hinton. It is available in the library reference area. Consider scheduling a time to watch it together with 2-3 classmates. The fact the DVD was in use the day before class is not an appropriate excuse for not having watched the documentary. Plan ahead. Take notes and be ready to discuss the documentary.
 
 * MacFarquhar on CR:
     * X: [Setting the Stage](https://www.youtube.com/watch?v=aOh2QW6diA4)
@@ -409,15 +463,15 @@
 
 **Preparation:**
 
-* Please continue your work on the Long Essay. Again our reading is relatively light this week so make your big push this week. The reading is not light next week!
+* Please continue your work on the Long Essay. Again our reading is relatively light this week so make your big push this week. The reading is not light next week so this is the week to get that first draft done!
 * Choose 2-3 quotations from Mao's red book that we have assigned this week and be ready to say something about what you think is telling about the quote, problematic, or ironic
 
-**Reading (<150):**
+**Reading (~190):**
 
 * Charu Mazumadar, [Take this Opportunity](http://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
 * Elbaum, [Maoism in the United States](https://www.marxists.org/history/erol/ncm-1/maoism-us.htm)
 * [Quotations from Mao Tse Tung](https://www.marxists.org/reference/archive/mao/works/red-book/), (Ch 2, 4, 5-6, and 24) 
-* Cook, Mao's Little Red Book: A Global History (Ch 1-2, 15)
+* Cook, Mao's Little Red Book: A Global History (Ch 1-2, 7, 8, 15)
 * Gupta, The Naxalites and the Maoist Movement in India, 157-188
 * Wolin, Wind from the East, 1-21
 * Starn, Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History, 399-421
@@ -456,8 +510,7 @@
 
 **Preparation:**
 
-* Your long essay is due the day before our class this week
-* If you struggle to complete the reading this week because you have been working on the long essay, then at least complete one of these three readings thoroughly, rather than skimming all of them poorly and catch up on the reading the following week or during revision week.
+* Your long essay is due Monday next week. Please finish this off and don't leave it to the last minute!
 
 **Reading (~230):**
 
@@ -498,7 +551,6 @@
 **Preparation:**
 
 * If you fell behind on the reading last week, please revisit last week's reading and get caught up. 
-
 * It is important that you watch the long documentary on Tian'anmen entitled, Gate of Heavenly Peace by Richard Gordon and Carma Hinton. Note, that this is over 3 hours long but a great deal of importance happens towards the end. Consider dividing it into two viewings, but please watch the whole documentary. As with Morning Sun, this documentary is available in the library in the reference area and again consider watching it in groups. 
 
 * X: [Ezra Vogel: Deng's Background](https://www.youtube.com/watch?v=-v_55FkaVDU)
