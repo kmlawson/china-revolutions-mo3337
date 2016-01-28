@@ -5,6 +5,10 @@ Course handbook for China's Revolutions honours module for third years students 
 
 Download the raw file [handbook.pdf](https://github.com/kmlawson/china-revolutions-mo3337/blob/master/handbook.pdf?raw=true) if you only want the final compiled PDF of the handbook.
 
+The Spring 2016 Version of This Module Handbook is now bundled as a release:
+
+**[Spring 2016 Release](https://github.com/kmlawson/china-revolutions-mo3337/releases/tag/2016)**
+
 The Spring 2015 Version of This Module Handbook is now bundled as a release:
 
 **[Spring 2015 Release](https://github.com/kmlawson/china-revolutions-mo3337/releases/tag/2015)**
