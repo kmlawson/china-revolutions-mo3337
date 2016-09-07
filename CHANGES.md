@@ -22,3 +22,12 @@ Here I list some of the significant changes in this module over the years, after
 * made shorter presentations a more regular thing
 * refined the long presentation to focus more on assigned material
 * improved chronology
+
+## Fall 2016
+
+* changed presentations to 10 minutes instead of 15
+* refined suggestions for research
+* refined instructions for text guide
+* refined instructions for presentations
+* refined exam instructions
+* refined laptop policies

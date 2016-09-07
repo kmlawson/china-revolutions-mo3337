@@ -15,7 +15,7 @@ Below are some of the major dates relevant to this course. Please become familia
 * 1915, Jan - Japan Issues the 21 Demands
 * 1919 - The May Fourth Movement
 * 1922 - Founding of the Chinese Communist Party
-* 1924 - Alliance Between the Nationalist Party (GMD) and the Communist Party (CCP)
+* 1924 - Alliance Between the Nationalist Party (GMD/KMT) and the Communist Party (CCP)
 * 1927 - The Death of Sun Yat-sen, rise of Chiang Kai-shek
 * 1927 - The Northern Expedition
 * 1927, Apr - The White Terror
