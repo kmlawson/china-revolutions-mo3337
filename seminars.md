@@ -2,7 +2,7 @@
 
 ## Seminars
 
-## Week 1 - Introduction: Revolution and History in China, 1911 and 1949
+## Week 0 - Introduction: Revolution and Revolution
 
 **Preparation:**
 
@@ -39,219 +39,45 @@
     * Strategies for reading and preparation in this course
     * Our shared notes document
     * How presentations work
+* Singing the dynasty song
 * If Time: Discuss events you looked up and some of the aspects of them you found interesting.
 
 \newpage
 
-## Week 2 - Social and Economic Change in Modern China: A Broad Overview
+## Week 1 - From 1911 to May Fourth
 
 **Preparation:**
 
-* Memorise the names of China's (post-1949 provinces), the major rivers, and location of some cities that will come up in our course: Beijing, Nanjing, Shanghai, Qingdao, Hong Kong, Tianjin, Guangzhou, Chongqing, Wuhan, Hangzhou, Harbin, Shenyang, and Yan'an. You will be quizzed on this in class.
-* Decide which week you would like to give a presentation and choose a backup week just in case
-* Decide which two additional weeks you want to be a text guide
-* Look over the seminar topics for the remaining weeks of the semester. Pick two or three topics that especially interesting to you for the long essay. Be ready to discuss them in class.
-* X: [Dynastic Change](https://www.youtube.com/watch?v=oW74ajXNARw#t=58), [II](https://www.youtube.com/watch?v=91LR6fSylas)
-* X: [Qing Economic Growth](https://www.youtube.com/watch?v=ACd-2ScUxIA)
-* X: [Expansion under Qianlong](https://www.youtube.com/watch?v=V1LLTBvYg58)
-* X: [Inner Asian Empire](https://www.youtube.com/watch?v=BGINH4eCU8c)
-* X: [Aftermath of Opium Wars](https://www.youtube.com/watch?v=4yjjJ1td5FI#t=40)
-* X: [Neiluan](https://www.youtube.com/watch?v=0wxd3C9DumI)
+* Come to class with one or two ideas for your long essay and your first short essay if it was a prospectus so we can share ideas with each other and get feedback. 
+* The reading is relatively heavy this week, please give the primary sources a close look over and don't forget to bring them to class
+* Have a look at these posters from post-1949: [May 4 Posters Landsberger Collection](http://chineseposters.net/themes/may-fourth-movement.php)
+* Watch the following ChinaX videos:
+    * X [End of Empire](https://www.youtube.com/watch?v=mbiF6ZATBOY)
+    * X [What is Republicanism?](https://www.youtube.com/watch?v=mbiF6ZATBOY)
+    * X [Regional Militarisation](https://www.youtube.com/watch?v=SKbQ8zyYUAk)
+    * X [Yuan Shikai](https://www.youtube.com/watch?v=TOTNFaUnxDY)
+    * X [Warlordism](https://www.youtube.com/watch?v=xRb9wX77TeI)
+    * X [China and Culture](https://www.youtube.com/watch?v=ZxNgF95wKh0)
+    * X [May Fourth Movement](https://www.youtube.com/watch?v=9UWfpaLAPaY)
+    * X [Chen Duxiu and New Youth](https://www.youtube.com/watch?v=C8-Av-XGob4)
+    * X [Bai Hua](https://www.youtube.com/watch?v=RabetsH7vPE)
 
-* Consider watching these China X clips on Confucianism (~30m):
-    * [Introduction](https://www.youtube.com/watch?v=opFuW_3i2fY#t=126)
-    * [Many Faces of Confucius](https://www.youtube.com/watch?v=FHmIU2QOswQ)
-    * [Time of Confucius](https://www.youtube.com/watch?v=i-QYJ1x874A)
-    * [Confucius of the Analects](https://www.youtube.com/watch?v=3PY7md8Ee-I)
-    * [We've Lost the Way](https://www.youtube.com/watch?v=RPL126ysQ4I)
-    * [How to Find the Way Back](https://www.youtube.com/watch?v=zOVSCl8snuE)
-    * [Confucian Magic](https://www.youtube.com/watch?v=FzVtrRNmQbg)
-    * [Ritual with Attitute](https://www.youtube.com/watch?v=I5yPmwrtOzw)
+**Reading:**
 
-
-**Reading (~200):**
-
-* Harrison, *A Man Awakened From Dreams 1857-1942*, entire book.
-* Mitter, *Modern China: A Short Introduction*, 1-30.
-
-**Further Reading:**
-
-* Cambridge History of China v10, 107-162 (Ch. 3 “Dynastic Decline”)
-* Ko, Cinderella’s Sisters 
-* Eastman, Family, Fields and Ancestors: Constancy and China's Social and Economic History
-* Bernhardt, Rents, Taxes and Peasant Resistance
-* Spence, Death of Woman Wang
-* Fairbank, Trade and Diplomacy on the China Coast
-
-**Overview:**
-
-* Task: Map quiz
-* Intro to Chinese pronunciation
-* Assign presentation weeks and text guides
-* Discuss: Briefly exchange ideas for possible topics for long essay
-* Examples of prospectus for short essay, using conference abstracts as model
-* Discuss: focus on Harrison and the experience of change.
-
-**Questions for discussion:**
-
-1. What factors leading to Qing decline suggest they might pose challenges for 20th century regimes as well?
-2. What changes in the later Qing dynasty that were likely to be most felt from the perspective of individuals outside of the larger cities?
-
-**Long Essay Ideas:**
-
-* The 19th century or late Qing period is a critical period to examine the broader structural changes to Chinese society. Exploring some aspect of these changes in a place or a particular moment and its longer legacy and consequences could be interesting.
-* Sources from this period include a large number of primary sources in English from travellers to China, missionaries, and those with economic ties. These sources have their limitations but they may also yield interesting new perspectives.
-
-**Films of Interest:**
-
-* Raise the Red Lantern (大红灯笼高高挂 1991) - set in 1920s but captures the insularity of the domestic experience for many 
-* Fairwell My Concubine (霸王别姬 1993) - also 20th century but again, captures the breadth of transformations
-* To Live (活着 1994) - a third movie that gives a full sweep
-
-\newpage
-
-## Week 3 - Rebellions as History, Myth, and Inspiration
-
-**Preparation:**
-
-* In addition to the main readings choose one of the following large political upheavals and be prepared to say something about its particular characteristics, causes, longer legacy: Boxer Rebellion (1899-1900), Taiping Rebellion (1850-1864), Nian Rebellion (1852-1868), Panthay Rebellion (1856-1873), the Eight Trigrams Uprising (1813) or White Lotus Rebellion (1796-1804)
-* Review the pronunciation and romanisation section of this handbook, and visit a website or online video or two to practice some of the main sounds for Chinese. This can help you pronounce names and places throughout the course with greater confidence.
-* The reading for this week is especially light. Take advantage of this time to complete your first long essay
-* X: [Rise of Hong Xiuquan](https://www.youtube.com/watch?v=skbTJcnumEA)
-* X: [Taiping: Age of Great Peace](https://www.youtube.com/watch?v=hHGxR16iem8)
-* X: [Fall of the Heavenly Kingdom](https://www.youtube.com/watch?v=3CogSb2NHv8)
-* X: [Western Missionary Movement](https://www.youtube.com/watch?v=nmXYStL2pFA)
-* X: [Boxers and Qing Response](https://www.youtube.com/watch?v=wWBCwYI4Aaw)
-
-**Reading (~150):**
-
-* Perry, Rebels and Revolutionaries 10-80 (Ch 2-3 Environment & Survival)
-* Cohen, History in Three Keys 14-56, 59-68, 211-222, 289-297
-* SOURCES, 213-230 (Ch 29 Heavenly Kingdom of the Taipings)
-
-**Further Reading:**
-
-* Perry, Rebels and Revolutionaries (rest of book)
-* Cambridge History of China v10, 264-317 (Ch 6)
-* Cambridge History of China v10, 409-490 (Ch 9)
-* Esherick, Origins of the Boxer Rebellion
-* Michael, The Taiping Rebellion: History and Documents
-* Perdue, Exhausting the Earth: State and Peasant in Hunan, 1500-1850
-* Spence, Death of Woman Wang
-* Kuhn, Rebellion and its Enemies in Late Imperial China
-* Bays, Christianity in China: From the Eighteenth Century to the Present
-* Wakeman, Strangers at the Gate: Social Disorder in South China
-* Naquin, "The Transmission of White Lotus Sectarianism"
-* Tai Hsüan-chih, The Red Spears, 1916-1949
-* Huang, The Peasant Economy and Social Change in Northern China
-
-**Overview:**
-
-* Task: Map quiz, we'll do it again!
-* Discuss: Will examine the primary sources closely and then discuss Cohen and Perry readings
-* Reviewing formation of analytical arguments for essays
-* Check in with everyone on progress forming a topic for long essay
-
-**Questions:**
-
-1. In what ways did environmental factors, and their man-made contributing aspects impact the rebellions of the late Qing?
-2. If the rebellions of the late Qing have provided powerful material for 20th century revolutionary movements, what aspects of them are less useful? That is, what process of forgetting might be required?
-
-**Long Essay Ideas:**
-
-* Notice that neither of the past two weeks have included much of anything on the Opium Wars. In any standard narrative of modern China that war plays a very powerful role in the narrative and for some, the founding event of modern Chinese history. Like the Boxer and Taiping Rebellions it is also a moment that is looked back upon again and again in later periods for inspiration and for its key role in the rise of anti-imperialist and later nationalist ideas in China. Students are welcome to focus in on some aspect of the Opium Wars for their long essay.
-* The rebellions of the 19th century and the later histories and myths of these rebellions are rich ground for exploration. For those who cannot read Chinese, there are also many primary sources with outsider perspectives on some of these events that may suggest interesting ways to approach these periods.
-* The political and economic tumult of this period is also interesting material for comparative long essays that look at connections and contrasts between the great rebellions, for example, and those found elsewhere in the world.
-
-**Films of Interest:**
-
-* 55 Days at Peking (1963) - How are the Chinese portrayed in this film?
-* Boxer Rebellion (八國聯軍 8-allied countries, 1975) - Kung Fu movie and almost inverted version of 55 Days at Peking
-* Warlords (投名狀 2007) - Action movie set during Taiping Rebellion but has little to do with it
-
-\newpage 
-
-## Week 4 - What Sort of Revolution destroyed the Qing Dynasty in 1911?
-
-**Preparation:**
-
-* The reading for this week is again light. Do some more preliminary research on your potential long essay topic as the first short essay is due soon. What kinds of primary sources are out there for your area of interest (unless you are doing a historiographical essay) in languages you can work with? What kinds of historical scholarship has been done? 
-* Come to class with a well-formed idea for your long essay and your first short essay if it was a prospectus so we can share ideas with each other and get feedback. 
-* X [Resistance of Reform](https://www.youtube.com/watch?v=SZl3vXOXya0)
-* X [Reform](https://www.youtube.com/watch?v=CT9Fl7IoRYA)
-* X [End of Empire](https://www.youtube.com/watch?v=mbiF6ZATBOY)
-* X [What is Republicanism?](https://www.youtube.com/watch?v=mbiF6ZATBOY)
-* X [Regional Militarisation](https://www.youtube.com/watch?v=SKbQ8zyYUAk)
-* X [Yuan Shikai](https://www.youtube.com/watch?v=TOTNFaUnxDY)
-* X [Warlordism](https://www.youtube.com/watch?v=xRb9wX77TeI)
-
-**Reading (~170):**
-
-* SOURCES, 260-272 (Kang Youwei), 287-299 (Liang Qichao),  308-313 (Zhang Binglin), 314-329 (Sun Yat-sen)
+* SOURCES, Ch 32: Hu Hanmin, Sun Yat-sen; Ch 33: The New Culture Movement - Read 3 of these texts
 * Zhang, General Review of the Study of the Revolution of 1911, 525-531
 * Mitter, 1911: The Unanchored Chinese Revolution, 1009-1020
-* Harrison, China: Inventing the Nation, 132-149 (Ch 5 Ethnicity and Modernity)
-* Ono, Chinese Women in a Century of Revolution, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution)
-* Hill, Voting as Rite, 149-219 (Ch 3 Voting in a New Republic 1912-13)
+* Mitter, A Bitter Revolution, 3-40, 102-152 (Ch 1, 4)
+* Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
+* Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
 
 **Further Reading:**
 
+* Hill, Voting as Rite, 149-219 (Ch 3 Voting in a New Republic 1912-13)
 * Cambridge History of China v11, 463-534 (Ch 9 Republican Revolutionary Movement)
 * Esherick, Reform and Revolution in China: the 1911 Revolution in Hunan and Hubei
 * Rankin, Early Chinese Revolutionaries
-
-**Overview:**
-
-* Long essay topics and discussion on them.
-* Discussion on essay types, historiographical, primary source driven
-* Discussing the balance between narration and analysis in writing argumentative historical essays
-* Focus of discussion will be on late Qing reformers, and visions of what it meant to be "Chinese" and the emergence of a modern Chinese nation and identity.
-
-**Questions:**
-
-1. In what sense was 1911 a revolution? Or, if you prefer, why does it not deserve the name?
-2. In what way do visions of what a post-Qing republic by intellectuals differ from the Nationalist and Communist political orders to come?
-3. What kind of legacies did the revolution have and what lost opportunities were there?
-
-**Long Essay Topics:**
-
-* As we have seen, this period is filed with rich discussions about what China was to become. There are also a significant number of translated texts on the vibrant intellectual life in the late Qing Dynasty, as well as English language primary sources on the turbulent period from period of the early republic. Long essays that focus in on one of these visions of what China should become, the perspectives of one Chinese intellectual, or what hopes and fears outside observers had for what China was to become are possible topics. 
-* 1911 gave rise to a deeply chaotic period during which it is even harder than usual to generalise about changes across China. Consider exploring this early post-1911 period or the "warlord period" more broadly at the regional level.
-* Japan, individual Japanese figures, and Chinese in Japan played an important role in the late Qing period, during the 1911 revolution and in the aftermath. There are many aspects of this relationship which are worth examining more closely.
-
-**Films of Interest:**
-
-* 1911 (2011) - An pretty awful movie with Jackie Chan
-* Xinhai Revolution (辛亥革命 - 2011) - Chinese TV miniseries on the revolution in 41 parts.
-* The Soong Sisters (宋家皇朝 1997)
-
-\newpage
-
-## Week 5 - The Many Movements of May Fourth, 1919
-
-**Preparation:**
-
-* The reading is again light this week to allow you the time to work on the second essay as well as continue your exploratory research for you long essay. Please make use of this time as reading loads will increase in the weeks ahead.
-* Have a look at these posters from post-1949: [May 4 Posters Landsberger Collection](http://chineseposters.net/themes/may-fourth-movement.php)
-* X [China and Culture](https://www.youtube.com/watch?v=ZxNgF95wKh0)
-* X [May Fourth Movement](https://www.youtube.com/watch?v=9UWfpaLAPaY)
-* X [Chen Duxiu and New Youth](https://www.youtube.com/watch?v=C8-Av-XGob4)
-* X [Bai Hua](https://www.youtube.com/watch?v=RabetsH7vPE)
-* X [Period of Orthodoxy 1921-1927](https://www.youtube.com/watch?v=j4vzdFxQVtE)
-* X [Period of Experimentation 1927-1935](https://www.youtube.com/watch?v=3i4ISeCJ0y4)
-* X [Report of an Investigation into the Peasant Movement in Hunan](https://www.youtube.com/watch?v=ute-UxnZh4g)
-
-**Reading (~150):**
-
-* SOURCES, 351-395 (Ch 33 The New Culture Movement)
-* Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
-* Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
 * Mao, [Oppose Stereotyped Party Writing](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_07.htm) - Only the first few paragraphs which refer to May 4th. Note that this takes place in the midst of the 1942 "Rectification Movement"
-
-* Mitter, A Bitter Revolution, review 3-40, 102-152 (Ch 1, 4)
-
-**Further Reading:**
-
 * Mitter, Bitter Revolution - rest of book
 * Spence, Gate of Heavenly Peace
 * Chow, The May Fourth Movement
@@ -262,45 +88,57 @@
 
 **Overview:**
 
-* Our discussion will be divided between a concentrated look at the primary sources from the New Culture Movement and thinking about how May 4th continues to be something that is repeatedly looked back to in a way that 1911 is not.
+* Our discussion will be divided between a concentrated look at the primary sources from the New Culture Movement and discussing that the revolutions of 1911, and some would say the 'revolution' of the May 4th movement may have contributed to the longer narrative of modern Chinese history
+* Long essay topics and discussion on them.
+* Discussion on essay types, historiographical, primary source driven
+* Discussing the balance between narration and analysis in writing argumentative historical essays
 
-**Long Essay Ideas:**
+**Questions:**
 
+1. In what sense was 1911 a revolution? Or, if you prefer, why does it not deserve the name?
+2. What kind of legacies did the revolution have and what lost opportunities were there?
+3. What are the longer term legacies of the May fourth movement?
+4. What are the ways that culture and politics are intertwined in this period?
+
+**Long Essay Topics:**
+
+* 1911 gave rise to a deeply chaotic period during which it is even harder than usual to generalise about changes across China. Consider exploring this early post-1911 period or the "warlord period" more broadly at the regional level.
+* Japan, individual Japanese figures, and Chinese in Japan played an important role in the late Qing period, during the 1911 revolution and in the aftermath. There are many aspects of this relationship which are worth examining more closely.
 * The new culture movement is an exciting transformative period. In addition to the many new debates being carried out among youth and students within Japan there are many Chinese increasingly active abroad. Focusing in on some aspect of the internationally based Chinese can be an interesting focus for an essay.
 * This period overlaps with intense competition among various Western powers and Japan for control in China which will intensify anti-imperialism around China
 * This is the period of the formation of the Communist Party in China and a period of far greater diversity of ideas and vision both within the party and among revolutionaries of various kinds. Focusing in on some aspect of this for a long essay can make use of a rich secondary literature and availability of translations of early Communist leaders.
 * There are lots of interesting comparisons to be made between the May 4th Movement and movements elsewhere. The work of Erez Manela on the "Wilsonian Moment" can give you some ideas both for this week, and broader ideas for transnational long essays throughout the essay.
 
-**Questions:**
-
-1. What are the longer term legacies of the May fourth movement?
-2. What are the ways that culture and politics are intertwined in this period?
-3. We read three works by Mao Zedong from the same month in 1939 on May 4th. How do these texts differ in terms of how Mao is deploying a revolutionary movement of 1919?
-
 **Films of Interest:**
 
+* 1911 (2011) - An pretty awful movie with Jackie Chan
+* Xinhai Revolution (辛亥革命 - 2011) - Chinese TV miniseries on the revolution in 41 parts.
+* The Soong Sisters (宋家皇朝 1997)
 * My Early Days in France (我的法兰西岁月 2012)
 * My 1919 (我的1919 1999)
 * Epoch-Making（开天辟地 2011)
 
 \newpage
 
-## Week 6 - Building Revolution and the War with Japan, 1931-1945
+## Week 2 - Building Revolution and the War with Japan, 1931-1945
 
 **Preparation:**
 
-* Begin work on your second short essay. Time management is important this week and next especially.
-* Refine your long essay topic and progress with your reading for it. 
-* The reading is quite heavy this week. Try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
-* X [The Long March](https://www.youtube.com/watch?v=NbeZNdnlfc0)
-* X [Yan'an](https://www.youtube.com/watch?v=j7ZRA4I61ME)
-* X [Introduction](https://www.youtube.com/watch?v=6E0REcJ4bX8)
-* X [Economic and Social Consequences](https://www.youtube.com/watch?v=vmtZseZV7gM)
-* X [Postwar Dilemmas](https://www.youtube.com/watch?v=svvtv6oJDCg)
+* Refine your long essay topics and evaluate them for feasibility of sources and interesting possible approaches
+* The reading is again quite heavy this week. Try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
+* Watch the following ChinaX videos:
+    * X [Period of Orthodoxy 1921-1927](https://www.youtube.com/watch?v=j4vzdFxQVtE)
+    * X [Period of Experimentation 1927-1935](https://www.youtube.com/watch?v=3i4ISeCJ0y4)
+    * X [Report of an Investigation into the Peasant Movement in Hunan](https://www.youtube.com/watch?v=ute-UxnZh4g)
+    * X [The Long March](https://www.youtube.com/watch?v=NbeZNdnlfc0)
+    * X [Yan'an](https://www.youtube.com/watch?v=j7ZRA4I61ME)
+    * X [Introduction](https://www.youtube.com/watch?v=6E0REcJ4bX8)
+    * X [Economic and Social Consequences](https://www.youtube.com/watch?v=vmtZseZV7gM)
+    * X [Postwar Dilemmas](https://www.youtube.com/watch?v=svvtv6oJDCg)
 
-**Reading (~230):**
+**Reading:**
 
-* SOURCES, 396-450 (Ch 34-35 Communist Revolution, Communist Praxis)
+* SOURCES, 396-450 Ch 34-35 Communist Revolution, Communist Praxis
 
 * Read all but two of the following introductions to these works. Then choose one of them, based on what you found interesting, and read a bit more in depth (1-3 chapters) in one of these texts and be ready to talk about it in class. Consider sharing your notes from your in depth reading on our collaborative notes document:
     * Zarrow, China in War and Revolution, 271-288, 295-303 (Ch 14, part of Ch 15)
@@ -322,12 +160,11 @@
 **Overview:**
 
 * A brief check-in with all of you on how your long essay research is progresing, giving you a chance to share discoveries
-* We will focus in on debates over what impact the war had for the prospects of the Communist Party. 
+* We will focus in on debates over what impact the war had for the prospects of the Communist Party.
 
 **Questions:**
 
 1. In the debates over the relevance of the second Sino-Japanese war on the rise of the Communist party, evaluate the claims of two historians whose arguments can be said to significantly contradict one another.
-
 2. What is one way that regional differences matter in discussing the impact of the second Sino-Japanese war on the rise of the Communist party during this period?
 
 **Long Essay Ideas:**
@@ -350,14 +187,14 @@
 * Feng Shui (风水 2011)
 * The Message (风声 2009)
 
-
 \newpage
 
-## Week 7 - Great Leaps Forward: Violence and Reform 1942-1961
+## Week 3 - Great Leaps Forward: Violence and Reform 1942-1961
 
 **Preparation:**
 
-* This is a heavy reading week but you also have your short essay coming due. Please make enough time to get through it.
+* This is also a heavy reading week but the Dikötter reading is narrative, rather than heavy analytical material so should be a smooth read. 
+* You also have your short essay coming due. Please make enough time to get through it.
 * Clips on the Hundred Flowers Movement and repression that followed:
     * X: [Hundred Flowers Movement](https://www.youtube.com/watch?v=jv2qHZQtdPA)
     * X: [Scholars and Emperors](https://www.youtube.com/watch?v=9FzMH4xWFlU)
@@ -367,7 +204,7 @@
     * X: [Three Scourges](https://www.youtube.com/watch?v=00cGU2M5KiI)
     * X: [End of 100 Flowers](https://www.youtube.com/watch?v=Nlvt9zbrbzo)
 
-**Reading (~250):**
+**Reading:**
 
 * Seybolt, "Terror and Conformity: Counterespionage Campaigns, Rectification, and Mass Movements, 1942-1943"
 * Dikötter, Tragedy of Liberation, 39-62, 84-102, 155-174, 243-254, 257-274 (Ch 3, 5, 8, 12, 13)
@@ -402,26 +239,21 @@
 
 \newpage
 
-## Spring Vacation
-
-* Please relax and enjoy your spring vacation!
-
-## Week 8 - The Cultural Revolution
+## Week 4 - The Cultural Revolution
 
 **Preparation:**
 
-* The reading is deliberately very light this week to allow you to continue your work on your long essay. Don't miss this opportunity to make progress. 
-* Watch Morning Sun (2003) - 2 Hour Documentary by Carma Hinton. It is available in the library reference area. Consider scheduling a time to watch it together with 2-3 classmates. The fact the DVD was in use the day before class is not an appropriate excuse for not having watched the documentary. Plan ahead. Take notes and be ready to discuss the documentary.
+* The reading is deliberately very light this week to allow you to focus more of your work on your long essay. Don't miss this opportunity to make progress. 
+* Watch *Morning Sun* (2003) - 2 Hour Documentary by Carma Hinton. It is available in the library reference area. Consider scheduling a time to watch it together with 2-3 classmates. The fact the DVD was in use the day before class is not an appropriate excuse for not having watched the documentary. Plan ahead. Take notes and be ready to discuss the documentary.
 
 * MacFarquhar on CR:
     * X: [Setting the Stage](https://www.youtube.com/watch?v=aOh2QW6diA4)
     * X: [Bombard the Headquarters](https://www.youtube.com/watch?v=c8OHSd4sWH8)
 
-**Reading (~100):**
+**Reading:**
 
 * SOURCES 471-482 (in Ch 36 Cultural Revolution)
 * Mitter, Bitter Revolution 200-243
-* Cohen, History in Three Keys 261-288
 
 **Further Reading:**
 
@@ -459,14 +291,85 @@
 
 \newpage
 
-## Week 9 - Mao's Revolution in a Global Context
+## Week 5 - From Reform to “Six Four”: Tiananmen
 
 **Preparation:**
 
-* Please continue your work on the Long Essay. Again our reading is relatively light this week so make your big push this week. The reading is not light next week so this is the week to get that first draft done!
+* It is important that you watch the long documentary on Tiananmen entitled, *Gate of Heavenly Peace* by Richard Gordon and Carma Hinton. Note, that this is over 3 hours long but a great deal of importance happens towards the end. Consider dividing it into two viewings, but please watch the whole documentary. As with Morning Sun, this documentary is available in the library in the reference area and again consider watching it in groups. 
+* ChinaX clips to watch:
+    * X: [Ezra Vogel: Deng's Background](https://www.youtube.com/watch?v=-v_55FkaVDU)
+    * X: [Deng's Plans for Modernization After Cultural Revolution](https://www.youtube.com/watch?v=OhFgBqXOgHY)
+    * X: [Reform and Opening Under Deng](https://www.youtube.com/watch?v=9W-uC4ATuv0)
+    * X: [Political Deng: The Democracy Wall and Tiananmen Protests](https://www.youtube.com/watch?v=EZLKyifgw9A)
+    * X: [Deng's Legacy](https://www.youtube.com/watch?v=EEULoquPCHM)
+    * X: [Elizabeth Perry: Social Movement in China](https://www.youtube.com/watch?v=tXW-SgVEku0)
+    * X: [Social Movements II](https://www.youtube.com/watch?v=yahKFC2UY9w)
+    * X: [Legacy of Mao](https://www.youtube.com/watch?v=T1lX_s2WsK0)
+
+**Reading:**
+
+* SOURCES, 496-527 (in Ch 37)
+* Esherick and Wasserstrom, Acting Out Democracy, 835-860
+* Hung, Tiananmen Square: A Political History of Monuments, 84-117
+* Zhao, The Power of Tiananmen, 1-35, 53-78, 79-99, 101-121, 124-141 (Intro, Ch 2-5)
+
+**Further Reading:**
+
+* Lim, The People's Republic of Amnesia
+* Schell, The Tiananmen Papers
+* Wasserstrom, Popular Protest and Political Culture in Modern China
+* Oksenberg,  Beijing Spring, 1989: Confrontation and Conflict: The Basic Documents
+* Nathan, Chinese Democracy
+* Vogel, Deng Xiaoping and the Transformation of China
+
+**Overview:**
+
+* Today we conclude the chronological half of the course with a consideration of a critical turning point in Chinese history, a moment when China shifted from a period of general opening and reform, to one which sacrificed any serious political reform in exchange for stability and economic development. 
+* We will divide the discussion into two parts: First trying to understand the protests themselves, and then considering them in the much longer history of youth, politics, and mass movements in the history of Chinese revolutions. Then we will shift to thinking about the legacies of the massacre, and how it plays a crucial role in engagement with China today.
+
+**Questions:**
+
+1. How does *The Gate of Heavenly Peace* help transform the way we think about the Tiananmen protests? About mass protest movements in general?
+2. The Chinese government, and many Chinese will claim that the blood of Tiananmen was a price to pay in order to avert political chaos that would have resulted in far more violence. What logic and assumptions are at work here? What happens when we generalise these claims to other places and times? 
+
+## Week 6 - Independent Reading Week
+
+This week is critical for you to make progress on the research and writing of your long essay and everyone should have begun writing. Please bring what you have written to so far to our next meeting to share with fellow students, even if these are incomplete chunks. Keep in mind your second prospectus or critical review is due after this week.
+
+If you have fallen behind on the reading or your notes on the readings, also use this time to catch up.
+
+## Week 7 - Revolution, Nation, and Ethnicity
+
+**Preparation:**
+
+* Bring a printed version of your second prospectus if you wrote one instead of a critical review, and whatever you have written so far on your long essay.
+* Please open the [ChinaMap](https://worldmap.harvard.edu/chinamap/) at WorldMap Harvard, and browse its "Minorities and Languages" sections, especially the "Language Regions" and "Language Atlas" layers 
+
+**Reading:**
+
+* SOURCES, 260-272 (Kang Youwei), 287-299 (Liang Qichao),  308-313 (Zhang Binglin)
+* Harrison, China: Inventing the Nation, 132-149 (Ch 5 Ethnicity and Modernity)
+* Fogel, Race and Class in Chinese Historiography [Jstor](http://www.jstor.org/stable/188935)
+* Esherick et al, Empire to Nation, "How the Qing Became China" 229-259
+* Mullaney, Coming to Terms with the Nation, 1-5, Ch 1 18-41
+
+**Further Reading:**
+
+* Liu, Frontier Passages: Ethnopolitics and the Rise of Chinese Communism, 1921-1945
+* Rhoads, Manchus & Han: Ethnic Relations and Political Power in Late Qing and Early Republican China 1861-1928
+
+**Overview:**
+
+* Our discussion will center on the primary sources and talk more broadly about the powerful ethnic dimension to Chinese nationalism, and Chinese nationalism's relationship to its revolutions
+
+## Week 8 - Mao's Revolution in a Global Context
+
+**Preparation:**
+
+* Please continue your work on the Long Essay. Our reading is relatively light this week for the last time so make your big push this week. The reading is not light next week so this is the week to get that first draft done!
 * Choose 2-3 quotations from Mao's red book that we have assigned this week and be ready to say something about what you think is telling about the quote, problematic, or ironic
 
-**Reading (~190):**
+**Reading:**
 
 * Charu Mazumadar, [Take this Opportunity](http://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
 * Elbaum, [Maoism in the United States](https://www.marxists.org/history/erol/ncm-1/maoism-us.htm)
@@ -506,85 +409,90 @@
 
 \newpage
 
-## Week 10 - Revolution, Culture, and Environment
+## Week 9 - Gender and the Family
 
 **Preparation:**
 
-* Your long essay is due Monday next week. Please finish this off and don't leave it to the last minute!
+* Your long essay should really be coming along now, unless you have had to shift gears during the semester. Please try to have something written by this point. Some students will like to be working with a full draft at this point and then looking for areas in the essay that are weak. 
+* If you are doing well on the long essay front, this might be a time to consider the state of your notes and consider start meeting with some of your fellow classmates to collect your notes and study together for the final examination.
 
-**Reading (~230):**
+**Reading:**
 
-* Shapiro, Mao's War Against Nature, 1-20, 67-93, 195-216
-* Mittler, Continuous Revolution, 139-188, 267-330 
+* Ono, Chinese Women in a Century of Revolution, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution)
+* Birth of Chinese Feminism, p8-26, 53-71 "On the Question of Women's Liberation"
+* Glosser, Chinese Visions of Family and State, p27-80 Ch 1 Saving Self and Nation
+* Ko, Cinderella's Sisters, 1-8 Introduction, 38-68 Ch 2 The Body Inside Out
+* Hershatter, Gender of Memory, Ch 1-2, p96-128, Ch 5, p186-191
+* Note: If you are interested more in the post-'49 period, you can skip Ono and Glosser, if you are more interested in pre-'49 period, you can just read Ch 1-2 of Hershatter
+
+**Further Reading:**
+
+* Finish Cinderella's Sisters
+* Finish Hershatter, Gender of Memory
+* Hershatter, Dangerous Pleasures: Prostitution and Modernity in Twentieth-Century Shanghai
+* Susan L. Mann, Gender and Sexuality in Modern Chinese History
 * Jacka, Woman-work: Women and the Party in Revolutionary China, 70-114, 191-197 (Ch 3, Conclusion)
+* Emily Honig, “Socialist Sex: The Cultural Revolution Revisited.”
+
+**Overview:**
+
+* This week tries to do two things at once: examine the role of women specifically in the revolution, but more generally, to consider the way that the revolution was itself gendered or, tried to portray itself in de-gendered ways.
+
+\newpage
+
+## Week 10 - Culture and Memory
+
+**Preparation:**
+
+* Your long essay is due next week. Please finish this off and don't leave it to the last minute!
+* ChinaX clip to watch: 
+    * X: [Boxers and Qing Response](https://www.youtube.com/watch?v=wWBCwYI4Aaw)
+
+**Reading:**
+
+* Cohen, History in Three Keys 14-56, 59-68, 211-222, 238-260, 261-297
+* Mittler, Continuous Revolution, Ch 3 139-188 Destroying the Old, Ch 5 267-304 Art of Repetition
+* Lim, The People's Republic of Amnesia, 1-7 Introduction, 7-31 Soldier, 133-157 Patriot, 157-182 Official, 182-206 Chengdu
+
+**Further Reading:**
+
+* Mittler, Continuous Revolution - Complete the book
+* Lim, People's Republic of Amnesia - Complete the book
+
+**Overview:**
+
+* We'll split our time between Cohen, moving back to the Boxer Rebellion and how it was deployed in later times, Mittler, which attempts to think more explicitly about the role of culture in Mao's revolution, and Lim, which is more on forgetting than on remembering.
+
+\newpage
+
+## Week 11 - Science, Technology, and the Environment
+
+**Preparation:**
+
+* Bring to class any questions you have about the final exam, or the coverage of the module. 
+* Come prepared to reflect a bit on the long essay writing process: what worked and what didn't. How can you take these lessons into the spring and, for some of you, the fourth year?
+
+**Reading:**
+
+* Shapiro, Mao's War Against Nature, Introduction 1-20, Ch 2 67-93, Ch 5 195-216
+* Schmalzer, People's Peking Man, 97-111, 155-168 [Ebook](http://chicago.universitypressscholarship.com/view/10.7208/chicago/9780226738611.001.0001/upso-9780226738598)
+* Schmalzer, Red Revolution, Green Revolution, 201-205
+* Greenhalgh, Just One Child, 316-327
+* Fang, Barefoot Doctors and Western Medicine, 20-41, Ch 7 Conclusion
+* Choose one from among Greenhalgh, Schmalzer's two books, or Fang and read another chapter or two
 
 **Further Reading:**
 
 * Shapiro, Mao's War Against Nature - complete the book
-* Emily Honig, “Socialist Sex: The Cultural Revolution Revisited.”
-* Mittler, Continuous Revolution - Complete the book
-* Rogaski, Hygienic Modernity
-* Hershatter, The Gender of Memory
+* Rogaski, Hygienic Modernity - Ch 10
 
 **Overview:**
 
-* We will begin with everyone sharing a few thoughts on their experience of the long essay research and writing they did during the semester. What worked, what didn't, and are there discoveries or lessons to share with your classmates?
-* Today we attempt to expose some of the problems of doing a module such as this with its central focus on "revolutions" rather than a national narrative, or indeed, other themes such as environment, culture, and gender. 
+* We'll spend a bit of time talking about the final exam
+* Using our readings for today we'll talk about the relationship between revolution, science and the environment. 
 
 **Questions:**
 
-1. How does a straightforward historical narrative of the Chinese revolution make it difficult to confront the history of gender or environment in a Chinese context?
-
-2. Why does revolutionary culture matter in studying the Cultural Revolution?
-
-**Films of Interest:**
-
-* again Farewell my Concubine
-* The Warriors of Qiugang - documentary
-* Still Life (三峡好人 2006) 
-
-
-\newpage
-
-## Week 11 - “Six Four”: Tiananmen
-
-**Preparation:**
-
-* If you fell behind on the reading last week, please revisit last week's reading and get caught up. 
-* It is important that you watch the long documentary on Tian'anmen entitled, Gate of Heavenly Peace by Richard Gordon and Carma Hinton. Note, that this is over 3 hours long but a great deal of importance happens towards the end. Consider dividing it into two viewings, but please watch the whole documentary. As with Morning Sun, this documentary is available in the library in the reference area and again consider watching it in groups. 
-
-* X: [Ezra Vogel: Deng's Background](https://www.youtube.com/watch?v=-v_55FkaVDU)
-* X: [Deng's Plans for Modernization After Cultural Revolution](https://www.youtube.com/watch?v=OhFgBqXOgHY)
-* X: [Reform and Opening Under Deng](https://www.youtube.com/watch?v=9W-uC4ATuv0)
-* X: [Political Deng: The Democracy Wall and Tiananmen Protests](https://www.youtube.com/watch?v=EZLKyifgw9A)
-* X: [Deng's Legacy](https://www.youtube.com/watch?v=EEULoquPCHM)
-* X: [Elizabeth Perry: Social Movement in China](https://www.youtube.com/watch?v=tXW-SgVEku0)
-* X: [Social Movements II](https://www.youtube.com/watch?v=yahKFC2UY9w)
-* X: [Legacy of Mao](https://www.youtube.com/watch?v=T1lX_s2WsK0)
-
-**Reading (~240):**
-
-* SOURCES, 496-527 (in Ch 37)
-* Esherick and Wasserstrom, Acting Out Democracy, 835-860
-* Hung, Tiananmen Square: A Political History of Monuments, 84-117
-* Zhao, The Power of Tiananmen, 1-35, 53-78, 79-99, 101-121, 124-141 (Intro, Ch 2-5)
-
-**Further Reading:**
-
-* Lim, The People's Republic of Amnesia
-* Schell, The Tiananmen Papers
-* Wasserstrom, Popular Protest and Political Culture in Modern China
-* Oksenberg,  Beijing Spring, 1989: Confrontation and Conflict: The Basic Documents
-* Nathan, Chinese Democracy
-* Vogel, Deng Xiaoping and the Transformation of China
-
-**Overview:**
-
-* Today we conclude the course with a consideration of a critical turning point in Chinese history, a moment when China shifted from a period of general opening and reform, to one which sacrificed any serious political reform in exchange for stability and economic development. 
-* We will divide the discussion into two parts: First trying to understand the protests themselves, and then considering them in the much longer history of youth, politics, and mass movements in the history of Chinese revolutions. Then we will shift to thinking about the legacies of the massacre, and how it plays a crucial role in engagement with China today.
-
-**Questions:**
-
-1. How does "The Gate of Heavenly Peace" help transform the way we think about the Tian'anmen protests? About mass protest movements in general?
-2. The Chinese government, and many Chinese will claim that the blood of Tian'anmen was a price to pay in order to avert political chaos that would have resulted in far more violence. What logic and assumptions are at work here? What happens when we generalise these claims to other places and times? 
+1. In what ways was this a fairly unmitigated disastrous relationship between revolution and science and the environment? 
+2. In what ways have some scholars pushed back on this and suggested alternative perspectives?
 

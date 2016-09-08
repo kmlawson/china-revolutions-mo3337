@@ -31,7 +31,7 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 ### Short Essays
 
-There are two short essays for this course which should be between 500-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
+There are two short essays for this course which should be between 600-800 words in length, including any footnotes. They are designed to help you in preparation for your longer essay and may take one of two forms:
 
 1. **Prospectus:** You may write a short essay that summarises the argument you plan to make in the coming long essay, or are exploring at the moment for your longer essay, but also says something about the sources you will use and approach you will take. Look to article, dissertation, and book abstracts as the model for this assignment. This is an excellent opportunity to test some early ideas you have, or give me an indication of where you are going with your thinking. Due to the very short nature of this assignment, state your topic broadly, then write in a bit more detail about one or two specific examples of what you will be arguing in greater depth in your long essay to come or discuss how you will use certain sources, or what new approach you will take. This exercise can be very helpful to you in processing your thinking about the long essay, and giving me an opportunity to offer feedback along the way.
 
@@ -51,8 +51,6 @@ Questions to consider as you write the short essay:
 * If I am writing a prospectus, did I include a specific example or two illustrating the argument I will be making in the long essay to come?
 * If I am writing a second prospectus, have I either shifted my focus or made significant and substantive revisions and improvements on the first prospectus? If not, have I used the second prospectus to expand on discussing my sources, my approach, or the context for my argument historiographically?
 
-\pagebreak
-
 ### Long Essay
 
 The essay for the course is worth 50% of the total coursework and has a limit of 5,000 words including footnotes. The process of composing an essay of this length is made far easier if you make steady progress throughout the semester rather than face potential panic and disappointment nearer the deadline. Narrow down an area of interest, read within this area of interest, isolate a few questions of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
@@ -69,11 +67,11 @@ The historical argument in your long essays, in particular, should be clearly an
 
 For example replace:
 
-In this essay, I will explore the relationship between the alarm clock sleep function and our productivity in modern life.
+*In this essay, I will explore the relationship between the alarm clock sleep function and our productivity in modern life.*
 
 with something like:
 
-I will argue that the alarm clock sleep function is a major hindrance to our productivity without contributing at all to our rest after a night of sleep. I will base this upon the studies of Hansen and Jenson in 1983 and in a series of interviews with wise old people in 2014. This argument is important because, as I will show, evidence shows that the increased availability of time in the morning to eat a healthier breakfast, carry out some light house chores, and do morning exercise, not only allows for greater evening rest after a long day of work, but decreases the tiredness we feel throughout the day.
+*I will argue that the alarm clock sleep function is a major hindrance to our productivity without contributing at all to our rest after a night of sleep. I will base this upon the studies of Hansen and Jenson in 1983 and in a series of interviews with wise old people in 2014. This argument is important because, as I will show, evidence shows that the increased availability of time in the morning to eat a healthier breakfast, carry out some light house chores, and do morning exercise, not only allows for greater evening rest after a long day of work, but decreases the tiredness we feel throughout the day.*
 
 **Sticking to your Argument:** All of us come across many interesting stories, anecdotes, and sub-points that we want to share in writing our essays. However, it is important to stay sharply focused on the argument you are going to make in the essay. After you have finished writing your essay, read it through and for each paragraph and sentence ask yourself if it supported your argument, provided essential background to establishing your argument, or else if it does not offer much of a contribution. If it doesn't, cut it ruthlessly from your essay to make room for better material.
 
@@ -147,25 +145,9 @@ Unless otherwise indicated, work will considered submitted by the date the docum
 
 If you are concerned that any given assignment was not correctly submitted to the MMS, you are free to email a copy of your submitted assignment, if you like. In the event an assignment was not correctly uploaded to the MMS for some reason, but an emailed copy was sent in time, that date of submission will be used, but a copy will still need to be submitted to the MMS thereafter.
 
-### Late Work
-
-This module follows the official School of History penalties for late work:
-
-http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
-
-### Word Limits
-
-Assessed work with word limits should be always submitted within those limits. Writing in a clear and concise manner, and being able to structure and execute an argument that may be shorter than you feel is required is a skill that is of great use in academic fields as well as the workplace beyond. Please do not go over the limit and force yourself to work within them as a practice that will be important for writing assignments in your future careers. 
-
-The official School of Histories penalties for short/long work are followed in this module:
-
-http://www.st-andrews.ac.uk/history/infoug/penalties%20for%20late%20work.html
-
 ### Feedback
 
 General feedback is provided directly on the mark sheet, which will be posted to the MMS within 10 weekdays (2 weeks). Additional feedback, especially for longer essays is sometimes available on an annotated copy of your submitted work, usually return via MMS. Occasionally, feedback is written on a paper copy of the assigned work, which will usually be returned after the mark has already been posted to MMS.
-
-\pagebreak
 
 ### Presentation
 
@@ -173,7 +155,7 @@ Being able to synthesise reading, and present ideas in class is a key skill. In 
 
 **Text Guide:** Each week, two students will serve in the role as a guide to one of the assigned or supplementary readings. Most students will get a chance to do this twice. Some weeks I will ask that certain texts be chosen, while for others, a choice will be given. The "text guide" does not give a formal presentation but may be called upon to answer questions about the text in some detail and to have a deeper familiarity with that particular reading. Also, although not assessed, please bring a handout no longer than a single piece of paper front and back (or emailing one to the tutor for distribution at least the day before class) which may include some general summary points, dates, terms, notes, or reference information about the text. Since there is no guarantee the student will be asked to comment on the text, this handout is also a good way to demonstrate your extra preparation. The guide should ideally have done at least a little bit of background research on the author and general context of the issue covered by the text, and generally serve as a "go-to" person when the discussion moves in the direction of the text. Sometimes, the text guide will be asked to summarize key arguments, offer a critique, or otherwise comment during class. Occasionally, the student's guidance will not be explicitly requested but their handout can serve to help everyone. Please email the handout to the tutor and copy/paste the handout into the class collaborative notes document. Bringing a paper copy for distribution would also be very welcome, especially if you completed the handout only minutes or hours before class. 
 
-**Assessed Long Presentation:** The assessed presentation should be 10 minutes in length and not a minute longer. The presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the text, and make 1-3 focused critiques or observations about the read material. It is not a detailed summary of the content: it should highlight the arguments, strengths and set the context. A supplementary handout (one piece of paper front and back at most) should be brought that includes some bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please bring copies of the handout to class but also add (or link) the handout text to the class collaborative notes document. When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. Slides are not needed for the presentation and not assessed, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
+**Assessed Presentation:** The assessed presentation should be 10 minutes in length and not a minute longer. The presentation should briefly summarise the main arguments, point out what was most interesting or useful as a takeaway from the text, and make 1-3 focused critiques or observations about the read material. It is not a detailed summary of the content: it should highlight the arguments, strengths and set the context. A supplementary handout (one piece of paper front and back at most) should be brought that includes some bullet points that may include arguments, interesting empirical examples, key quotes, any interesting sources used, or highlight key persons or dates. The bullet points should be complete sentences (describing an argument or concrete point), not merely short phrases representing vague topics in an outline form. Please bring copies of the handout to class but also add (or link) the handout text to the class collaborative notes document. When possible, excellent presentations will ideally connect what is read and presented to our other readings and the discussion of the day. Thus, it is very important that you do not focus on your assigned reading to the exclusion of other readings for that week. Connecting the reading to past readings and discussions in the module is also a very welcome. Outside research is not required. Slides are not needed for the presentation and not assessed, but the handout may include 1-2 images or a map if appropriate. Please note, when discussion questions have been provided in advance on a topic, the presentation need not provide any answer to these, though the presentation may raise points that are a relevant contribution to those questions.
 
 Feedback for presentations will be sent at two moments during semester, rather than on a rolling basis, once at the end of week five, and the second batch at the end of the semester.
 

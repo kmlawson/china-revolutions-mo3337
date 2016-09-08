@@ -8,7 +8,7 @@
 
 \begin{center}
 
-\textbf{"The More we Study, the Brighter our Hearts will Become"}   
+\textbf{The More we Study, the Brighter our Hearts will Become}   
 \\*Poster by Lin Longhua, 1964 - IISH Landsberger Collections
 
 \end{center}

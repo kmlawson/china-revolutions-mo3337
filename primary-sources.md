@@ -70,7 +70,7 @@ Below are a selection of potential starting points for primary sources relevant 
 * [Japanese Diet Proceedings Archive](http://kokkai.ndl.go.jp/) (Japanese)
 * [日本外交文書デジタルアーカイブ](http://www.mofa.go.jp/mofaj/annai/honsho/shiryo/archives/mokuji.html)
 * [帝国議会会議録](http://teikokugikai-i.ndl.go.jp/)
-* [조선왕조실록](http://sillok.history.go.kr/main/main.do)
+* [朝鮮王朝實錄](http://sillok.history.go.kr/main/main.do)
 * [Truman Library Documents on Decision to Drop the Atomic Bomb](http://www.trumanlibrary.org/whistlestop/study_collections/bomb/large/index.php)
 * [The Gazette (British Government newspaper)](https://www.thegazette.co.uk/)
 * [Digital South Asia Library](http://dsal.uchicago.edu/)
