@@ -2,7 +2,7 @@
 
 ## Seminars
 
-## Week 0 - Introduction: Revolution and Revolution
+## Week 0 - Introduction: Rebellion and Revolution
 
 **Preparation:**
 
