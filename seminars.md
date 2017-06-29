@@ -64,27 +64,37 @@
 
 **Reading:**
 
-* SOURCES, Ch 32: Hu Hanmin, Sun Yat-sen; Ch 33: The New Culture Movement - Read 3 of these texts
-* Zhang, General Review of the Study of the Revolution of 1911, 525-531
-* Mitter, 1911: The Unanchored Chinese Revolution, 1009-1020
-* Mitter, A Bitter Revolution, 3-40, 102-152 (Ch 1, 4)
+* SOURCES (32) 
+    * Ch 32: Hu Hanmin, "The Six Principles of the People's Report" (4) 
+    * Ch 32: Sun Yat-sen "The Three People's Principles" (11)
+    * Pieces by Hu Shi and Chen Duxiu:
+        * CDX: "The Way of Confucius and Modern Life" (3)
+        * HS: "A Preliminary Discussion of Literary Reform" (4)
+        * CDX: "On Literary Revolution" (1)
+        * HS: "Constructive Literary Revolution..." (2)
+        * CDX: "The True Meaning of Life" (1)
+        * HS: "Pragmatism" (2)
+        * HS: "Science and Philosophy of Life" (2)
+        * HS: "Our Attitude Toward Modern Western Civilization" (1)
+        * HS: "Criticism of the 'Declaration for Cultural Construction on a Chinese Basis" (1)
+* Zhang, "General Review of the Study of the Revolution of 1911" 525-531
+* Mitter, "1911: The Unanchored Chinese Revolution" 1009-1020
+* Mitter, *A Bitter Revolution*, 3-40, 102-152 (Ch 1, 4)
 * Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
 * Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
 
 **Further Reading:**
 
-* Hill, Voting as Rite, 149-219 (Ch 3 Voting in a New Republic 1912-13)
+* Hill, *Voting as Rite*, 149-219 (Ch 3 Voting in a New Republic 1912-13) (P)
 * Cambridge History of China v11, 463-534 (Ch 9 Republican Revolutionary Movement)
-* Esherick, Reform and Revolution in China: the 1911 Revolution in Hunan and Hubei
-* Rankin, Early Chinese Revolutionaries
+* Esherick, *Reform and Revolution in China: the 1911 Revolution in Hunan and Hubei*
+* Rankin, *Early Chinese Revolutionaries*
 * Mao, [Oppose Stereotyped Party Writing](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_07.htm) - Only the first few paragraphs which refer to May 4th. Note that this takes place in the midst of the 1942 "Rectification Movement"
-* Mitter, Bitter Revolution - rest of book
-* Spence, Gate of Heavenly Peace
-* Chow, The May Fourth Movement
-* Smith, Like Cattle and Horses, 92-115 (Ch 5 The May Fourth Movement)
-* Grieder, Hu Shih and the Chinese Renaissance
-* Schwarcz, The Chinese Englightenment: Intellectuals and the Legacy of the May Fourth Movement
-* Wang, Women in the Chinese Enlightenment
+* Chow, *The May Fourth Movement* (P)
+* Smith, *Like Cattle and Horses*, 92-115 (Ch 5 The May Fourth Movement)
+* Grieder, *Hu Shih and the Chinese Renaissance* (P)
+* Schwarcz, *The Chinese Englightenment: Intellectuals and the Legacy of the May Fourth Movement* (P)
+* Wang, *Women in the Chinese Enlightenment*
 
 **Overview:**
 
@@ -139,7 +149,18 @@
 **Reading:**
 
 * SOURCES, 396-450 Ch 34-35 Communist Revolution, Communist Praxis
-
+    * Liu Shipei "Anarchist Revolution..."
+    * Mao "Report on an Investigation of the Hunan Peasant Movement"
+    * Mao "The Question of Land Redistribution"
+    * Mao "The Chinese Revolution and the Chinese Communist Party"
+    * Mao "The Mass Line"
+    * Mao "On New Democracy"
+    * Mao "The Dictatorship of the People's Democracy"
+    * Liu Shaoqi "How to Be A Good Communist"
+    * Mao "Rerport of the Propaganda Bureau of the Central Committee..."
+    * Liu Shaoqi "On Inner-Party Struggle"
+    * Mao "On Art and Literature"
+    * Ding Ling "Thoughts on March 8, 1942"
 * Read all but two of the following introductions to these works. Then choose one of them, based on what you found interesting, and read a bit more in depth (1-3 chapters) in one of these texts and be ready to talk about it in class. Consider sharing your notes from your in depth reading on our collaborative notes document:
     * Zarrow, China in War and Revolution, 271-288, 295-303 (Ch 14, part of Ch 15)
     * Goodman, North China at War, 1-18 (Explaining Revolution)
@@ -243,8 +264,10 @@
 
 **Preparation:**
 
-* The reading is deliberately very light this week to allow you to focus more of your work on your long essay. Don't miss this opportunity to make progress. 
 * Watch *Morning Sun* (2003) - 2 Hour Documentary by Carma Hinton. It is available in the library reference area. Consider scheduling a time to watch it together with 2-3 classmates. The fact the DVD was in use the day before class is not an appropriate excuse for not having watched the documentary. Plan ahead. Take notes and be ready to discuss the documentary.
+* Look through these posters related to the Cultural Revolution by browsing the following page, and then the various pages for individual campaigns 1966-1976:
+    * Chineseposters.net: [https://chineseposters.net/themes/cultural-revolution-campaigns.php](https://chineseposters.net/themes/cultural-revolution-campaigns.php)
+* The reading is light this week. Please use this week to make serious progress on developing your ideas for the long essay.
 
 * MacFarquhar on CR:
     * X: [Setting the Stage](https://www.youtube.com/watch?v=aOh2QW6diA4)
@@ -252,21 +275,25 @@
 
 **Reading:**
 
-* SOURCES 471-482 (in Ch 36 Cultural Revolution)
-* Mitter, Bitter Revolution 200-243
+* SOURCES Ch 36 Mao Regime
+    * "Sixteen Points" 474-476
+    * "Red Guard Memoirs" 478-481
+* Mitter, *Bitter Revolution* 200-243
+* Brown, *Maoism at the Grassroots: Everyday Life in Chinas Era of High Socialism* Ch: 9 China's "Great Proletarian Information Revolution" of 1966-1967, p230-248.
 
 **Further Reading:**
 
-* MacFarquhar, Mao's Last Revolution 
-* White, Policies of Chaos
-* Esherick, The Chinese Cultural Revolution As History
-* MacFarquhar, Origins of the Cultural Revolution, vols 1-3 
-* Yue, To the Storm: The Odyssey of a Revolutionary Chinese Woman
-* Nien, Life and Death in Shanghai
-* Feng, Ten Years of Madness
-* Gao, Born Red: A Chronicle of the Cultural Revolution
-* Li, Private Life of Chairman Mao
-* Yang, Collective Killings During the Cultural Revolution
+* MacFarquhar, *Mao's Last Revolution*
+* Frank Dikötter, *The Cultural Revolution: A People's History*
+* White, *Policies of Chaos*
+* Esherick, *The Chinese Cultural Revolution As History*
+* MacFarquhar, *Origins of the Cultural Revolution*, vols 1-3 
+* Yue, *To the Storm: The Odyssey of a Revolutionary Chinese Woman* (P)
+* Nien, *Life and Death in Shanghai*
+* Feng, *Ten Years of Madness* (P)
+* Gao, *Born Red: A Chronicle of the Cultural Revolution* (P)
+* Li, *Private Life of Chairman Mao*
+* Yang, *Collective Killings During the Cultural Revolution* (P)
 
 **Overview:**
 
@@ -309,6 +336,14 @@
 **Reading:**
 
 * SOURCES, 496-527 (in Ch 37)
+    * Early Critiques of the Deng Regime
+        * including works by Wei Jingsheng, Hu Ping, Wang Ruoshui 
+    * Assessing the New Policies
+        * including Deng Xiaoping, Chen Yun
+    * New Demands for Change and Democracy
+        * including Fang Lizhi, Li Xiaojiang
+    * The New Authoritarianism
+        * including Wu Jiaxiang, Rong Jian, Yan Jiaqi, 
 * Esherick and Wasserstrom, Acting Out Democracy, 835-860
 * Hung, Tiananmen Square: A Political History of Monuments, 84-117
 * Zhao, The Power of Tiananmen, 1-35, 53-78, 79-99, 101-121, 124-141 (Intro, Ch 2-5)
@@ -331,12 +366,6 @@
 
 1. How does *The Gate of Heavenly Peace* help transform the way we think about the Tiananmen protests? About mass protest movements in general?
 2. The Chinese government, and many Chinese will claim that the blood of Tiananmen was a price to pay in order to avert political chaos that would have resulted in far more violence. What logic and assumptions are at work here? What happens when we generalise these claims to other places and times? 
-
-## Week 6 - Independent Reading Week
-
-This week is critical for you to make progress on the research and writing of your long essay and everyone should have begun writing. Please bring what you have written to so far to our next meeting to share with fellow students, even if these are incomplete chunks. Keep in mind your second prospectus or critical review is due after this week.
-
-If you have fallen behind on the reading or your notes on the readings, also use this time to catch up.
 
 ## Week 7 - Revolution, Nation, and Ethnicity
 
@@ -418,11 +447,17 @@ If you have fallen behind on the reading or your notes on the readings, also use
 
 **Reading:**
 
-* Ono, Chinese Women in a Century of Revolution, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution)
-* Birth of Chinese Feminism, p8-26, 53-71 "On the Question of Women's Liberation"
-* Glosser, Chinese Visions of Family and State, p27-80 Ch 1 Saving Self and Nation
-* Ko, Cinderella's Sisters, 1-8 Introduction, 38-68 Ch 2 The Body Inside Out
-* Hershatter, Gender of Memory, Ch 1-2, p96-128, Ch 5, p186-191
+* Primary Sources:
+    * *Birth of Chinese Feminism*, p8-26, 53-71 "On the Question of Women's Liberation"
+    * *Women in Republican China: A Sourcebook*:
+        * 3 "Is This Also a Human Being?" Ye Shengtao 18-21
+        * 31 "The Great Inappropriateness of Women's Emancipation" Zhang Shenfu 168-171
+        * 34 "Women's Careers" Yang Zhihua 174-176
+        * 35 "What Happens after Nora Leaves Home" Lu Xun 176-181
+* Barlow, Tani E. *The Question of Women in Chinese Feminism*, Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252
+* Glosser, *Chinese Visions of Family and State*, p27-80 Ch 1 "Saving Self and Nation"
+* Ko, *Cinderella's Sisters*, 1-8 Introduction, 38-68 Ch 2 "The Body Inside Out"
+* Hershatter, *Gender of Memory*, Ch 1-2, p96-128, Ch 5, p186-191
 * Note: If you are interested more in the post-'49 period, you can skip Ono and Glosser, if you are more interested in pre-'49 period, you can just read Ch 1-2 of Hershatter
 
 **Further Reading:**
@@ -433,6 +468,7 @@ If you have fallen behind on the reading or your notes on the readings, also use
 * Susan L. Mann, Gender and Sexuality in Modern Chinese History
 * Jacka, Woman-work: Women and the Party in Revolutionary China, 70-114, 191-197 (Ch 3, Conclusion)
 * Emily Honig, “Socialist Sex: The Cultural Revolution Revisited.”
+* Ono, *Chinese Women in a Century of Revolution*, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution)
 
 **Overview:**
 
@@ -450,9 +486,9 @@ If you have fallen behind on the reading or your notes on the readings, also use
 
 **Reading:**
 
-* Cohen, History in Three Keys 14-56, 59-68, 211-222, 238-260, 261-297
-* Mittler, Continuous Revolution, Ch 3 139-188 Destroying the Old, Ch 5 267-304 Art of Repetition
-* Lim, The People's Republic of Amnesia, 1-7 Introduction, 7-31 Soldier, 133-157 Patriot, 157-182 Official, 182-206 Chengdu
+* Cohen, *History in Three Keys* 14-56, 59-68, 211-222, 238-260, 261-297
+* Mittler, *Continuous Revolution*, Ch 3 139-188 Destroying the Old, Ch 5 267-304 Art of Repetition
+* Lim, *The People's Republic of Amnesia*, 1-7 Introduction, 7-31 Soldier, 133-157 Patriot, 157-182 Official, 182-206 Chengdu
 
 **Further Reading:**
 
@@ -462,6 +498,7 @@ If you have fallen behind on the reading or your notes on the readings, also use
 **Overview:**
 
 * We'll split our time between Cohen, moving back to the Boxer Rebellion and how it was deployed in later times, Mittler, which attempts to think more explicitly about the role of culture in Mao's revolution, and Lim, which is more on forgetting than on remembering.
+* We will also discuss the three character classic and do an exercise with this in class.
 
 \newpage
 
@@ -474,17 +511,18 @@ If you have fallen behind on the reading or your notes on the readings, also use
 
 **Reading:**
 
-* Shapiro, Mao's War Against Nature, Introduction 1-20, Ch 2 67-93, Ch 5 195-216
-* Schmalzer, People's Peking Man, 97-111, 155-168 [Ebook](http://chicago.universitypressscholarship.com/view/10.7208/chicago/9780226738611.001.0001/upso-9780226738598)
-* Schmalzer, Red Revolution, Green Revolution, 201-205
-* Greenhalgh, Just One Child, 316-327
-* Fang, Barefoot Doctors and Western Medicine, 20-41, Ch 7 Conclusion
-* Choose one from among Greenhalgh, Schmalzer's two books, or Fang and read another chapter or two
+* Shapiro, *Mao's War Against Nature*, Introduction 1-20, Ch 2 67-93, Ch 5 195-216
+* Schmalzer, *People's Peking Man*, 97-111, 155-168 [Ebook](http://chicago.universitypressscholarship.com/view/10.7208/chicago/9780226738611.001.0001/upso-9780226738598) (P)
+* Schmalzer, *Red Revolution, Green Revolution*, 201-205 (P) [Ebook](https://www.dawsonera.com/abstract/9780226330297)
+* Greenhalgh, *Just One Child*, 316-327 [Ebook](http://california.universitypressscholarship.com/view/10.1525/california/9780520253384.001.0001/upso-9780520253384)
+* Fang, *Barefoot Doctors and Western Medicine*, 20-41, Ch 7 Conclusion (P)
+* Rogaski, *Hygienic Modernity* [Ebook](http://california.universitypressscholarship.com/view/10.1525/california/9780520240018.001.0001/upso-9780520240018) - Ch 10: Germ Warfare and Patriotic Weisheng
 
 **Further Reading:**
 
-* Shapiro, Mao's War Against Nature - complete the book
-* Rogaski, Hygienic Modernity - Ch 10
+* Choose one from among Shapiro, Greenhalgh, Schmalzer's two books, or Fang and read another chapter or two.
+* Shapiro, *Mao's War Against Nature* - complete the book
+* Shen, Grace Yen *Unearthing the nation : modern geology and nationalism in republican China* [Ebook](http://chicago.universitypressscholarship.com/view/10.7208/chicago/9780226090542.001.0001/upso-9780226090405) (P)
 
 **Overview:**
 
