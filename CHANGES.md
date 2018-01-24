@@ -2,6 +2,11 @@
 
 Here I list some of the significant changes in this module over the years, after the module was first offered spring of 2014.
 
+## 2018 Spring
+
+* Updated chronology with more events
+* Significant update and more detail provided on assessments
+
 ## 2015 Fall
 
 * Embed discussion questions into the seminar section

@@ -2,15 +2,16 @@
 
 ## Seminars
 
-## Week 0 - Introduction: Rebellion and Revolution
+## Week 1 - Introduction: Rebellion and Revolution
 
 **Preparation:**
 
+* Using the module Moodle "Presentation Signup" wiki, sign up for a week to do one of the 10 weeks from 2-11. Choose a week with a theme you are interested in but have a backup in case you don't get your first choice. We will revisit this in class if you have any problems.
 * Our module is not a general survey of Chinese history but will focus in on the history of its revolutions. While you will get some general background video clips on Chinese history (see below) from week to week, I suggest you purchase an introductory survey text on modern Chinese history to read as the course goes along. A few of the most popular survey texts include:
-    * Jonathan Spence, *The Search for Modern China* (old, longer work, but still used as textbook in most courses on modern China)
+    * Jonathan Spence, *The Search for Modern China* (old, longer work, but still used as textbook in most courses on modern China) - [library ebook](http://dx.doi.org/10.1017/CBO9781139167253)
 	* Diana Lary *China’s Republic* (short, interesting mix of materials)
 	* Patricia Ebrey, *Cambridge Illustrated History of China* (if you want something that covers pre-modern period as well)
-	* Rana Mitter, *A Bitter Revolution* (we’ll read parts of this, more episodic and character based with a narrower argumentative narrative)
+	* Rana Mitter, *A Bitter Revolution* (we’ll read parts of this, more episodic and character based with a narrower argumentative narrative) - [library ebook](http://www.myilibrary.com/?id=75235)
 	* Karl, Rebecca E. *Mao Zedong and China in the Twentieth-Century World: A Concise History* (this has less on the pre-1949 period)
 * Memorise the basic chronology in the student handbook up to 1927. Look up 2 of these events online and read a bit about them. Be prepared to say something you find interesting or curious about them.
 * Write down 2-3 things about revolution that you know, or alternatively, things that you are hoping to learn about
@@ -42,13 +43,21 @@
 * Singing the dynasty song
 * If Time: Discuss events you looked up and some of the aspects of them you found interesting.
 
+**Long Essay Topics:**
+
+* The late Qing dynasty was a period of great tumult. There were a large number of western missionaries and merchants in China during this time, however, who have left behind their papers, memoirs, and other records. This includes many from Scotland. As these primary sources are in English and other European languages, those without the ability to read East Asian languages can make use of these rich sources to explore this period.
+* Some of the great rebellions provide rich terrain for comparative study, or transnational study. For example, some of the American soldiers sent to join the repression of the Boxer movement were fresh from crushing revolution in the Philippines and Haiti. Look for some of the many interesting international connections to explore
+* Works published before 1923 can be found in great quantities on Archive.org, making this a great place to explore publications about China that can serve as primary sources if published near the time.
+
 \newpage
 
-## Week 1 - From 1911 to May Fourth
+## Week 2 - From 1911 to May Fourth
 
 **Preparation:**
 
-* Come to class with one or two ideas for your long essay and your first short essay if it was a prospectus so we can share ideas with each other and get feedback. 
+* Start your research for your long essay! 
+* Post one or two or three ideas for your long essay to the Moodle in the form of a few sentences, and bring two printed copies to class for discussion. (By Class)
+* Begin your reading with Rana Mitter's overview in *Bitter Revolution* as it will help you make sense of the rest of it.
 * The reading is relatively heavy this week, please give the primary sources a close look over and don't forget to bring them to class
 * Have a look at these posters from post-1949: [May 4 Posters Landsberger Collection](http://chineseposters.net/themes/may-fourth-movement.php)
 * Watch the following ChinaX videos:
@@ -64,28 +73,28 @@
 
 **Reading:**
 
-* SOURCES (32) 
-    * Ch 32: Hu Hanmin, "The Six Principles of the People's Report" (4) 
-    * Ch 32: Sun Yat-sen "The Three People's Principles" (11)
-    * Pieces by Hu Shi and Chen Duxiu:
+* Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
+* Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
+* SOURCES (32)  Sources of Chinese Tradition [library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908711)
+    * Ch 32: Hu Hanmin, "The Six Principles of the People's Report" (4) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=292&docID=908711&tm=1516826679220)
+    * Ch 32: Sun Yat-sen "The Three People's Principles" (11) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=295&docID=908711&tm=1516826693389)
+    * Hu Shi and Chen Duxiu: [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=324&docID=908711&tm=1516826711118)
         * CDX: "The Way of Confucius and Modern Life" (3)
         * HS: "A Preliminary Discussion of Literary Reform" (4)
         * CDX: "On Literary Revolution" (1)
         * HS: "Constructive Literary Revolution..." (2)
         * CDX: "The True Meaning of Life" (1)
         * HS: "Pragmatism" (2)
-        * HS: "Science and Philosophy of Life" (2)
-        * HS: "Our Attitude Toward Modern Western Civilization" (1)
-        * HS: "Criticism of the 'Declaration for Cultural Construction on a Chinese Basis" (1)
-* Zhang, "General Review of the Study of the Revolution of 1911" 525-531
-* Mitter, "1911: The Unanchored Chinese Revolution" 1009-1020
+        * HS: "Science and Philosophy of Life" (2) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=344&docID=908711&tm=1516826965459)
+        * "Declaration for Cultural Construction on a Chinese Basis" (1) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=354&docID=908711&tm=1516827015458)
+        * HS: "Criticism of the 'Declaration for Cultural Construction on a Chinese Basis'" [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=356&docID=908711&tm=1516827096012)
 * Mitter, *A Bitter Revolution*, 3-40, 102-152 (Ch 1, 4)
-* Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
-* Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
+* Zhang, "General Review of the Study of the Revolution of 1911" 525-531 [jstor](https://doi.org/10.2307/2054680)
+* Mitter, "1911: The Unanchored Chinese Revolution" 1009-1020 [jstor](https://www.jstor.org/stable/41447787)
 
 **Further Reading:**
 
-* Hill, *Voting as Rite*, 149-219 (Ch 3 Voting in a New Republic 1912-13) (P)
+* Hill, *Voting as a Rite : Changing Ideas of Elections in Early Twentieth Century China*, 149-219 (Ch 3 Voting in a New Republic 1912-13) (P)
 * Cambridge History of China v11, 463-534 (Ch 9 Republican Revolutionary Movement)
 * Esherick, *Reform and Revolution in China: the 1911 Revolution in Hunan and Hubei*
 * Rankin, *Early Chinese Revolutionaries*
@@ -130,10 +139,11 @@
 
 \newpage
 
-## Week 2 - Building Revolution and the War with Japan, 1931-1945
+## Week 3 - Building Revolution and the War with Japan, 1931-1945
 
 **Preparation:**
 
+* Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
 * Refine your long essay topics and evaluate them for feasibility of sources and interesting possible approaches
 * The reading is again quite heavy this week. Try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
 * Watch the following ChinaX videos:
@@ -210,10 +220,11 @@
 
 \newpage
 
-## Week 3 - Great Leaps Forward: Violence and Reform 1942-1961
+## Week 4 - Great Leaps Forward: Violence and Reform 1942-1961
 
 **Preparation:**
 
+* Please consider posting a copy of your prospectus to the Moodle forum. There you are required to give a constructive comment on at least one other student's prospectus.
 * This is also a heavy reading week but the Dikötter reading is narrative, rather than heavy analytical material so should be a smooth read. 
 * You also have your short essay coming due. Please make enough time to get through it.
 * Clips on the Hundred Flowers Movement and repression that followed:
@@ -260,10 +271,11 @@
 
 \newpage
 
-## Week 4 - The Cultural Revolution
+## Week 5 - The Cultural Revolution
 
 **Preparation:**
 
+* Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
 * Watch *Morning Sun* (2003) - 2 Hour Documentary by Carma Hinton. It is available in the library reference area. Consider scheduling a time to watch it together with 2-3 classmates. The fact the DVD was in use the day before class is not an appropriate excuse for not having watched the documentary. Plan ahead. Take notes and be ready to discuss the documentary.
 * Look through these posters related to the Cultural Revolution by browsing the following page, and then the various pages for individual campaigns 1966-1976:
     * Chineseposters.net: [https://chineseposters.net/themes/cultural-revolution-campaigns.php](https://chineseposters.net/themes/cultural-revolution-campaigns.php)
@@ -318,7 +330,7 @@
 
 \newpage
 
-## Week 5 - From Reform to “Six Four”: Tiananmen
+## Week 6 - From Reform to “Six Four”: Tiananmen
 
 **Preparation:**
 
@@ -371,7 +383,7 @@
 
 **Preparation:**
 
-* Bring a printed version of your second prospectus if you wrote one instead of a critical review, and whatever you have written so far on your long essay.
+* Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
 * Please open the [ChinaMap](https://worldmap.harvard.edu/chinamap/) at WorldMap Harvard, and browse its "Minorities and Languages" sections, especially the "Language Regions" and "Language Atlas" layers 
 
 **Reading:**
@@ -395,6 +407,8 @@
 
 **Preparation:**
 
+* Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
+* Consider posting your prospectus on the Moodle Forum. You are asked to write at least one constructive suggestion on a fellow student's shared prospectus.
 * Please continue your work on the Long Essay. Our reading is relatively light this week for the last time so make your big push this week. The reading is not light next week so this is the week to get that first draft done!
 * Choose 2-3 quotations from Mao's red book that we have assigned this week and be ready to say something about what you think is telling about the quote, problematic, or ironic
 
@@ -442,6 +456,7 @@
 
 **Preparation:**
 
+* Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
 * Your long essay should really be coming along now, unless you have had to shift gears during the semester. Please try to have something written by this point. Some students will like to be working with a full draft at this point and then looking for areas in the essay that are weak. 
 * If you are doing well on the long essay front, this might be a time to consider the state of your notes and consider start meeting with some of your fellow classmates to collect your notes and study together for the final examination.
 

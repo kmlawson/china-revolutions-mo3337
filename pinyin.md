@@ -22,6 +22,7 @@ A few particularly troublesome sounds when trying to pronounce words in pinyin:
 * YI = "ee" as in "sheep"
 * I = "ee" as in "sheep"
 * E = the vowel part of "ughh" when someone punches you hard in the stomach
-* Ü = start saying "Yay" (stopping on the Y) or "ee", then close your mouth as if you are blowing out a candle
+* Ü = start saying "ee", then close your mouth as if you are blowing out a candle. As in "ou" in Scottish "You!" or German ü
+* Shi, Zhi, Chi = "ure" sound as in Sure, (Jer)sey, and (Chur)n
 
 As a fun exercise, during our course, I will teach you a few basic "revolutionary" words and phrases in Chinese. Most of these are not commonly used in China today, but will also hopefully provide you with another oral connection to China's communist revolutionary history.

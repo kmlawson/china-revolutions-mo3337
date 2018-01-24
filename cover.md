@@ -1,6 +1,6 @@
 % MO3337: China’s Revolutions, 1850-1989
 % Tutor: Konrad M. Lawson
-% Fall, 2016
+% Spring, 2018
 
 
 

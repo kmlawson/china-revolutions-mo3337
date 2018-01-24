@@ -3,18 +3,17 @@
 
 ## Overview
 
-0. 08 Sep **Introduction: Rebellions and Revolution**
-1. 15 Sep **From 1911 to May Fourth**
-2. 22 Sep  **Building Revolution and the War with Japan, 1931-1945**
-3. 29 Sep  **Great Leaps Forward: Violence and Reform 1942-1961**
-4. 06 Oct  **The Cultural Revolution**
-5. 13 Oct **From Reform to "Six Four": Tiananmen**
-6. 20 Oct **Independent Learning Week - No Meeting**
-7. TBD **Revolution, Nation, and Ethnicity**
-8. 03 Nov **Maoism in the World**
-9. 10 Nov **Gender and the Family**
-10. 17 Nov **Culture, History, and Memory**
-11. 24 Nov **Science, Technology, and the Environment**
+1. 01 Feb **Introduction: Rebellions and Revolution**
+2. 08 Feb **From 1911 to May Fourth**
+3. 15 Feb  **Building Revolution and the War with Japan, 1931-1945**
+4. 22 Feb  **Great Leaps Forward: Violence and Reform 1942-1961**
+5. 01 Mar  **The Cultural Revolution**
+6. TBD **From Reform to "Six Four": Tiananmen**
+7. 15 Mar **Revolution, Nation, and Ethnicity**  
+8. 05 Apr **Maoism in the World**
+9. 12 Apr **Gender and the Family**
+10. 19 Apr **Culture, History, and Memory**
+11. 26 Apr **Science, Technology, and the Environment**
 
 ### Key Details:
 
@@ -29,8 +28,8 @@ This module traces the modern history of China through the lens of its most tran
 ### Assessment Summary
 
 **60% Coursework**  
-2 Short Essays (600-800 Words 15% each of coursework) - **5pm Mon 3 Oct, Mon 24 Oct**  
-Long Essay (5,000 Words 50% of coursework) - **5pm Mon 21 Nov**  
+2 Short Essays (800 Words 15% each of coursework) - **Mon 19 Feb (W4), Mon 2 Apr (W8)** before midnight  
+Long Essay (5,000 Words 50% of coursework) - **Fri 27 Apr (W11)** before midnight  
 Presentation (20% of coursework)
 
 **40% Exam**  

@@ -2,7 +2,7 @@
 
 ## Exam
 
-The final examination is a take-home exam worth 40% of your total assessment for the module. The questions (six will be presented, of which you choose three), will be made available online through our MMS at the appointed start time, and you will be required to submit the answers within 10 hours online to the MMS. The exam is designed to only take you a few hours (3-5 hours of writing, there is a strict word limit of 3750 words total for all three answers combined) but to give you the freedom to complete it at a time that works for you, as well as other benefits such as: giving you the freedom to draft and initial answer and then review notes to strengthen areas you feel are weak before returning to complete the final version.
+The final examination is a take-home exam worth 40% of your total assessment for the module. The questions (six will be presented, of which you choose three), will be made available online through our MMS at the appointed start time, and you will be required to submit the answers within 10 hours online to the MMS. The exam is designed to only take you a few hours (3-5 hours of writing, there is a strict word limit of 3,750 words total for all three answers combined) but to give you the freedom to complete it at a time that works for you, as well as other benefits such as: giving you the freedom to draft an initial answer and then review notes to strengthen areas you feel are weak before returning to complete the final version.
 
 Those who are not experienced with this format often make one critical mistake: They see the questions, and immediately begin a long and intensive process of reading and reviewing on the questions before beginning the writing process towards the end of the allotted time. I strongly urge students not to take this approach as it does not, in my experience, produced the strongest answers. You tend to become exhausted and produce poor quality answers, answer in far too much empirical detail but often straying from the question, and sometimes finding yourself critically short on time or sloppy in execution. I strongly encourage you to consider the following approach: 
 
@@ -34,6 +34,7 @@ Questions to ask yourself as you prepare for the exam throughout the semester:
 
 Questions to ask yourself as you review over your answers on the examination:
 
+* **Important:** Did I put a **full copy** of the question at the top of all my answers
 * Did I state my answer concisely and clearly at the outset?
 * Did I use evidence from our readings to support my answer?
 * Did I use some specific examples to support my answer?
