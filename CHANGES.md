@@ -6,6 +6,11 @@ Here I list some of the significant changes in this module over the years, after
 
 * Updated chronology with more events
 * Significant update and more detail provided on assessments
+* Added Sleep section
+* Significantly expanded further readings
+* Significant updates to weekly reading
+* Add Moodle assignments
+* Updated Presentation format and choices
 
 ## 2015 Fall
 
