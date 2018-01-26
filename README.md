@@ -1,9 +1,13 @@
-china-revolutions-mo3337
+MO3337 China's Revolutions
 ========================
 
 Course handbook for China's Revolutions honours module for third years students in the School of History at the University of St Andrews
 
 Download the raw file [handbook.pdf](https://github.com/kmlawson/china-revolutions-mo3337/blob/master/handbook.pdf?raw=true) if you only want the final compiled PDF of the handbook.
+
+The Spring 2018 Version of this Module Handbook is here:
+
+**[Spring 2018 Handbook](https://github.com/kmlawson/china-revolutions-mo3337/raw/master/archive/MO3337%20China's%20Revolutions%20Spring%202018.pdf)
 
 The Spring 2016 Version of This Module Handbook is now bundled as a release:
 
