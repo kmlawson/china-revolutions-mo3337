@@ -9,7 +9,7 @@
 4. 22 Feb  **Great Leaps Forward: Violence and Reform 1942-1961**
 5. 01 Mar  **The Cultural Revolution**
 6. TBD **From Reform to "Six Four": Tiananmen**
-7. 15 Mar **Revolution, Nation, and Ethnicity**  
+7. 15 Mar **Revolution, Nation, and Ethnicity**
 8. 05 Apr **Maoism in the World**
 9. 12 Apr **Gender and the Family**
 10. 19 Apr **Culture, History, and Memory**
@@ -18,10 +18,11 @@
 ### Key Details:
 
 **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Thu 9:00-11:00 Room 1.10  **Office:** St. Katharine's Lodge B3  
+**Meets:** Thu 9:00-11:00 Room 0.02  
+**Office:** St. Katharine's Lodge B3  
 **Office Hours:** Thu 11:00-12:00  
 
-### Description	
+### Description
 
 This module traces the modern history of China through the lens of its most transformative political and social changes. It begins with the rebellions that shook the Qing dynasty to its roots and concludes with the 1989 democracy movement that centred on Tiananmen square in Beijing. We will examine the ways in which China’s revolutions connected themselves with the past in a process that generated a long and rich revolutionary tradition. We will address the issue of identifying revolutionary agency and the social and economic forces that help drive the most violent transformations of China’s past two centuries.
 
@@ -40,4 +41,4 @@ Take-Home Examination - Date TBD, will be asked to answer 3 out of 6 questions o
 * Assess the impact of economic and social changes on political upheaval in Chinese history and the role of Western and Japanese imperialism
 * Understand the impacts of war on revolution
 * Compare the ways in which revolution and rapid social and political transformations were inspired by and contributed to myth building and historiography
-* Evaluate continuities and differences in the scale of violence in China's revolutions and the impact of revolution on gender relations, environment, and culture 
+* Evaluate continuities and differences in the scale of violence in China's revolutions and the impact of revolution on gender relations, environment, and culture
