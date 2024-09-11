@@ -1,0 +1,53 @@
+\newpage
+\setlength{\parindent}{0pt}
+
+## Overview
+
+0. *Online Orientation Meeting*
+1. 17 Sep [**Rebellions and Revolution**](#reb)
+2. 24 Sep [**From 1911 to May Fourth**](#may)
+3. 01 Oct [**Building Revolution and the War with Japan, 1931-1945**](#sj)
+4. 08 Oct [**Great Leaps Forward: Violence and Reform 1942-1961**](#gl)
+5. 15 Oct [**The Cultural Revolution**](#cr)
+6. [*Independent Learning Week*](#ilw)
+7. 29 Oct [**From Reform to "Six Four": Tiananmen**](#tian)
+8. 05 Nov [**Reforming Thought**](#sixiang)
+9. 12 Nov [**Gender and the Family**](#gender)
+10. 19 Nov [**Maoism in the World**](#world)
+11. 26 Nov [**Culture, History, and Memory**](#culture)
+
+### Key Details:
+
+**Email:** kml8@st-andrews.ac.uk  
+**Meets:** Tue 13:00-15:00 St. Katharine's Lodge 0.02
+**Office:** St. Katharine's Lodge B3  
+**Office Hours:** Tue 15:00 (sign up [here](https://goo.gl/Rh19wj)) 
+
+### Description
+
+This module traces the modern history of China through the lens of its most transformative political and social changes. It begins with the rebellions that shook the Qing dynasty to its roots and concludes with the 1989 democracy movement that centred on Tiananmen square in Beijing. 
+
+### Assessment Summary
+
+**Summative** (100% coursework)
+
+- 50% [Long Essay](#longessay) (4,000 Words) **10 December, 5pm**
+- 20% [Four Reading Analysis Posts](#posts) (2,500) **29 November, 5pm**
+- 15% [Essay Prospectus](#prospectus) (500 words) **31 October, 5pm**
+- 15% [Presentation](#presentation) (10 minutes)
+
+**Formative** (Required to pass the module, but no grade given) 
+ 
+- [Three Elective Reading Handouts](#handouts)
+- Map Quiz
+- Two Event Quizzes
+- Essay Outline
+- *Optional*: Formative Presentation; Draft Prospectus 
+
+### Learning Outcomes
+
+* Assess the impact of economic and social changes on political upheaval in Chinese history and the role of Western and Japanese imperialism
+* Understand the impacts of the war of resistance against Japan on the rise of the Chinese Communist Party 
+* Compare the ways in which revolution and rapid social and political transformations were inspired by and contributed to myth building and historiography
+* Analyse the institutions for 'thought reform' and 'ideological struggle' in the Maoist period
+* Evaluate continuities and differences in the scale of violence in China's revolutions and the impact of revolution on gender relations, family, and culture

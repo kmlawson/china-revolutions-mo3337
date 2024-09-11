@@ -2,7 +2,7 @@
 
 ## Seminars
 
-## Week 1 - Introduction: Rebellion and Revolution
+## Week 1 - Introduction: Rebellion and Revolution {#reb}
 
 **Preparation:**
 
@@ -50,7 +50,7 @@
 
 \newpage
 
-## Week 2 - From 1911 to May Fourth
+## Week 2 - From 1911 to May Fourth {#may}
 
 **Preparation:**
 
@@ -142,7 +142,7 @@
 
 \newpage
 
-## Week 3 - Building Revolution and the War with Japan, 1931-1945
+## Week 3 - Building Revolution and the War with Japan, 1931-1945 {#sj}
 
 **Preparation:**
 
@@ -233,7 +233,7 @@
 
 \newpage
 
-## Week 4 - Great Leaps Forward: Violence and Reform 1945-1961
+## Week 4 - Great Leaps Forward: Violence and Reform 1945-1961 {#gl}
 
 **Preparation:**
 
@@ -299,7 +299,7 @@
 
 \newpage
 
-## Week 5 - The Cultural Revolution
+## Week 5 - The Cultural Revolution {#cr}
 
 **Preparation:**
 
@@ -374,7 +374,9 @@ The cultural revolution is one of the most fascinating periods of PRC history. T
 
 \newpage
 
-## Week 6 - From Reform to “Six Four”: Tiananmen
+## Independent Learning Week {#ilw}
+
+## Week 7 - From Reform to “Six Four”: Tiananmen {#tian}
 
 **Preparation:**
 
@@ -428,49 +430,53 @@ The cultural revolution is one of the most fascinating periods of PRC history. T
 
 \newpage
 
-## Week 7 - Revolution, Nation, and Ethnicity
+## Week 8 - Reforming Thought {#sixiang}
+
+## Week 9 - Gender and the Family {#gender}
 
 **Preparation:**
 
 * Moodle: Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
-* Please open the [ChinaMap](https://worldmap.harvard.edu/chinamap/) at WorldMap Harvard, and browse its "Minorities and Languages" sections, especially the "Language Regions" and "Language Atlas" layers
+* Your long essay should really be coming along now, unless you have had to shift gears during the semester. Please try to have something written by this point. Some students will like to be working with a full draft at this point and then looking for areas in the essay that are weak.
+* If you are doing well on the long essay front, this might be a time to consider the state of your notes and consider start meeting with some of your fellow classmates to collect your notes and study together for the final examination.
 
 **Reading:**
 
-* SOURCES Sections on:
-    * Kang Youwei [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=243&docID=908711&tm=1516895498717)
-    * Liang Qichao [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=267&docID=908711&tm=1516895517919)
-    * Zhang Binglin [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=285&docID=908711&tm=1516895531612)
-* Zhang Taiyan, “Explaining ‘The Republic of China’,” trans. Pär Cassel, *Stockholm Journal of East Asian Studies* 8 (1997)
-* Harrison, *China: Inventing the Nation*, 132-149 (Ch 5 Ethnicity and Modernity)
-* Esherick et al, *Empire to Nation*, "How the Qing Became China" 229-259
-* Mullaney, *Coming to Terms with the Nation*, 1-5, Ch 1 18-41 (P)
+* Primary Sources:
+    * *Birth of Chinese Feminism*, p8-26, 53-71 "On the Question of Women's Liberation"
+    * *Women in Republican China: A Sourcebook*:
+        * 3 "Is This Also a Human Being?" Ye Shengtao 18-21
+        * 31 "The Great Inappropriateness of Women's Emancipation" Zhang Shenfu 168-171
+        * 34 "Women's Careers" Yang Zhihua 174-176
+        * 35 "What Happens after Nora Leaves Home" Lu Xun 176-181
+* Barlow, Tani E. *The Question of Women in Chinese Feminism*, Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252
+* Glosser, *Chinese Visions of Family and State*, p27-80 Ch 1 "Saving Self and Nation" (P)
+* Ko, *Cinderella's Sisters*, 1-8 Introduction, 38-68 Ch 2 "The Body Inside Out" (P)
+* Hershatter, *Gender of Memory*, Ch 1-2, p96-128, Ch 5, p186-191 (P)
+* Note: If you are interested more in the post-'49 period, you can skip Ono and Glosser, if you are more interested in pre-'49 period, you can just read Ch 1-2 of Hershatter
 
 **Further Reading:**
 
-* Dikotter, Frank. *The Discourse of Race in Modern China* (P)
-* Liu, *Frontier Passages: Ethnopolitics and the Rise of Chinese Communism, 1921-1945* (P)
-* Qian Zhongshu, “Critiques of ‘Driving Out the Foreigners’” and ”The Concepts ‘Chinese’ and ‘Barbarian’,” in Ronald Egan, trans., *Limited Views: Essays on Ideas and Letters*
-* Rhoads, *Manchus & Han: Ethnic Relations and Political Power in Late Qing and Early Republican China 1861-1928* (P)
-* Mark C. Elliott, *The Manchu Way: The Eight Banners and Ethnic Identity in Late Imperial China* (P)
-* Victor Mair, “North(west)ern Peoples and the Recurrent Origins of the ‘Chinese’ State,” in Joshua Fogel,
-ed., *The Teleology of the Modern Nation-State*
-* James Leibold, “Competing Narratives of Racial Unity in Republican China,” *Modern China* 32.2 (April 2006), 181-220.
-* Rebecca E. Karl, “Creating Asia: China in the world at the beginning of the twentieth century” *American Historical Review* 103.4 (1998) p. 1096-1118.
-* Duara, Prasenjit. “Transnationalism and the predicament of sovereignty: China, 1900-1945” *American Historical Review* 102.4 (1997) 1030-1051.
-* Rawski, Evelyn. “Reenvisioning the Qing: The Significance of the Qing Period in Chinese History"  *Journal of Asian Studies* 55.4 (1996)
-* Ho Ping-ti. “In defense of Sinicization: A rebuttal of Evelyn Rawski’s ‘Reinvisioning the Qing’” *Journal of Asian Studies* 57.1 (1998) 123-155
-* Lattimore, Owen. *Inner Asian frontiers of China* (P)
-* Karl, Rebecca. *Staging the World: Chinese Nationalism at the Turn of the Twentieth* (P)
-* Harrison, Henrietta. *The Making of the Republican Citizen : Political Ceremonies and Symbols in China 1911-1929* (P)
+* Finish Hershatter, *Gender of Memory* (P)
+* Lu Xun "New Year's Sacrifice" [link](https://www.marxists.org/archive/lu-xun/1924/02/07.htm)
+* Finish *Cinderella's Sisters* (P)
+* Hershatter, Gail. *Women in China’s Long Twentieth Century*.
+* Brownell, Susan, and Jeffrey Wasserstrom. *Chinese Femininities/Chinese Masculinities: A Reader*
+* Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*
+* Mann, Susan L. *Gender and Sexuality in Modern Chinese History*.
+* Hershatter, *Dangerous Pleasures: Prostitution and Modernity in Twentieth-Century Shanghai* (P)
+* Susan L. Mann, *Gender and Sexuality in Modern Chinese History* (P)
+* Jacka, *Woman-work: Women and the Party in Revolutionary China,* 70-114, 191-197 (Ch 3, Conclusion)
+* Emily Honig, “Socialist Sex: The Cultural Revolution Revisited.”
+* Ono, *Chinese Women in a Century of Revolution*, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution) (P)
 
 **Overview:**
 
-* Our discussion will center on the primary sources and talk more broadly about the powerful ethnic dimension to Chinese nationalism, and Chinese nationalism's relationship to its revolutions
+* This week tries to do two things at once: examine the role of women specifically in the revolution, but more generally, to consider the way that the revolution was itself gendered or, tried to portray itself in de-gendered ways.
 
 \newpage
 
-## Week 8 - Mao's Revolution in a Global Context
+## Week 10 - Mao's Revolution in a Global Context {#world}
 
 **Preparation:**
 
@@ -531,51 +537,7 @@ United States* (P)
 
 \newpage
 
-## Week 9 - Gender and the Family
-
-**Preparation:**
-
-* Moodle: Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
-* Your long essay should really be coming along now, unless you have had to shift gears during the semester. Please try to have something written by this point. Some students will like to be working with a full draft at this point and then looking for areas in the essay that are weak.
-* If you are doing well on the long essay front, this might be a time to consider the state of your notes and consider start meeting with some of your fellow classmates to collect your notes and study together for the final examination.
-
-**Reading:**
-
-* Primary Sources:
-    * *Birth of Chinese Feminism*, p8-26, 53-71 "On the Question of Women's Liberation"
-    * *Women in Republican China: A Sourcebook*:
-        * 3 "Is This Also a Human Being?" Ye Shengtao 18-21
-        * 31 "The Great Inappropriateness of Women's Emancipation" Zhang Shenfu 168-171
-        * 34 "Women's Careers" Yang Zhihua 174-176
-        * 35 "What Happens after Nora Leaves Home" Lu Xun 176-181
-* Barlow, Tani E. *The Question of Women in Chinese Feminism*, Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252
-* Glosser, *Chinese Visions of Family and State*, p27-80 Ch 1 "Saving Self and Nation" (P)
-* Ko, *Cinderella's Sisters*, 1-8 Introduction, 38-68 Ch 2 "The Body Inside Out" (P)
-* Hershatter, *Gender of Memory*, Ch 1-2, p96-128, Ch 5, p186-191 (P)
-* Note: If you are interested more in the post-'49 period, you can skip Ono and Glosser, if you are more interested in pre-'49 period, you can just read Ch 1-2 of Hershatter
-
-**Further Reading:**
-
-* Finish Hershatter, *Gender of Memory* (P)
-* Lu Xun "New Year's Sacrifice" [link](https://www.marxists.org/archive/lu-xun/1924/02/07.htm)
-* Finish *Cinderella's Sisters* (P)
-* Hershatter, Gail. *Women in China’s Long Twentieth Century*.
-* Brownell, Susan, and Jeffrey Wasserstrom. *Chinese Femininities/Chinese Masculinities: A Reader*
-* Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*
-* Mann, Susan L. *Gender and Sexuality in Modern Chinese History*.
-* Hershatter, *Dangerous Pleasures: Prostitution and Modernity in Twentieth-Century Shanghai* (P)
-* Susan L. Mann, *Gender and Sexuality in Modern Chinese History* (P)
-* Jacka, *Woman-work: Women and the Party in Revolutionary China,* 70-114, 191-197 (Ch 3, Conclusion)
-* Emily Honig, “Socialist Sex: The Cultural Revolution Revisited.”
-* Ono, *Chinese Women in a Century of Revolution*, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution) (P)
-
-**Overview:**
-
-* This week tries to do two things at once: examine the role of women specifically in the revolution, but more generally, to consider the way that the revolution was itself gendered or, tried to portray itself in de-gendered ways.
-
-\newpage
-
-## Week 10 - Culture and Memory
+## Week 11 - Culture, History, and Memory {#culture}
 
 **Preparation:**
 

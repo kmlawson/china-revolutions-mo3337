@@ -1,3 +1,5 @@
+\newpage
+
 ## Daily Mao Reading
 
 Mao Zedong's speeches and essays have had a huge influence on the political and social discourse of China in the 20th century. More than most national histories, the historian can benefit a lot from a familiarity with his works. At the height of Mao's cult of personality, in the opening years of the cultural revolution, a campaign urged Chinese people to "daily read" (天天读) Mao's works, and a practice of "Ask for instruction in the morning and make a report in the evening" (早请示，晚汇报) encouraged people to rise each morning to read a bit of Mao in order to receive inspiration from him, and later in the evening, read him again and summarize one's achievements of the day. His words were quoted in thousands of publications, often in bolded text to highlight their value, and phrases from his work seeped into daily conversation. 

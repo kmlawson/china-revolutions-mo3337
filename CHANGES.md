@@ -2,6 +2,17 @@
 
 Here I list some of the significant changes in this module over the years, after the module was first offered spring of 2014.
 
+
+## 2024 Fall
+
+- Switched to san serif font for accessibility
+- Added daily Mao Reading (mao.md)
+- updated to the new assessment set: long essay, presentation, posts, and prospectus
+- added formative assessments: draft prospectus, map quiz, events quizzes, outline, draft presentation
+- added online resources at https://muninn.net/modules/mo3337/ with map review, event flashcards, chinese vocabulary flashcards, and *Quotations from Chairman Mao*
+- deleted exam.md
+- deleted readings.md
+
 ## 2018 Spring
 
 * Updated chronology with more events
