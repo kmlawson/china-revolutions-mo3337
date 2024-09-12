@@ -125,7 +125,6 @@ You will receive a mark for these only after final submission of all posts, but 
 
 **Note:** Many, perhaps most, of you will only write four posts to share on Teams that are eventually submitted. However, you are free to write posts to share on Teams in as many weeks as you like (only one post per week) but you may **only submit four of them in Week 11 on MMS**. You may make minor editorial changes (corrections to language etc.) on the MMS submitted version, but may not make them longer. You may make them shorter by cutting material, if you like. 
 
-
 ## Elective Reading Handouts {#handouts}
 
 **Three Handouts Shared on Teams Channel by Evening Before Relevant Class**
@@ -150,7 +149,7 @@ If you shared a draft prospectus earlier, include a copy of the first draft pros
 
 ## Long Essay {#longessay}
 
-The 4,000 word essay (including footnotes) for the course is worth 50% of the total coursework. It may be up to 5,000 words without penalty (as opposed to the penalty starting at 10% limit over 4,400). Penalties for longer essays are then are as normal. 5,001 words receives a -1 penalty, and 5,400 a -2 penalty, 5,800 a -3 penalty and so on. 
+The 4,000 word essay (including footnotes) for the course is worth 50% of the total coursework. It may be up to 5,000 words without penalty (as opposed to the penalty starting at 10% limit over 4,400). Penalties for longer essays are then are as normal. 5,001 words receives a -1 penalty, and 5,401 a -2 penalty, 5,801 a -3 penalty and so on. 
 
 This is not an essay you research and compose in the final weeks of the semester. You cannot expect to receive a good or excellent mark if you begin your essay late. This essay requires you to make progress on it throughout the semester. Again: **You must set aside several hours every week to work on this essay**. Narrow down an area of interest, read within this area of interest, isolate a few themes of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
 
@@ -163,8 +162,8 @@ Your essay should be an **argument driven** analytic research essay. The title s
 - Late Qing dynasty history (1790s onwards)
 - China during the Republic (1911-1945)
 - China during the second Sino-Japanese War (1937-1945)
-- The rise of the CCP and the Chinese Civil War
-- China during the Maoist period and up to 1989
+- The rise of the CCP and the Chinese Civil War (1921-1949)
+- China during the Maoist period and up to 1989 (1949-1989)
 
 *Journals for Inspiration:* I would suggest browsing some of the following journals, and especially note articles that fit the above description:
 
@@ -188,23 +187,15 @@ Your essay should be an **argument driven** analytic research essay. The title s
 
 ### Making an Argument
 
-The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of an analytical historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay was written (to take an example from Chinese history) about some aspect of the religious aspects of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion and its religious elements have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to tell us something, to make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? And so on. The possibilities are many, but in every case, they offer an answer to the question: So what? Why does this history matter? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
+The academic study of history embraces change in the past as a way to explore solutions to particular problems. The object of an analytical historical research essay is not to tell us simply what happened, but to use what happened in order to make a historical argument about some problem clearly defined. For example, if an essay was written (to take an example from Chinese history) about some aspect of the religious aspects of the Boxer Rebellion, it should not consider its task complete when the major facts of the Boxer Rebellion and its religious elements have been retold. That is closer to the genre of the encyclopaedia entry than of academic historical study. It should endeavour to use the Boxer Rebellion as an opportunity to  make an argument about something: what does the rebellion reveal about the nature of Western imperialism? The rise of new religious movements in China? The weakness of the late Qing state? The rise of Japan? The answer takes the form of a claim that does more than merely repeat a synthesis of what previous scholarship has established and agrees to be the case. The possibilities are many, but in every case, they offer an answer to the question: So what? History can and should tell stories, but a research essay embeds a story within an arc of an argument - if it contains narrative elements, it must also always include an analytic element.
 
 The historical argument in your long essays, in particular, should be clearly and unambiguously stated in the span of 1-3 sentences somewhere in the opening third of the essay, preferably in the opening paragraph or two. It should not be obvious, trivial, or a well-known and rarely contested fact. Challenging as false an existing historian's argument that has become considered obvious and rarely contested, however, is one ambitious way to find your way to an interesting and original argument but only if your evidence is sufficient. Alternatively, if you have found evidence that supports the existing arguments of historians in a given area of research in a new set of sources, from a fresh perspective, or in greater depth, or in a comparative light, that also often yields a strong argument. If you have identified a debate in the historiography and wish to take a position on it without simply repeating all of the points made by one of the participants of the debate, that can also yield an essay with a strong argument but you should take care to acknowledge the position and evidence of the other side.
 
-**Presenting your Argument:** There are a number of different ways to write a strong essay and present the argument, but in this module, I would like to strongly encourage you to "front-load" your argument and do so clearly, that is, to present clearly early in the essay what it is you will argue and why it is important. For example, avoid sentences such as "I will explain..." or "I aim to understand..." or "I will explore..." unless such sentences are immediately followed by the explanation, what you ended up understanding, or what the result of your exploration was. Otherwise, there is a danger that your essay will merely provide a summary of some quantity of information you have found, rather than present the results of your analysis of that research in a useful way. In other words, do not use the introduction to make predictions about what you will do, but tell the reader in very clear terms what you **have argued and shown** in the essay. There are many ways to do this in more or less subtle language but there is no harm in a very clear, "In this essay, I will argue that..." followed by a short overview of what kinds of evidence you will use, how your argument fits into a historiographical context (how your argument relates to what other historians have to say about the matter), and why you think it is important.
+**Presenting your Argument:** There are a number of different ways to write a strong essay and present the argument, but in this module, I would like to strongly encourage you to "front-load" your argument and do so clearly, that is, to present clearly early in the essay what it is you will argue and why it is important. For example, avoid sentences such as "I will explain..." or "I aim to understand..." or "I will explore..." unless such sentences are immediately followed by the explanation, what you ended up understanding, or what the result of your exploration was. Otherwise, there is a danger that your essay will merely provide a summary of some quantity of information you have found, rather than present the results of your analysis of that research in a useful way. In other words, do not use the introduction to make predictions about what you will do, but tell the reader in very clear terms what you **have argued and shown** in the essay. There are many ways to do this in more or less subtle language but there is no harm in a very clear, **"In this essay, I will argue that..."** followed by the rest of your argument, a short overview of what kinds of evidence you will use, how your argument fits into a historiographical context (how your argument relates to what other historians have to say about the matter), and why you think it is important.
 
-For example replace:
+**Sticking to your Argument:** All of us come across many interesting stories, anecdotes, and sub-points that we want to share in writing our essays. However, it is important to **stay sharply focused on the main argument** you are going to make in the essay. After you have finished writing your essay, read it through and for each paragraph and sentence ask yourself if it supported your argument, provided essential background to establishing your argument, or else if it does not offer much of a contribution. If it doesn't, cut it ruthlessly from your essay to make room for better material.
 
-*In this essay, I will explore the relationship between the alarm clock sleep function and our productivity in modern life.*
-
-with something like:
-
-*I will argue that the alarm clock sleep function is a major hindrance to our productivity without contributing at all to our rest after a night of sleep. I will base this upon the studies of Hansen and Jenson in 1983 and in a series of interviews with wise old people in 2014. This argument is important because, as I will show, evidence shows that the increased availability of time in the morning to eat a healthier breakfast, carry out some light house chores, and do morning exercise, not only allows for greater evening rest after a long day of work, but decreases the tiredness we feel throughout the day.*
-
-**Sticking to your Argument:** All of us come across many interesting stories, anecdotes, and sub-points that we want to share in writing our essays. However, it is important to stay sharply focused on the argument you are going to make in the essay. After you have finished writing your essay, read it through and for each paragraph and sentence ask yourself if it supported your argument, provided essential background to establishing your argument, or else if it does not offer much of a contribution. If it doesn't, cut it ruthlessly from your essay to make room for better material.
-
-Engaging with the historiography: What does this phrase mean? It means directly and explicitly acknowledging what historians have said about your topic and your specific question in existing work. Point out both positive contributions and problematic ones when appropriate. Who has worked on this before, and what specifically have they argued? See your essay as part of a larger conversation (it doesn't necessarily have to be an adversarial one) that includes previous historians.
+Engaging with the historiography: What does this phrase mean? It means directly and explicitly acknowledging what historians have said about your topic and your specific question in existing work. Point out both positive contributions and problematic ones when appropriate. Who has worked on this before, and what specifically have they argued? See your essay as part of a larger conversation (it doesn't necessarily have to be an adversarial one) that includes previous historians. Once you have considered those who have done research very close to your case or argument, also engage with the important historiography in the broader field most relevant to your topic.
 
 Some other questions to ask yourself as you write the long essay:
 
@@ -214,7 +205,7 @@ Some other questions to ask yourself as you write the long essay:
 * Does the essay show a good understanding of the sources used, and use them effectively in supporting my argument with clear and specific examples to enforce my points?
 * Does the essay avoid long quotations from secondary works whenever possible? Do I instead summarise, without plagiarising, and cite the work of secondary work except when the particular wording or language is key to the argument I wish to make?
 * Have I cited with footnotes all claims that are not a well-known and general historical fact.
-* Have I used a variety of appropriate sources?
+* Have I used a variety of appropriate sources to provide evidence in support of my claims?
 * Have I avoided using phrases like "many historians argue" or "much scholarship" or "it is often argued" and offer specific examples and citations?
 * Does the essay retain a strong focus on the main argument, and avoid passages which stray significantly from the main points?
 * Does the essay avoid being a summary or introduction to a particular topic, event, or person in order to make a clear argument that is falsifiable?
@@ -222,18 +213,20 @@ Some other questions to ask yourself as you write the long essay:
 * Is my argument non-trivial? That is, does it go beyond a well-known historical consensus about a topic?
 * Has the long essay engaged with the historiography on the relevant issue effectively throughout?
 * Does the essay consider alternative explanations, acknowledge inconvenient facts, and point out sources or historians who may have differing approaches?
-* Did I proofread my essay, check the spelling, and reread for sentences that are unclear?
+* Did I proofread my essay, check the spelling, and reread for sentences that are unclear? Did I avoid using imprecise or abstract terms when concrete ones would suit better?
 * Did I carefully follow the style guide for the School of History for all my footnotes?
-* Did I include a bibliography at the end of my essay and is it formatted according to the School of History style guide?
+* Did I include a bibliography at the end of my essay and is it formatted according to the School of History style guide? Does it have separate sections for primary and secondary sources?
 * Have I avoided using websites and newspaper articles not by academic authors to support my claims when there are good academic historical scholarship (in monograph, journal article, or online published forms)
-* Have I taken care that the background for the argument does not take up too much of the entire length of the essay (less than 25%, usually)
+* Have I taken care that the introduction, historiography and any background does not take up too much of the entire length of the essay (less than 25%, usually)
 * Did I include a word count in the header and followed the other header guidelines?
 
 ### Carrying Out Research for Essays
 
-When you have selected a question or topic for your longer essay the first, most obvious place to look for information on the topic is among the various books and articles that are assigned or proposed in this course, especially the further reading of each week. Early on, it is useful to focus on skimming through sources as you find them, noting carefully works of potential interest found in the footnotes or bibliographies of these works to help you broaden and then later focus in your research. As you find works of interest, make note of the authors and look for other articles or books by the same author, then repeat the process, looking again through the footnotes and bibliography for sources more specifically related to the topic you are researching.
+**Secondary then Primary**: When you have selected a question or broader topic for your longer essay the first, most obvious place to look for information on the topic is among the various books and articles that are assigned or proposed in this course, especially the further reading of each week. Early on, it is useful to focus on skimming through sources as you find them, noting carefully works of potential interest found in the footnotes or bibliographies of these works to help you broaden and then later focus in your research. "Scrape" the bibliography and footnotes of more general works in your area of interest, look those works up and then "scrape" the bibliography/footnotes of those works (move between recent books/articles and older ones to try to fill out your search better). Eventually you will get a broader shape of the landscape of research around your topic. Along the way you will get the feel for what the key works are, but also what more general works "up the ladder of abstraction" are often cited that influence the writers or help them establish basic categories and concepts. You hopefully also get an impression for what kinds of primary sources have been used in the past, or at least categories of sources that may be useful. Then dive into the primary sources, either those which you have found through the secondary scholarship, or which may have been neglected by it but which has potentially something to contribute.
 
-When you do not find enough through the above method of beginning your trail with our existing assigned works, proceed to search in various databases for relevant keywords:
+**Primary then Secondary**: Other students and scholars strongly prefer to avoid reading secondary research on a topic altogether (beyond very general background), but instead directly dive into a set of primary sources. Reading them, they look for things that stand out, which surprise, or shock them, then they return to the secondary scholarship. If your initial ideas and reading end up not working out and you need to pivot during the semester, this is often a great way to do it: instead of starting the process above from scratch, find a rich body of primary sources and dive deep with them. Even with time lost on one idea, some of the best essays I have read have emerged from a student who has read deeply on some initial topic, started over, and this time tried things the other way around, starting with a single collection of interesting historical primary sources.
+
+When you do not find enough through the above method of beginning your trail with our existing assigned works and module handbook bibliography, proceed to search in various databases for relevant keywords:
 
 * The secondary bibliography at the end of this handbook
 * The primary sources at the end of this handbook
@@ -248,20 +241,18 @@ When you do not find enough through the above method of beginning your trail wit
     * Try adding filetype:pdf to limit results to PDF files
 
 * Frog in a Well Primary Source Guides:
-    * [Modern Korean History](https://www.froginawell.net/frog/sources/primary-sources-modern-korean-history/)
+    * [History of Modern Shanghai](https://froginawell.net/frog/primary-sources-history-of-modern-shanghai/)
+    * [Missionary Perspectives on China](https://froginawell.net/frog/sources/primary-sources-missionary-perspectives-on-china/)
     * [History of Taiwan](https://www.froginawell.net/frog/sources/primary-sources-history-of-taiwan/)
+    * [Modern Korean History](https://www.froginawell.net/frog/sources/primary-sources-modern-korean-history/)
     * [History of Burma](https://www.froginawell.net/frog/sources/primary-sources-history-of-burma/)
     * [History of the Philippines](https://www.froginawell.net/frog/primary-sources-history-of-the-philippines/) (under construction)
     * [History of the Malay World](https://froginawell.net/frog/primary-sources-the-malay-world/)
-    * [Missionary Perspectives on China](https://froginawell.net/frog/sources/primary-sources-missionary-perspectives-on-china/)
-    * [History of Modern Shanghai](https://froginawell.net/frog/primary-sources-history-of-modern-shanghai/)
     * [Primary Source Nuggets](https://www.froginawell.net/frog/sources/primary-source-nuggets/)
 
-The long essays should at at least a dozen sources which are not websites and the inclusion of primary sources is strongly encouraged but not required if you choose to write a historiographical essay. An essay based on sources that are the results of a simple google search can be written in an evening of frantic last minute work, but rarely demonstrates much effort, research skill, or ability to isolate high-quality materials to support an argument. This is not because there are not excellent websites with overviews on a topic, excellent wikipedia entries, etc. but because there is still usually far greater quality material found in published articles and books on most historical topics, including those which are assigned above. It is wise to make use of online research skills to get oriented in a new topic, but use this course as an opportunity to explore the wealth of academic research on your topics. Your essays will be assessed, in part, on how effectively your sources demonstrate your research efforts. Of course, digitized primary (archival sources, documents) or secondary sources (e.g. articles in academic databases) found in digital collection are permitted and an online source or two in addition to your other sources beyond the minimum is fine if chosen carefully for quality.
+The long essays should use at least a dozen secondary sources which are not websites and the inclusion of several primary sources (their number depends very much on what you are doing with them) is strongly encouraged. An essay based on sources that are the results of a simple google search can be written in an evening of frantic last minute work, but rarely demonstrates much effort, research skill, or ability to isolate high-quality materials to support an argument. This is not because there are not excellent websites with overviews on a topic, excellent wikipedia entries, etc. but because there is still usually far greater quality material found in published articles and books on most historical topics, including those which are assigned above. It is wise to make use of online research skills to get oriented in a new topic, but use this course as an opportunity to explore the wealth of academic research on your topics. Your essays will be assessed, in part, on how effectively your sources demonstrate your research efforts. Of course, digitized primary (archival sources, documents) or secondary sources (e.g. articles in academic databases) found in digital collection are permitted and an online source or two in addition to your other sources beyond the minimum is fine if chosen carefully for quality.
 
-When you have found a good selection of a dozen or two sources through a process of skimming of footnotes and bibliographies etc., start your more detailed reading with something of broader coverage to give you some ideas of potential specific arguments or hypotheses. Then move swiftly and with more focus to search through the other sources in the specific sections that are likely to show whether your potential argument holds or not. In researching for an essay you rarely have to read an entire work, and even when you do so, you should skim less relevant sections. Unlike reading for pleasure, historical research involves reading as a hunt for answers to problems. If you find that your argument does not hold or has insufficient evidence to support it, zoom out again and restart the process.
-
-This circular movement is one very effective approach to historical research. Start broad, find potential key arguments and inspiring ideas. Moving quickly, test these ideas and arguments by searching in other sources and zooming into detailed cases and examples. If this doesn't work or is insufficient, zoom out again and repeat. Once you are happy with an argument and the available evidence, then read more slowly and with determination, taking more detailed notes, and outlining your essay as you go.
+The process described above of "scraping" footnotes and bibliographies is a stage which requires only rapid skimming and brisk movement across a large number of candidate materials. This might be combined with a closer reading of a good general work. Once you have a good body of secondary sources, you can return to works previously skimmed and read in a more informed targeted way. In researching for an essay you rarely have to read an entire work, and even when you do so, you should skim less relevant sections. Unlike reading for pleasure, historical research involves reading as a hunt for answers to problems. If you find that your argument does not hold or has insufficient evidence to support it, zoom out again and restart the process. This circular movement is one very effective approach to historical research. Start broad, find potential key arguments and inspiring ideas. Moving quickly, test these ideas and arguments by searching in other sources and zooming into detailed cases and examples. If this doesn't work or is insufficient, zoom out again and repeat. Once you are happy with an argument and the available evidence, then read more slowly and with determination, taking more detailed notes, and outlining your essay as you go.
 
 **The Worst Possible Way to Proceed:** Perhaps the worst possible way to do research for your essay is to find a dozen or two works on your broad topic by title search. This usually results in you finding several very general and introductory works on your topic. Allow this collection of books and articles to rest comfortably on your shelf until the deadline nears, and then sit down and attempt to read all these works and hope that your essay will emerge from the vast knowledge you have gained in reading these books.
 
@@ -269,23 +260,20 @@ This circular movement is one very effective approach to historical research. St
 
 The points that follow should be fairly clear from the questions posed above but are restated from the perspective of the marker of a very strong long essay:
 
-- The essay gives a clear presentation of its argument in the introduction of the essay
-- The essay is written well and has a clear structure.
-- The essay is within the word limit and of a sufficient length for its proposed scope.
+- **Important:** The essay gives a clear presentation of its argument in the introduction of the essay
+- The argument of the essay is not trivial, overly general, or merely represent a summary of the widely recognized academic consensus on a given topic
 - The argument is well signposted, with different sub-arguments of the essay clearly introduced with clear topical sentences.
-- The essay shows that extensive reading and research was done in order to write this essay.
-- The School of History Style Guide was carefully followed.
-- A well-formatted bibliography is provided showing that research was carried out using sources of an appropriate quality and number.
+- The essay shows that extensive reading and research was done in order to write this essay and the evidence is used effectively in support of the argument
 - The essay consistently cites its sources with footnotes and these footnotes are generally formatted well.
-- This essay employs evidence based on its sources in an effective manner.
-- Unless it is a historiographical essay, the essay works with primary sources which make a substantive contribution to its main argument.
 - The essay engages with the relevant historiography on this topic directly and effectively
 - The essay has a good balance between empirical examples and presenting evidence on the one hand, and strong analysis contributing to the argument on the other
-- The argument of the essay is not trivial, overly general, or merely represent a summary of the widely recognized academic consensus on a given topic
+- Unless it is a historiographical essay, the essay works with primary sources which make a substantive contribution to its main argument.
+- The essay is written well and has a clear structure.
+- The essay is within the word limit and of a sufficient length for its proposed scope.
+- The School of History Style Guide was carefully followed.
+- A well-formatted bibliography is provided showing that research was carried out using sources of an appropriate quality and number.
 
 \pagebreak
-
-
 
 ### Feedback
 
