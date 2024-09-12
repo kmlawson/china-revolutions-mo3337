@@ -33,16 +33,16 @@ This module traces the modern history of China through the lens of its most tran
 
 - 50% [Long Essay](#longessay) (4,000 Words) **10 December, 5pm**
 - 20% [Four Reading Analysis Posts](#posts) (2,500) **29 November, 5pm**
-- 15% [Essay Prospectus](#prospectus) (500 words) **31 October, 5pm**
+- 15% [Essay Prospectus](#prospectus) (500 words) **1 November, 5pm**
 - 15% [Presentation](#presentation) (10 minutes)
 
 **Formative** (Required to pass the module, but no grade given) 
  
 - [Three Elective Reading Handouts](#handouts)
-- Map Quiz
-- Two Event Quizzes
-- Essay Outline
-- *Optional*: Formative Presentation; Draft Prospectus 
+- [Map Quiz](#maps)
+- [Two Event Quizzes](#events)
+- [Essay Outline](#outline)
+- *Optional*: [Formative Presentation](#formative); [Draft Prospectus](#formative)
 
 ### Learning Outcomes
 
