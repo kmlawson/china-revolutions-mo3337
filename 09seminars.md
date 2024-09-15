@@ -1,10 +1,63 @@
 \newpage
 
-## Seminars
+# Seminars
+
+## Week 0 - Orientation
+
+This meeting was held online and a recording of it can be found on our Module Team, as well as a copy of the slides. It went over the structure for the module and the assessments.
 
 ## Week 1 - Introduction: Rebellion and Revolution {#reb}
 
-**Preparation:**
+#### Preparation
+
+**Required Reading**
+
+Over the summer, I advised students to read Ch 8-26 of any edition of *The Search for Modern China*. If you didn't find time for this over the summer, I would recommend you do work through the text. The relevant chapters for the week will be listed normally as background reading but only this week will they be listed as the required reading.
+
+Spence, Jonathan D. *The Search for Modern China* Ch 8-11 pp164-254 (in 3rd ed.)
+
+**Elective Reading**
+ 
+Read either category A or category B readings:
+ 
+(A) Taiping Rebellion
+ 
+- *Cambridge History of China* Vol. 11 ([Ebook](https://library.st-andrews.ac.uk/record=b2401941~S5)) 
+    - Ch 6 – The Taiping Rebellion (but can focus on pp274-281, pp291-297, pp316-317)
+    - This will provide you with a more detailed overview of the rebellion than Spence provides
+- *The Taiping Revolution* (1976) [Archive.org](https://archive.org/details/the-taiping-revolution/mode/1up)  
+    - Skim through this book, but especially read pp38-41, 152-159, 168-178
+    - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?
+ 
+(B) Boxer Rebellion
+ 
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9
+- *The Yi Ho Tuan Movement of 1900* (1976) [Archive.org](https://archive.org/details/the-yi-ho-tuan-movement-of-1900). 
+    - Skim through this book, but especially read pp12-13, 17-19, 23-24, 95-97, 119-128
+    - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?
+
+
+**To Watch**
+ 
+- Videos with Cai Chang, William C. Kirby, Peter K. Bol
+    * China X: Learn the (Major) [Dynasty Song](https://www.youtube.com/watch?v=2sF8tgmREPo#t=140) and be prepared to sing it in class. Practice [them here](https://froginawell.net/games/dynasty-song-game.html)
+    * China X: Watch the [Historical Overview](https://www.youtube.com/watch?v=XupdENYui-Y) for the 20th Century
+    * China X: Watch [Physical Geography](https://www.youtube.com/watch?v=LwsqKYHIYvU#t=10)
+    * China X: Watch [Ethnicity](https://www.youtube.com/watch?v=RZhYQz6D_bM)
+    * China X: Watch [Language](https://www.youtube.com/watch?v=SmP9iuK9NWw)
+    * China X: Watch [Written Language](https://www.youtube.com/watch?v=g5Hh-P-plF8)
+- Please watch 55 Days at Peking (available on [YouTube](https://www.youtube.com/watch?v=yJdGxLZ5qzE)) and as a DVD in the library.
+    - If you want to learn more about the film and its depiction of China, see “The Cold War in Three Acts” Naomi Greene ed. *From Fu Manchu to Kung Fu Panda: Images of China in American Film* (2014) pp120-136;  James Hevia *English Lessons: The Pedagogy of Imperialism in Nineteenth-Century China* pp327-9
+
+**To Review**
+
+Review resources here, practice some of the “China Timeline 1830s-1989” flashcards and review the provinces and cities on the map.
+ 
+[MO3337 Study Resources](https://muninn.net/modules/mo3337/)
+ 
+**Mao Reading**
+ 
+Please start your daily Mao reading, which you’ll be doing throughout the semester.
 
 * Moodle: Using the module Moodle "Presentation Signup" wiki, sign up for a week to do a presentation on one of the 10 weeks from 2-11. Choose a week with a theme you are interested in but have a backup in case you don't get your first choice. We will revisit this in class if you have any problems.
 * Our module is not a general survey of Chinese history but will focus in on the history of its revolutions. While you will get some general background video clips on Chinese history (see below) from week to week, I suggest you purchase an introductory survey text on modern Chinese history to read as the module goes along. A few of the most popular survey texts include:
@@ -16,43 +69,65 @@
 * Memorise the basic chronology in the student handbook up to 1927. Look up 2 of these events online and read a bit about them. Be prepared to say something you find interesting or curious about them.
 * Write down 2-3 things about revolution that you know, or alternatively, things that you are hoping to learn about
 * Most weeks you will be asked to watch a few clips from the Harvard China X online history course that, while often available from general textbooks, can be a fun visual way to get background information on the week’s topics. This first week, please watch the following clips:
-    * China X: Learn the (Major) [Dynasty Song](https://www.youtube.com/watch?v=2sF8tgmREPo#t=140) and be prepared to sing it in class.
-    * China X: Watch the [Historical Overview](https://www.youtube.com/watch?v=XupdENYui-Y) for the 20th Century
-    * China X: Whatch the [Space and Place](https://www.youtube.com/watch?v=5aqgxVuHCvc#t=13) video.
-    * China X: Watch [Physical Geography](https://www.youtube.com/watch?v=LwsqKYHIYvU#t=10)
-    * China X: Watch [Ethnicity](https://www.youtube.com/watch?v=RZhYQz6D_bM)
-    * China X: Watch [Language](https://www.youtube.com/watch?v=SmP9iuK9NWw)
-    * China X: Watch [Written Language](https://www.youtube.com/watch?v=g5Hh-P-plF8)
-* Look up William C. Kirby, Peter K. Bol and Mark C. Elliot. What kinds of history do each of these scholars do? They will be in a number of video clips from China X that we will use as a basic introduction to some background in the course.
+    * Look up William C. Kirby, Peter K. Bol and Mark C. Elliot. What kinds of history do each of these scholars do? They will be in a number of video clips from China X that we will use as a basic introduction to some background in the course.
 * ChinaX WorldMap: Visit and browse the spatial data layers for Qing, Republic, and People's Republic on the [China X WorldMap](http://worldmap.harvard.edu/maps/chinaX) (Turn off the pre-Qing layers for a clearer look). Use this map throughout the semester to help orient you in your reading.
 * Be ready to sing the dynasty song from the link above!
 
-**Overview:**
+#### Overview
 
-* Short Lecture: China, some of the basics, 19th century background to 20th century developments
-  * We will return to the pre-1911 period in Weeks 7 and 10.
-* Discuss: What things do you already know about the Chinese revolution, what do you want to know about?
-* Task: We will sing the dynasty song together
-* What this course will cover and not cover
-* Why revolutions in plural, 1911 and 1949, and the long/plural Communist revolutions in China?
-* Getting to know the course:
-    * The long essay as focus for semester efforts: start thinking about it now!
-    * Strategies for reading and preparation in this course
-    * Our shared notes document
-    * How presentations work
-* If Time: Discuss events you looked up and some of the aspects of them you found interesting.
+- Discuss: What things do you already know about the Chinese revolution, what do you want to know about?
+- Short Background Mini-lecture
+    - Why revolutions in plural, 1911 and 1949, and the long/plural Communist revolutions in China?
+    - The proposed logic for the structure of the module
+- Task: Form our two "small groups" (小组): "Red Heart" (红心) and "For the People" (为民)
+    - in each group, one volunteer will play the informal role of a "backbone element" (骨干分子) who can be relied upon to consistently and enthusiastically support the assigned tasks for group work, and serve as a model for discipline - never straying from their focus or getting distracted. We can swap this role later in the semester if anyone gets tired of being a backbone. 
+    - in each of the small groups, one or more students may be individually contacted during the semester to carry out special tasks as "activists" (积极分子)
+- Task: Form our "mutual aid groups" (互助小组) of with mostly three students.
+- Activity: First mutual aid group meeting to discuss topic ideas
+- Task: We will have our presentation week sign-ups (in person or recorded)
+- Task: We will sing the dynasty song together
+- Task: Assemble little red books
+- Task: Student presentation(s)
 
-**Long Essay Topics:**
+#### Long Essay Ideas
 
 * The late Qing dynasty was a period of great tumult. There were a large number of western missionaries and merchants in China during this time, however, who have left behind their papers, memoirs, and other records. This includes many from Scotland. As these primary sources are in English and other European languages, those without the ability to read East Asian languages can make use of these rich sources to explore this period.
-* Some of the great rebellions provide rich terrain for comparative study, or transnational study. For example, some of the American soldiers sent to join the repression of the Boxer movement were fresh from crushing revolution in the Philippines and Haiti. Look for some of the many interesting international connections to explore
+* The White Lotus rebellion, Taiping Rebellion, Nian rebellion, Boxer Rebellion, Muslim rebellions, "Miao" uprising in Guizhou, the Eight Trigrams Uprising, and others are all rich areas to explore conflict and rebellion in the late Qing dynasty.
+* Some of the great rebellions also provide rich terrain for comparative study, or transnational study. Westerners took part in the Taiping Rebellion or witnessed it at close hand. For example, some of the American soldiers sent to join the repression of the Boxer movement were fresh from crushing revolution in the Philippines and Haiti. You may look for some of the many interesting international connections to explore
 * Works published before 1923 can be found in great quantities on Archive.org, making this a great place to explore publications about China that can serve as primary sources if published near the time.
+
+#### Further Reading
+
+- Atwill, David G. *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873*. 2005.
+- Bickers, Robert. *The Scramble for China: Foreign Devils in the Qing Empire, 1832-1914*. 2016.
+- Bickers, Robert A., and R. G. Tiedemann. *The Boxers, China, and the World*. 2007.
+- Chu, Wen Djang. *The Moslem Rebellion in Northwest China, 1862 - 1878: A Study of Government Minority Policy*. 2011.
+- Dai, Yingcong. *The White Lotus War: Rebellion and Suppression in Late Imperial China*. 2019.
+- Daye, Zhang. *The World of a Tiny Insect: A Memoir of the Taiping Rebellion and Its Aftermath*. 2013.
+- Esherick, Joseph. *The Origins of the Boxer Uprising*. Electronic book. 1987.
+- Haar, Barend ter. *The White Lotus Teachings in Chinese Religious History*. 2021. [Link](https://brill.com/display/title/812).
+- Harrison, Henrietta. *The Missionary’s Curse and Other Tales from a Chinese Catholic Village*, 2013. [Link](https://www.ucpress.edu/book/9780520273122/the-missionarys-curse-and-other-tales-from-a-chinese-catholic-village).
+- Hevia, James L. *English Lessons: The Pedagogy of Imperialism in Nineteenth-Century China*. 2003.
+- Jenks, Robert D. *Insurgency and Social Disorder in Guizhou: The ‘Miao’ Rebellion, 1854–1873*. 1994.
+- Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64*. 2016.
+- Kuhn, Philip A. *Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864*. 1980.
+- Meyer-Fong, Tobie S. *What Remains: Coming to Terms with Civil War in 19th Century China*, 2013.
+- Michael, Franz H. *The Taiping Rebellion: History and Documents 3 Vols.*. 1971.
+- Perry, Elizabeth J. *Rebels and Revolutionaries in North China, 1845-1945*. 1983.
+- Platt, Stephen R. *Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War*. 2012.
+- Purcell, Victor. *The Boxer Uprising: A Background Study*. 1963.
+- Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. 2011.
+- Seiwert, Hubert. *Popular Religious Movements and Heterodox Sects in Chinese History*. 2003. [Link](https://brill.com/display/title/8270).
+- Spence, Jonathan D. *God’s Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan*. Reprint. 1996.
+- Wang, Wensheng. *White Lotus Rebels and South China Pirates: Crisis and Reform in the Qing Empire*. 2014.
+
+- See bibliography: [Qing Readings](#qing)
 
 \newpage
 
 ## Week 2 - From 1911 to May Fourth {#may}
 
-**Preparation:**
+#### Preparation
 
 * Start your research for your long essay!
 * Moodle: Post one or two or three ideas for your long essay to the Moodle in the form of a few sentences, and bring two printed copies to class for discussion. (By Class start)
@@ -91,7 +166,30 @@
 * Zhang, "General Review of the Study of the Revolution of 1911" 525-531 [jstor](https://doi.org/10.2307/2054680)
 * Mitter, "1911: The Unanchored Chinese Revolution" 1009-1020 [jstor](https://www.jstor.org/stable/41447787)
 
-**Further Reading:**
+#### Overview
+
+* Our discussion will be focused mostly on the the primary sources from the New Culture Movement with very brief discussion on historiography of 1911
+* Long essay topics and discussion on them.
+* Discussion on essay types, historiographical, primary source driven
+* Discussing the balance between narration and analysis in writing argumentative historical essays
+
+#### Questions
+
+1. In what sense was 1911 a revolution? Or, if you prefer, why does it not deserve the name?
+2. What kind of legacies did the revolution have and what lost opportunities were there?
+3. What are the longer term legacies of the May fourth movement?
+4. What are the ways that culture and politics are intertwined in this period?
+
+#### Long Essay Ideas
+
+* 1911 gave rise to a deeply chaotic period during which it is even harder than usual to generalise about changes across China. Consider exploring this early post-1911 period or the "warlord period" more broadly at the regional level.
+* Japan, individual Japanese figures, and Chinese in Japan played an important role in the late Qing period, during the 1911 revolution and in the aftermath. There are many aspects of this relationship which are worth examining more closely.
+* The new culture movement is an exciting transformative period. In addition to the many new debates being carried out among youth and students within Japan there are many Chinese increasingly active abroad. Focusing in on some aspect of the internationally based Chinese can be an interesting focus for an essay.
+* This period overlaps with intense competition among various Western powers and Japan for control in China which will intensify anti-imperialism around China
+* This is the period of the formation of the Communist Party in China and a period of far greater diversity of ideas and vision both within the party and among revolutionaries of various kinds. Focusing in on some aspect of this for a long essay can make use of a rich secondary literature and availability of translations of early Communist leaders.
+* There are lots of interesting comparisons to be made between the May 4th Movement and movements elsewhere. The work of Erez Manela on the "Wilsonian Moment" can give you some ideas both for this week, and broader ideas for transnational long essays throughout the essay.
+
+#### Further Reading
 
 * Hill, *Voting as a Rite : Changing Ideas of Elections in Early Twentieth Century China*, 149-219 (Ch 3 Voting in a New Republic 1912-13) (P)
 * Grieder, Jerome B. *Hu Shih and the Chinese Renaissance*
@@ -108,30 +206,7 @@
 * Fitzgerald, John. *Awakening China: Politics, Culture and Class in the Nationalist Revolution* (P)
 * Manela, Erez, “Imagining Woodrow Wilson in Asia: Dreams of East-West Harmony and the Revolt Against Empire in 1919,” *American Historical Review* (2006)
 
-**Overview:**
-
-* Our discussion will be focused mostly on the the primary sources from the New Culture Movement with very brief discussion on historiography of 1911
-* Long essay topics and discussion on them.
-* Discussion on essay types, historiographical, primary source driven
-* Discussing the balance between narration and analysis in writing argumentative historical essays
-
-**Questions:**
-
-1. In what sense was 1911 a revolution? Or, if you prefer, why does it not deserve the name?
-2. What kind of legacies did the revolution have and what lost opportunities were there?
-3. What are the longer term legacies of the May fourth movement?
-4. What are the ways that culture and politics are intertwined in this period?
-
-**Long Essay Topics:**
-
-* 1911 gave rise to a deeply chaotic period during which it is even harder than usual to generalise about changes across China. Consider exploring this early post-1911 period or the "warlord period" more broadly at the regional level.
-* Japan, individual Japanese figures, and Chinese in Japan played an important role in the late Qing period, during the 1911 revolution and in the aftermath. There are many aspects of this relationship which are worth examining more closely.
-* The new culture movement is an exciting transformative period. In addition to the many new debates being carried out among youth and students within Japan there are many Chinese increasingly active abroad. Focusing in on some aspect of the internationally based Chinese can be an interesting focus for an essay.
-* This period overlaps with intense competition among various Western powers and Japan for control in China which will intensify anti-imperialism around China
-* This is the period of the formation of the Communist Party in China and a period of far greater diversity of ideas and vision both within the party and among revolutionaries of various kinds. Focusing in on some aspect of this for a long essay can make use of a rich secondary literature and availability of translations of early Communist leaders.
-* There are lots of interesting comparisons to be made between the May 4th Movement and movements elsewhere. The work of Erez Manela on the "Wilsonian Moment" can give you some ideas both for this week, and broader ideas for transnational long essays throughout the essay.
-
-**Films of Interest:**
+#### Films of Interest
 
 * 1911 (2011) - An pretty awful movie with Jackie Chan
 * Xinhai Revolution (辛亥革命 - 2011) - Chinese TV miniseries on the revolution in 41 parts.

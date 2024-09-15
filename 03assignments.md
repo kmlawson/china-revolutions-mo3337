@@ -1,8 +1,8 @@
 # Assignments
 
-The **summative** assessed portion of the coursework for this module consists of **one long essay**, a **long essay prospectus**, one **ten minute presentation**, and four **reading analysis posts**. These will receive a mark according to the honours marking scale. In addition, students are required to come prepared every week having completed the required reading plus one elective reading category. Students will be expected to be able to articulate the main argument of each assigned reading or, absent one, its contribution to the week's theme. There are several **formative** assessments, most of which are required to pass the module, but do not receive a grade. These include a **map quiz**, **two event quizzes**, a **formative presentation** (optional), a draft prospectus (optional), essay outline, and three elective reading handouts.
+The **summative** assessed portion of the coursework for this module consists of **one long essay**, a **long essay prospectus**, one **ten minute presentation**, and four **reading analysis posts**. There are several **formative** assessments, most of which are required to pass the module, but do not receive a grade. These include a **map quiz**, **two event quizzes**, a **formative presentation** (optional), a draft prospectus (optional), essay outline, and three elective reading handouts.
 
-**Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Your handouts for an in person presentation should also be uploaded to both the presentation section of MMS and our Microsoft Team by midnight the evening before class when you give your presentation. 
+**Note:** Paper submissions are not requested for any of the assessments. You may upload the submissions directly onto MMS. Formative assessments are often shared on Teams for everyone.  
 
 ### Headers and Formatting
 
@@ -31,7 +31,7 @@ This document, sections 1-4, contains extremely valuable information on how to c
 
 In your bibliography, please have separate sections for your secondary sources and the primary sources you used.
 
-If you prefer **and do so consistently**, you may use the Chicago Style (Notes and Bibliography) over the St Andrews note formatting. I encourage you to manage your sources in a referencing tool such as [Zotero](https://www.zotero.org/) which makes it easy to automatically generate formatted notes and bibliography if you have the correct information for each source.
+If you prefer **and do so consistently**, you may use the Chicago Style (Notes and Bibliography) over the St Andrews note formatting. I encourage you to manage your sources in a referencing tool such as [Zotero](https://www.zotero.org/) to help manage your sources. 
 
 \pagebreak
 
@@ -41,11 +41,11 @@ If you prefer **and do so consistently**, you may use the Chicago Style (Notes a
 
 Being able to synthesise reading and present ideas orally in class is a key skill and you will have opportunities to improve this skill during the semester in four ways: 1) You will be formally assessed on **one presentation**. 2) If you are presenting in Week 3-11, you may submit a recorded formative presentation to get some early feedback on your presentation skills in an office hour meeting. 3) In addition, in any given week, if asked, you should be prepared to speak to the class for 2-3 minutes about the elective reading you have signed up for that week. You should be able to introduce the reading to other students who may not have read the reading, and articulate its main contributions to the week's themes in a concise manner. If you are uncomfortable with being called on in this way about elective readings, please get in touch so we can discuss other options. 4) You will often be asked to discuss readings and questions in groups.
 
-Their will be up to 11 ten minute assessed-presentations delivered in person (sign up in Week 1) and other presentations are recorded. In-person presentations require a handout but should not have slides. Recorded presentations have slides, but do not need a handout. Slides or handout should be submitted to MMS by the day before your presentation. Recorded presentations must be uploaded to the team at least 48 hour before our class begins so everyone has a chance to watch it. See the content session below for information about what to present on.
+Sign-ups for in-person presentations are in Week 1 and are limited in numbers. Other presentations are recorded. In-person presentations require a handout but should not have slides. Recorded presentations have slides, but no handout. Slides or handout should be submitted to MMS by the day before your presentation as well as shared on Teams for everyone. Recorded presentations must be uploaded to the team at least 48 hour before our class begins so everyone has a chance to watch it. See the content session below for information about what to present on.
 
 **Recorded Presentation** 
 
-The recorded presentation has slides but no handout. Record your voice over slides in Apple Keynote, in Powerpoint, or some other application, **but this must export the result as a movie file** for sharing with your teammates - you may not submit a powerpoint or keynote file and it should be a standalone video file that you share with the class via Teams (you can upload the simple slides or exported PDF of slides to MMS). The advantage to a recorded presentation is that you can do this entirely from the comfort of your own home and no supplementary handout is required. The disadvantage is that you must submit the video *at least 3 days before the class* related to the content, or you will receive a late penalty for each day as if it were an essay submitted late. A strong first class recorded presentation will not have very text heavy slides, will have an excellent connection between visual, textual, content and linking of slide content and spoken word, and will be delivered in a dynamic manner. 
+The recorded presentation has slides but no handout. Record your voice over slides in Apple Keynote, in Powerpoint, or some other application, **but this must export the result as a movie file** for sharing with your teammates - you may not submit a powerpoint or keynote file and it should be a standalone video file that you share with the class via Teams (you can upload the simple slides or exported PDF of slides to MMS). You must submit the video *at least 48 hours before the class* related to the content, or you will receive a late penalty for each day as if it were an essay submitted late. A strong first class recorded presentation will not have very text heavy slides, will have an excellent connection between visual, textual, content and linking of slide content and spoken word, and will be delivered in a dynamic manner. 
 
 - IMPORTANT: You must submit a movie to teams for sharing with the class - *not a powerpoint file with embedded sound, and not a keynote file*, but a movie file. Again: you must submit a movie file (MP4, etc.). The MMS upload can be a pdf or slides file.
 - Confirm that your movie can be viewed using the open source software [VLC](https://www.videolan.org/). 
@@ -58,14 +58,14 @@ The recorded presentation has slides but no handout. Record your voice over slid
 
 **In-Person Presentation**
 
-We will have 10 or 11 slots during the semester for in-person presentations during class, first come, first serve via sign-up list on week 1. The advantage is that you give the talk without any slides, and you may prepare until the day of the class related to the content of your presentation. You don't have worry about exporting to a movie file, or be concerned about audibility of your voice, etc. You are also expected to produce a supplementary handout (single side of a single page) and answer one or two questions directed at you after your presentation. A strong first class live dissertation will not be read from an exact transcript, nor will it reproduce exactly content from any handout bullet points: it will be well-practiced and allow the student to spend most of the presentation looking around the room at their audience.
+We will have a limited number of slots during the semester for in-person presentations, first come, first serve via sign-up list on week 1. You are expected to produce a supplementary handout (single side of a single page) and answer one or two questions directed at you after your presentation. A strong first class live dissertation will not be read from an exact transcript, nor will it reproduce exactly content from any handout bullet points: it will be well-practiced.
 
 - Use the handout to indicate the overall structure of your presentation and key points you will make. You may include some basic names, events, or places of importance, or any key quotes.
 - The handout should be shared via the Team by the beginning of class to the appropriate folder and be named strictly as follows: the week number, your first name, and a title of the text your presentation is about. For example: "W5 - Sarah - The Book Title"
 
 **Presentation Content** 
 
-Unless you secure permission for a special topic from me, the topic of your presentation should be a *single author* monograph (not an edited volume of different chapters) from among those approved for the given week of your presentation. Throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on. Many of these are found in the further reading section. If the work is in the required or elective reading section, however, **your presentation should cover the entirety of the work**, not merely any assigned chapters. 
+Unless you secure permission for a special topic from me, the topic of your presentation should be a *single author* monograph (not an edited volume of different chapters) from among those approved for the given week of your presentation. Throughout the seminar readings provided below you will see a (P) next to appropriate texts you may present on (don't forget to check the further reading for options). If the work is in the required or elective reading section, however, **your presentation should cover the entirety of the work**, not merely any assigned chapters. 
 
 Because you are presenting on the work *as a whole* the presentation assessment, it is impossible to cover everything. You can tell us what aspects of the book you will focus on and which ones you will say little or nothing about based on their importance overall. You must have read to book as a whole, however, to know what is important or not important to present. This presentation will evaluate your demonstration of your ability to: 
 
@@ -75,7 +75,9 @@ Because you are presenting on the work *as a whole* the presentation assessment,
 - make use of a spoken rather than a written register that engages the listener
 - avoid exactly reproducing the content of a handout and don't sound like you are using bullet points
 
-The assessed presentation should be 5 minutes in length for in person and 8 minutes in length for recorded presentations *and not a minute longer*. Being slightly under the time limit is fine. The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and include at least some consideration of your critical evaluation: discuss at least one limitation or shortcoming. This should be substantive, based on an evaluation of concrete content, not superficial ("it was too long", "it was boring", "it was too theoretical"). It should *not* a detailed and exhaustive retelling of the content: it should highlight the arguments, strengths and set the context. Nor is your goal to determine whether or not you can "recommend" that someone should read a book. Part (but not all) of the presentation may offer greater detail on a particularly important section. 
+The assessed presentation should be 10 minutes in length *and not a minute longer*. Being slightly under the time limit is fine. The presentation should summarise the main arguments, point out what was most interesting or useful as a takeaway from the chosen text, and include at least some consideration of your critical evaluation: discuss at least one limitation or shortcoming. This should be substantive, based on an evaluation of concrete content, not superficial or based on your own enjoyement of the text (avoid "it was too long", "it was boring", "it was too theoretical", etc.). It should *not* a detailed and exhaustive retelling of the content: it should set the context, highlight the arguments, strengths, contributions, and offer an evaluation. Nor is your goal to determine whether or not you can "recommend" that someone should read a book. Part (but not all) of the presentation may offer greater detail on a particularly important section. 
+
+\pagebreak
 
 **What Ifs**
 
@@ -94,6 +96,10 @@ If you have signed up for an in person presentation and you are sick or otherwis
 * Was there a good balance of arguments, examples to support them, and critique?
 * Did the presentation avoid being a presentation of a series of bullet-point style facts?
 * Did the presentation make an effort to connect the readings to other readings for the day or find ways to connect to the reading and discussion from previous weeks?
+
+#### Formative Presentation {#formativepres}
+
+Presentations can be a stressful assessment for some students and practice helps. Any student who has signed up for a presentation from Week 3-11 may submit a recording of a 3 minute presentation focused on one of our required or elective readings (just an article or a chapter is fine from within the assigned material of any kind) and book an office hour to get feedback on this presentation and suggestions for their assessed presentation. Keep in mind you will need to share this on the team in the folder labeled as such at least a full day before office hours to leave time for your tutor to watch it and be able to give feedback.
 
 \pagebreak
 
@@ -135,7 +141,7 @@ During the semester, you are required to submit at least **three elective readin
 - The whole thing may be in the form of hierarchical bullet points if you like, but make most of these full sentences whenever possible, rather than fragmented phrases except when outlining structure or listing things. 
 - No smaller than size 10 font. No need for images
 
-# Prospectus, Argument, and Indicative Bibliography {#prospectus}
+## Prospectus and Indicative Bibliography {#prospectus}
 
 **15% abstract, overview, and bibliography of a minimum of 12 secondary sources for your long essay due Friday Week 7 5pm**
 
@@ -147,15 +153,27 @@ During the semester, you are required to submit at least **three elective readin
 
 If you shared a draft prospectus earlier, include a copy of the first draft prospectus after your submission (obviously, this doesn't count against your word count). You will be **primarily** be evaluated on whether your argument clear, your scope realistic, your structure logical, and if you included an earlier draft, how you have developed your ideas in response to your first prospectus (if you have changed topics, which is not at all uncommon, you should still work on improving the quality of the proposal). You will be only **secondarily** marked on the overall historical merit of your proposal, whether the sources appropriate for the task, and whether the structure and scope indicated by your prospectus are well crafted.
 
+#### Draft Prospectus {#formative} 
+
+You will have an opportunity (optional) to share a draft of your prospectus on Teams for our Week 4 meeting. We will meet in groups to get peer feedback and you may get oral feedback from me in office hours. I may also offer some suggestions in replies to the posts on Teams or in class.
+
+## Map Quiz {#maps}
+
+In Week 2 there will be a formative map quiz (required but not graded). To prepare for this review the interactive [map online here](https://muninn.net/modules/mo3337/map/). You will be given a map and asked to label as many of the provinces and key cities you can. You will also be asked to draw the courses of the Yellow river and the Yangzi. The quiz will be peer graded.
+
+## Event Quizzes {#events}
+
+There will be two event Quizzes, in Week 3 and Week 5. The first of these will be on the "China Timeline 1830s-1989" set of events which you can [review directly online here](https://muninn.net/modules/mo3337/flash/). The second will be on one of the supplemental event lists of your chosing (there are "small" and "large" packets, the in-class quiz will be based on the small packets). By the second week you should [choose one of the main periods covered by the module](#eras) which will determine which set of events you will be quizzed on for the second quiz. 
+
 ## Long Essay {#longessay}
 
 The 4,000 word essay (including footnotes) for the course is worth 50% of the total coursework. It may be up to 5,000 words without penalty (as opposed to the penalty starting at 10% limit over 4,400). Penalties for longer essays are then are as normal. 5,001 words receives a -1 penalty, and 5,401 a -2 penalty, 5,801 a -3 penalty and so on. 
 
-This is not an essay you research and compose in the final weeks of the semester. You cannot expect to receive a good or excellent mark if you begin your essay late. This essay requires you to make progress on it throughout the semester. Again: **You must set aside several hours every week to work on this essay**. Narrow down an area of interest, read within this area of interest, isolate a few themes of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
+This is not an essay you research and compose in the final weeks of the semester. This essay requires you to make progress on it throughout the semester. Again: **You must set aside several hours every week to work on this essay**. Narrow down an area of interest, read within this area of interest, isolate a few themes of interest, carry out further reading and analysis, and then proceed to write an essay which makes a convincing historical argument. 
 
 Some class time in most weeks will be dedicated to discussing the essay. It is not uncommon for a student to change topics once or twice during the semester, as the feasibility of one topic or another is evaluated and the sources explored. I don't recommend bigger topic changes after Week 7. My suggestion is that you answer two questions for yourself very early in your research: 1) Once you have a general topic or area of history you are interested in, think about what kinds of arguments or historical approaches have been applied to this area before that will serve as the starting point for your intervention? 2) What kinds of primary sources do you have realistic access to for use in the essay. Most first class essays will show an ability to carry out original research that includes use and analysis of **primary sources**, but students may choose to do a historiographical essay instead. It is harder, but by no means impossible, to meet the first class grade descriptors for a historiographical essay.
 
-### Topics for the Essay
+### Topics for the Essay {#eras}
 
 Your essay should be an **argument driven** analytic research essay. The title should aim to be similar to that of an academic article. Academic articles rarely have questions in their title and instead suggest the topic, scope, and argument that the reader will find in the essay. You should write your essay on a topic which falls within the scope of one of the following general areas:
 
@@ -164,6 +182,8 @@ Your essay should be an **argument driven** analytic research essay. The title s
 - China during the second Sino-Japanese War (1937-1945)
 - The rise of the CCP and the Chinese Civil War (1921-1949)
 - China during the Maoist period and up to 1989 (1949-1989)
+
+Please choose one of these eras to focus on by the second week. That will also determine the supplemental event list for your second quiz.
 
 *Journals for Inspiration:* I would suggest browsing some of the following journals, and especially note articles that fit the above description:
 
@@ -222,9 +242,11 @@ Some other questions to ask yourself as you write the long essay:
 
 ### Carrying Out Research for Essays
 
-**Secondary then Primary**: When you have selected a question or broader topic for your longer essay the first, most obvious place to look for information on the topic is among the various books and articles that are assigned or proposed in this course, especially the further reading of each week. Early on, it is useful to focus on skimming through sources as you find them, noting carefully works of potential interest found in the footnotes or bibliographies of these works to help you broaden and then later focus in your research. "Scrape" the bibliography and footnotes of more general works in your area of interest, look those works up and then "scrape" the bibliography/footnotes of those works (move between recent books/articles and older ones to try to fill out your search better). Eventually you will get a broader shape of the landscape of research around your topic. Along the way you will get the feel for what the key works are, but also what more general works "up the ladder of abstraction" are often cited that influence the writers or help them establish basic categories and concepts. You hopefully also get an impression for what kinds of primary sources have been used in the past, or at least categories of sources that may be useful. Then dive into the primary sources, either those which you have found through the secondary scholarship, or which may have been neglected by it but which has potentially something to contribute.
+**Secondary to Primary**: When you have selected a question or broader topic for your longer essay the first, one common approach is to look for information on the topic among the various books and articles that are assigned or proposed in this course, especially the further reading of each week. This is the "secondary to primary" approach. Early on, it is useful to focus on skimming through sources as you find them, noting carefully works of potential interest found in the footnotes or bibliographies of these works to help you broaden and then later focus in your research. "Scrape" the bibliography and footnotes of more general works in your area of interest, look those works up and then "scrape" the bibliography/footnotes of those works (move between recent books/articles and older ones to try to fill out your search better). Eventually you will get a broader shape of the landscape of research around your topic. Along the way you will get the feel for what the key works are, but also what more general works "up the ladder of abstraction" are often cited that influence the writers or help them establish basic categories and concepts. You hopefully also get an impression for what kinds of primary sources have been used in the past, or at least categories of sources that may be useful. Then dive into the primary sources, either those which you have found through the secondary scholarship, or which may have been neglected by it but which has potentially something to contribute.
 
-**Primary then Secondary**: Other students and scholars strongly prefer to avoid reading secondary research on a topic altogether (beyond very general background), but instead directly dive into a set of primary sources. Reading them, they look for things that stand out, which surprise, or shock them, then they return to the secondary scholarship. If your initial ideas and reading end up not working out and you need to pivot during the semester, this is often a great way to do it: instead of starting the process above from scratch, find a rich body of primary sources and dive deep with them. Even with time lost on one idea, some of the best essays I have read have emerged from a student who has read deeply on some initial topic, started over, and this time tried things the other way around, starting with a single collection of interesting historical primary sources.
+**Primary then Secondary**: Other students and scholars argue that you should avoid reading closely related secondary research on a topic in the first stage (beyond very general background), but instead directly dive into a set of relevant primary sources. Reading these, they look for things that stand out or which surprise or shock them, then they return to the secondary scholarship. If your initial ideas and reading end up not working out and you need to pivot during the semester, this is often a great way to do it: instead of starting the process above from scratch, find a rich body of primary sources and dive deep with them. Even with time lost on one idea, some of the best essays I have read have emerged from a student who has read deeply on some initial topic, started over, and this time tried things the other way around, starting with a single collection of interesting historical primary sources. 
+
+Whichever of these general approaches you take, in reality all students and scholars will need to move back and forth multiple times between primary and secondary sources as they refine their research questions and their proposed arguments.
 
 When you do not find enough through the above method of beginning your trail with our existing assigned works and module handbook bibliography, proceed to search in various databases for relevant keywords:
 
@@ -255,6 +277,10 @@ The long essays should use at least a dozen secondary sources which are not webs
 The process described above of "scraping" footnotes and bibliographies is a stage which requires only rapid skimming and brisk movement across a large number of candidate materials. This might be combined with a closer reading of a good general work. Once you have a good body of secondary sources, you can return to works previously skimmed and read in a more informed targeted way. In researching for an essay you rarely have to read an entire work, and even when you do so, you should skim less relevant sections. Unlike reading for pleasure, historical research involves reading as a hunt for answers to problems. If you find that your argument does not hold or has insufficient evidence to support it, zoom out again and restart the process. This circular movement is one very effective approach to historical research. Start broad, find potential key arguments and inspiring ideas. Moving quickly, test these ideas and arguments by searching in other sources and zooming into detailed cases and examples. If this doesn't work or is insufficient, zoom out again and repeat. Once you are happy with an argument and the available evidence, then read more slowly and with determination, taking more detailed notes, and outlining your essay as you go.
 
 **The Worst Possible Way to Proceed:** Perhaps the worst possible way to do research for your essay is to find a dozen or two works on your broad topic by title search. This usually results in you finding several very general and introductory works on your topic. Allow this collection of books and articles to rest comfortably on your shelf until the deadline nears, and then sit down and attempt to read all these works and hope that your essay will emerge from the vast knowledge you have gained in reading these books.
+
+#### Essay Outline {#outline} 
+
+Anytime between Week 8-11 you should submit an outline of your essay which includes an overview of how you are thinking of structuring your essay. This should also include a tentative essay title, the argument (updated from your prospectus), and hierarchical bullet points that follow the structure of your essay. You can do this down to the level of paragraphs, but don't include whole paragraphs of text in the outline, just generalized overviews. At the bottom you may include a list of 2-3 questions that you are concerned about or problems you would like advice on. Then book an office hour and come and discuss your outline with me. Make sure you have emailed a copy of your outline to Konrad at least a full 24 hours or more before you meet Konrad in office hours.
 
 ### How your Long Essay is Evaluated
 

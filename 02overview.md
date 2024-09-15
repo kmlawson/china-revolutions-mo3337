@@ -42,7 +42,7 @@ This module traces the modern history of China through the lens of its most tran
 - [Map Quiz](#maps)
 - [Two Event Quizzes](#events)
 - [Essay Outline](#outline)
-- *Optional*: [Formative Presentation](#formative); [Draft Prospectus](#formative)
+- *Optional*: [Formative Presentation](#formativepres); [Draft Prospectus](#formative)
 
 ### Learning Outcomes
 
