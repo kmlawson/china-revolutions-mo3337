@@ -12,9 +12,9 @@ This meeting was held online and a recording of it can be found on our Module Te
 
 **Required Reading**
 
-Over the summer, I advised students to read Ch 8-26 of any edition of *The Search for Modern China*. If you didn't find time for this over the summer, I would recommend you do work through the text. The relevant chapters for the week will be listed normally as background reading but only this week will they be listed as the required reading.
-
 Spence, Jonathan D. *The Search for Modern China* Ch 8-11 pp164-254 (in 3rd ed.)
+
+Over the summer, I advised students to read Ch 8-26 of any edition of *The Search for Modern China*. If you didn't find time for this over the summer, I would recommend you do continue to work through the text for that chapter range. The relevant chapters for the week will be listed normally as "background reading" but only this week will they be listed as the required reading.
 
 **Elective Reading**
  
@@ -134,6 +134,34 @@ Please start your daily Mao reading, which you’ll be doing throughout the seme
 * Begin your reading with Rana Mitter's overview in *Bitter Revolution* as it will help you make sense of the rest of it.
 * The reading is relatively heavy this week, please give the primary sources a close look over and don't forget to bring them to class
 * Have a look at these posters from post-1949: [May 4 Posters Landsberger Collection](http://chineseposters.net/themes/may-fourth-movement.php)
+
+**Required Reading:**
+
+Primary Sources:
+
+- Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
+- Mao, [The Suicide of Miss Zhao](https://www.marxists.org/reference/archive/mao/works/1919/miss-chao.htm)
+- SOURCES *Sources of Chinese Tradition* [library ebook](https://library.st-andrews.ac.uk/record=b2005711~S5)
+    - Ch 32: Hu Hanmin, "The Six Principles of the People's Report" (4) 
+    - Ch 32: Sun Yat-sen "The Three People's Principles" (11) 
+    - Hu Shi and Chen Duxiu: 
+        - CDX: "The Way of Confucius and Modern Life" (3)
+        - HS: "A Preliminary Discussion of Literary Reform" (4)
+        - CDX: "On Literary Revolution" (1)
+        - HS: "Constructive Literary Revolution..." (2)
+        - CDX: "The True Meaning of Life" (1)
+        - HS: "Pragmatism" (2)
+        - HS: "Science and Philosophy of Life" (2) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=344&docID=908711&tm=1516826965459)
+        - "Declaration for Cultural Construction on a Chinese Basis" (1) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=354&docID=908711&tm=1516827015458)
+        - HS: "Criticism of the 'Declaration for Cultural Construction on a Chinese Basis'" [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=356&docID=908711&tm=1516827096012)
+
+Secondary Sources:
+
+- Mitter, Rana "1911: The Unanchored Chinese Revolution" 1009-1020 [jstor](https://www.jstor.org/stable/41447787)
+- Mitter, Rana *A Bitter Revolution*, 3-40, 102-152 (Ch 1, 4) [Ebook](https://library.st-andrews.ac.uk/record=b3294255~S5)
+
+**To Watch**
+
 * Watch the following ChinaX videos:
     * X [End of Empire](https://www.youtube.com/watch?v=mbiF6ZATBOY)
     * X [Regional Militarisation](https://www.youtube.com/watch?v=SKbQ8zyYUAk)
@@ -144,31 +172,10 @@ Please start your daily Mao reading, which you’ll be doing throughout the seme
     * X [Chen Duxiu and New Youth](https://www.youtube.com/watch?v=C8-Av-XGob4)
     * X [Bai Hua](https://www.youtube.com/watch?v=RabetsH7vPE)
 
-**Reading:**
-
-* Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
-* Mao, [The May 4th Movement](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm)
-* Mao, [The Suicide of Miss Zhao](https://www.marxists.org/reference/archive/mao/works/1919/miss-chao.htm)
-* SOURCES (32)  Sources of Chinese Tradition [library ebook](http://st-andrews.eblib.com/patron/FullRecord.aspx?p=908711)
-    * Ch 32: Hu Hanmin, "The Six Principles of the People's Report" (4) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=292&docID=908711&tm=1516826679220)
-    * Ch 32: Sun Yat-sen "The Three People's Principles" (11) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=295&docID=908711&tm=1516826693389)
-    * Hu Shi and Chen Duxiu: [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=324&docID=908711&tm=1516826711118)
-        * CDX: "The Way of Confucius and Modern Life" (3)
-        * HS: "A Preliminary Discussion of Literary Reform" (4)
-        * CDX: "On Literary Revolution" (1)
-        * HS: "Constructive Literary Revolution..." (2)
-        * CDX: "The True Meaning of Life" (1)
-        * HS: "Pragmatism" (2)
-        * HS: "Science and Philosophy of Life" (2) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=344&docID=908711&tm=1516826965459)
-        * "Declaration for Cultural Construction on a Chinese Basis" (1) [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=354&docID=908711&tm=1516827015458)
-        * HS: "Criticism of the 'Declaration for Cultural Construction on a Chinese Basis'" [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=356&docID=908711&tm=1516827096012)
-* Mitter, *A Bitter Revolution*, 3-40, 102-152 (Ch 1, 4)
-* Zhang, "General Review of the Study of the Revolution of 1911" 525-531 [jstor](https://doi.org/10.2307/2054680)
-* Mitter, "1911: The Unanchored Chinese Revolution" 1009-1020 [jstor](https://www.jstor.org/stable/41447787)
 
 #### Overview
 
-* Our discussion will be focused mostly on the the primary sources from the New Culture Movement with very brief discussion on historiography of 1911
+* Our discussion will be focused mostly on the primary sources from the New Culture Movement with very brief discussion on historiography of 1911
 * Long essay topics and discussion on them.
 * Discussion on essay types, historiographical, primary source driven
 * Discussing the balance between narration and analysis in writing argumentative historical essays
@@ -191,14 +198,17 @@ Please start your daily Mao reading, which you’ll be doing throughout the seme
 
 #### Further Reading
 
+* Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
+* Mao, [A Study of Physical Educaiton](https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_01.htm)
+* Mao, [Oppose Stereotyped Party Writing](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_07.htm) - Only the first few paragraphs which refer to May 4th. Note that this takes place in the midst of the 1942 "Rectification Movement"
+* [Commentary on the Suicide of Miss Zhao](https://ethicsofsuicide.lib.utah.edu/selections/mao/)
+
 * Hill, *Voting as a Rite : Changing Ideas of Elections in Early Twentieth Century China*, 149-219 (Ch 3 Voting in a New Republic 1912-13) (P)
 * Grieder, Jerome B. *Hu Shih and the Chinese Renaissance*
 * Cambridge History of China v11, 463-534 (Ch 9 Republican Revolutionary Movement)
 * Rankin, *Early Chinese Revolutionaries*
 * Esherick, Joseph W. *Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei*. (P)
-* Mao, [Oppose Stereotyped Party Writing](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_07.htm) - Only the first few paragraphs which refer to May 4th. Note that this takes place in the midst of the 1942 "Rectification Movement"
 * Chow, *The May Fourth Movement* (P)
-* [Commentary on the Suicide of Miss Zhao](https://ethicsofsuicide.lib.utah.edu/selections/mao/)
 * Smith, *Like Cattle and Horses*, 92-115 (Ch 5 The May Fourth Movement) (P)
 * Grieder, *Hu Shih and the Chinese Renaissance* (P)
 * Schwarcz, *The Chinese Enlightenment: Intellectuals and the Legacy of the May Fourth Movement* (P)
