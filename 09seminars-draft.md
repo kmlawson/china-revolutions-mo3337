@@ -8,13 +8,13 @@ This meeting was held online and a recording of it can be found on our Module Te
 
 ## Week 1 - Introduction: Rebellion and Revolution {#reb}
 
-### Required Reading
+#### Required Reading
 
 Spence, Jonathan D. *The Search for Modern China* Ch 8-11 pp164-254 (in 3rd ed.)
 
 Over the summer, I advised students to read Ch 8-26 of any edition of *The Search for Modern China*. If you didn't find time for this over the summer, I would recommend you do continue to work through the text for that chapter range. The relevant chapters for the week will be listed normally as "background reading" but only this week will they be listed as the required reading.
 
-### Elective Reading
+#### Elective Reading
  
 Read either category A or category B readings:
  
@@ -35,7 +35,7 @@ Read either category A or category B readings:
     - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?
 
 
-### To Watch
+#### To Watch
  
 - Videos with Cai Chang, William C. Kirby, Peter K. Bol
     * China X: Learn the (Major) [Dynasty Song](https://www.youtube.com/watch?v=2sF8tgmREPo#t=140) and be prepared to sing it in class. Practice [them here](https://froginawell.net/games/dynasty-song-game.html)
@@ -47,13 +47,13 @@ Read either category A or category B readings:
 - Please watch 55 Days at Peking (available on [YouTube](https://www.youtube.com/watch?v=yJdGxLZ5qzE)) and as a DVD in the library.
     - If you want to learn more about the film and its depiction of China, see “The Cold War in Three Acts” Naomi Greene ed. *From Fu Manchu to Kung Fu Panda: Images of China in American Film* (2014) pp120-136;  James Hevia *English Lessons: The Pedagogy of Imperialism in Nineteenth-Century China* pp327-9
 
-### To Review
+#### To Review
 
 Review resources here, practice some of the “China Timeline 1830s-1989” flashcards and review the provinces and cities on the map.
  
 [MO3337 Study Resources](https://muninn.net/modules/mo3337/)
  
-### Mao Reading
+#### Mao Reading
  
 Please start your daily Mao reading, which you should continue throughout the semester.
 
@@ -71,7 +71,7 @@ Please start your daily Mao reading, which you should continue throughout the se
 * ChinaX WorldMap: Visit and browse the spatial data layers for Qing, Republic, and People's Republic on the [China X WorldMap](http://worldmap.harvard.edu/maps/chinaX) (Turn off the pre-Qing layers for a clearer look). Use this map throughout the semester to help orient you in your reading.
 * Be ready to sing the dynasty song from the link above!
 
-### Overview
+#### Overview
 
 - Discuss: What things do you already know about the Chinese revolution, what do you want to know about?
 - Short Background Mini-lecture
@@ -89,14 +89,14 @@ Please start your daily Mao reading, which you should continue throughout the se
 - Activity: Student presentation(s)
 - Activity: Discussion on depictions of these rebellions and their motivations
 
-### Long Essay Ideas
+#### Long Essay Ideas
 
 * The late Qing dynasty was a period of great tumult. There were a large number of western missionaries and merchants in China during this time, however, who have left behind their papers, memoirs, and other records. This includes many from Scotland. As these primary sources are in English and other European languages, those without the ability to read East Asian languages can make use of these rich sources to explore this period.
 * The White Lotus rebellion, Taiping Rebellion, Nian rebellion, Boxer Rebellion, Muslim rebellions, "Miao" uprising in Guizhou, the Eight Trigrams Uprising, and others are all rich areas to explore conflict and rebellion in the late Qing dynasty.
 * Some of the great rebellions also provide rich terrain for comparative study, or transnational study. Westerners took part in the Taiping Rebellion or witnessed it at close hand. For example, some of the American soldiers sent to join the repression of the Boxer movement were fresh from crushing revolution in the Philippines and Haiti. You may look for some of the many interesting international connections to explore
 * Works published before 1923 can be found in great quantities on Archive.org, making this a great place to explore publications about China that can serve as primary sources if published near the time.
 
-### Further Reading
+#### Further Reading
 
 For sources see Ch 3 and Ch 5 in *Sources in Chinese History: Diverse Perspectives from 1644 to the Present* and  Michael, Franz H. *The Taiping Rebellion: History and Documents 3 Vols.*. 1971.
 
@@ -129,7 +129,7 @@ See bibliography: [Qing Readings](#qing)
 ## Week 2 - From 1911 to May Fourth {#may}
 
 
-### Required Reading
+#### Required Reading
 
 Primary Sources (39pp):
 
@@ -159,7 +159,7 @@ Secondary Sources (93pp):
 - Mitter, Rana *A Bitter Revolution*, 3-40 Ch 1 "Flashpoint: 4 May 1919: The Making of a New China" [Ebook](https://library.st-andrews.ac.uk/record=b3294255~S5)
 - Lanza, Fabio. ‘Of Chronology, Failure, and Fidelity: When Did the May Fourth Movement End?’ *Twentieth-Century China* 38, no. 1 (2013): 53–70. [Link](https://muse.jhu.edu/pub/1/article/653520).
 
-### Elective Reading
+#### Elective Reading
 
 - **(A) Manchus and Han** -  Rhoads, Edward J. M. *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928*. 2000. [Link](https://library.st-andrews.ac.uk/record=b3608378~S5) Intro pp3-10 + Ch 4 "The 1911 Revolution" pp173-230 (P)
 - **(B) Voting as a Rite** - Hill, Joshua. *Voting as a Rite: A History of Elections in Modern China*, 2019. [Link](https://library.st-andrews.ac.uk/record=b3528630~S5). Intro pp1-10 + Ch 3-4 pp74-136 (P)
@@ -173,11 +173,11 @@ Secondary Sources (93pp):
 
 Background Reading: *The Search for Modern China* Ch 12-13
 
-### Preparation
+#### Preparation
 
 * The reading is relatively heavy this week, please give the primary sources a close look over and don't forget to bring them to class - I would recommend printing them out as otherwise you may get frustrated jumping around in the online interface.
 
-### To Watch
+#### To Watch
 
 * Watch the following ChinaX videos:
     * X [End of Empire](https://www.youtube.com/watch?v=mbiF6ZATBOY)
@@ -189,14 +189,14 @@ Background Reading: *The Search for Modern China* Ch 12-13
     * X [Chen Duxiu and New Youth](https://www.youtube.com/watch?v=C8-Av-XGob4)
     * X [Bai Hua](https://www.youtube.com/watch?v=RabetsH7vPE)
 
-### To Review
+#### To Review
 
 - please review for this week's map quiz using the [online map](https://muninn.net/modules/mo3337/map/)
 - please keep reviewing your event flashcards.
 - choose your era for the semester: Late Qing / Republic / Sino-Japanese Conflict / Rise of the CCP and Civil War / Maoist China
 - start your essay research
 
-### Overview
+#### Overview
 
 - Activity: Map Quiz
 - Activity: Chinese pronunciations
@@ -205,14 +205,14 @@ Background Reading: *The Search for Modern China* Ch 12-13
 - Our seminar discussion will focus quite a bit on the primary sources from the New Culture Movement 
 - We will ask students to introduce their elective readings in groups and then to the whole class
 
-### Questions
+#### Questions
 
 1. In what sense was 1911 a revolution? 
 2. What kind of legacies did the revolution have and what lost opportunities were there?
 3. What are the longer term legacies of the May fourth movement?
 4. What are the ways that culture and politics are intertwined in this period?
 
-### Long Essay Ideas
+#### Long Essay Ideas
 
 * 1911 gave rise to a deeply chaotic period during which it is even harder than usual to generalise about changes across China. Consider exploring this early post-1911 period or the "warlord period" more broadly at the regional level.
 * Japan, individual Japanese figures, and Chinese in Japan played an important role in the late Qing period, during the 1911 revolution and in the aftermath. There are many aspects of this relationship which are worth examining more closely.
@@ -221,7 +221,7 @@ Background Reading: *The Search for Modern China* Ch 12-13
 * This period overlaps with intense competition among various Western powers and Japan for control in China which will intensify anti-imperialism around China
 * There are lots of interesting comparisons to be made between the May 4th Movement and movements elsewhere. The work of Erez Manela on the "Wilsonian Moment" can give you some ideas both for this week, and broader ideas for transnational long essays throughout the essay.
 
-### Further Reading
+#### Further Reading
 
 - Mao, [Orientation of the Youth Movement](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_14.htm)
 - Mao, [A Study of Physical Educaiton](https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_01.htm)
@@ -259,7 +259,7 @@ Background Reading: *The Search for Modern China* Ch 12-13
 
 See bibliography: [The Republic - Readings](#minguo)
 
-### Films of Interest
+#### Films of Interest
 
 * 1911 (2011) - An pretty awful movie with Jackie Chan
 * Xinhai Revolution (辛亥革命 - 2011) - Chinese TV miniseries on the revolution in 41 parts.
@@ -272,7 +272,7 @@ See bibliography: [The Republic - Readings](#minguo)
 
 ## Week 3 - Building Revolution and the War with Japan, 1931-1945 {#sj}
 
-### Required Reading
+#### Required Reading
 
 Primary sources (42pp):
 
@@ -297,7 +297,7 @@ Secondary sources (69pp):
 - Seybolt, "Terror and Conformity: Counterespionage Campaigns, Rectification, and Mass Movements, 1942-1943" [link](https://www.jstor.org/stable/188918) 36pp
 - Apter, David Ernest, and Tony Saich. *Revolutionary Discourse in Mao’s Republic*. 1994. pp150-153 (in Ch 5) + Ch 8 pp263-293 (Files)
 
-### Elective Reading
+#### Elective Reading
 
 This week we will collectively build up class knowledge about a range of historiographical interventions on the CCPs wartime bases over the past few decades. I would like to ask that all students consider doing one of their three handouts this week on one of the following so that we have at least one (but ideally more) handout for each of the following. As you take notes on the reading, pay especially close attention to how these authors refer to eachother: especially in the case of the texts published in later years who refer back to Johnson, Selden, Kataoka, Chen, etc. What are the stakes in these debates? Consider reading a book review or two of the book you choose.
 
@@ -317,14 +317,14 @@ Background reading:
 
 *The Search for Modern China* Ch 16-17 but better for our purposes is probabely: Van Slyke, Lyman. ‘The Chinese Communist Movement during the Sino-Japanese War 1937–1945’. In *The Cambridge History of China: Volume 13: Republican China 1912–1949*, edited by Albert Feuerwerker and John K. Fairbank, 13:609–722. The Cambridge History of China. 1986. [DOI](https://doi.org/10.1017/CHOL9780521243384.013).
 
-### Preparation
+#### Preparation
 
 - Continue your essay research and bring 1-3 ideas for an essay topic that you have been looking into
 - Take a look at some of the essays from previous years that I have shared
 - Prepare for this week's event quiz by studying the "China Timeline 1830s-1989" [flashcard set](https://muninn.net/modules/mo3337/flash/) online.
 - For the reading today and generally, try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
 
-### To Watch
+#### To Watch
 
 - Watch the following ChinaX videos:
     * X [Period of Orthodoxy 1921-1927](https://www.youtube.com/watch?v=j4vzdFxQVtE)
@@ -336,13 +336,13 @@ Background reading:
     * X [Economic and Social Consequences](https://www.youtube.com/watch?v=vmtZseZV7gM)
     * X [Postwar Dilemmas](https://www.youtube.com/watch?v=svvtv6oJDCg)
 
-### Overview
+#### Overview
 
 - Activity: We will have our first events quiz today
 - Activity: We will meet with our mutual-aid groups to discuss progress on essay, sharing ideas. 
 - We will try to divide our reading discussion into three: primary sources, rectification, but a good chunk of time will be spent on the different approaches to the wartime base areas in the elective readings so please come prepared to introduce your elective reading to others in groups and in the class as a whole.
 
-### Questions
+#### Questions
 
 1. In the debates over the relevance of the second Sino-Japanese war on the rise of the Communist party, evaluate the claims of two historians whose arguments can be said to significantly contradict one another.
 2. What is one way that regional differences matter in discussing the impact of the second Sino-Japanese war on the rise of the Communist party during this period?
@@ -350,14 +350,14 @@ Background reading:
 4. What does "democracy" mean for the Communist Party?
 5. What is the party's approach to the public exchange of ideas, art, and literature? How is the view justified?
 
-### Long Essay Ideas
+#### Long Essay Ideas
 
 * This is one of the most active areas of research on modern Chinese history. You might consider wading into this debate in some modest way, perhaps with a focus on a particular case, place, or specific aspect of the argument.
 - Our reading has been limited to a focus on the CCP and its base areas but the further reading gives you a taste of the broader context. I would prefer for essays on this period connect at least in some way with the revolution, but this can also be an exploration of Nationalist party revolutionary policies and campaigns such as its New Life movement, or wartime Wuhan and Chongqing. 
 * Many international visitors came to China or went from China to other parts of the world and commented on the conflict. Primary sources related to this are more accessible to students don't read Chinese and can offer some interesting perspectives.
 * Again here there are rich opportunities for comparative studies or looking at influences and interactions across borders.
 
-### Further Reading
+#### Further Reading
 
 - Brook, Timothy. *Collaboration: Japanese Agents and Local Elites in Wartime China*. 2005.
 - Bunker, Gerald E. *The Peace Conspiracy; Wang Ching-Wei and the China War, 1937-1941*. 1972.
@@ -409,7 +409,7 @@ Background reading:
 
 
 
-### To Watch
+#### To Watch
 
 * Clips on the Hundred Flowers Movement and repression that followed:
     * X: [Hundred Flowers Movement](https://www.youtube.com/watch?v=jv2qHZQtdPA)
@@ -420,7 +420,7 @@ Background reading:
     * X: [Three Scourges](https://www.youtube.com/watch?v=00cGU2M5KiI)
     * X: [End of 100 Flowers](https://www.youtube.com/watch?v=Nlvt9zbrbzo)
 
-### Required Reading
+#### Required Reading
 
 Primary Sources:
 
@@ -434,7 +434,7 @@ Primary Sources:
 * Dikötter, *Mao's Great Famine*, (Ch 7-11, 35)
 * Garnaut, Anthony. “Hard Facts and Half-Truths: The New Archival History of China’s Great Famine.” *China Information* 27, no. 2 (July 1, 2013): 223–46. [link](https://doi.org/10.1177/0920203X13485390)
 
-### Further Reading
+#### Further Reading
 
 * "Looking for Great Leap 'smoking gun' document" [H-PRC forum posting thread](https://networks.h-net.org/node/3544/discussions/99266/looking-great-leap-smoking-gun-document)
 * Hinton, *Fanshen: A Documentary of Revolution in a Chinese Village* (P)
@@ -551,17 +551,195 @@ The cultural revolution is one of the most fascinating periods of PRC history. T
 
 **Preparation:**
 
+* It is important that you watch the long documentary on Tiananmen entitled, *Gate of Heavenly Peace* by Richard Gordon and Carma Hinton. Note, that this is over 3 hours long but a great deal of importance happens towards the end. Consider dividing it into two viewings, but please watch the whole documentary. As with Morning Sun, this documentary is available in the library in the reference area and again consider watching it in groups. This film is considered fair game for the final exam.
+* ChinaX clips to watch:
+    * X: [Ezra Vogel: Deng's Background](https://www.youtube.com/watch?v=-v_55FkaVDU)
+    * X: [Deng's Plans for Modernization After Cultural Revolution](https://www.youtube.com/watch?v=OhFgBqXOgHY)
+    * X: [Reform and Opening Under Deng](https://www.youtube.com/watch?v=9W-uC4ATuv0)
+    * X: [Political Deng: The Democracy Wall and Tiananmen Protests](https://www.youtube.com/watch?v=EZLKyifgw9A)
+    * X: [Deng's Legacy](https://www.youtube.com/watch?v=EEULoquPCHM)
+    * X: [Elizabeth Perry: Social Movement in China](https://www.youtube.com/watch?v=tXW-SgVEku0)
+    * X: [Social Movements II](https://www.youtube.com/watch?v=yahKFC2UY9w)
+    * X: [Legacy of Mao](https://www.youtube.com/watch?v=T1lX_s2WsK0)
+
+**Reading:**
+
+* SOURCES, (in Ch 37)
+    * Early Critiques of the Deng Regime [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=449&docID=908711&tm=1516895350586) including works by Wei Jingsheng, Hu Ping, Wang Ruoshui
+    * Assessing the New Policies [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=459&docID=908711&tm=1516895372685) including Deng Xiaoping, Chen Yun
+    * New Demands for Change and Democracy [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=464&docID=908711&tm=1516895391884) including Fang Lizhi, Li Xiaojiang
+    * The New Authoritarianism [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=471&docID=908711&tm=1516895410414) including Wu Jiaxiang, Rong Jian, Yan Jiaqi,
+* Esherick and Wasserstrom, "Acting Out Democracy,"" 835-860 [link](https://www.jstor.org/stable/2058238)
+* Hung, "Tiananmen Square: A Political History of Monuments," 84-117 [link](http://www.jstor.org/stable/2928718)
+* Zhao, *The Power of Tiananmen*, 1-10, 53-78, 79-99, 101-121, 124-141 (Intro, Ch 2-5) (P)
+
+**Further Reading:**
+
+* Excerpt from "Totalitarian Nostalgia" Geremie Barmé, *In The Red: On Contemporary Chinese Culture* [link](http://www.tsquare.tv/film/Totnost.html)
+* Lim, *The People's Republic of Amnesia* (P)
+* Unger, J. *The Pro-Democracy Protests in China: Reports from the Provinces*
+* Walder, Andrew G. and Gong Xiaoxia, Workers in the Tiananmen Protests: The Politics of the Beijing Workers' Autonomous Federation, The Australian Journal of Chinese Affairs, No. 29, January 1993. [link](http://www.tsquare.tv/links/Walder.html)
+* *Turmoil at Tiananmen: A Study of U.S. Press Coverage of the Beijing Spring of 1989* [link](http://www.tsquare.tv/themes/TatTcontent.html) (P)
+* Nathan and Link eds., *The Tiananmen Papers*
+* Wasserstrom, *Popular Protest and Political Culture in Modern China* (P)
+* Oksenberg,  *Beijing Spring, 1989: Confrontation and Conflict: The Basic Documents*
+* Nathan, *Chinese Democracy* (P)
+* Vogel, *Deng Xiaoping and the Transformation of China* (P)
+* Brook, Timothy. *Quelling the People: The Military Suppression of the Beijing Democracy Movement* (P)
+* Zhao, Ziyang *Prisoner of the State: The Secret Journal of Premier Zhao Ziyang* (P)
+
+
+**Overview:**
+
+* Today we conclude the chronological half of the course with a consideration of a critical turning point in Chinese history, a moment when China shifted from a period of general opening and reform, to one which sacrificed any serious political reform in exchange for stability and economic development.
+* We will divide the discussion into two parts: First trying to understand the protests themselves, and then considering them in the much longer history of youth, politics, and mass movements in the history of Chinese revolutions. Then we will shift to thinking about the legacies of the massacre, and how it plays a crucial role in engagement with China today.
+
+**Questions:**
+
+1. How does *The Gate of Heavenly Peace* help transform the way we think about the Tiananmen protests? About mass protest movements in general?
+2. The Chinese government, and many Chinese will claim that the blood of Tiananmen was a price to pay in order to avert political chaos that would have resulted in far more violence. What logic and assumptions are at work here? What happens when we generalise these claims to other places and times?
+
 \newpage
 
 ## Week 8 - Reforming Thought {#sixiang}
 
 ## Week 9 - Gender and the Family {#gender}
 
+**Preparation:**
+
+* Moodle: Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
+* Your long essay should really be coming along now, unless you have had to shift gears during the semester. Please try to have something written by this point. Some students will like to be working with a full draft at this point and then looking for areas in the essay that are weak.
+* If you are doing well on the long essay front, this might be a time to consider the state of your notes and consider start meeting with some of your fellow classmates to collect your notes and study together for the final examination.
+
+**Reading:**
+
+* Primary Sources:
+    * *Birth of Chinese Feminism*, p8-26, 53-71 "On the Question of Women's Liberation"
+    * *Women in Republican China: A Sourcebook*:
+        * 3 "Is This Also a Human Being?" Ye Shengtao 18-21
+        * 31 "The Great Inappropriateness of Women's Emancipation" Zhang Shenfu 168-171
+        * 34 "Women's Careers" Yang Zhihua 174-176
+        * 35 "What Happens after Nora Leaves Home" Lu Xun 176-181
+* Barlow, Tani E. *The Question of Women in Chinese Feminism*, Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252
+* Glosser, *Chinese Visions of Family and State*, p27-80 Ch 1 "Saving Self and Nation" (P)
+* Ko, *Cinderella's Sisters*, 1-8 Introduction, 38-68 Ch 2 "The Body Inside Out" (P)
+* Hershatter, *Gender of Memory*, Ch 1-2, p96-128, Ch 5, p186-191 (P)
+* Note: If you are interested more in the post-'49 period, you can skip Ono and Glosser, if you are more interested in pre-'49 period, you can just read Ch 1-2 of Hershatter
+
+**Further Reading:**
+
+* Finish Hershatter, *Gender of Memory* (P)
+* Lu Xun "New Year's Sacrifice" [link](https://www.marxists.org/archive/lu-xun/1924/02/07.htm)
+* Finish *Cinderella's Sisters* (P)
+* Hershatter, Gail. *Women in China’s Long Twentieth Century*.
+* Brownell, Susan, and Jeffrey Wasserstrom. *Chinese Femininities/Chinese Masculinities: A Reader*
+* Judge, Joan. *The Precious Raft of History: The Past, the West, and the Woman Question in China*
+* Mann, Susan L. *Gender and Sexuality in Modern Chinese History*.
+* Hershatter, *Dangerous Pleasures: Prostitution and Modernity in Twentieth-Century Shanghai* (P)
+* Susan L. Mann, *Gender and Sexuality in Modern Chinese History* (P)
+* Jacka, *Woman-work: Women and the Party in Revolutionary China,* 70-114, 191-197 (Ch 3, Conclusion)
+* Emily Honig, “Socialist Sex: The Cultural Revolution Revisited.”
+* Ono, *Chinese Women in a Century of Revolution*, 1850-1950, 54-92 (Ch 4 Women in the 1911 Revolution) (P)
+
+**Overview:**
+
+* This week tries to do two things at once: examine the role of women specifically in the revolution, but more generally, to consider the way that the revolution was itself gendered or, tried to portray itself in de-gendered ways.
+
 \newpage
 
 ## Week 10 - Mao's Revolution in a Global Context {#world}
 
+**Preparation:**
+
+* Moodle: Post a Research Diary entry on the Moodle Forum. See the Moodle for the format of this diary entry. Then post a constructive comment on at least one other student's post. (Entry by Tuesday Morning, Comment by Thursday)
+* Consider posting your prospectus on the Moodle Forum. You are asked to write at least one constructive suggestion on a fellow student's shared prospectus.
+* Please continue your work on the Long Essay. Our reading is relatively light this week for the last time so make your big push this week. The reading is not light next week so this is the week to get that first draft done!
+* Choose 2-3 quotations from Mao's red book that we have assigned this week and be ready to say something about what you think is telling about the quote, problematic, or ironic
+
+**Reading:**
+
+* [Quotations from Mao Tse Tung](https://www.marxists.org/reference/archive/mao/works/red-book/), (Ch 2, 4, 5-6, and 24)
+* Charu Mazumadar, [Take this Opportunity](http://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
+* Elbaum, [Maoism in the United States](https://www.marxists.org/history/erol/ncm-1/maoism-us.htm)
+* "On Popular Justice: A Discussion with Maoists" in Michel Foucault, Colin Gordon ed. *Power/Knowledge: Selected Interviews & Other Writings 1972-1977*
+* “Revolutionary Socialist Students’ Federation (RSSF) Manifesto”  *New Left Review* I/53 Jan-Feb 1969.
+* Cook, *Mao's Little Red Book: A Global History* (Ch 1-2, 5, 7, 8, 13)
+
+**Further Reading:**
+
+* Cook, *Mao's Little Red Book: A Global History* - read rest of the book
+* Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. (P)
+* Robcis, Camille, “‘China in our Heads’: Althusser, Maoism, and Structuralism,” *Social Text* 110 30.1 (Spring 2012), pp. 51–69
+* Wolin, Richard, *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*
+* Alexander, *Maoism in the Developed World* (P)
+* Marks, *Maoist Insurgency Since Vietnam* (P)
+* Chakrabarty, *Maoism in India* (P)
+* Hutt, *Himalayan People's War: Nepal's Maoist Rebellion* (P)
+* Paul, Santosh, *The Maoist Movement in India: Perspectives and Counter-Perspectives*
+* Pettigrew, *Maoists at the Hearth: Everyday Life in Nepal's Civil War* (P)
+* Lüthi, Lorenz, *The Sino-Soviet Split: Cold War in the Communist World* (P)
+* Rozman, Gilbert, *A Mirror for Socialism: Soviet Criticisms of China* (P)
+* Hoxha, Enver, *Reflections on China (1962–1972)* [link](https://www.marxists.org/reference/archive/hoxha/works/ebooks/reflections_on_china_volume_1.pdf) (P)
+* Ferrante, Stefano, *La Cina non era vicina: Servire il popolo e il maoismo all’italiana* (P)
+* Fred Ho and Bill V. Mullen, eds., *Afro-Asia: Revolutionary Political and Cultural Connections Between African Americans and Asian Americans*
+* Slavoj Žižek, *On Practice and On Contradiction: Žižek Presents Mao*
+* Timothy Cheek, ed., *Critical Introduction to Mao*
+* Belden Fields, A., *Trotskyism and Maoism: Theory and Practice in France and the
+United States* (P)
+* Bourg, Julian, “The Red Guards of Paris: French Student Maoism of the 1960s,” *History of European Ideas* 31 (2005), pp. 472–90
+
+**Overview:**
+
+* In this class we will attempt to understand the impact of the Chinese revolution on other movements around the world, both in the developed world, and in countries as distant as Nepal and Peru. We will consider how aspects of the cultural revolution in particular were attractive, but also how the broader approach of the Chinese revolution offered an alternative radical path for revolutionaries. We will attempt to identify certain patterns in various places but also appreciate local translations of Maoist ideas.
+
+**Questions:**
+
+1. What does it mean to call a movement "Maoist"?
+2. What accounts for the sheer variety of Maoist or Maoist inspired movements in the world? How did they differ?
+
+**Films of Interest:**
+
+* Gymnaslærer Pedersen (2005) - Comedy about a Norwegian maoist high school teacher
+* See You at Mao (1970)
+* La Chinoise (1967) - French comedy.
+* United Red Army (実録•連合赤軍 あさま山荘への道程 2007) - On the rise and fall of Japan's most violent and self-destructive Communist organisation.
+* Baader Meinhof Complex (Der Baader Meinhof Komplex 2008) - German film on the multiple generations of the famous German terrorist organisation
+* Eight Glorious Years of Nepali People's War (2004) - Propaganda piece by Communist Party of Nepal (Maoist) on Archive.org
+
 \newpage
 
 ## Week 11 - Culture, History, and Memory {#culture}
+
+**Preparation:**
+
+* Your long essay is due next week. You should really have a draft of the essay done this week so that you can spend the last week in revisions.
+* ChinaX clip to watch:
+    * X: [Boxers and Qing Response](https://www.youtube.com/watch?v=wWBCwYI4Aaw)
+
+**Reading:**
+
+* Cohen, *History in Three Keys* 14-56, 59-68, 211-222, 238-260, 261-297 (P)
+* Mittler, *Continuous Revolution*, Ch 3 139-188 Destroying the Old, Ch 5 267-304 Art of Repetition (P)
+* Lim, *The People's Republic of Amnesia*, 1-7 Introduction, 7-31 Soldier, 133-157 Patriot, 157-182 Official, 182-206 Chengdu (P)
+
+**Further Reading:**
+
+* Mittler, *Continuous Revolution* - Complete the book
+* Lim, *People's Republic of Amnesia* - Complete the book
+* Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China* (P)
+* Kuhn, Philip A.  *Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864* (P)
+* Cook, James A., Joshua Goldstein, Matthew D. Johnson, and Sigrid Schmalzer. *Visualizing Modern China: Image, History, and Memory, 1750–Present*
+* Rowe, William. *Crimson Rain: Seven Centuries of Violence in a Chinese County. Stanford: Stanford University Press, 2007* (P)
+* Esherick, Joseph. *The Origins of the Boxer Uprising.* (P)
+* Berry, Michael *A History of Pain: Trauma in Modern Chinese Literature and Film* (P)
+* Lee, Ching Kwan. *Re-Envisioning the Chinese Revolution: The Politics and Poetics of Collective Memories in Reform China* (P)
+* Li, Jie, and Enhua Zhang. *Red Legacies in China: Cultural Afterlives of the Communist Revolution* (P)
+* Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China* (P)
+* Matten, Marc Andre. *Places of Memory in Modern China: History, Politics, and Identity* (P)
+* Perry, Elizabeth J. *Anyuan: Mining China’s Revolutionary Tradition*
+
+**Overview:**
+
+* We'll split our time between Cohen, moving back to the Boxer Rebellion and how it was deployed in later times, Mittler, which attempts to think more explicitly about the role of culture in Mao's revolution, and Lim, which is more on forgetting than on remembering.
+* Task: We will also discuss the three character classic and do an exercise with this in class.
 

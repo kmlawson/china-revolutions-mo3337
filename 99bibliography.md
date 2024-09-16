@@ -1,0 +1,1994 @@
+# Bibliography
+
+
+## The Qing Dynasty {#qing}
+
+- Akçetin, Elif, and Suraiya Faroqhi. *Living the Good Life: Consumption in the Qing and Ottoman Empires of the Eighteenth Century*. 2017.
+- Akulich, Anastasiia. ‘“From the Seeds Sown in the Soil”: The Boxer Rebellion and the Awakening of Russian Missionary Activity in China (1900–1917)’. *Ab Imperio* 2022, no. 4 (2022): 61–88. [Link](https://muse.jhu.edu/pub/178/article/884621).
+- Alford, William P. ‘Of Arsenic and Old Laws: Looking Anew at Criminal Justice in Late Imperial China’. *California Law Review* 72, no. 6 (1984): 1180–1256. [DOI](https://doi.org/10.2307/3480382).
+- Allee, Mark. *Law and Local Society in Late Imperial China: Northern Taiwan in the Nineteenth Century*. 1st ed. 1994.
+- Allen, Rolland. *The Siege Of The Peking Legations*, 1901. [Link](http://archive.org/details/in.ernet.dli.2015.82987).
+- Amsler, Nadine. *Jesuits and Matriarchs: Domestic Worship in Early Modern China*. 2018.
+- Andrade, Tonio. *The Last Embassy: The Dutch Mission of 1795 and the Forgotten History of Western Encounters with China*. 2021.
+- Antony, Robert J. *Like Froth Floating on the Sea: The World of Pirates and Seafarers in Late Imperial South China*. 2003.
+- ———. *Rats, Cats, Rogues, and Heroes: Glimpses of China’s Hidden Past*. 2023.
+- ———. *The Golden Age of Piracy in China, 1520–1810: A Short History with Documents*. 2022.
+- ———. *Unruly People: Crime, Community, and State in Late Imperial South China*. 2016.
+- Atwill, David, and Yurong Atwill. *Sources in Chinese History: Diverse Perspectives from 1644 to the Present*. 2nd ed. 2021.
+- Atwill, David G. *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873*. 2005.
+- Austin. *China’s Millions: The China Inland Mission and Late Qing Society, 1832-1905*. 2007.
+- Bain, Chester A. ‘Commodore Matthew Perry, Humphrey Marshall, and the Taiping Rebellion’. *The Far Eastern Quarterly* 10, no. 3 (1951): 258–70. [DOI](https://doi.org/10.2307/2049318).
+- Banno, Masataka. *China and the West 1858-1861*. 1972.
+- Barfield, Thomas J. *The Perilous Frontier: Nomadic Empires and China*. 2010.
+- Bartlett, Beatrice S. *Monarchs and Ministers: The Grand Council in Mid-Ch’ing China, 1723-1820*. 1994.
+- Bassin, Mark. *Imperial Visions: Nationalist Imagination and Geographical Expansion in the Russian Far East, 1840–1865*. 1999.
+- Baumler, Alan. *Modern China and Opium: A Reader*. 2001.
+- Beahan, Charlotte L. ‘Feminism and Nationalism in the Chinese Women’s Press, 1902-1911’. *Modern China* 1, no. 4 (1975): 379–416.
+- Bello, David Anthony. *Opium and the Limits of EmpireOpium and the Limits of Empire: Drug Prohibition in the Chinese Interior, 1729–1850*. 2020.
+- Belsky, Richard David, and Associate Professor of History Richard Belsky. *Localities at the Center: Native Place, Space, and Power in Late Imperial Beijing*. 2005.
+- Bernhardt, Kathryn. *Civil Law in Qing and Republican China*. 1994.
+- ———. ‘Elite and Peasant during the Taiping Occupation of the Jiangnan, 1860-1864’. *Modern China* 13, no. 4 (1987): 379–410. [Link](https://www.jstor.org/stable/189262).
+- ———. *Women and Property in China, 960-1949*. 1999.
+- Bickers, Robert. *Empire Made Me: An Englishman Adrift in Shanghai*. 2004.
+- ———. *The Scramble for China: Foreign Devils in the Qing Empire, 1832-1914*. 2016.
+- Bickers, Robert A., and R. G. Tiedemann. *The Boxers, China, and the World*. 2007.
+- Bickers, Robert, and Christian Henriot, eds. *New Frontiers: Imperialism’s New Communities in East Asia, 1842-1953*. 2000.
+- Borowy, Iris. *Uneasy Encounters: The Politics of Medicine and Health in China, 1900-1937*. 2009.
+- Bourgon, Jérôme. ‘Abolishing “Cruel Punishments”: A Reappraisal of the Chinese Roots and Long-Term Efficiency of the Xinzheng Legal Reforms’. *Modern Asian Studies* 37, no. 4 (2003): 851–62. [Link](https://www.jstor.org/stable/3876529).
+- ———. ‘Aspects of Chinese Legal Culture – the Articulation of Written Law, State, and Society: A Review (Part One)’. *International Journal of Asian Studies* 4, no. 2 (July 2007): 241–58. [DOI](https://doi.org/10.1017/S1479591407000757).
+- Bourgon, Jerome. ‘Uncivil Dialogue: Law and Custom Did Not Merge into Civil Law under the Qing’. *Late Imperial China* 23, no. 1 (2002): 50–90. [Link](https://muse.jhu.edu/pub/1/article/19545).
+- Bray, Francesca. *Technology and Gender: Fabrics of Power in Late Imperial China*. 1997.
+- Brine, Lindesay. *The Taeping Rebellion in China*, 1862. [Link](http://archive.org/details/taepingrebellio00bringoog).
+- Brokaw, Cynthia J., and Kai-Wing Chow. *Printing and Book Culture in Late Imperial China*. 2005.
+- ———. *Printing and Book Culture in Late Imperial China*. 2005.
+- Brook, Timothy. *Vermeer’s Hat: The Seventeenth Century and the Dawn of the Global World*. 2010.
+- Brook, Timothy, Jérôme Bourgon, and Gregory Blue. *Death by a Thousand Cuts*. 2008.
+- Brown, G. Thompson. ‘Through Fire and Sword: Presbyterians and the Boxer Year in North China’. *The Journal of Presbyterian History (1997-)* 78, no. 3 (2000): 193–206. [Link](https://www.jstor.org/stable/23335478).
+- Brown, Tristan G. *Laws of the Land: Fengshui and the State in Qing Dynasty China*. 2023.
+- Cahill, Holger. *A Yankee Adventurer, The Story of Ward and the Taiping Rebellion*, 1930.
+- Cameron, M. E. *The Reform Movement in China, 1898-1912*, 1931.
+- Cao, Qing. *The Language of Nation-State Building in Late Qing China: A Case Study of the Xinmin Congbao and the Minbao, 1902-1910*. Electronic book. Routledge Studies in Chinese Discourse Analysis. 2023.
+- Cassel, Par. ‘Excavating Extraterritoriality: The “Judicial Sub-Prefect” as a Prototype for the Mixed Court in Shanghai’. *Late Imperial China* 24, no. 2 (2003): 156–82. [Link](http://muse.jhu.edu.ezp-prod1.hul.harvard.edu/journals/late_imperial_china/v024/24.2cassel.html).
+- Cassel, Par Kristoffer. *Grounds of Judgment: Extraterritoriality and Imperial Power in Nineteenth-Century China and Japan*. 2012.
+- Center, Harvard University East Asian Research. *Reform in Nineteenth-Century China*. 1976.
+- Chang, Chung-Li. *The Chinese Gentry: Studies On Their Role In Nineteenth-Century Chinese Society*. 2011.
+- Chang, Hao. *Liang Chʻi-Chʻao and Intellectual Transition in China, 1890-1907*. 1971.
+- Chang, Jung. *Empress Dowager Cixi: The Concubine Who Launched Modern China*. 2013.
+- Chang, Michael G. *A Court on Horseback: Imperial Touring & the Construction of Qing Rule, 1680–1785*. 2020.
+- Chega, Pak. *A Korean Scholar’s Rude Awakening in Qing China: Pak Chega’s Discourse on Northern Learning*. 2019.
+- Chen, Janet Y. *Guilty of Indigence: The Urban Poor in China, 1900-1953*. 2012. [Link](http://library.st-andrews.ac.uk/record=b3294433~S5).
+- Ch’en, Jerome. *China and the West: Society and Culture, 1815-1937*. 2018.
+- Ch’ên, Jerome. ‘The Nature and Characteristics of the Boxer Movement--A Morphological Study’. *Bulletin of the School of Oriental and African Studies, University of London* 23, no. 2 (1960): 287–308. [Link](https://www.jstor.org/stable/609699).
+- Ch’en, Jerome. *Yuan Shih-k’ai, 1859-1916*. 1961.
+- Ch’en, Kuo-Tung Anthony. *The Insolvency of the Chinese Hong Merchants, 1760-1843*. 1990.
+- Chen, Zhongping. *Modern China’s Network Revolution: Chambers of Commerce and Sociopolitical Change in the Early Twentieth Century*. 2011.
+- Cheng, Huanwen, and Donald G Davis. ‘Loss of a Recorded Heritage: Destruction of Chinese Books in the Peking Siege of 1900’. *Library Trends* 55, no. 3 (2007): 431–41. [Link](https://muse.jhu.edu/pub/1/article/213094).
+- Cheng, J. Chester. *Chinese Sources for the Taiping Rebellion, 1850-1864*. 1963.
+- Chesneaux, Jean, and Lucien Bianco. *Popular Movements and Secret Societies in China, 1840-1950*. 1972.
+- Chiang, Siang-Tseh. *The Nien Rebellion*. 1954.
+- Chiang, Sing-Chen Lydia. *Collecting The Self: Body And Identity In Strange Tale Collections Of Late Imperial China*. 2005.
+- Chiang, Sing-chen Lydia. *Collecting the Self: Body and Identity in Strange Tale Collections of Late Imperial China*. 2021. [Link](https://brill.com/display/title/11416).
+- ‘China Relief Retrospective: Miscellaneous Reports for 1901’. Accessed 17 March 2010. [Link](http://www.history.navy.mil/docs/boxer/boxer15.htm#bunav).
+- Ching-Hwang, Yen. ‘Overseas Chinese Nationalism in Singapore and Malaya 1877-1912’. *Modern Asian Studies* 16, no. 3 (1 January 1982): 397–425. [Link](http://www.jstor.org/stable/312114).
+- Ching-Hwang, Yen, and Qinghuang Yan. *Coolies and Mandarins: China’s Protection of Overseas Chinese During the Late Chʻing Period (1851-1911)*. 1985.
+- Chu, Samuel C., and Kwang-Ching Liu. *Li Hung-Chang and China’s Early Modernization*. 1994.
+- Ch’ü, T’ung-tsu. *Local Government in China Under the Ch’ing*, 1962.
+- Chu, Wen Djang. *The Moslem Rebellion in Northwest China, 1862 - 1878: A Study of Government Minority Policy*. 2011.
+- Clark, Anthony E. *China’s Saints: Catholic Martyrdom During the Qing (1644–1911)*. 2011.
+- ———. *Heaven in Conflict: Franciscans and the Boxer Uprising in Shanxi*. 2014.
+- Cochran, Sherman. *Encountering Chinese Networks: Western, Japanese, and Chinese Corporations in China, 1880-1937*. 2000.
+- Cohen, Paul. ‘Changes over Time in Qing History: The Importance of Context’. *Late Imperial China* 37, no. 1 (2016): 10–13. [Link](https://muse.jhu.edu/pub/1/article/621795).
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. 1998.
+- ———. ‘The Contested Past: The Boxers as History and Myth’. *The Journal of Asian Studies* 51, no. 1 (1992): 82–113. [DOI](https://doi.org/10.2307/2058348).
+- Commons, Great Britain Parliament House of. *Further Papers Relating to the Rebellion in China*, 1862. [Link](https://books.google.co.uk/books?id=zv9BAQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
+- Cosmo, Nicola Di. *Military Culture in Imperial China*. 2011.
+- Crossley, Pamela Kyle. *A Translucent Mirror: History and Identity in Qing Imperial Ideology*. 1999.
+- ———. *Orphan Warriors: Three Manchu Generations and the End of the Qing World*. 2021.
+- ———. *The Manchus*. 2006.
+- Crossley, Pamela Kyle, Helen F. Siu, and Donald S. Sutton. *Empire at the Margins: Culture, Ethnicity, and Frontier in Early Modern China*. 2006.
+- Daggett, Aaron Simon. *America in the China Relief Expedition*. 1903.
+- Dai, Yingcong. ‘A Disguised Defeat: The Myanmar Campaign of the Qing Dynasty’. *Modern Asian Studies* 38, no. 1 (2004): 145–89. [Link](https://www.jstor.org/stable/3876499).
+- ———. ‘Broken Passage to the Summit: Nayancheng’s Botched Mission in the White Lotus War’. In *The Dynastic Centre and the Provinces*, edited by Jeroen Duindam and Sabine Dabringhaus, 49–73. Agents and Interactions. 2014. [Link](https://www.jstor.org/stable/10.1163/j.ctt1w8h2x3.9).
+- ———. ‘Civilians Go into Battle: Hired Militias in the White Lotus War, 1796-1805’. *Asia Major* 22, no. 2 (2009): 145–78. [Link](https://www.jstor.org/stable/41649980).
+- ———. *The White Lotus War: Rebellion and Suppression in Late Imperial China*. 2019.
+- Dale, Melissa S. *With the Cut of a Knife: A Social History of Eunuchs During the Qing Dynasty (1644-1911) and Republican Periods (1912-1949)*. 2000.
+- Davis, Bradley Camp. *Imperial Bandits: Outlaws and Rebels in the China-Vietnam Borderlands*. 2017.
+- Davis, Edward L. *Society and the Supernatural in Song China*. 2001.
+- Day, Jenny Huangfu. *Qing Travelers to the Far West: Diplomacy and the Information Order in Late Imperial China*. 2018.
+- Daye, Zhang. *The World of a Tiny Insect: A Memoir of the Taiping Rebellion and Its Aftermath*. 2013.
+- Dean, Austin. *China and the End of Global Silver, 1873–1937*. 2020.
+- Derks, Hans. *History of the Opium Problem: The Assault on the East, ca. 1600-1950*. 2012. [Link](https://brill.com/display/title/20966).
+- Di Cosmo, Nicola. ‘Qing Colonial Administration in Inner Asia’. *The International History Review* 20, no. 2 (1998): 287–309. [Link](https://www.jstor.org/stable/40108222).
+- Dikotter, Frank. *The Discourse of Race in Modern China*. 1992.
+- Dikötter, Frank, Lars Peter Laamann, and Xun Zhou. *Narcotic Culture: A History of Drugs in China*. 2004.
+- ‘Don’t Mind the Gap! The Foreign-Language Press in Late-Qing and Republican China’. *China Heritage Quarterly*. Accessed 15 November 2021. [Link](http://www.chinaheritagequarterly.org/features.php?searchterm=030_wagner.inc&issue=030).
+- Downs, Jacques M. *The Golden Ghetto: The American Commercial Community at Canton and the Shaping of American China Policy, 1784-1844*. 1997.
+- Du, Yongtao. *The Order of Places: Translocal Practices of the Huizhou Merchants in Late Imperial China*. 2015. [Link](https://brill.com/display/title/26952).
+- Duara, Prasenjit. *Culture, Power, and the State: Rural North China, 1900-1942*. 1991.
+- ———. ‘Transnationalism and the Predicament of Sovereignty: China, 1900-1945’. *The American Historical Review* 102, no. 4 (1997): 1030–51. [DOI](https://doi.org/10.2307/2170628).
+- Dudink, Ad, and Nicolas Standaert. *Forgive Us Our Sins: Confession in Late Ming and Early Qing China*. 2023.
+- Dunch, Ryan. *Fuzhou Protestants and the Making of a Modern China, 1857-1927*. 2001.
+- Dunnell, Ruth W., Mark C. Elliott, Philippe Foret, and James A. Millward. *New Qing Imperial History: The Making of Inner Asian Empire at Qing Chengde*. 2004.
+- Dunstan, Helen. *Conflicting Counsels to Confuse the Age: A Documentary Study of Political Economy in Qing China, 1644–1840*. 2020.
+- ———. *State or Merchant?: Political Economy and Political Process in 1740s China*. 2020.
+- Dyke, Paul A. Van, and Susan E. Schopp. *The Private Side of the Canton Trade, 1700–1840: Beyond the Companies*. 2018.
+- Eastman, Lloyd E. *Family, Fields, and Ancestors: Constancy and Change in China’s Social and Economic History, 1550-1949*. 1988.
+- ———. *Throne and Mandarins: China’s Search for a Policy During the Sino-French Controversy, 1880-1885*. 1967.
+- Ebrey, Patricia Buckley, and James L. Watson. *Kinship Organization in Late Imperial China, 1000-1940*. 2024.
+- Edgerton-Tarpley, Kathryn. ‘Family and Gender in Famine: Cultural Responses to Disaster in North China, 1876-1879’. *Journal of Women’s History* 16, no. 4 (2004): 119–47. [Link](https://muse.jhu.edu/pub/1/article/175846).
+- ———. *Tears from Iron: Cultural Responses to Famine in Nineteenth-Century China*. 1st ed. 2008.
+- Edwards. *Men and Women in Qing China: Gender in The Red Chamber Dream*. Electronic book. Sinica Leidensia 31. 1994.
+- Edwards, Louise. ‘Women Warriors and Amazons of the Mid Qing Texts Jinghua Yuan and Honglou Meng’. *Modern Asian Studies* 29, no. 2 (1995): 225–55. [Link](https://www.jstor.org/stable/312812).
+- Elleman, Bruce, and Stephen Kotkin. *Manchurian Railways and the Opening of China: An International History: An International History*. 2015.
+- Elliott, Jane E. *Some Did It for Civilisation, Some Did It for Their Country: A Revised View of the Boxer War*. 2002.
+- Elliott, Mark C. *Emperor Qianlong: Son of Heaven, Man of the World*. 2009.
+- ———. ‘The Limits of Tartary: Manchuria in Imperial and National Geographies’. *The Journal of Asian Studies* 59, no. 3 (1 August 2000): 603–46. [DOI](https://doi.org/10.2307/2658945).
+- ———. *The Manchu Way: The Eight Banners and Ethnic Identity in Late Imperial China*. 2001.
+- Elman, Benjamin A. *A Cultural History of Civil Examinations in Late Imperial China*. 2000.
+- ———. *A Cultural History of Modern Science in China*. 2009.
+- ———. *Civil Examinations and Meritocracy in Late Imperial China*. 2013.
+- ———. *Classicism, Politics, and Kinship: The Chʻang-Chou School of New Text Confucianism in Late Imperial China*. 1990.
+- ———. *From Philosophy to Philology: Intellectual and Social Aspects of Change in Late Imperial China*. 2001.
+- ———. ‘Jesuit Scientia and Natural Studies in Late Imperial China, 1600-18001’. *Journal of Early Modern History* 6, no. 3 (1 January 2002): 209–32. [DOI](https://doi.org/10.1163/157006502X00130).
+- ———. *On Their Own Terms: Science in China, 1550-1900*. 2009.
+- Elman, Benjamin A., and Alexander Woodside. *Education and Society in Late Imperial China, 1600-1900*. 2023.
+- Elverskog, Johan. *Our Great Qing: The Mongols, Buddhism, and the State in Late Imperial China*. 2008.
+- Elvin, Mark. *The Pattern of the Chinese Past: A Social and Economic Interpretation*. 1973.
+- Eng, Robert Y. *Economic Imperialism in China: Silk Production and Exports, 1861-1952*. 1986.
+- Esherick, Joseph. ‘Harvard on China: The Apologetics of Imperialism’. *Bulletin of Concerned Asian Scholars* 4, no. 4 (1 December 1972): 9–16. [DOI](https://doi.org/10.1080/14672715.1972.10406305).
+- ———. *The Origins of the Boxer Uprising*. Electronic book. 1987.
+- Estate, The Arthur Waley, and Arthur Waley. *The Opium War Through Chinese Eyes*. 2013.
+- Fairbank, J. K., and S. Y. Têng. ‘On The Ch’ing Tributary System’. *Harvard Journal of Asiatic Studies* 6, no. 2 (1941): 135–246. [DOI](https://doi.org/10.2307/2718006).
+- Fairbank, John K. *Ch’ing Documents: An Introductory Syllabus (Volume 1)*. 2020.
+- ———. *Ch’ing Documents: An Introductory Syllabus (Volume 2)*. 2020.
+- Fairbank, John King. *Trade and Diplomacy on the China Coast*. 1953.
+- Fairbank, John King, and Ta-tuan Chʻen. *The Chinese World Order: Traditional China’s Foreign Relations*. 1968.
+- Fang, Chaoying. ‘A Technique for Estimating The Numerical Strength of The Early Manchu Military Forces’. *Harvard Journal of Asiatic Studies* 13, no. 1/2 (1950): 192–215. [DOI](https://doi.org/10.2307/2718164).
+- Faure, David. *Emperor and Ancestor: State and Lineage in South China*. 2007.
+- ———. ‘The Lineage as a Cultural Invention: The Case of the Pearl River Delta’. *Modern China* 15, no. 1 (1989): 4–36. [Link](https://www.jstor.org/stable/189130).
+- Fay, Peter Ward. *The Opium War, 1840-1842: Barbarians in the Celestial Empire in the Early Part of the Nineteenth Century and the War by Which They Forced Her Gates Ajar*. 1975.
+- Feuerwerker, Albert. *China’s Early Industrialization: Sheng Hsuan-Huai (1844-1916) and Mandarin Enterprise*. 1968.
+- Finnane, Antonia. *Speaking of Yangzhou: A Chinese City, 1550-1850*. 2004.
+- Fogel, Joshua A. ‘A Decisive Turning Point in Sino-Japanese Relations: The Senzaimaru Voyage to Shanghai of 1862’. *Late Imperial China* 29, no. 1S (2008): 104–24. [Link](https://muse.jhu.edu/pub/1/article/239763).
+- Fogel, Joshua A. *Late Qing China and Meiji Japan: Political & Cultural Aspects*. 2004.
+- ———. *Sagacious Monks and Bloodthirsty Warriors: Chinese Views of Japan in the Ming-Qing Period*. 2002.
+- Fogel, Joshua A. ‘The Recent Boom in Shanghai Studies’. *Journal of the History of Ideas* 71, no. 2 (2010): 313–33. [Link](https://muse.jhu.edu/pub/56/article/379777).
+- Fogel, Joshua A., and Peter G. Zarrow, eds. *Imagining the People: Chinese Intellectuals and the Concept of Citizenship, 1890-1920*. 2020.
+- Forbes, Archibald. *Chinese Gordon, a Succinct Record of His Life*. 1885. [Link](http://archive.org/details/chinesegordonsuc00forb).
+- Forman, Ross G. ‘Peking Plots: Fictionalizing the Boxer Rebellion of 1900’. *Victorian Literature and Culture* 27, no. 1 (1999): 19–48. [Link](https://www.jstor.org/stable/25058437).
+- Frank, Andre Gunder. *ReORIENT: Global Economy in the Asian Age*. 1998.
+- Fréri, Joseph. *The Heart of Pekin Bishop a. Favier’s Diary of the Siege May-August, 1900*. 1901. [Link](http://archive.org/details/TheHeartOfPekin).
+- Gamsa, Mark. ‘The Epidemic of Pneumonic Plague in Manchuria 1910-1911’. *Past & Present* 190, no. 1 (2006): 147–83. [Link](https://muse.jhu.edu/pub/8/article/194817).
+- Gardella, Robert. *Harvesting Mountains: Fujian and the China Tea Trade, 1757-1937*. 1994.
+- Gates, Hill. *China’s Motor: A Thousand Years of Petty Capitalism*. 2018.
+- Gaustad, Blaine C. ‘Prophets and Pretenders: Inter-Sect Competition in Qianlong China’. *Late Imperial China* 21, no. 1 (2000): 1–40. [Link](https://muse.jhu.edu/pub/1/article/19529).
+- Gelber, Harry. *Battle for Beijing, 1858–1860: Franco-British Conflict in China*. 2016.
+- Giles, Lancelot. *The Siege of the Peking Legations; a Diary*. 1970. [Link](http://archive.org/details/siegeofpekingleg0000gile).
+- Giquel, Prosper. *A Journal of the Chinese Civil War, 1864*. 1985.
+- Goldman, Andrea. *Opera and the City: The Politics of Culture in Beijing, 1770-1900*. 2013.
+- Goodman, Bryna. ‘Improvisations on a Semicolonial Theme, or, How to Read a Celebration of Transnational Urban Community’. *The Journal of Asian Studies* 59, no. 4 (2000): 889–926. [DOI](https://doi.org/10.2307/2659216).
+- Goodman, Bryna, and Wendy Larson. *Gender in Motion: Divisions of Labor and Cultural Change in Late Imperial and Modern China*. 2005.
+- Goossaert, Vincent. ‘1898: The Beginning of the End for Chinese Religion?’ *The Journal of Asian Studies* 65, no. 2 (2006): 307–35. [Link](https://www.jstor.org/stable/25076034).
+- ———. *The Taoists of Peking, 1800–1949: A Social History of Urban Clerics*. 2007.
+- Gordon, Charles George. *Events in the Taeping Rebellion*. 1891. [Link](http://archive.org/details/cu31924023126729).
+- ———. *General Gordon’s Private Diary of His Exploits in China*. 1885. [Link](http://archive.org/details/cu31924023126703).
+- Gregory, J. S, and Prescott Clarke. *Western Reports on the Taiping: A Selection of Documents*. 1982.
+- Gregory, John S. ‘British Intervention Against the Taiping Rebellion’. *The Journal of Asian Studies* 19, no. 1 (1959): 11–24. [DOI](https://doi.org/10.2307/2943446).
+- Groot, Jan Jakob Maria. *Sectarianism and Religious Persecution in China: A Page in the History of Religions*. 1904.
+- Grove, Linda, and Christian Daniels. *State and Society in China: Japanese Perspectives on Ming-Qing Social and Economic History*. 1984.
+- Gunn, Geoffrey C. *Encountering Macau: A Portuguese City-State on the Periphery of China, 1557-1999*. 1996.
+- Guo, Qinghua. ‘Shenyang: The Manchurian Ideal Capital City and Imperial Palace, 1625–43’. *Urban History* 27, no. 03 (2000): 344–59.
+- Guo, Qitao. *Ritual Opera and Mercantile Lineage: The Confucian Transformation of Popular Culture in Late Imperial Huizhou*. 2005.
+- Guy, R. Kent. *The Emperor’s Four Treasuries: Scholars and the State in the Late Chʻien-Lung Era*. 1987.
+- Guy, Robert K. *Qing Governors and Their Provinces: The Evolution of Territorial Administration in China, 1644-1796*. 2015.
+- Haar, Barend ter. *Practicing Scripture: A Lay Buddhist Movement in Late Imperial China*. 2014.
+- ———. *The White Lotus Teachings in Chinese Religious History*. 2021. [Link](https://brill.com/display/title/812).
+- Haddad, John R. *The Romance of China: Excursions to China in U.S. Culture, 1776-1876*. 2002. [Link](http://www.gutenberg-e.org/haj01/index.html).
+- ———. ‘The Wild West Turns East: Audience, Ritual, and Regeneration in Buffalo Bill’s Boxer Uprising’. *American Studies* 49, no. 3 (2008): 5–38. [Link](https://muse.jhu.edu/pub/120/article/394612).
+- ———. ‘The Wild West Turns East: Audience, Ritual, and Regeneration in Buffalo Bill’s Boxer Uprising’. *American Studies* 49, no. 3/4 (2008): 5–38. [Link](https://www.jstor.org/stable/40930395).
+- Hail, William James. *Tseng Kuo-Fan and the Taiping Rebellion: With a Short Sketch of His Later Career*. 1927.
+- Halsey, Stephen R. ‘Quest for Power: European Imperialism and the Making of Chinese Statecraft’. Electronic book. In *Asian Studies Contemporary Collection eBook Package*. 2015.
+- Hamberg, Theodore. *The Visions of Hung-Siu-Tshuen, and Origin of the Kwang-Si Insurrection*. 1854. [Link](https://books.google.co.uk/books/about/The_Visions_of_Hung_Siu_Tshuen_and_Origi.html?id=ReGL1nCzjNsC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&redir_esc=y#v=onepage&q&f=false).
+- Han, Seunghyun. *After the Prosperous Age: State and Elites in Early Nineteenth Century Suzhou*. 2020.
+- Hang, Xing. *Conflict and Commerce in Maritime East Asia: The Zheng Family and the Shaping of the Modern World, c.1620–1720*. 2016.
+- Hansson, Anders. *Chinese Outcasts: Discrimination and Emancipation in Late Imperial China*. 2021. [Link](https://brill.com/display/title/624).
+- Hao, Chang. *Chinese Intellectuals in Crisis: Search for Order and Meaning, 1890-1911*. First Edition. 1987.
+- Hao, Yen-pʻing. *The Commercial Revolution in Nineteenth-Century China: The Rise of Sino-Western Mercantile Capitalism*. 1986.
+- Harrell, Paula. *Sowing the Seeds of Change: Chinese Students, Japanese Teachers, 1895-1905*. 1992.
+- Harrell, Stevan. *Cultural Encounters on China’s Ethnic Frontiers*. 2011.
+- Harrell, Stevan, and Elizabeth J. Perry. ‘Syncretic Sects in Chinese Society: An Introduction’. *Modern China* 8, no. 3 (1982): 283–303. [Link](https://www.jstor.org/stable/188924).
+- Harrison, Henrietta. ‘Newspapers and Nationalism in Rural China 1890-1929’. *Past & Present*, no. 166 (2000): 181–204. [Link](https://www.jstor.org/stable/651298).
+- ———. *The Man Awakened from Dreams: One Man’s Life in a North China Village, 1857-1942*. 2005.
+- ———. *The Missionary’s Curse and Other Tales from a Chinese Catholic Village*, 2013.
+- ———. *The Perils of Interpreting: The Extraordinary Lives of Two Translators Between Qing China and the British Empire*. 2023.
+- Harry Craufuird Thomson. *China and the Powers: A Narrative of the Outbreak of 1900*. 1902. [Link](http://archive.org/details/chinaandpowersa02unkngoog).
+- Hayter-Menzies, Grant. *The Empress and Mrs. Conger: The Uncommon Friendship of Two Women and Two Worlds*. 2011.
+- Head, John Warren, and Yanping Wang. *Law Codes in Dynastic China: A Synopsis of Chinese Legal History in the Thirty Centuries from Zhou to Qing*. 2005.
+- Hegel, Robert E., and Katherine N. Carlitz. *Writing and Law in Late Imperial China: Crime, Conflict, and Judgment*. 2017.
+- Hevia, James L. *English Lessons: The Pedagogy of Imperialism in Nineteenth-Century China*. 2003.
+- ———. ‘Leaving a Brand on China: Missionary Discourse in the Wake of the Boxer Movement’. *Modern China* 18, no. 3 (1992): 304–32. [Link](https://www.jstor.org/stable/189335).
+- Hillier, Andrew. *Mediating Empire: An English Family in China, 1817-1927*. 2020.
+- Hinton, Harold C. *The Grain Tribute System of China, 1845–1911*. 1956.
+- Ho, Ping-Ti. ‘In Defense of Sinicization: A Rebuttal of Evelyn Rawski’s “Reenvisioning the Qing”’. *The Journal of Asian Studies* 57, no. 1 (1998): 123–55. [DOI](https://doi.org/10.2307/2659026).
+- Ho, Ping-ti, and Bingdi He. *The Ladder Of Success In Imperial China: Aspects Of Social Mobility*. 1976.
+- Hoe, Susanna. *Women at the Siege, Peking 1900*. 2000.
+- Hon, Tze-Ki. *Revolution As Restoration: Guocui Xuebao and China’s Path to Modernity, 1905-1911*. 2013.
+- Hon, Tze-ki, and Robert Culp. *The Politics of Historical Production in Late Qing and Republican China*. 2007.
+- Hostetler, Laura. *Qing Colonial Enterprise: Ethnography and Cartography in Early Modern China*. 2005.
+- Hsiao, Kung-Ch’uean. *Rural China: Imperial Control in the Nineteenth Century*. 1972.
+- Huang, Fuqing. *Chinese Students in Japan in the Late Chʼing Period*. 1982.
+- Huang, Liuhong. *A Complete Book Concerning Happiness and Benevolence: A Manual for Local Magistrates in Seventeenth-Century China*. 1984.
+- Huang, Martin W. *Negotiating Masculinities in Late Imperial China*. 2006.
+- Huang, Pei. *Autocracy at Work: A Study of the Yung-Cheng Period, 1723-1735*. 1974.
+- Huang, Philip C. *Code, Custom, and Legal Practice in China: The Qing and the Republic Compared*. 2001.
+- Huang, Philip C. C. ‘Between Informal Mediation and Formal Adjudication: The Third Realm of Qing Civil Justice’. *Modern China* 19, no. 3 (1993): 251–98. [Link](http://www.jstor.org/stable/189346).
+- ———. *Civil Justice in China: Representation and Practice in the Qing*. 1996.
+- ———. ‘Development or Involution in Eighteenth-Century Britain and China? A Review of Kenneth Pomeranz’s “The Great Divergence: China, Europe, and the Making of the Modern World Economy”’. Edited by Kenneth Pomeranz. *The Journal of Asian Studies* 61, no. 2 (2002): 501–38. [DOI](https://doi.org/10.2307/2700299).
+- Huenemann, Ralph William. *The Dragon and the Iron Horse: The Economics of Railroads in China, 1876-1937*. 1981.
+- Hung, Ho-fung. *Protest with Chinese Characteristics: Demonstrations, Riots, and Petitions in the Mid-Qing Dynasty*. 2013.
+- Hunt, Michael H. ‘The Forgotten Occupation: Peking, 1900-1901’. *Pacific Historical Review* 48, no. 4 (1979): 501–29. [DOI](https://doi.org/10.2307/3638698).
+- Huntington, Rania. ‘Chaos, Memory, and Genre: Anecdotal Recollections of the Taiping Rebellion’. *Chinese Literature: Essays, Articles, Reviews (CLEAR)* 27 (2005): 59–91. [Link](https://www.jstor.org/stable/30039102).
+- ———. ‘The Captive’s Revenge: The Taiping Civil War as Drama’. *Late Imperial China* 35, no. 2 (2014): 1–26. [Link](https://muse.jhu.edu/pub/1/article/564698).
+- Huters, Theodore. *Bringing the World Home: Appropriating the West in Late Qing and Early Republican China*. 2017.
+- Idema, Wilt L., Wai-yee Li, and Ellen Widmer. *Trauma and Transcendence in Early Qing Literature*. 2006.
+- Jami, Catherine. ‘Imperial Control and Western Learning: The Kangxi Emperor’s Performance’. *Late Imperial China* 23, no. 1 (1 June 2002): 28–49. [DOI](https://doi.org/10.1353/late.2002.0004).
+- Javers, Quinn. *Conflict, Community, and the State in Late Imperial Sichuan: Making Local Justice*. 2019.
+- Jen, Yu-Wen. *The Taiping Revolutionary Movement*. 2009.
+- Jenco, Leigh K. *Changing Referents: Learning Across Space and Time in China and the West*. 2015.
+- Jenks, Robert D. *Insurgency and Social Disorder in Guizhou: The ‘Miao’ Rebellion, 1854–1873*. 1994.
+- Jin, Huan. ‘Violence and the Evolving Face of Yao in Taiping Propaganda’. *Journal of Religion and Violence* 6, no. 1 (2018): 127–44. [Link](https://www.jstor.org/stable/26671561).
+- Jin 金環, Huan. ‘Multiple Otherness: Identity Politics in the Taiping Civil War’. *Journal of Chinese Literature and Culture* 7, no. 1 (2020): 215–31. [Link](https://muse.jhu.edu/pub/4/article/759990).
+- Johnson, Linda Cooke. *Cities of Jiangnan in Late Imperial China*. 1993.
+- Jones, William C. *The Great Qing Code*. 1994.
+- Judge, Joan. *Print and Politics: ‘Shibao’ and the Culture of Reform in Late Qing China*. 1996.
+- ———. *Print and Politics: ‘Shibao’ and the Culture of Reform in Late Qing China*. 1997.
+- ———. ‘The Factional Function of Print: Liang Qichao, Shibao, and the Fissures in the Late Qing Reform Movement’. *Late Imperial China* 16, no. 1 (1995): 120–40. [DOI](https://doi.org/10.1353/late.1995.0006).
+- Kaminishi, Miriam, and Andrew David Smith. ‘Western Debates About Chinese Entrepreneurship in the Treaty Port Period, 1842–1911’. *Enterprise & Society* 21, no. 1 (2020): 134–69. [Link](https://muse.jhu.edu/pub/122/article/748958).
+- Kang, David. *East Asia Before the West: Five Centuries of Trade and Tribute*. 2012.
+- Karl, Rebecca E. ‘Creating Asia: China in the World at the Beginning of the Twentieth Century’. *The American Historical Review* 103, no. 4 (1998): 1096–1118. [DOI](https://doi.org/10.2307/2651199).
+- ———. *Staging the World: Chinese Nationalism at the Turn of the Twentieth Century*. 2002. [Link](http://library.st-andrews.ac.uk/record=b3138557~S5).
+- Kayaoglu, Turan. *Legal Imperialism: Sovereignty and Extraterritoriality in Japan, the Ottoman Empire, and China*. 2010.
+- Kennedy, Thomas L. ‘The Kiangnan Arsenal 1895-1911: The Decentralized Bureaucracy Responds to Imperialism’. *Ch’ing-Shih Wen-t’i* 2, no. 1 (1969): 17–37. [Link](https://muse.jhu.edu/pub/1/article/402062).
+- Kilcourse, Carl S. *Taiping Theology: The Localization of Christianity in China, 1843–64*. 2016.
+- Kim, Hodong. *Holy War in China: The Muslim Rebellion and State in Chinese Central Asia, 1864-1877*. 2004.
+- Kim, Key-hiuk. *The Last Phase of the East Asian World Order: Korea, Japan and the Chinese Empire, 1860-82*. 1980.
+- Kim, Seonmin. ‘Ginseng and Border Trespassing Between Qing China and Chosǒn Korea’. *Late Imperial China* 28, no. 1 (2007): 33–61. [DOI](https://doi.org/10.1353/late.2007.0009).
+- King, Frank H. H. ‘The Boxer Indemnity: “Nothing but Bad”’. *Modern Asian Studies* 40, no. 3 (2006): 663–89. [Link](https://www.jstor.org/stable/3876542).
+- ———. ‘The Boxer Indemnity: “Nothing but Bad”’. *Modern Asian Studies* 40, no. 3 (2006): 663–89. [Link](https://www.jstor.org/stable/3876542).
+- King, Frank H. H., and Prescott Clarke. *A Research Guide to China-Coast Newspapers, 1822–1911*. 2020.
+- ———. *A Research Guide to China-Coast Newspapers, 1822–1911*. 2020.
+- Kitson, Peter J. *Forging Romantic China: Sino-British Cultural Exchange 1760–1840*. 2013.
+- Knorr, Daniel. ‘Fragile Bulwark: The Qing State in Jinan during the Taiping and Nian Wars’. *Late Imperial China* 43, no. 1 (2022): 43–83. [Link](https://muse.jhu.edu/pub/1/article/856965).
+- Knüsel, Ariane. ‘Facing the Dragon: Teaching the Boxer Uprising Through Cartoons’. *The History Teacher* 50, no. 2 (2017): 201–26. [Link](https://www.jstor.org/stable/44504479).
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.
+- ———. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. 1994.
+- Kuhn, Philip. ‘The T’uan-Lien Local Defense System at The Time of The Taiping Rebellion’. *Harvard Journal of Asiatic Studies* 27 (1967): 218–55. [DOI](https://doi.org/10.2307/2718389).
+- Kuhn, Philip A. ‘Origins of the Taiping Vision: Cross-Cultural Dimensions of a Chinese Rebellion’. *Comparative Studies in Society and History* 19, no. 3 (1977): 350–66. [Link](https://www.jstor.org/stable/177996).
+- ———. *Rebellion and Its Enemies in Late Imperial China: Militarization and Social Structure, 1796-1864*. 1980.
+- KUHN, Philip A., and Philip A. Kuhn. *Soulstealers: The Chinese Sorcery Scare of 1768*. 2009.
+- Kwan, Man Bun. *The Salt Merchants of Tianjin: State-Making and Civil Society in Late Imperial China*. 2001.
+- Kwong, Luke. *T’an Ssu-t’ung, 1865-1898: Life and Thought of a Reformer*. 1996. [Link](https://brill.com/display/title/2420).
+- Kwong, Luke S. K. *A Mosaic of the Hundred Days: Personalities, Politics, and Ideas of 1898*. 1984.
+- ———. ‘The Rise of the Linear Perspective on History and Time in Late Qing China c. 1860-1911’. *Past & Present*, no. 173 (2001): 157–90.
+- Lackner, Michael, and Natascha Vittinghoff, eds. *Mapping Meanings: The Field of New Learning in Late Qing China*. 2004. [Link](https://brill.com/edcollbook/title/11085).
+- Lai, John T. P. *Literary Representations of Christianity in Late Qing and Republican China*. 2019.
+- Laitinen, Kauko. *Chinese Nationalism in the Late Qing Dynasty: Zhang Binglin as an Anti-Manchu Propagandist*. 1990.
+- Lee, En-han. *China’s Quest for Railway Autonomy, 1904-1911: A Study of the Chinese Railway-Rights Recovery Movement*. 1977.
+- Lee, Robert H. G. *The Manchurian Frontier in Chʼing History*. 1970.
+- Leibo, Steven A. ‘The Taiping Rebellion and the French Connection: The 1864 Diary of Prosper Giquel’. *Ch’ing-Shih Wen-t’i* 4, no. 5 (1981): 121–25. [Link](https://muse.jhu.edu/pub/1/article/398596).
+- Leibold, J. *Reconfiguring Chinese Nationalism: How the Qing Frontier and Its Indigenes Became Chinese*. 2016.
+- Leonard, Jane Kate. *Controlling from Afar: The Daoguang Emperor’s Management of the Grand Canal Crisis, 1824-1826*. 1996.
+- ———. *Wei Yuan and China’s Rediscovery of the Maritime World*. 1984.
+- Levenson, Joseph Richmond. *Liang Ch’i-Ch’ao and the Mind of Modern China*. 1967.
+- Li, Hsiu-ch’eng, and Charles A. Curwen. *Taiping Rebel: The Deposition of Li Hsiu-Ch’eng*. 1977.
+- Li, Lillian M. *China’s Silk Trade: Traditional Industry in the Modern World, 1842-1937*. 1981.
+- ———. *Fighting Famine in North China: State, Market, and Environmental Decline, 1690s-1990s*. 2007.
+- Li, Lillian M., and Alison Dray-Novey. ‘Guarding Beijing’s Food Security in the Qing Dynasty: State, Market, and Police’. *The Journal of Asian Studies* 58, no. 4 (1 November 1999): 992–1032.
+- Lin, Man-houng. *China Upside Down: Currency, Society, and Ideologies, 1808–1856*. 2020.
+- Lin, Xiaoqing Diana. *Peking University: Chinese Scholarship and Intellectuals, 1898-1937*. 2012.
+- Lipman, Jonathan N. *Familiar Strangers: A History of Muslims in Northwest China*. 2011.
+- Little, Daniel. *Understanding Peasant China: Case Studies in the Philosophy of Social Science*. 1989.
+- Liu, Kwang-Ching. *Orthodoxy in Late Imperial China*. 1994.
+- Liu, Yong. *The Dutch East India Company’s Tea Trade with China: 1757 - 1781*. 2007.
+- Lovell, Julia. *The Opium War: Drugs, Dreams, and the Making of Modern China*. 2015.
+- Lutz, Jessie Gregory, and Rolland Ray Lutz. *Hakka Chinese Confront Protestant Christianity, 1850-1900: With the Autobiographies of Eight Hakka Christians, and Commentary*. 2015.
+- Lyster, Thomas. *With Gordon in China: Letters from Thomas Lyster, Lieutenant Royal Engineers*. 1891. [Link](http://archive.org/details/withgordoninchi00lystgoog).
+- Ma, Jianzhong, and Paul John Bailey. *Strengthen the Country and Enrich the People: The Reform Writings of Ma Jianzhong*. 1995.
+- Ma, Yuxin. *Women Journalists and Feminism in China, 1898-1937*. 2010.
+- Macauley, Melissa Ann. *Social Power and Legal Culture: Litigation Masters in Late Imperial China*. 1998.
+- MacKinnon, Stephen R. *Power and Politics in Late Imperial China: Yuan Shi-Kai in Beijing and Tianjin, 1901-1908*. 1980.
+- Madancy, Joyce. ‘Unearthing Popular Attitudes toward the Opium Trade and Opium Suppression in Late Qing and Early Republican Fujian’. *Modern China* 27, no. 4 (2001): 436–83. [Link](https://www.jstor.org/stable/3181326).
+- Madancy, Joyce A. *The Troublesome Legacy of Commissioner Lin: The Opium Trade and Opium Suppression in Fujian Province, 1820s to 1920s*. 2003.
+- Man-Cheong, Iona. *The Class of 1761: Examinations, State, and Elites in Eighteenth-Century China*. 2004.
+- Mann, Susan. *Precious Records: Women in China’s Long Eighteenth Century*. 1997.
+- Mazumdar, Sucheta. *Sugar and Society in China: Peasants, Technology, and the World Market*. 1998.
+- McCaffrey, Cecily. ‘Rebellion and Religious Identity: The Case of the White Lotus Uprising (1796–1804)’. *Journal of Chinese Religions* 48, no. 1 (2020): 59–85. [Link](https://muse.jhu.edu/pub/1/article/754048).
+- McCord, Edward A. ‘Militia and Local Militarization in Late Qing and Early Republican China: The Case of Hunan’. *Modern China* 14, no. 2 (1988): 156–87. [Link](https://www.jstor.org/stable/189269).
+- McMahon, Daniel. *China’s Borderlands under the Qing, 1644–1912: Perspectives and Approaches in the Investigation of Imperial Boundary Regions*. 2020.
+- ———. ‘Identity And Conflict On A Chinese Borderland: Yan Ruyi And The Recruitment Of The Gelao During The 1795-97 Miao Revolt’. *Late Imperial China* 23, no. 2 (2002): 53–86. [Link](https://muse.jhu.edu/pub/1/article/40688).
+- ———. *Rethinking the Decline of China’s Qing Dynasty: Imperial Activism and Borderland Management at the Turn of the Nineteenth Century*. 2014.
+- ———. ‘Statecraft Values in Early Nineteenth Century China: Yan Ruyi’s (1759-1826) Activist Historiography’. *Journal of Oriental Studies* 38, no. 1/2 (2005): 16–37. [Link](https://www.jstor.org/stable/23500544).
+- McMahon, Keith. *Celestial Women: Imperial Wives and Concubines in China from Song to Qing*. 2016.
+- ———. ‘Fleecing the Male Customer in Shanghai Brothels of the 1890s’. *Late Imperial China* 23, no. 2 (2002): 1–32. [Link](https://muse.jhu.edu/pub/1/article/40690).
+- McNicholas, Mark. *Forgery and Impersonation in Imperial China: Popular Deceptions and the High Qing State*. 2016.
+- Meijer, Marinus Johan, and Meijer. *Murder and Adultery in Late Imperial China: A Study of Law and Morality*. 1991.
+- Meyer-Fong, Tobie. ‘The Printed World: Books, Publishing Culture, and Society in Late Imperial China’. *The Journal of Asian Studies* 66, no. 3 (2007): 787–817. [Link](https://www.jstor.org/stable/20203205).
+- Meyer-Fong, Tobie S. *What Remains: Coming to Terms with Civil War in 19th Century China*, 2013.
+- Meyer-Fong, Tobie Sarah. *Building Culture in Early Qing Yangzhou*. 2003.
+- Michael, Franz H. *The Origin of Manchu Rule in China: Frontier and Bureaucracy as Interacting Forces in the Chinese Empire*. 1972.
+- ———. *The Taiping Rebellion: History and Documents 3 Vols.*. 1971.
+- Millward, James A. *Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864*. 1998.
+- Millward, James A. ‘“Coming onto the Map”: “Western Regions” Geography and Cartographic Nomenclature in the Making of Chinese Empire in Xinjiang’. *Late Imperial China* 20, no. 2 (1999): 61–98. [Link](https://muse.jhu.edu/pub/1/article/19521).
+- Min, Tu-ki. *National Polity and Local Power: The Transformation of Late Imperial China*. 2020.
+- Miyazaki, Ichisada. *Chinas Examination Hell: The Civil Service Examinations of Imperial China*. Translated by Conrad Schirokauer. New edition edition. 1981.
+- Moser, Michael J., and Yeone Wei-chih Moser. *Foreigners Within the Gates: The Legations at Peking*. 1993.
+- Mueggler, Erik. *The Paper Road: Archive and Experience in the Botanical Exploration of West China and Tibet*. 2011.
+- Mühlhahn, Klaus. *Making China Modern: From the Great Qing to XI Jinping*. 2019.
+- Mungello, D. E. *Curious Land: Jesuit Accommodation and the Origins of Sinology*. 1988.
+- Murray, Dian H., and Qin Baoqi. *The Origins of the Tiandihui: The Chinese Triads in Legend and History*. 1994.
+- Muscolino, Micah S. *Fishing Wars and Environmental Change in Late Imperial and Modern China*. 2020.
+- Naquin, Susan. *Chinese Society in the Eighteenth Century*. 1987.
+- ———. *Millenarian Rebellion in China: The Eight Trigrams Uprising of 1813*. Yale Historical Publications : Miscellany 108. 1976.
+- ———. *Peking: Temples and City Life, 1400-1900*. 2001.
+- ———. *Shantung Rebellion: The Wang Lun Uprising of 1774*. 1981.
+- ———. ‘The Forbidden City Goes Abroad: Qing History and the Foreign Exhibitions of the Palace Museum, 1974–2004’. *T’oung Pao* 90, no. 4 (1 January 2004): 341–97. [DOI](https://doi.org/10.1163/1568532043628377).
+- Neighbors, Jennifer M. ‘The Long Arm of Qing Law? Qing Dynasty Homicide Rulings in Republican Courts’. *Modern China* 35, no. 1 (1 January 2009): 3–37. [DOI](https://doi.org/10.1177/0097700408323161).
+- *New Terms for New Ideas: Western Knowledge and Lexical Change in Late Imperial China*. 2021. [Link](https://brill.com/edcollbook/title/7204).
+- Newby, Laura. *The Empire and the Khanate: A Political History of Qing Relations with Khoqand c.1760-1860*. 2005.
+- Newman, R. K. ‘Opium Smoking in Late Imperial China: A Reconsideration’. *Modern Asian Studies* 29, no. 4 (1995): 765–94. [Link](https://www.jstor.org/stable/312804).
+- Ng, On-cho. ‘A Tension in Ch’ing Thought: “Historicism” in Seventeenth-and Eighteenth-Century Chinese Thought’. *Journal of the History of Ideas* 54, no. 4 (1993): 561–83.
+- Ng, Vivien W. ‘Ideology and Sexuality: Rape Laws in Qing China’. *The Journal of Asian Studies* 46, no. 1 (1987): 57–70. [DOI](https://doi.org/10.2307/2056666).
+- Ocko, Jonathan K. ‘I’ll Take It All the Way to Beijing: Capital Appeals in the Qing’. *The Journal of Asian Studies* 47, no. 2 (1988): 291–315. [DOI](https://doi.org/10.2307/2056169).
+- OF, QING CRISIS MANAGEMENT AND THE BONDS. *Dragons, Tigers, and Dogs: Qing Crisis Management and the Boundaries of State Power in Late Imperial China*. 2002.
+- ‘On This Day: June 9, 1900’. Accessed 18 March 2010. [Link](http://www.nytimes.com/learning/general/onthisday/harp/0609.html).
+- Otte, T. G. *The China Question: Great Power Rivalry and British Isolation, 1894-1905*. 2007.
+- Overmyer, Daniel L. *Folk Buddhist Religion: Dissenting Sects in Late Traditional China*. 1976.
+- Ownby, David. ‘The Ethnic Feud in Qing Taiwan: What Is This Violence Business, Anyway? An Interpretation of the 1782 Zhang-Quan Xiedou’. *Late Imperial China* 11, no. 1 (1990): 75–98. [Link](https://muse.jhu.edu/pub/1/article/398378).
+- Ownby, David, and Mary F Somers Heidhues. *‘Secret Societies’ Reconsidered: Perspectives on the Social History of Modern South China and Southeast Asia*, 2016. [Link](https://nls.ldls.org.uk/welcome.html?ark:/81055/vdc_100046078568.0x000001).
+- ‘Peking: Operational Reports of Marine Commanders’. Accessed 17 March 2010. [Link](http://www.history.navy.mil/docs/boxer/boxer13.htm).
+- Perdue, Pc. *Exhausting the Earth: State and Peasant in Hunan, 1500-1850*. 1987.
+- Perdue, Peter C. *China Marches West: The Qing Conquest of Central Eurasia*. Reprint. 2010.
+- ———. ‘Military Mobilization in Seventeenth and Eighteenth-Century China, Russia, and Mongolia’. *Modern Asian Studies* 30, no. 4 (1996): 757–93. [Link](https://www.jstor.org/stable/312949).
+- Perry, Elizabeth J. *Rebels and Revolutionaries in North China, 1845-1945*. 1983.
+- ———. ‘Tax Revolt in Late Qing China: The Small Swords of Shanghai and Liu Depei of Shandong’. *Late Imperial China* 6, no. 1 (1985): 83–112. [Link](https://muse.jhu.edu/pub/1/article/398310).
+- ———. ‘Worshipers and Warriors: White Lotus Influence on the Nian Rebellion’. *Modern China* 2, no. 1 (1976): 4–22. [Link](https://www.jstor.org/stable/188811).
+- *Pioneer of the Chinese Revolution: Zhang Binglin and Confucianism*. 1990.
+- Platt, Stephen R. *Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War*. 2012.
+- ———. ‘Introduction: War and Reconstruction in 1860s Jiangnan’. *Late Imperial China* 30, no. 2 (2009): 1–8. [Link](https://muse.jhu.edu/pub/1/article/368170).
+- Po, Ronald C. *The Blue Frontier: Maritime Vision and Power in the Qing Empire*. 2018.
+- Polachek, James M. *The Inner Opium War*. 1992.
+- Pomeranz, Kenneth. *The Great Divergence: China, Europe, and the Making of the Modern World Economy*. 2021.
+- ———. *The Making of a Hinterland State, Society, and Economy in Inland North China, 1853-1937*. 1993.
+- Pong, David. *Shen Pao-Chen and China’s Modernization in the Nineteenth Century*. 1994.
+- Porter, Jonathan. *Tseng Kuo-Fan’s Private Bureaucracy*. 1972.
+- Preston, Diana. *Boxer Rebellion: The Dramatic Story of China’s War on Foreigners That Shook the World in the Summer of 1900*. 2001.
+- Price, Eva Jane. *China Journal 1889-1900: An American Missionary Family During the Boxer Rebellion : With the Letters and Diaries of Eva Jane Price and Her Family*. 1989.
+- Pritchard, Earl H, J. L Cranmer-Byng, and Patrick Tuck. *Britain and the China Trade 1635-1842*. 2000.
+- ‘Prologue: Selected Articles’. Accessed 18 March 2010. [Link](http://www.archives.gov/publications/prologue/1999/winter/boxer-rebellion-1.html).
+- Purcell, Victor. *The Boxer Uprising: A Background Study*. 1963.
+- *Qing Imperial Illustrations of Tributary Peoples (Huang Qing Zhigong Tu): A Cultural Cartography of Empire*. 2022. [Link](https://brill.com/display/title/60180).
+- Rankin, Mary Backus. *Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911*. 1971.
+- ———. *Elite Activism and Political Transformation in China: Zhejiang Province, 1865-1911*. 1987.
+- Rawski, Evelyn S. ‘Presidential Address: Reenvisioning the Qing: The Significance of the Qing Period in Chinese History’. *The Journal of Asian Studies* 55, no. 4 (1996): 829–50. [DOI](https://doi.org/10.2307/2646525).
+- ———. *The Last Emperors: A Social History of Qing Imperial Institutions*. 1998.
+- Rawski, Evelyn S., and Jessica Rawson. *China: The Three Emperors 1662-1795*. 2006.
+- Rawski, Evelyn S, and James L Watson. *Death Ritual in Late Imperial and Modern China*. 1991.
+- Reardon-Anderson, James. *Reluctant Pioneers: China’s Expansion Northward, 1644-1937*. 2005.
+- ———. *The Study of Change: Chemistry in China, 1840-1949*. 1991.
+- Reed, Bradly W. *Talons and Teeth: County Clerks and Runners in the Qing Dynasty*. 2000.
+- Reilly, Thomas H. *The Taiping Heavenly Kingdom: Rebellion and the Blasphemy of Empire*. 2011.
+- Reinders, Eric. *Borrowed Gods and Foreign Bodies: Christian Missionaries Imagine Chinese Religion*. 2004.
+- Reinhardt, Anne. *Navigating Semi-Colonialism: Shipping, Sovereignity, and Nation Building in China, 1860–1937*. 2020.
+- Remick, Elizabeth J. *Regulating Prostitution in China: Gender and Local Statebuilding, 1900-1937*. 2014.
+- Reynolds, Douglas. *China, 1898-1912: The Xinzheng Revolution and Japan*. Electronic book. 1993.
+- Rhee, Hong Beom. *Asian Millenarianism: An Interdisciplinary Study of the Taiping and Tonghak Rebellions in a Global Context*. 2006.
+- Rhoads, Edward J. M. *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928*. 2000. [Link](https://library.st-andrews.ac.uk/record=b3608378~S5).
+- ———. *Stepping Forth into the World: The Chinese Educational Mission to the United States, 1872-81*. 2011.
+- Rogaski, Ruth and American Council of Learned Societies. *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China*. 2004. [Link](http://0-hdl.handle.net.biblio.eui.eu/2027/heb.06659).
+- Rolston, David. *Inscribing Jingju/Peking Opera: Textualization and Performance, Authorship and Censorship of the “National Drama” of China from the Late Qing to the Present*. 2021.
+- Romanov, Boris Aleksandrovič. *Russia in Manchuria 1892-1906*. 1952.
+- Rosenbaum, Arthur Lewis. ‘Chinese Railway Policy and the Response to Imperialism: The Peking-Mukden Railway, 1895-1911’. *Ch’ing-Shih Wen-t’i* 2, no. 1 (1969): 38–70. [Link](https://muse.jhu.edu/pub/1/article/402063).
+- Rosenthal, Jean-Laurent, and R. Bin Wong. *Before and Beyond Divergence: The Politics of Economic Change in China and Europe*. 2011.
+- Rowe, William. *Hankow: Conflict and Community in a Chinese City, 1796-1895*. 1st ed. 1992.
+- Rowe, William T. *China’s Last Empire: The Great Qing*. 2012.
+- ———. *Crimson Rain: Seven Centuries of Violence in a Chinese County*. 2007.
+- ———. *Hankow: Commerce and Society in a Chinese City, 1796-1889*. 1984.
+- ———. ‘Hu Lin-i’s Reform of the Grain Tribute System in Hupeh, 1855-1858’. *Ch’ing-Shih Wen-t’i* 4, no. 10 (1983): 33–86. [Link](https://muse.jhu.edu/pub/1/article/398284).
+- ———. *Saving the World: Chen Hongmou and Elite Consciousness in Eighteenth-Century China*. 2001.
+- ———. *Speaking of Profit: Bao Shichen and Reform in Nineteenth-Century China*. 2020.
+- Rudolph, Jennifer. *Negotiated Power in Late Imperial China: The Zongli Yamen and the Politics of Reform*. 2010.
+- Ruitenbeek. *Carpentry and Building in Late Imperial China: A Study of the Fifteenth-Century Carpenter’s Manual Lu Ban Jing*. 2021. [Link](https://brill.com/display/title/1833).
+- Ruskola, Teemu. *Legal Orientalism: China, the United States, and Modern Law*. 2013.
+- Saarela, Mårten Söderblom. ‘“Shooting Characters”: A Phonological Game and Its Uses in Late Imperial China’. *Journal of the American Oriental Society* 138, no. 2 (2018): 327–59. [Link](https://www.jstor.org/stable/10.7817/jameroriesoci.138.2.0327).
+- Sachsenmaier, Dominic. *Global Entanglements of a Man Who Never Traveled: A Seventeenth-Century Chinese Christian and His Conflicted Worlds*. 2018.
+- Salmon, Claudine. *Ming Loyalists in Southeast Asia: As Perceived Through Various Asian and European Records*. 2014.
+- Scarth, John. *Twelve Years in China; the People, the Rebels, and the Mandarins*. 1860. [Link](http://archive.org/details/twelveyearsinchi00scarrich).
+- Schillinger, Nicolas. *The Body and Military Masculinity in Late Qing and Early Republican China: The Art of Governing Soldiers*. 2016.
+- Schlesinger, Jonathan. *A World Trimmed with Fur: Wild Things, Pristine Places, and the Natural Fringes of Qing Rule*. 2017.
+- Schmidt, Jerry D. *The Poet Zheng Zhen (1806-1864) and the Rise of Chinese Modernity*. 2013.
+- Schonebaum, Andrew. *Novel Medicine: Healing, Literature, and Popular Knowledge in Early Modern China*. 2016.
+- Schoppa, R. Keith. *Chinese Elites and Political Change: Zhejiang Province in the Early Twentieth Century*. Harvard East Asian Series 96. 1982.
+- Schottenhammer, Angela, and Roderich Ptak. *The Perception of Maritime Space in Traditional Chinese Sources*. 2006.
+- Schrecker, John E. *Imperialism and Chinese Nationalism: Germany in Shantung*. 2013.
+- Seiwert, Hubert. *Popular Religious Movements and Heterodox Sects in Chinese History*. 2003. [Link](https://brill.com/display/title/8270).
+- ‘Selected Documents: Boxer Rebellion (China Relief Expedition)’. Accessed 17 March 2010. [Link](http://www.history.navy.mil/docs/boxer/boxer2.htm#relief).
+- Sen, Sudipta. ‘The New Frontiers of Manchu China and the Historiography of Asian Empires: A Review Essay’. Edited by Pamela K. Crossley, Mark C. Elliott, Evelyn Rawski, and Edward Rhoads. *The Journal of Asian Studies* 61, no. 1 (2002): 165–77. [DOI](https://doi.org/10.2307/2700194).
+- Shang, Wei. *Rulin Waishi and Cultural Transformation in Late Imperial China*. 2003.
+- Shi Zhihong. *Agricultural Development in Qing China: A Quantitative Study, 1661-1911*. 2017.
+- Shih, Vincent Yu-Chung. ‘Interpretations of the Taiping Tien-Kuo by Noncommunist Chinese Writers’. *The Far Eastern Quarterly* 10, no. 3 (1951): 248–57. [DOI](https://doi.org/10.2307/2049317).
+- Shih, Vincent Yu-chung. *The Taiping Ideology: Its Sources, Interpretations, and Influences*. 1967.
+- Silberstein, Rachel. *A Fashionable Century: Textile Artistry and Commerce in the Late Qing*. 2020.
+- Silbey, David J. *The Boxer Rebellion and the Great Game in China: A History*. 2012.
+- Skinner, George William. *The City in Late Imperial China*. 1977.
+- Smith, Richard J. *China’s Cultural Heritage: The Ch’ing Dynasty, 1644-1912*. 1983.
+- ———. *The Qing Dynasty and Traditional Chinese Culture*. 2015.
+- Smith, S. A. *Like Cattle and Horses: Nationalism and Labor in Shanghai, 1895-1927*. 2002.
+- Snyder-Reinke, Jeffrey. *Dry Spells: State Rainmaking and Local Governance in Late Imperial China*. 2009.
+- Sommer, Matthew H. *Polyandry and Wife-Selling in Qing Dynasty China: Survival Strategies and Judicial Interventions*. 2015.
+- Sommer, Matthew Harvey. *Sex, Law, and Society in Late Imperial China*. 2000.
+- Soon, Wayne. ‘Science, Medicine, and Confucianism in the Making of China and Southeast Asia—Lim Boon Keng and the Overseas Chinese, 1897–1937’. *Twentieth-Century China* 39, no. 1 (2014): 24–43. [Link](https://muse.jhu.edu/pub/1/article/653576).
+- *Southwest China in a Regional and Global Perspective (c.1600-1911): Metals, Transport, Trade and Society*. 2018.
+- Spector, Stanley. *Li Hung - Chang and the Huai Army: A Study in Nineteenth-Century Chinese Regionalism*. 1954.
+- Spence, Jonathan D. *Emperor of China: Self-Portrait of K’ang-Hsi*. 2012.
+- ———. *God’s Chinese Son: The Taiping Heavenly Kingdom of Hong Xiuquan*. Reprint. 1996.
+- ———. *The Death of Woman Wang*. 1978.
+- Sr, Arthur W. Hummel. *Eminent Chinese of the Qing Period: 1644-1911 2 Vols.*. 2018.
+- Stanley, Timothy J. ‘“Chinamen, Wherever We Go”: Chinese Nationalism and Guangdong Merchants in British Columbia, 1871–1911’. *The Canadian Historical Review* 77, no. 4 (1996): 475–503. [Link](https://muse.jhu.edu/pub/50/article/574846).
+- Stevenson, Mark, and Cuncun Wu. *Homoeroticism in Imperial China: A Sourcebook*. 2013.
+- Struve, Lynn A. *The Ming-Qing Conflict, 1619-1683: A Historiography and Source Guide*. 1998.
+- ———. *The Qing Formation in World-Historical Time*. 2004.
+- Struve, Lynn A. *Time, Temporality, and Imperial Transition: East Asia from Ming to Qing*. 2005.
+- Struve, Lynn A., ed. *Time, Temporality, and Imperial Transition: East Asia from Ming to Qing*. 2005.
+- ———. *Voices from the Ming-Qing Cataclysm: China in Tigers’ Jaws*. 1993.
+- Sugihara, Kaoru. *Japan, China, and the Growth of the Asian International Economy, 1850-1949*. 2005.
+- Suleski, Ronald Stanley. *Daily Life for the Common People of China, 1850 to 1950: Understanding Chaoben Culture*. 2018.
+- *Suppression Of The Taiping Rebellion In The Departments Around Shanghai*. 1871. [Link](http://archive.org/details/suppression-of-the-taiping-rebellion-in-the-departments-around-shanghai).
+- Sutton, Donald S. ‘Ethnic Revolt in the Qing Empire: The “Miao Uprising” of 1795-1797 Reexamined’. *Asia Major* 16, no. 2 (2003): 105–52. [Link](https://www.jstor.org/stable/41649879).
+- ———. ‘Ritual, Cultural Standardization, and Orthopraxy in China: Reconsidering James L. Watson’s Ideas’. *Modern China* 33, no. 1 (2007): 3–21. [Link](https://www.jstor.org/stable/20062656).
+- Svarverud, Rune. *International Law as a World Order in Late Imperial China: Translation, Reception and Discourse ; 1847 - 1911*. 2007.
+- ———. *International Law as World Order in Late Imperial China: Translation, Reception and Discourse, 1847-1911*. 2007.
+- Swope, Kenneth. *Struggle for Empire: The Battles of General Zuo Zongtang*. 2024.
+- Tagliacozzo, Eric. *In Asian Waters: Oceanic Worlds from Yemen to Yokohama*. 2022.
+- Tam, Gina Anne. *Dialect and Nationalism in China, 1860–1960*. 2020.
+- Tam, Ka-Chai. *Justice in Print: Discovering Prefectural Judges and Their Judicial Consistency in Late-Ming Casebooks*. 2020.
+- Tan, Chunlin. *The Boxer Catastrophe*. 1952.
+- Tang, Xiaobing. *Global Space and the Nationalist Discourse of Modernity: The Historical Thinking of Liang Qichao*. 1996.
+- Taylor, Charles. *Five Years in China with Some Account of the Great Rebellion, and a Description of St. Helena*. 1860. [Link](http://archive.org/details/fiveyearsinchina00tayl).
+- Teng, S. Y. *The Nien Army and Their Guerrilla Warfare 1851–1868*. 2020.
+- ———. ‘Wang Fu-Chih’s Views on History and Historical Writing’. *The Journal of Asian Studies* 28, no. 1 (1968): 111–23. [DOI](https://doi.org/10.2307/2942842).
+- Têng, Ssu-yü. ‘Chinese Influence on The Western Examination System: I. Introduction’. *Harvard Journal of Asiatic Studies* 7, no. 4 (1943): 267–312. [DOI](https://doi.org/10.2307/2717830).
+- Teng, Ssu-yü. *The Taiping Rebellion and the Western Powers: A Comprehensive Survey*. 1971.
+- Teng, Yuan Chung. ‘Reverend Issachar Jacox Roberts and the Taiping Rebellion’. *The Journal of Asian Studies* 23, no. 1 (1963): 55–67. [DOI](https://doi.org/10.2307/2050633).
+- Teng, Yuan-chung. *American and the Taiping Rebellion: A Study of American-Chinese Relationship, 1847-1864*. 1982.
+- Thai, Philip. *China’s War on Smuggling: Law, Economic Life, and the Making of the Modern State, 1842–1965*. 2018.
+- ‘The Boxer Rebellion: Bibliography’. Accessed 18 March 2010. [Link](http://www.history.navy.mil/faqs/faq86-2.htm).
+- *The Origins of the Modern Chinese Press: The Influence of the Protestant Missionary Press in Late Qing China*. 2007.
+- ‘The Siege of Peking: The March on Peking’. Accessed 17 March 2010. [Link](http://www.history.navy.mil/docs/boxer/boxer12.htm).
+- Thompson, Roger. ‘New-Style Gazettes and Provincial Reports in Post-Boxer China: An Introduction and Assessment’. *Late Imperial China* 8, no. 2 (1987): 80–101. [Link](https://muse.jhu.edu/pub/1/article/402083).
+- Thompson, Roger R. *China’s Local Councils in the Age of Constitutional Reform, 1898–1911*. 2020.
+- Thornton, Patricia A. *Disciplining the State: Virtue, Violence and State-Making in China*. 2020.
+- ‘Tientsin: Report of Major Littleton W.T. Waller’. Accessed 17 March 2010. [Link](http://www.history.navy.mil/docs/boxer/boxer7.htm).
+- Took, Jennifer. *A Native Chieftaincy in Southwest China: Franchising a Tai Chieftaincy under the Tusi System of Late Imperial China*. 2005. [Link](https://brill.com/display/title/12163).
+- Torbert, Preston M. *The Ch’ing Imperial Household Department a Study of Its Organization and Principal Functions, 1662-1976*. 1977.
+- Tsin, Michael. ‘Overlapping Histories: Writing Prison and Penal Practices in Late Imperial and Early Republican China’. *Journal of World History* 20, no. 1 (2009): 69–97. [DOI](https://doi.org/10.1353/jwh.0.0041).
+- Ven, Hans Van De. ‘Robert Hart and Gustav Detring during the Boxer Rebellion’. *Modern Asian Studies* 40, no. 3 (July 2006): 631–62. [DOI](https://doi.org/10.1017/S0026749X06002058).
+- Vittinghoff, Natascha. ‘Readers, Publishers and Officials in the Contest for a Public Voice and the Rise of a Modern Press in Late Qing China (1860-1880)’. *T’oung Pao* 87, no. 4 (1 January 2001): 393–455. [DOI](https://doi.org/10.1163/156853201804665).
+- Wagner, Rudolf G. *Joining the Global Public: Word, Image, and City in Early Chinese Newspapers, 1870-1910*. 2012.
+- ———. *Reenacting the Heavenly Vision: The Role of Religion in the Taiping Rebellion*. 1982.
+- ———. ‘The Role of the Foreign Community in the Chinese Public Sphere’. *The China Quarterly*, no. 142 (1995): 423–43. [Link](https://www.jstor.org/stable/655422).
+- Wakefield, David. *Fenjia: Household Division and Inheritance in Qing and Republican China*. 1998.
+- Wakeman, Frederic. ‘The Civil Society and Public Sphere Debate: Western Reflections on Chinese Political Culture’. *Modern China* 19, no. 2 (1 April 1993): 108–38. [DOI](https://doi.org/10.1177/009770049301900202).
+- ———. *The Fall of Imperial China*. 1977.
+- Wakeman, Frederic E. *Strangers at the Gate: Social Disorder in South China, 1839-1861*. 1997.
+- ———. *The Great Enterprise: The Manchu Reconstruction of Imperial Order in Seventeenth-Century China*. 1985.
+- Wakeman, Frederic E. Jr. ‘China and the Seventeenth-Century Crisis’. *Late Imperial China* 7, no. 1 (1986): 1–26. [Link](https://muse.jhu.edu/pub/1/article/398326).
+- Waley-Cohen, Joanna. ‘Banishment to Xinjiang in Mid-Qing China, 1758-1820’. *Late Imperial China* 10, no. 2 (1989): 44–71. [Link](https://muse.jhu.edu/pub/1/article/398371).
+- ———. ‘China and Western Technology in the Late Eighteenth Century’. *The American Historical Review* 98, no. 5 (1993): 1525–44. [DOI](https://doi.org/10.2307/2167065).
+- ———. ‘Politics and the Supernatural in Mid-Qing Legal Culture’. *Modern China* 19, no. 3 (1993): 330–53. [Link](https://www.jstor.org/stable/189348).
+- ———. *The Culture of War in China: Empire and the Military Under the Qing Dynasty*. 2006.
+- ———. ‘The New Qing History’. *Radical History Review* 88, no. 1 (2004): 193–206. [Link](https://muse.jhu.edu/pub/4/article/50940).
+- WAN, Zhaoyuan. *Science and the Confucian Religion of Kang Youwei (1858–1927): China Before the Conflict Thesis*. 2021.
+- Wang, David Der-wei, Angela Ki Che Leung, and Zhang Yinde. *Utopia and Utopianism in the Contemporary Chinese Context: Texts, Ideas, Spaces*. 2020.
+- Wang, David Der-wei, and Shang Wei. *Dynastic Crisis and Cultural Innovation: From the Late Ming to the Late Qing and Beyond*. 2020.
+- Wang, Dong. *China’s Unequal Treaties: Narrating National History*. Reprint. 2005.
+- ———. *Managing God’s Higher Learning: U.S.-China Cultural Encounter and Canton Christian College (Lingnan University) 1888-1952*. 2007.
+- Wang, Juan. ‘Imagining Citizenship: The Shanghai Tabloid Press, 1897-1911’. *Twentieth-Century China* 35, no. 1 (2009): 29–53. [Link](https://muse.jhu.edu/pub/30/article/376684).
+- ———. *Merry Laughter and Angry Curses: The Shanghai Tabloid Press, 1897-1911*. 2012.
+- ———. ‘Officialdom Unmasked: Shanghai Tabloid Press, 1897–1911’. *Late Imperial China* 28, no. 2 (2007): 81–128. [Link](https://muse.jhu.edu/pub/1/article/232887).
+- Wang, Mingming. ‘Place, Administration, and Territorial Cults in Late Imperial China: A Case Study from South Fujian’. *Late Imperial China* 16, no. 1 (1995): 33–78. [Link](https://muse.jhu.edu/pub/1/article/398445).
+- Wang, Wensheng. *White Lotus Rebels and South China Pirates: Crisis and Reform in the Qing Empire*. 2014.
+- Wang, Xiuyu. *China’s Last Imperial Frontier: Late Qing Expansion in Sichuan’s Tibetan Borderlands*. 2011.
+- Wang, Yuanchong. *Remaking the Chinese Empire: Manchu-Korean Relations, 1616-1911*. Electronic book. 2018. [Link](http://library.st-andrews.ac.uk/record=b3094713~S5).
+- Wasserstrom, Jeffrey. ‘“Civilization” and Its Discontents: The Boxers and Luddites as Heroes and Villains’. *Theory and Society* 16, no. 5 (1987): 675–707. [Link](https://www.jstor.org/stable/657679).
+- Watt, John Robertson. *The District Magistrate in Late Imperial China*. 1972.
+- Weiss, Robert N. ‘Flexibility in Provincial Government on the Eve of the Taiping Rebellion’. *Ch’ing-Shih Wen-t’i* 4, no. 3 (1980): 1–42. [Link](https://muse.jhu.edu/pub/1/article/610315).
+- Weller, Robert P. ‘Historians and Consciousness: The Modern Politics of the Taiping Heavenly Kingdom’. *Social Research* 54, no. 4 (1987): 731–55. [Link](https://www.jstor.org/stable/40970481).
+- Widmer, Ellen. ‘The Epistolary World of Female Talent in Seventeenth-Century China’. *Late Imperial China* 10, no. 2 (1989): 1–43. [DOI](https://doi.org/10.1353/late.1989.0003).
+- ———. ‘Xiaoqing’s Literary Legacy and the Place of the Woman Writer in Late Imperial China’. *Late Imperial China* 13, no. 1 (1992): 111–55. [DOI](https://doi.org/10.1353/late.1992.0008).
+- Widmer, Ellen, and Kang-i Sun Chang. *Writing Women in Late Imperial China*. 1997.
+- Will, Pierre-Etienne. *Bureaucracy and Famine in Eighteenth-Century China*. 1990.
+- Will, Pierre-Étienne. *Handbooks and Anthologies for Officials in Imperial China: A Descriptive and Critical Bibliography*. 2020.
+- Willmott, William E., ed. *Economic Organization in Chinese Society*. 1972.
+- Wills, John E. *Embassies and Illusions: Dutch and Portuguese Envoys to K’ang-Hsi, 1666–1687*. 2020.
+- Wilson, Thomas A. *Genealogy of the Way: The Construction and Uses of the Confucian Tradition in Late Imperial China*. 1995.
+- Withers, John Lovelle. *The Heavenly Capital: Nanjing Under the Taiping, 1853-1864*. 1983.
+- Wong, J. Y. *Deadly Dreams: Opium and the Arrow War (1856-1860) in China*. 1998.
+- Wong, Young-tsu. *Search for Modern Nationalism: Zhang Binglin and Revolutionary China, 1869-1936*. 1989.
+- Wood, Alan. *Russia’s Frozen Frontier: A History of Siberia and the Russian Far East 1581 - 1991*. 2011.
+- Wooldridge, William Charles. ‘Building and State Building in Nanjing after the Taiping Rebellion’. *Late Imperial China* 30, no. 2 (2009): 84–126. [Link](https://muse.jhu.edu/pub/1/article/368173).
+- Wright, Mary Clabaugh. *The Last Stand of Chinese Conservatism: The Túng-Chih Restoration, 1862-1874*. 1966.
+- Wright, Mary Clabough, ed. *China in Revolution: The First Phase, 1900-1913*. 1968.
+- Wu, Cuncun, and David Stevenson, eds. *Wanton Women in Late-Imperial Chinese Literature: Models, Genres, Subversions and Traditions*. 2017.
+- Wu, James T. K. ‘The Impact of the Taiping Rebellion upon the Manchu Fiscal System’. *Pacific Historical Review* 19, no. 3 (1950): 265–75. [DOI](https://doi.org/10.2307/3635591).
+- Wu, Shellen Xiao. *Empires of Coal: Fueling China’s Entry into the Modern World Order, 1860-1920*. 2015.
+- Wyman, Judith. ‘The Ambiguities of Chinese Antiforeignism: Chongqing, 1870-1900’. *Late Imperial China* 18, no. 2 (1997): 86–122. [Link](https://muse.jhu.edu/pub/1/article/19505).
+- Xiong, Victor Cunrui, and Kenneth J. Hammond, eds. *Routledge Handbook of Imperial Chinese History*. 2018.
+- Xu, Xiaoqun. ‘Law, Custom, and Social Norms: Civil Adjudications in Qing and Republican China’. *Law and History Review* 36, no. 1 (February 2018): 77–104. [DOI](https://doi.org/10.1017/S0738248017000554).
+- ———. *Trial of Modernity: Judicial Reform in Early Twentieth-Century China, 1901-1937*. 2008.
+- Yang, Binbin. *Heroines of the Qing: Exemplary Women Tell Their Stories*. 2016.
+- Yang, C. K. *Religion in Chinese Society: A Study of Contemporary Social Functions of Religion and Some of Their Historical Factors*. 1961.
+- Yang, Jui-Sung. *Body, Ritual and Identity: A New Interpretation of the Early Qing Confucian Yan Yuan (1635-1704)*. 2016. [Link](https://brill.com/display/title/32988).
+- ———. *Body, Ritual and Identity: A New Interpretation of the Early Qing Confucian Yan Yuan (1635-1704)*. 2016.
+- Yang, Yuda. ‘The Copper Market of Hankou and the Illegal Trade of Yunnan Copper in the Mid-Qing Period’. In *Southwest China in a Regional and Global Perspective (c.1600-1911): Metals, Transport, Trade and Society*. 2018.
+- Yangwen, Zheng. *The Social Life of Opium in China*. 2005.
+- Ye, Xiaoqing. *The Dianshizhai Pictorial: Shanghai Urban Life, 1884-1898*. Michigan Monographs in Chinese Studies, v. 98. 2003.
+- Yeh, Wen-Hsin. *Shanghai Splendor: Economic Sentiments and the Making of Modern China, 1843-1949*. 2008.
+- Young, Leonard Kenneth. *British Policy in China, 1895-1902*. 1970.
+- Zanasi, Margherita. *Economic Thought in Modern China: Market and Consumption, c.1500–1937*. 2020.
+- Zarrow, Peter. *After Empire: The Conceptual Transformation of the Chinese State, 1885-1924*. First Edition. Hardback. 2012.
+- ———. ‘Historical Trauma: Anti-Manchuism and Memories of Atrocity in Late Qing China’. *History and Memory* 16, no. 2 (2004): 67–107. [DOI](https://doi.org/10.2979/his.2004.16.2.67).
+- Zelin, Madeleine. *The Magistrate’s Tael: Rationalizing Fiscal Reform in Eighteenth-Century Chʻing China*. 1984.
+- ———. *The Merchants of Zigong: Industrial Entrepreneurship in Early Modern China*. 2005.
+- Zhang, Lawrence. *Power for a Price: The Purchase of Official Appointments in Qing China*. 2022.
+- Zhang, Lei. ‘Foreign Wells: Japanese Well Drilling in Beijing, 1900–10’. *Technology and Culture* 61, no. 2 (2020): 416–36. [Link](https://muse.jhu.edu/pub/1/article/761571).
+- Zhang, Qiong. *Making the New World Their Own: Chinese Encounters with Jesuit Science in the Age of Discovery*. 2015.
+- Zhang, Ting. *Circulating the Code: Print Media and Legal Knowledge in Qing China*. 2020.
+- Zhang, Xiantao. *The Origins of the Modern Chinese Press: The Influence of the Protestant Missionary Press in Late Qing China*. 2007. [Link](http://site.ebrary.com/id/10205810).
+- Zhang, Yun. *Engendering the Woman Question: Men, Women, and Writing in China’s Early Periodical Press*. 2020.
+- Zhao, Gang. *The Qing Opening to the Ocean: Chinese Maritime Policies, 1684-1757*. 2013.
+- Zheng, Xiaowei. ‘Loyalty, Anxiety, and Opportunism: Local Elite Activism during the Taiping Rebellion in Eastern Zhejiang, 1851–1864’. *Late Imperial China* 30, no. 2 (2009): 39–83. [Link](https://muse.jhu.edu/pub/1/article/368172).
+- Zhou, Zuyan. *Daoist Philosophy and Literati Writings in Late Imperial China: A Case Study of The Story of the Stone*. 2013.
+
+## The Chinese Republic 1911-1949 {#minguo}
+
+- *1911 revolution*. 2012.
+- *Agrarian China: Selected Source Materials from Chinese Authors. Compiled and Translated by the Research Staff of the Secretariat, Institute of Pacific Relations, with an Introduction by R.H. Tawney*. 1938.
+- Antolihao, Lou, Ryan Bean, Katrin Bromber, Doina Anca Cretu, Lance Cummings, Harald Fischer-Tiné, Harald Fischer-Tiné, et al., eds. *Spreading Protestant Modernity: Global Perspectives on the Social Work of the YMCA and YWCA, 1889–1970*. Electronic book. Perspectives on the Global Past. 2020.
+- Asen, Daniel. *Death in Beijing: Murder and Forensic Science in Republican China*. 2016.
+- Aso, Tetsuo. *From Shanghai to Shanghai: The War Diary of an Imperial Japanese Army Medical Officer, 1937-1941*. 2004. [Link](http://www.amazon.com/dp/189193631X).
+- Atwill, David, and Yurong Atwill. *Sources in Chinese History: Diverse Perspectives from 1644 to the Present*. 2nd ed. 2021.
+- Bailey, Paul J. *Reform the People: Changing Attitudes Towards Popular Education in Early Twentieth-Century China*. 1991.
+- Barlow, Tani. *The Question of Women in Chinese Feminism*. 2004.
+- Barnes, Nicole Elizabeth. *Intimate Communities: Wartime Healthcare and the Birth of Modern China, 1937-1945*. 2018.
+- Barnett, Robert W. *Economic Shanghai: Hostage to Politics, 1937-1941*. 1941.
+- Barrett, David P., and Lawrence N. Shyu, eds. *Chinese Collaboration with Japan, 1932-1945: The Limits of Accommodation*. 2000.
+- Baumler, Alan. *Routledge Handbook of Revolutionary China*. 2019.
+- ———. *The Chinese and Opium under the Republic: Worse than Floods and Wild Beasts*. 2012.
+- Bays, Daniel. *China Enters the Twentieth Century: Chang Chih-Tung and the Issues of a New Age, 1895-1909*. 2016.
+- Beahan, Charlotte L. ‘Feminism and Nationalism in the Chinese Women’s Press, 1902-1911’. *Modern China* 1, no. 4 (1975): 379–416.
+- Ben-Canaan, Dan, Frank Grüner, and Ines Prodöhl. ‘Intercultural Speakers in Harbin: The Sociolinguistic Profile of Chinese Pidgin Russian’, 29 October 2013.
+- ———. ‘Russian Fascism in Harbin and Manchuria’. In *Entangled Histories: The Transcultural Past of Northeast China*. 2013.
+- Benton, Gregor. *New Fourth Army: Communist Resistance Along the Yangtze and the Huai, 1938-1941*. 1999.
+- Bergère, Marie-Claire. *Shanghai: China’s Gateway to Modernity*. 2009.
+- Bernhardt, Kathryn. *Civil Law in Qing and Republican China*. 1994.
+- ———. *Women and Property in China, 960-1949*. 1999.
+- Bevan, Paul. *A Modern Miscellany: Shanghai Cartoon Artists, Shao Xunmei’s Circle and the Travels of Jack Chen, 1926-1938*. 2015.
+- Bianco, Lucien. *Peasants without the Party: Grassroots Movements in Twentieth Century China*. 2015.
+- ———. *Wretched Rebels: Rural Disturbances on the Eve of the Chinese Revolution*. 2020.
+- Bickers, Robert. *Empire Made Me: An Englishman Adrift in Shanghai*. 2004.
+- Bickers, Robert, and Christian Henriot, eds. *New Frontiers: Imperialism’s New Communities in East Asia, 1842-1953*. 2000.
+- Billingsley, Phil. *Bandits in Republican China*. 1988.
+- Boecking, Felix. *No Great Wall: Trade, Tariffs and Nationalism in Republican China, 1927–1945*. 2020.
+- Borowy, Iris. *Uneasy Encounters: The Politics of Medicine and Health in China, 1900-1937*. 2009.
+- Boyle, John Hunter. *China and Japan at War, 1937-1945: The Politics of Collaboration*. 1972.
+- Brook, Timothy. *Collaboration: Japanese Agents and Local Elites in Wartime China*. 2005.
+- ———, ed. *Documents on the Rape of Nanking*. 1999.
+- Brook, Timothy. ‘The Creation of the Reformed Government in Central China, 1938’. In *Chinese Collaboration with Japan, 1932-1945: The Limits of Accommodation*, edited by David P. Barrett and Lawrence N. Shyu, 79–101. 2000.
+- Brook, Timothy. ‘The Tokyo Judgment and the Rape of Nanking’. *The Journal of Asian Studies* 60, no. 3 (2001): 673–700. [DOI](https://doi.org/10.2307/2700106).
+- Bunker, Gerald E. *The Peace Conspiracy; Wang Ching-Wei and the China War, 1937-1941*. 1972.
+- Cao, Qing. *The Language of Nation-State Building in Late Qing China: A Case Study of the Xinmin Congbao and the Minbao, 1902-1910*. Electronic book. Routledge Studies in Chinese Discourse Analysis. 2023.
+- Chan, F. Gilbert. *China At The Crossroads: Nationalists And Communists, 1927-1949*. 2019.
+- Chang, Sidney H. *All Under Heaven: Sun Yat-Sen and His Revolutionary Thought*. 1991.
+- Chao, Anne. ‘Introduction: Re-Engaging and Re-Generating the May Fourth’. *Twentieth-Century China* 38, no. 1 (2013): 1–4. [Link](https://muse.jhu.edu/pub/1/article/653517).
+- Chauncey, Helen Roberta. *Schoolhouse Politicians: Locality and State During the Chinese Republic*. 1992.
+- Cheek, Timothy. ‘Revolution: Awakening New China (1915-1935)’. Electronic book. In *The Intellectual in Modern Chinese History*. 2015.
+- Chen, Janet Y. *Guilty of Indigence: The Urban Poor in China, 1900-1953*. 2012. [Link](http://library.st-andrews.ac.uk/record=b3294433~S5).
+- Ch’en, Jerome. *China and the West: Society and Culture, 1815-1937*. 2018.
+- ———. ‘Defining Chinese Warlords and Their Factions’. *Bulletin of the School of Oriental and African Studies, University of London* 31, no. 3 (1968): 563–600. [Link](https://www.jstor.org/stable/614306).
+- ———. *Yuan Shih-k’ai, 1859-1916*. 1961.
+- Chen, Joseph T. *The May Fourth Movement in Shanghai: The Making of a Social Movement in Modern China*. 1971.
+- Chen, Pingyuan. *Touches of History: An Entry into ‘May Fourth’ China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b3530559~S5).
+- Chen, Yung-fa. *Making Revolution: The Communist Movement in Eastern and Central China, 1937-1945*. 1986. [Link](https://library.st-andrews.ac.uk/record=b3284135~S5).
+- Chen, Zhongping. *Modern China’s Network Revolution: Chambers of Commerce and Sociopolitical Change in the Early Twentieth Century*. 2011.
+- ———. ‘The May Fourth Movement and Provincial Warlords: A Reexamination’. *Modern China* 37, no. 2 (2011): 135–69. [Link](http://www.jstor.org/stable/23053321).
+- ———. ‘The Quest for Elite Dominance, Associational Autonomy and Public Representation: The Lower Yangzi Chambers of Commerce in the 1911 Revolution’. *Twentieth-Century China* 27, no. 2 (2001): 41–77. [Link](https://muse.jhu.edu/pub/1/article/788846).
+- Chesneaux, Jean, and Lucien Bianco. *Popular Movements and Secret Societies in China, 1840-1950*. 1972.
+- Chesneaux, Jean, Lucien Bianco, and John Lust, eds. ‘Secret Societies and the 1911 Revolution’. In *Popular Movements and Secret Societies in China, 1840-1950*. 1972.
+- Chiang, Kai-shek. *The New Life Movement in China*. 1942.
+- Chiasson, Blaine Roland. *Administering the Colonizer: Manchuria’s Russians Under Chinese Rule, 1918-29*. 2010.
+- China Heritage Quarterly. ‘Historical Memories of May Fourth: Patriotism, but of What Kind?’, March 2009. [Link](https://web.archive.org/web/20090912185049/http://www.chinaheritagequarterly.org/features.php?searchterm=017_mayfourthmemories.inc&issue=017).
+- Chow, Kai-wing, Tze-ki Hon, Hung-yok Ip, and Don C. Price. *Beyond the May Fourth Paradigm: In Search of Chinese Modernity*. 2008.
+- Chow, Phoebe. *Britain’s Imperial Retreat from China, 1900-1931*. 2016.
+- Chow, Tse-tsung. *The May Fourth Movement: Intellectual Revolution in Modern China*. 2013.
+- Chung, Dooeum. *Élitist Fascism: Chiang Kaishek’s Blueshirts in 1930s China*. 2000.
+- ‘Citation Information for Klaus Mühlhahn, The Dark Side of Globalization: The Concentration Camps in Republican China in Global Perspective’. Accessed 22 August 2010. [Link](http://worldhistoryconnected.press.illinois.edu/cgi-bin/cite.cgi).
+- Coble, Parks M. *China’s War Reporters: The Legacy of Resistance Against Japan*. 2015.
+- Cochran, Sherman. *Encountering Chinese Networks: Western, Japanese, and Chinese Corporations in China, 1880-1937*. 2000.
+- Cochran, Sherman, Andrew C. K. Hsieh, and Janis Cochran. *One Day in China, May 21, 1936*. 1982.
+- Coggins, Christopher Reed. *The Tiger and the Pangolin: Nature, Culture, and Conservation in China*. Electronic book. 2002.
+- Cohen, Myron L. ‘Cultural and Political Inventions in Modern China: The Case of the Chinese “Peasant”’. *Daedalus* 122, no. 2 (1993): 151–70. [Link](https://www.jstor.org/stable/20027171).
+- Courtney, Chris. ‘The Dragon King and The 1931 Wuhan Flood: Religious Rumors and Environmental Disasters in Republican China’. *Twentieth-Century China* 40, no. 2 (2015): 83–104. [DOI](https://doi.org/10.1353/tcc.2015.0018).
+- ———. *The Nature of Disaster in China: The 1931 Yangzi River Flood*. 2019.
+- Craft, Stephen G. *V.K. Wellington Koo and the Emergence of Modern China*. 2014.
+- Crook, Isabel Brown, and Christina Kelley Gilmartin. *Prosperity’s Predicament: Identity, Reform, and Resistance in Rural Wartime China*. 2013.
+- Crowley, James Buckley. *Japan’s Quest for Autonomy: National Security and Foreign Policy, 1930-1938*. 2015.
+- Culp, Robert. *Articulating Citizenship: Civic Education and Student Politics in Southeastern China, 1912–1940*. 2007.
+- ———. ‘“China-The Land and Its People”: Fashioning Identity in Secondary School History Textbooks, 1911–37’. *Twentieth-Century China* 26, no. 2 (2000): 17–62. [Link](https://muse.jhu.edu/pub/1/article/788857).
+- Danzker, Jo-Anne Birnie, Ken Lum, Sheng Tian Zheng, Museum Villa Stuck, München, and Kunsthalle zu Kiel, eds. *Shanghai Modern, 1919-1945*. 2004.
+- Davis, Bradley Camp. *Imperial Bandits: Outlaws and Rebels in the China-Vietnam Borderlands*. 2017.
+- De Giorgi, Laura, Peter Ludes, and Merle Schatz, eds. *Contact Zones in China: Multidisciplinary Perspectives*. Electronic book. 2020.
+- Dean, Austin. *China and the End of Global Silver, 1873–1937*. 2020.
+- Denton, Kirk A. *Modern Chinese Literary Thought: Writings on Literature, 1893-1945*. 1996.
+- Dikötter, Frank. *Sex, Culture and Modernity in China: Medical Science and the Construction of Sexual Identities in the Early Republican Period*. 1995.
+- Dikotter, Frank. *The Age of Openness: China before Mao*. 2008.
+- ———. *The Discourse of Race in Modern China*. 1992.
+- Dikötter, Frank, Lars Peter Laamann, and Xun Zhou. *Narcotic Culture: A History of Drugs in China*. 2004.
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. 1991.
+- ———. *Revolution and History: Origins of Marxist Historiography in China, 1919-1937*. 1989.
+- ———. *The Origins of Chinese Communism*. 1989.
+- Doleželová-Velingerová, Milena, Oldřich Král, and Graham Martin Sanders. *The Appropriation of Cultural Capital: China’s May Fourth Project*. 2001.
+- ‘Don’t Mind the Gap! The Foreign-Language Press in Late-Qing and Republican China’. *China Heritage Quarterly*. Accessed 15 November 2021. [Link](http://www.chinaheritagequarterly.org/features.php?searchterm=030_wagner.inc&issue=030).
+- Dooeum, Chung. *Elitist Fascism: Chiang Kaishek’s Blueshirts in 1930s China*. 2000.
+- Dryburgh, Marjorie. *North China and Japanese Expansion 1933-1937: Regional Power and the National Interest*. 2013.
+- Duara, Prasenjit. *Culture, Power, and the State: Rural North China, 1900-1942*. 1991.
+- ———. *Rescuing History from the Nation: Questioning Narratives of Modern China*. 1997.
+- ———. ‘Transnationalism and the Predicament of Sovereignty: China, 1900-1945’. *The American Historical Review* 102, no. 4 (1997): 1030–51. [DOI](https://doi.org/10.2307/2170628).
+- Dunch, Ryan. *Fuzhou Protestants and the Making of a Modern China, 1857-1927*. 2001.
+- Eastman, Lloyd E. *Family, Fields, and Ancestors: Constancy and Change in China’s Social and Economic History, 1550-1949*. 1988.
+- ———. *The Abortive Revolution: China Under Nationalist Rule, 1927-1937*. Electronic book. Harvard East Asian Monographs 153. 1974.
+- ———. *The Nationalist Era in China, 1927-1949*. 1991.
+- Eastman, Lloyd E., and Professor of History Lloyd E. Eastman. *Seeds of Destruction: Nationalist China in War and Revolution, 1937-1949*. 1984.
+- Edwards, Louise. *Citizens of Beauty: Drawing Democratic Dreams in Republican China*. 2020.
+- ———. ‘Policing the Modern Woman in Republican China’. *Modern China* 26, no. 2 (2000): 115–47. [Link](https://www.jstor.org/stable/189430).
+- Elder, Chris. *Interesting Times: Some New Zealanders in Republican China*. 2024.
+- Elleman, Bruce, and Stephen Kotkin. *Manchurian Railways and the Opening of China: An International History: An International History*. 2015.
+- Elliott, Mark C. ‘The Limits of Tartary: Manchuria in Imperial and National Geographies’. *The Journal of Asian Studies* 59, no. 3 (1 August 2000): 603–46. [DOI](https://doi.org/10.2307/2658945).
+- Elman, Benjamin A. *A Cultural History of Modern Science in China*. 2009.
+- Eng, Robert Y. *Economic Imperialism in China: Silk Production and Exports, 1861-1952*. 1986.
+- Erbaugh, Mary S. ‘The Secret History of the Hakkas: The Chinese Revolution as a Hakka Enterprise’. *The China Quarterly*, no. 132 (1992): 937–68. [Link](https://www.jstor.org/stable/654189).
+- Esherick, Joseph. *Reform and Revolution in China: The 1911 Revolution in Hunan and Hubei*. 1976.
+- Esherick, Joseph W. ‘Introduction: 1911 and Chinese-Style Democracy’. *Twentieth-Century China* 38, no. 3 (2013): 210–12. [Link](https://muse.jhu.edu/pub/1/article/653558).
+- ———. ‘Reconsidering 1911: Lessons of a Sudden Revolution’. *Journal of Modern Chinese History* 6, no. 1 (2012): 1–14. [DOI](https://doi.org/10.1080/17535654.2012.670511).
+- Etō, Shinkichi, and Harold Z Schiffrin. *The 1911 Revolution in China: Interpretive Essays*. 1984.
+- Eykholt, Mark Steven. *Living the Limits of Occupation in Nanjing, China, 1937-1945*. 1998.
+- Fairbank, John King, and Albert Feuerwerker. *The Cambridge History of China: Republican China 1912-1949, Part 2*. 1986.
+- Faure, David. *Emperor and Ancestor: State and Lineage in South China*. 2007.
+- Feigon, Lee. *Chen Duxiu, Founder of the Chinese Communist Party*. 2014.
+- Feng, Chongyi, and David S. G. Goodman, eds. *North China at War: The Social Ecology of Revolution, 1937-1945*. 2000.
+- Feng, Liping. ‘Democracy and Elitism: The May Fourth Ideal of Literature’. *Modern China* 22, no. 2 (1996): 170–96. [Link](https://www.jstor.org/stable/189342).
+- Feng, Youlan. *The Hall of Three Pines: An Account of My Life*. 2000.
+- Fewsmith, Joseph. *Party, State, and Local Elites in Republican China: Merchant Organizations and Politics in Shanghai, 1890-1930*. 1985.
+- Fitzgerald, John. *Awakening China: Politics, Culture, and Class in the Nationalist Revolution*. 1998.
+- Fogel, Joshua A. *The Literature of Travel in the Japanese Rediscovery of China, 1862-1945*. 1996.
+- ———. ‘The Recent Boom in Shanghai Studies’. *Journal of the History of Ideas* 71, no. 2 (2010): 313–33. [Link](https://muse.jhu.edu/pub/56/article/379777).
+- Fonoroff, Paul. *Chinese Movie Magazines: From Charlie Chaplin to Chairman Mao, 1921-1951*. 2018.
+- Forbes, Andrew D. W. *Warlords and Muslims in Chinese Central Asia: A Political History of Republican Sinkiang 1911-1949*. 1986.
+- Forster, Elisabeth. *1919 – The Year That Changed China: A New History of the New Culture Movement*. 2018.
+- Fox, Josephine. ‘Common Sense in Shanghai: The General Chamber of Commerce and Political Legitimacy in Republican China’. *History Workshop Journal* 2000, no. 50 (1 January 2000): 22–44. [DOI](https://doi.org/10.1093/hwj/2000.50.22).
+- Fu, Jia-Chen. *The Other Milk: Reinventing Soy in Republican China*. 2018.
+- Fu, Poshek. *Passivity, Resistance, and Collaboration: Intellectual Choices in Occupied Shanghai, 1937-1945*. 1st ed. 1997.
+- Fuller, Pierre. *Famine Relief in Warlord China*. 2021.
+- Fung, Edmund S. K. ‘Li Yüan-Hung and the Revolution of 1911’. *Monumenta Serica* 31 (1974): 151–71. [Link](https://www.jstor.org/stable/40726169).
+- ———. ‘Nationalism and Modernity: The Politics of Cultural Conservatism in Republican China’. *Modern Asian Studies* 43, no. 03 (May 2009): 777–813. [DOI](https://doi.org/10.1017/S0026749X07003472).
+- ———. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. 2010. [Link](https://library.st-andrews.ac.uk/record=b2397826~S5).
+- Furth, Charlotte, ed. *The Limits of Change: Essays on Conservative Alternatives in Republican China*. Electronic book. Reprint 2014. Harvard East Asian Series 84. 2014.
+- Gamble, Sidney David. *Ting Hsien: A North China Rural Community*. 1954.
+- Gamsa, Mark. *The Chinese Translation of Russian Literature: Three Studies*. 2008. [Link](https://brill.com/display/title/15074).
+- Gao, Jie. *Saving the Nation through Culture: The Folklore Movement in Republican China*. 2019.
+- Gao, Yunxiang. *Sporting Gender: Women Athletes and Celebrity-Making during China’s National Crisis, 1931-45*. 2013.
+- Gardella, Robert. *Harvesting Mountains: Fujian and the China Tea Trade, 1757-1937*. 1994.
+- Garver, John W. *Chinese-Soviet Relations, 1937-1945: The Diplomacy of Chinese Nationalism*. 1988.
+- Gasster, Michael. *Chinese Intellectuals and the Revolution of 1911: The Birth of Modern Chinese Radicalism*. 1973. [Link](http://library.st-andrews.ac.uk/record=b1939870~S5).
+- ‘Gateway to Manchuria: The Port City of Dalian under Russian, Japanese and Chinese Control, 1898-1950’. *Comparative: Journal of Global History and Comparative Social Research*, 2012.
+- Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008.
+- Gillin, Donald G. ‘China’s First Five-Year Plan: Industrialization under the Warlords as Reflected in the Policies of Yen Hsi-Shan in Shansi Province, 1930-1937’. *The Journal of Asian Studies* 24, no. 2 (1965): 245–59. [DOI](https://doi.org/10.2307/2050564).
+- ———. ‘Portrait of a Warlord: Yen Hsi-Shan in Shansi Province, 1911-1930’. *The Journal of Asian Studies* 19, no. 3 (1960): 289–306. [DOI](https://doi.org/10.2307/2943488).
+- ———. *Warlord: Yen Hsi-Shan in Shansi Province, 1911-1949*. 2015.
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003.
+- Goldman, Merle. *Modern Chinese Literature in the May Fourth Era*. 1977.
+- Goodman, Bryna. ‘Semi-Colonialism, Transnational Networks and News Flows in Early Republican Shanghai’. *China Review* 4, no. 1 (2004): 55–88. [Link](https://www.jstor.org/stable/23461803).
+- ———. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. 2021.
+- Goodman, Bryna, and David S. G. Goodman. *Twentieth-Century Colonialism and China: Localities, the Everyday and the World*. 2012.
+- Goodman, David S. G. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000.
+- Goossaert, Vincent. *The Taoists of Peking, 1800–1949: A Social History of Urban Clerics*. 2007.
+- Graziani, Sofia. ‘May Fourth Youth Day From Yan’an to the Early People’s Republic: The Politics of Commemoration and the Discursive Construction of Youth’. *Twentieth-Century China* 44, no. 2 (2019): 237–52. [Link](https://muse.jhu.edu/pub/1/article/718859).
+- Grieder, Jerome B. *Hu Shih and the Chinese Renaissance: Liberalism in the Chinese Revolution, 1917-1937*. 1970. [Link](https://library.st-andrews.ac.uk/record=b3072745~S5).
+- ———. *Intellectuals and the State in Modern China: A Narrative History*. 1981.
+- Grypma, Sonya. *Nursing Shifts in Sichuan: Canadian Missions and Wartime China, 1937–1951*. 2021.
+- Gu, Edward X. ‘Who Was Mr Democracy? The May Fourth Discourse of Populist Democracy and the Radicalization of Chinese Intellectuals (1915-1922)’. *Modern Asian Studies* 35, no. 3 (2001): 589–621. [Link](https://www.jstor.org/stable/313182).
+- Gunn, Edward. *Rewriting Chinese: Style and Innovation in Twentieth-Century Chinese Prose*. 1991.
+- Gunn, Edward M. *Unwelcome Muse: Chinese Literature in Shanghai and Peking, 1937-1945*. 1980.
+- Guo, Yi. *Freedom of the Press in China: A Conceptual History, 1831-1949*. 2020.
+- Hao, Chang. *Chinese Intellectuals in Crisis: Search for Order and Meaning, 1890-1911*. First Edition. 1987.
+- Harrell, Paula. *Sowing the Seeds of Change: Chinese Students, Japanese Teachers, 1895-1905*. 1992.
+- Harrison, Henrietta. *China: Inventing the Nation*. Inventing the Nation. 2010.
+- ———. ‘Newspapers and Nationalism in Rural China 1890-1929’. *Past & Present*, no. 166 (2000): 181–204. [Link](https://www.jstor.org/stable/651298).
+- ———. *The Making of the Republican Citizen : Political Ceremonies and Symbols in China 1911-1929*. 1999. [Link](https://library.st-andrews.ac.uk/record=b2004922~S5).
+- ———. *The Man Awakened from Dreams: One Man’s Life in a North China Village, 1857-1942*. 2005.
+- Hayes, Jack Patrick. *A Change in Worlds on the Sino-Tibetan Borderlands: Politics, Economies, and Environments in Northern Sichuan*. 2013.
+- Hayhoe, Ruth. ‘Towards the Forging of a Chinese University Ethos: Zhendan and Fudan, 1903-1919’. *The China Quarterly*, no. 94 (1983): 323–41. [Link](https://www.jstor.org/stable/653885).
+- He, Qiliang. *Newspapers and the Journalistic Public in Republican China: 1917 as a Significant Year of Journalism*. 2018.
+- ———. *Newspapers and the Journalistic Public in Republican China: 1917 as a Significant Year of Journalism*. 2018.
+- Henshaw, Jonathan, Craig A. Smith, and Norman Smith. *Translating the Occupation: The Japanese Invasion of China, 1931–45*. 2021.
+- ———. *Translating the Occupation: The Japanese Invasion of China, 1931–45*. 2021.
+- Hershatter, Gail. *The Workers of Tianjin, 1900-1949*. 1993.
+- Hershatter, Gail, and Wang Zheng. ‘Chinese History: A Useful Category of Gender Analysis’. *The American Historical Review* 113, no. 5 (2008): 1404–21. [Link](https://www.jstor.org/stable/30223449).
+- Hill, Joshua. *Voting as a Rite: A History of Elections in Modern China*, 2019. [Link](https://library.st-andrews.ac.uk/record=b3528630~S5).
+- Hill, Michael Gibbs. *Lin Shu, Inc.: Translation and the Making of Modern Chinese Culture*. 2013.
+- Hillier, Andrew. *Mediating Empire: An English Family in China, 1817-1927*. 2020.
+- Hip, Hung yok. *Intellectuals in Revolutionary China, 1921-1949*. 2009.
+- Hockx, Denton &. *Literary Societies Of Republican China*. 1955.
+- Hockx, Michel. *Questions of Style: Literary Societies and Literary Journals in Modern China, 1911-1937*. 2017.
+- Hon, Tze-Ki. ‘Ethnic and Cultural Pluralism: Gu Jiegang’s Vision of a New China in His Studies of Ancient History’. *Modern China* 22, no. 3 (1996): 315–39. [Link](https://www.jstor.org/stable/189190).
+- ———. *Revolution As Restoration: Guocui Xuebao and China’s Path to Modernity, 1905-1911*. 2013.
+- Hon, Tze-ki, and Robert Culp. *The Politics of Historical Production in Late Qing and Republican China*. 2007.
+- Honig, Emily. *Sisters and Strangers: Women in the Shanghai Cotton Mills, 1919-1949*. 1992.
+- ———. ‘The Politics of Prejudice: Subei People in Republican-Era Shanghai’. *Modern China* 15, no. 3 (1989): 243–74. [Link](https://www.jstor.org/stable/189194).
+- Hooper, Beverley. *China Stands Up: Ending the Western Presence, 1948-1950*. 1986.
+- Howard, Joshua H. *Workers at War: Labor in China’s Arsenals, 1937-1953*. 2004.
+- Hsieh, Winston and Hoover Institution. *Chinese Historiography on the Revolution of 1911: A Critical Survey and a Selected Bibliography*. 1975.
+- Hsiung, James Chieh. *China’s Bitter Victory: The War With Japan, 1937-1945*. 1992.
+- Hsu, Francis L. K. *Under the Ancestors’ Shadow: Kinship, Personality, and Social Mobility in China*. 1948.
+- Hu, Sheng, and Danian Liu, eds. *The 1911 Revolution: A Retrospective After 70 Years*. 1983.
+- Huang, Jianli. *The Politics of Depoliticization in Republican China: Guomindang Policy Towards Student Political Activism, 1927-1949*. 1996.
+- Huenemann, Ralph William. *The Dragon and the Iron Horse: The Economics of Railroads in China, 1876-1937*. 1981.
+- Hung, Chang-tai. *Going to the People: Chinese Intellectuals and Folk Literature, 1918-1937*. 1985.
+- ———. *War and Popular Culture: Resistance in Modern China, 1937-1945*. 1994. [Link](http://ark.cdlib.org/ark:/13030/ft829008m5/).
+- Huters, Theodore. *Bringing the World Home: Appropriating the West in Late Qing and Early Republican China*. 2017.
+- Isaacs, Harold Robert. *The Tragedy of the Chinese Revolution*. 1951.
+- Israel, John. *Lianda: A Chinese University in War and Revolution*. 1998.
+- Jacobs, Justin. ‘Preparing the People for Mass Clemency: The 1956 Japanese War Crimes Trials in Shenyang and Taiyuan’. *The China Quarterly*, no. 205 (2011): 152–72. [Link](http://www.jstor.org/stable/41305199).
+- Jansen, Marius B. *The Japanese and Sun Yat-Sen*. 1970.
+- Jeans, Roger B. *Democracy and Socialism in Republican China: The Politics of Zhang Junmai (Carsun Chang), 1906-1941*. 1997.
+- Jenco, Leigh K. *Changing Referents: Learning Across Space and Time in China and the West*. 2015.
+- ———. ‘Culture as History: Envisioning Change in the May Fourth Era’. In *Changing Referents: Learning Across Space and Time in China and the West*. 2015.
+- Jenks, Robert Darrah. *Insurgency and Social Disorder in Guizhou: The ‘Miao’ Rebellion, 1854-1873*. 1994.
+- Johnson, Chalmers. *Peasant Nationalism and Communist Power: The Emergence of Revolutionary China, 1937-1945*. 1st ed. 1962.
+- Johnson, Tina Phillips. *Childbirth in Republican China: Delivering Modernity*. 2011.
+- Jones, Andrew F. *Yellow Music: Media Culture and Colonial Modernity in the Chinese Jazz Age*. 2001.
+- Jowett, Philip. *China and Japan at War, 1937–1945: Rare Photographs from Wartime Archives*. 2016.
+- Judge, Joan. *Republican Lens: Gender, Visuality, and Experience in the Early Chinese Periodical Press*. 2015.
+- Kai-shek, Chiang. *Outline of the New Life Movement*. Translated by Madame Chiang Kai-shek. n.d.
+- Kaiyuan, Zhang. ‘A General Review of the Study of the Revolution of 1911 in the People’s Republic of China’. *The Journal of Asian Studies* 39, no. 3 (1 May 1980): 525–31. [DOI](https://doi.org/10.2307/2054680).
+- Kaiyuan, Zhang, Liu Wangling, and Ernst Schwintzer. ‘The 1911 Revolution: The State of the Field in 1982’. *Late Imperial China* 6, no. 1 (1985): 113–22. [Link](https://muse.jhu.edu/pub/1/article/398311).
+- Karl, Rebecca E. *Staging the World: Chinese Nationalism at the Turn of the Twentieth Century*. 2002. [Link](http://library.st-andrews.ac.uk/record=b3138557~S5).
+- Kaske, Elisabeth. *The Politics of Language in Chinese Education: 1895 - 1919*. 2008.
+- Keller, Charles A. ‘The Christian Student Movement, YMCAs, and Transnationalism in Republican China’. *The Journal of American-East Asian Relations* 13 (2004): 55–80. [Link](http://www.jstor.org/stable/23613278).
+- Kenley, David. *New Culture in a New World: The May Fourth Movement and the Chinese Diaspora in Singapore, 1919-1932*. 2004.
+- ———. *New Culture in a New World: The May Fourth Movement and the Chinese Diaspora in Singapore, 1919-1932*. 2004.
+- Kirby, William C. *Germany and Republican China*. 1984.
+- Kirby William C., Lin Man-houng, Shih James Chin, and Pietz David A. *State and Economy in Republican China: A Handbook for Scholars 2 vols.*. 2020.
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.
+- Köll, Elisabeth. *From Cotton Mill to Business Empire: The Emergence of Regional Enterprises in Modern China*. 2020.
+- Kueh, Y. Y. *Agricultural Instability in China, 1931-1990: Weather, Technology, and Institutions*. 1995.
+- Kuo, Ya-Pei. ‘A Century Later: New Readings of May Fourth’. *Twentieth-Century China* 44, no. 2 (2019): 135–37. [Link](https://muse.jhu.edu/pub/1/article/718851).
+- ———. ‘Polarities and the May Fourth Polemical Culture: Provenance of the “Conservative” Category’. *Twentieth-Century China* 44, no. 2 (2019): 174–89. [Link](https://muse.jhu.edu/pub/1/article/718855).
+- Kwan, Daniel Y. K. *Marxist Intellectuals and the Chinese Labor Movement: A Study of Deng Zhongxia (1894-1933)*. 1997.
+- L, Aaron. ‘Patriotism and Cosmopolitanism: China’s May Fourth Movement’. *The Asia-Pacific Journal: Japan Focus* (blog), 12 April 2009. [Link](https://apjjf.org/xu-jilin/3120/article).
+- Lai, John T. P. *Literary Representations of Christianity in Late Qing and Republican China*. 2019.
+- Lai, Sherman Xiaogang. *A Springboard to Victory: Shandong Province and Chinese Communist Military and Financial Strength, 1937-1945*. China Studies, v. 19. 2011.
+- Laitinen, Kauko. *Chinese Nationalism in the Late Qing Dynasty: Zhang Binglin as an Anti-Manchu Propagandist*. 1990.
+- Lan, Hua R, and Fong, Vanessa L. *Women in Republican China: A Sourcebook*. 1999.
+- Lanza, Fabio. *Behind the Gate Inventing Students in Beijing*. 2010. [Link](https://library.st-andrews.ac.uk/record=b3305559~S5).
+- ———. ‘Of Chronology, Failure, and Fidelity: When Did the May Fourth Movement End?’ *Twentieth-Century China* 38, no. 1 (2013): 53–70. [Link](https://muse.jhu.edu/pub/1/article/653520).
+- ———. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017.
+- Lary, Diana. *China’s Republic*. 2007.
+- ———. *The Chinese People at War: Human Suffering and Social Transformation, 1937-1945*. 2010.
+- ———. *Warlord Soldiers: Chinese Common Soldiers, 1911-1937*. Contemporary China Institute Publications. 2010.
+- ———. ‘Warlord Studies’. *Modern China* 6, no. 4 (1980): 439–70. [Link](https://www.jstor.org/stable/189036).
+- Lary, Diana, and Lary. *Region and Nation: The Kwangsi Clique in Chinese Politics 1925-1937*. 1974.
+- Lary, Diana, and Stephen MacKinnon. *Scars of War: The Impact of Warfare on Modern China*. 2011.
+- Lawson, Joseph. ‘Unsettled Lands: Labour and Land Cultivation in Western China during the War of Resistance (1937–1945)’. *Modern Asian Studies* 49, no. 05 (September 2015): 1442–84. [DOI](https://doi.org/10.1017/S0026749X14000274).
+- Lawson, Joseph D. ‘Warlord Colonialism: State Fragmentation and Chinese Rule in Kham, 1911-1949’. *The Journal of Asian Studies* 72, no. 2 (2013): 299–318. [Link](https://www.jstor.org/stable/43553179).
+- Lean, Eugenia. *Public Passions: The Trial of Shi Jianqiao and the Rise of Popular Sympathy in Republican China*. 2007.
+- Leck, Greg. *Captives of Empire: The Japanese Internment of Allied Civilians in China, 1941-1945*. 2006.
+- Lee, Chong-sik. *Counterinsurgency in Manchuria: The Japanese Experience, 1931-1940*. 1967.
+- Lee, Haiyan. ‘“A Dime Store of Words”: Liberty Magazine and the Cultural Logic of the Popular Press’. *Twentieth-Century China* 33, no. 1 (2007): 53–80. [Link](https://muse.jhu.edu/pub/30/article/233924).
+- ———. *Revolution of the Heart: A Genealogy of Love in China, 1900-1950*. 2010.
+- Lee, Nelson K. ‘How Is a Political Public Space Made? – The Birth of Tiananmen Square and the May Fourth Movement’. *Political Geography* 28, no. 1 (1 January 2009): 32–43. [DOI](https://doi.org/10.1016/j.polgeo.2008.05.003).
+- Lei, Sean Hsiang-lin. ‘From Changshan to a New Anti-Malarial Drug: Re-Networking Chinese Drugs and Excluding Chinese Doctors’. *Social Studies of Science* 29, no. 3 (1 June 1999): 323–58. [DOI](https://doi.org/10.1177/030631299029003001).
+- Leibold, J. *Reconfiguring Chinese Nationalism: How the Qing Frontier and Its Indigenes Became Chinese*. 2016.
+- Leibold, James. ‘Competing Narratives of Racial Unity in Republican China From the Yellow Emperor to Peking Man’. *Modern China* 32, no. 2 (4 January 2006): 181–220. [DOI](https://doi.org/10.1177/0097700405285275).
+- ———. ‘Xinhai Remembered: From Han Racial Revolution to Great Revival of the Chinese Nation’. *Asian Ethnicity* 15, no. 1 (2 January 2014): 1–20. [DOI](https://doi.org/10.1080/14631369.2012.726138).
+- Leutner, Mechthild, and Izabella Goikhman. *State, Society and Governance in Republican China*. 2013.
+- Levy, Jr Marion J. *The Family Revolution in Modern China*. 2014.
+- Li, Hongshan. ‘An Administrative Success and a Political Failure: The Nationalist Policy Toward Studying Abroad, 1928–49’. *Twentieth-Century China* 23, no. 1 (1997): 63–99. [Link](https://muse.jhu.edu/pub/1/article/788904).
+- Li, Lillian M. *China’s Silk Trade: Traditional Industry in the Modern World, 1842-1937*. 1981.
+- ———. *Fighting Famine in North China: State, Market, and Environmental Decline, 1690s-1990s*. 2007.
+- Li, Lincoln. *The Japanese Army in North China, 1937-1941: Problems of Political and Economic Control*. 1975.
+- Liew, K. S. *Struggle for Democracy: Sung Chiao-Jen and the 1911 Chinese Revolution*. 1971.
+- Lim, Susanna Soojung. *China and Japan in the Russian Imagination, 1685-1922: To the Ends of the Orient*, 2013.
+- Lin, Pei-yin, and Weipin Tsai. *Print, Profit, and Perception: Ideas, Information and Knowledge in Chinese Societies, 1895-1949*. 2014.
+- Lin, Xiaoqing Diana. *Peking University: Chinese Scholarship and Intellectuals, 1898-1937*. 2012.
+- Lin, Yusheng. *The Crisis of Chinese Consciousness: Radical Antitraditionalism in the May Fourth Era*. 1979.
+- Lincoln, Toby. ‘Fleeing from Firestorms: Government, Cities, Native Place Associations and Refugees in the Anti-Japanese War of Resistance’. *Urban History* 38, no. Special Issue 03 (2011): 437–56. [DOI](https://doi.org/10.1017/S0963926811000587).
+- Lipman, Jonathan N. *Familiar Strangers: A History of Muslims in Northwest China*. 2011.
+- Liu, Jennifer. *Indoctrinating the Youth: Secondary Education in Wartime China and Postwar Taiwan, 1937–1960*. 2024.
+- Liu, Liyan. ‘The Man Who Molded Mao: Yang Changji and the First Generation of Chinese Communists’. *Modern China* 32, no. 4 (2006): 483–512. [Link](https://www.jstor.org/stable/20062651).
+- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. 2013.
+- Liu, Wennan. ‘Moralized Hygiene and Nationalized Body: Anti-Cigarette Campaigns in China on the Eve of the 1911 Revolution’. *Cross-Currents: East Asian History and Culture Review* 2, no. 2 (2013): 213–43. [Link](https://muse.jhu.edu/pub/5/article/536746).
+- Lu, Suping, ed. *A Mission Under Duress: The Nanjing Massacre and Post-Massacre Social Conditions Documented by American Diplomats*. 2010.
+- ———. *They Were in Nanjing - The Nanjing Massacre Witnessed by American and British Nationals*. 2004.
+- Lu, Xun, and Julia Lovell. *The Real Story of Ah-Q and Other Tales of China: The Complete Fiction of Lu Xun*. Penguin Classics. 2009.
+- Lufkin, Felicity. *Folk Art and Modern Culture in Republican China*. 2016.
+- Lutz, Jessie Gregory. *China and the Christian Colleges, 1850-1950*. 1971.
+- Ma, Yuxin. *Women Journalists and Feminism in China, 1898-1937*. 2010.
+- Macdonald, Angus. *The Urban Origins of Rural Revolution in Hunan*, 1974.
+- MacKinnon, Stephen R. *China at War: Regions of China, 1937-1945*. 2007.
+- Mackinnon, Stephen R. ‘The Peiyang Army, Yuan Shih-K`ai, and the Origins of Modern Chinese Warlordism’. *The Journal of Asian Studies* 32, no. 3 (1973): 405–23. [DOI](https://doi.org/10.2307/2052681).
+- ———. ‘The Peiyang Army, Yuan Shih-k’ai, and the Origins of Modern Chinese Warlordism’. *The Journal of Asian Studies* 32, no. 3 (1973): 405–23. [DOI](https://doi.org/10.2307/2052681).
+- MacKinnon, Stephen R. ‘Toward a History of the Chinese Press in the Republican Period’. *Modern China* 23, no. 1 (1997): 3–32. [Link](https://www.jstor.org/stable/189462).
+- MacKinnon, Stephen R., and Oris Friesen. *China Reporting: An Oral History of American Journalism in the 1930s and 1940s*. 2022.
+- Madancy, Joyce. ‘Unearthing Popular Attitudes toward the Opium Trade and Opium Suppression in Late Qing and Early Republican Fujian’. *Modern China* 27, no. 4 (2001): 436–83. [Link](https://www.jstor.org/stable/3181326).
+- Madancy, Joyce A. ‘Revolution, Religion and the Poppy: Opium and the Rebellion of the “Sixteenth Emperor” in Early Republican Fujian’. *Republican China* 21, no. 1 (1995): 1–41. [Link](https://muse.jhu.edu/pub/1/article/788922).
+- Manela, Erez. ‘Imagining Woodrow Wilson in Asia: Dreams of East‐West Harmony and the Revolt against Empire in 1919’. *The American Historical Review* 111, no. 5 (2006): 1327–51. [DOI](https://doi.org/10.1086/ahr.111.5.1327).
+- ———. *The Wilsonian Moment: Self-Determination and the International Origins of Anticolonial Nationalism*. 2007.
+- Margolies, David, Qing Cao, Knowledge Unlatched (Firm), and Open Research Library, eds. *Utopia and Modernity in China: Contradictions in Transition*. Electronic book. 2022.
+- MASAFUMI, ASADA. ‘The China-Russia-Japan Military Balance in Manchuria, 1906-1918’. *Modern Asian Studies* 44, no. 6 (1 November 2010): 1283–1311. [DOI](https://doi.org/10.2307/40926530).
+- McCord, Edward A. *The Power of the Gun: The Emergence of Modern Chinese Warlordism*. 1993. [Link](http://ark.cdlib.org/ark:/13030/ft167nb0p4/).
+- ———. ‘Warlords against Warlordism: The Politics of Anti-Militarism in Early Twentieth-Century China’. *Modern Asian Studies* 30, no. 4 (1996): 795–827. [Link](https://www.jstor.org/stable/312950).
+- McCormack, Gavan. *Chang Tso-Lin in Northeast China, 1911-1928: China, Japan, and the Manchurian Idea*. 1977.
+- McDonald, Angus W. *The Urban Origins of Rural Revolution: Elites and the Masses in Hunan Province, China, 1911-1927.*. 1978.
+- Merkel-Hess, Kate. *The Rural Modern: Reconstructing the Self and State in Republican China*. 2016.
+- ‘Middle County Radicalism: The May Fourth Movement in Hangzhou’, n.d.
+- Mitra, Sabaree. *China’s May Fourth Movement: New Narratives and Perspectives*. 2023.
+- Mitter, Rana. ‘1911: The Unanchored Chinese Revolution’. *The China Quarterly* 208 (2011): 1009–20. [DOI](https://doi.org/10.1017/S0305741011001123).
+- ———. *A Bitter Revolution: China’s Struggle with the Modern World*. 2004.
+- ———. *China’s War with Japan, 1937-1945: The Struggle for Survival*. 2013.
+- ———. ‘Complicity, Repression, and Regionalism: Yan Baohang and Centripetal Nationalism, 1931-1949’. *Modern China* 25, no. 1 (1 January 1999): 44–68. [DOI](https://doi.org/10.1177/009770049902500102).
+- ———. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China*. 2000.
+- Moore, Aaron William. ‘Talk About Heroes: Expressions of Self-Mobilization and Despair in Chinese War Diaries, 1911 - 1938’. *Twentieth-Century China* 34, no. 2 (2009): 30–54. [Link](https://muse.jhu.edu/pub/30/article/266710).
+- Morris, Andrew D. *Marrow of the Nation: A History of Sport and Physical Culture in Republican China*. 1st ed. 2004.
+- Moser, Michael J., and Yeone Wei-chih Moser. *Foreigners Within the Gates: The Legations at Peking*. 1993.
+- Mote, Frederick W. *Japanese-Sponsored Governments in China, 1937-1945: An Annotated Bibliography Compiled from Materials in the Chinese Collection of the Hoover Library*. 1954.
+- Mueggler, Erik. *The Paper Road: Archive and Experience in the Botanical Exploration of West China and Tibet*. 2011.
+- Mühlhahn, Klaus. ‘The Dark Side of Globalization: The Concentration Camps in Republican China in Global Perspective’. *World History Connected* 6, no. 1 (2009). [Link](http://worldhistoryconnected.press.illinois.edu/6.1/muhlhahn.html).
+- Murray, Dian H., and Qin Baoqi. *The Origins of the Tiandihui: The Chinese Triads in Legend and History*. 1994.
+- Muscolino, Micah S. *Fishing Wars and Environmental Change in Late Imperial and Modern China*. 2020.
+- ———. ‘Refugees, Land Reclamation, and Militarized Landscapes in Wartime China: Huanglongshan, Shaanxi, 1937-45’. *The Journal of Asian Studies* 69, no. 2 (2010): 453–78. [Link](https://www.jstor.org/stable/20721849).
+- ‘Nash Put (1913)’. In *Wikipedia*, 27 April 2020. [Link](https://en.wikipedia.org/w/index.php?title=Nash_Put_(1913)&oldid=953467480).
+- Nathan, Andrew James. *Peking Politics, 1918-1923: Factionalism and the Failure of Constitutionalism*. 1976.
+- Nedostup, Rebecca. *Superstitious Regimes: Religion and the Politics of Chinese Modernity*. Electronic book. Harvard East Asian Monographs 322. 2010.
+- Neighbors, Jennifer M. ‘The Long Arm of Qing Law? Qing Dynasty Homicide Rulings in Republican Courts’. *Modern China* 35, no. 1 (1 January 2009): 3–37. [DOI](https://doi.org/10.1177/0097700408323161).
+- O’Connor, Peter. *The English-Language Press Networks of East Asia, 1918- 1945*. 2010.
+- O’Malley-Sutton, Simone. *The Chinese May Fourth Generation and the Irish Literary Revival: Writers and Fighters*. 2023.
+- Ong, Aihwa, and Donald Macon Nonini, eds. *Ungrounded Empires: The Cultural Politics of Modern Chinese Transnationalism*. 1997.
+- Ono, Kazuko. ‘Women in the 1911 Revolution’. In *Chinese Women in a Century of Revolution*. 1988.
+- Ou, Chaoquan. *Life in a Kam Village in Southwest China, 1930-1949*. 2007. [Link](https://brill.com/display/title/14396).
+- Paine, S. C. M. *The Sino-Japanese War of 1894-1895: Perceptions, Power, and Primacy*. New Ed. 2005.
+- Pan, Lynn. *When True Love Came to China*. 2015.
+- Peattie, Mark, Edward J. Drea, and Hans J. Van de Ven. *The Battle for China: Essays on the Military History of the Sino-Japanese War of 1937-1945*. 2010.
+- Peck, Graham. *Two Kinds of Time*. 2018.
+- Pepper, Suzanne. ‘The Political Odyssey of an Intellectual Construct: Peasant Nationalism and the Study of China’s Revolutionary History: A Review Essay’. *The Journal of Asian Studies* 63, no. 1 (2004): 105–25. [Link](https://www.jstor.org/stable/4133296).
+- Perry, Elizabeth J. *Rebels and Revolutionaries in North China, 1845-1945*. 1983.
+- ———. *Shanghai on Strike: The Politics of Chinese Labor*. 1995.
+- Pickowicz, Paul G. ‘Melodramatic Representation and the “May Fourth” Tradition of Chinese Cinema’. In *From May Fourth to June Fourth: Fiction and Film in Twentieth-Century China*, edited by Ellen WIDMER and David Der-wei Wang, 295–326. 2009. [DOI](https://doi.org/10.4159/9780674045163-014).
+- Pietz, David. *Engineering the State: The Huai River and Reconstruction in Nationalist China, 1927–37*. 2018.
+- *Pioneer of the Chinese Revolution: Zhang Binglin and Confucianism*. 1990.
+- Pomeranz, Kenneth. *The Making of a Hinterland State, Society, and Economy in Inland North China, 1853-1937*. 1993.
+- Porter, Robin. *Industrial Reformers in Republican China*. 2020.
+- Price, Don C. *Russia and the Roots of the Chinese Revolution, 1896-1911.*. 2014.
+- Pye, Lucia W. *Warlord Politics*, 1971.
+- Rabe, John. *The Good Man of Nanking: The Diaries of John Rabe*. Reprint. 2000.
+- Rahav, Shakhar. ‘A May Fourth “Peach Blossom Garden”:’ *Twentieth-Century China* 33, no. 1 (2007): 81–103. [Link](https://muse.jhu.edu/pub/30/article/233925).
+- ———. *The Rise of Political Intellectuals in Modern China: May Fourth Societies and the Roots of Mass-Party Politics*. 2015.
+- ———. ‘Yun Daiying and the Rise of Political Intellectuals in Modern China: Radical Societies in May Fourth Wuhan’. Ph.D., 2007. [Link](http://search.proquest.com/dissertations/docview/304900664/abstract/6FC95620B1B7432FPQ/11).
+- Rankin, Mary Backus. *Early Chinese Revolutionaries: Radical Intellectuals in Shanghai and Chekiang, 1902-1911*. 1971.
+- ———. *Elite Activism and Political Transformation in China: Zhejiang Province, 1865-1911*. 1987.
+- Ransmeier, Johanna S. *Sold People: Traffickers and Family Life in North China*. 2017.
+- Reardon-Anderson, James. *Reluctant Pioneers: China’s Expansion Northward, 1644-1937*. 2005.
+- ———. *The Study of Change: Chemistry in China, 1840-1949*. 1991.
+- Reinhardt, Anne. *Navigating Semi-Colonialism: Shipping, Sovereignity, and Nation Building in China, 1860–1937*. 2020.
+- Reinhold, Christiane I. *Studying the Enemy: Japan Hands in Republican China and Their Quest for National Identity*. 2001.
+- Remick, Elizabeth J. ‘Police-Run Brothels in Republican Kunming’. *Modern China* 33, no. 4 (10 January 2007): 423–61. [DOI](https://doi.org/10.1177/0097700407304804).
+- ———. *Regulating Prostitution in China: Gender and Local Statebuilding, 1900-1937*. 2014.
+- Reynolds, Douglas. *China, 1898-1912: The Xinzheng Revolution and Japan*. Electronic book. 1993.
+- Rhoads, Edward. *China’s Republican Revolution: The Case of Kwangtung, 1895-1913*. 1975.
+- Rhoads, Edward J. M. *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928*. 2000. [Link](https://library.st-andrews.ac.uk/record=b3608378~S5).
+- Rodao, Florentino. ‘Japan and the Axis, 1937-8: Recognition of the Franco Regime and Manchukuo’. *Journal of Contemporary History* 44, no. 3 (1 July 2009): 431–47. [Link](http://www.jstor.org/stable/40543042).
+- Rodriguez, Andres. *Frontier Fieldwork: Building a Nation in China’s Borderlands, 1919–45*. 2022.
+- Rodriguez, Sarah Mellors. *Reproductive Realities in Modern China: Birth Control and Abortion, 1911–2021*. 2023.
+- Rogaski, Ruth and American Council of Learned Societies. *Hygienic Modernity: Meanings of Health and Disease in Treaty-Port China*. 2004. [Link](http://0-hdl.handle.net.biblio.eui.eu/2027/heb.06659).
+- Rosenbaum, Arthur Lewis. *New Perspectives on Yenching University, 1916-1952: A Liberal Education for a New China*. 2015.
+- Rowe, William T. *Crimson Rain: Seven Centuries of Violence in a Chinese County*. 2007.
+- Rudolph, Henrike. *Germany and Vocational Education in Republican China: Traveling Texts, Touring Skills*. 2022.
+- Sakamoto, Hiroko. ‘The Cult of “Love and Eugenics” in May Fourth Movement Discourse’. *Positions: East Asia Cultures Critique* 12, no. 2 (2004): 329–76. [Link](https://muse.jhu.edu/pub/4/article/171789).
+- Salters, Audrey. ‘“Surrendering the Task”: British Baptists in China, 1937-1952’. 2016. [Link](http://hdl.handle.net/1842/25988).
+- Sang, Bing. ‘The Divergence and Convergence of China’s Written and Spoken Languages: Reassessing the Vernacular Language During the May Fourth Period’. *Twentieth-Century China* 38, no. 1 (2013): 71–93. [Link](https://muse.jhu.edu/pub/1/article/653521).
+- Schiffrin, Harold Z. *Sun Yat-Sen and the Origins of the Chinese Revolution*. 1970.
+- ———. *Sun Yat-Sen, Reluctant Revolutionary*. 1980.
+- Schillinger, Nicolas. *The Body and Military Masculinity in Late Qing and Early Republican China: The Art of Governing Soldiers*. 2016.
+- Schluessel, Eric. *The World as Seen from Yarkand: Ghulām Muḥammad Khān’s 1920s Chronicle Mā Tīṭayni[N︠g︡] Wāqiʻasi*. 2014.
+- Schmalzer, Sigrid. *The People’s Peking Man Popular Science and Human Identity in Twentieth-Century China*. 2008. [Link](http://public.eblib.com/choice/publicfullrecord.aspx?p=432291).
+- Schneider, Laurence A. *Ku Chieh-Kang and China’s New History: Nationalism and the Quest for Alternative Traditions*. 1971.
+- Schoppa, R. Keith. *Blood Road: The Mystery of Shen Dingyi in Revolutionary China*. Electronic book. 1995. [Link](http://library.st-andrews.ac.uk/record=b1941997~S5).
+- ———. *Chinese Elites and Political Change: Zhejiang Province in the Early Twentieth Century*. Harvard East Asian Series 96. 1982.
+- ———. *In a Sea of Bitterness: Refugees During the Sino-Japanese War*. 2011.
+- Schrecker, John E. *Imperialism and Chinese Nationalism: Germany in Shantung*. 2013.
+- Schurmann, Franz, and David Milton, eds. *The China Reader: Republican China*. 1967.
+- Schwarcz, Vera. ‘A Curse on the Great Wall: The Problem of Enlightenment in Modern China’. *Theory and Society* 13, no. 3 (1984): 455–70. [Link](https://www.jstor.org/stable/657460).
+- ———. ‘Remapping May Fourth: Between Nationalism and Enlightenment’. *Republican China* 12, no. 1 (1986): 20–35. [Link](https://muse.jhu.edu/pub/1/article/789925).
+- ———. *The Chinese Enlightenment: Intellectuals and the Legacy of the May Fourth Movement of 1919*. 1986.
+- Schwartz, Benjamin I. *Reflections on the May Fourth Movement*. 1972.
+- Scwartz, Benjamin. *In Search of Wealth and Power: Yen Fu and the West*. 2009.
+- Selden, Mark. *China in Revolution: The Yenan Way Revisited*. 1995.
+- ———. *The Yenan Way in Revolutionary China*. 1971.
+- Sewell, Bill. *Constructing Empire: The Japanese in Changchun, 1905–45*. 2019.
+- Seybolt, Peter J. *Throwing The Emperor From His Horse: Portrait Of A Village Leader In China, 1923-1995*. 1996.
+- Shao, Qin. ‘Tempest over Teapots: The Vilification of Teahouse Culture in Early Republican China’. *The Journal of Asian Studies* 57, no. 4 (1998): 1009–41. [DOI](https://doi.org/10.2307/2659302).
+- Shen, Grace Yen. *Unearthing the Nation: Modern Geology and Nationalism in Republican China*. 2014.
+- Sheridan, James E. *China in Disintegration: The Republican Era in Chinese History, 1912-1949*. 1975.
+- Sheridan, James E. *Chinese Warlord: The Career of Feng Yü-Hsiang*. 1966.
+- Shi, Mingzheng. ‘From Imperial Gardens to Public Parks: The Transformation of Urban Space in Early Twentieth-Century Beijing’. *Modern China* 24, no. 3 (1998): 219–54. [Link](https://www.jstor.org/stable/189404).
+- Shih, Shu-mei. *The Lure of the Modern: Writing Modernism in Semicolonial China, 1917-1937*. 2001.
+- Shyu, Larry N., and David P. Barrett. *China in the Anti-Japanese War, 1937-1945: Politics, Culture, and Society*. 2000.
+- Smith, S. A. *Like Cattle and Horses: Nationalism and Labor in Shanghai, 1895-1927*. 2002.
+- Soon, Wayne. ‘Science, Medicine, and Confucianism in the Making of China and Southeast Asia—Lim Boon Keng and the Overseas Chinese, 1897–1937’. *Twentieth-Century China* 39, no. 1 (2014): 24–43. [Link](https://muse.jhu.edu/pub/1/article/653576).
+- Stafford, Francis E, and Hanchao Lu. *The Birth of a Republic: Francis Stafford’s Photographs of China’s 1911 Revolution and Beyond*. 2010.
+- Stapleton, Kristin. *Civilizing Chengdu: Chinese Urban Reform, 1895-1937*. 2000.
+- ———. ‘Urban Politics in an Age of “Secret Societies”: The Cases of Shanghai and Chengdu’. *Republican China* 22, no. 1 (1996): 23–63. [Link](https://muse.jhu.edu/article/788911).
+- Stephens, Thomas B. *Order and Discipline in China: The Shanghai Mixed Court 1911-1927*. 2016.
+- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2059919~S5).
+- ———. *Rickshaw Beijing: City People and Politics in the 1920s*. 1993. [Link](http://library.st-andrews.ac.uk/record=b1941972~S5).
+- Strauss, Julia C. ‘Contours and Templates: Assessing the Reassessments of May Fourth’. *Twentieth-Century China* 44, no. 2 (2019): 253–58. [Link](https://muse.jhu.edu/pub/1/article/718860).
+- ———. *Strong Institutions in Weak Polities: State Building in Republican China, 1927-1940*. 1998.
+- Sugihara, Kaoru. *Japan, China, and the Growth of the Asian International Economy, 1850-1949*. 2005.
+- Suleski, Ronald Stanley. *Daily Life for the Common People of China, 1850 to 1950: Understanding Chaoben Culture*. 2018.
+- Sun, Lung-kee. ‘Mystical Aspects of May Fourth Thinking’. *Republican China* 12, no. 1 (1986): 36–66. [Link](https://muse.jhu.edu/pub/1/article/789927).
+- ———. ‘The Dialogue Between Two Revolutions: 1789 and 1911’. *Republican China* 17, no. 1 (1991): 1–20. [Link](https://muse.jhu.edu/pub/1/article/790826).
+- Sun, Youli. *China and the Origins of the Pacific War, 1931-41*. 1996.
+- Suping Lu. ‘The Nanjing Massacre: Primary Source Records and Secondary Interpretations—A Textual Critique of Bob Tadashi Wakabayashi’s Review’. *China Review International*, no. 3/4 (2013): 259. [Link](http://search.ebscohost.com/login.aspx?direct=true&db=edsjsr&AN=edsjsr.43818315&site=eds-live).
+- Sutton, Donald S. *Provincial Militarism and the Chinese Republic: The Yunnan Army, 1905-25*. 1980.
+- Tam, Gina Anne. *Dialect and Nationalism in China, 1860–1960*. 2020.
+- Teow, See Heng. *Japan’s Cultural Policy Toward China, 1918-1931: A Comparative Perspective*. Harvard East Asian Monographs 175. 1999.
+- Thai, Philip. *China’s War on Smuggling: Law, Economic Life, and the Making of the Modern State, 1842–1965*. 2018.
+- ‘The May 4th Movement’. Accessed 20 January 2014. [Link](http://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_13.htm).
+- Theaker, Hannah. ‘Old Rebellions, New Minorities: Ma Family Leaders and Debates Over Communal Representation Following the Xinhai Rebellion, 1911’. *Global Intellectual History* 7, no. 6 (2 November 2022): 1016–36. [DOI](https://doi.org/10.1080/23801883.2021.1939503).
+- Thomson, James Claude. *While China Faced West: American Reformers in Nationalist China, 1928-1937*. 1969.
+- Thornton, Patricia A. *Disciplining the State: Virtue, Violence and State-Making in China*. 2020.
+- Tien, Hung-mao. *Government and Politics in Kuomintang China, 1927-1937*. 1972.
+- Ting, Lee-hsia Hsu, Hsü Li-hsia Ting, and Mme Lee-Hsia Hsu Ting. *Government Control of the Press in Modern China, 1900-1949*. 1974.
+- Tran, Lisa. ‘Sex and Equality in Republican China: The Debate over the Adultery Law’. *Modern China* 35, no. 2 (2009): 191–223. [Link](https://www.jstor.org/stable/27746913).
+- ———. ‘Sex and Equality in Republican China The Debate over the Adultery Law’. *Modern China* 35, no. 2 (3 January 2009): 191–223. [DOI](https://doi.org/10.1177/0097700408327254).
+- ———. ‘The Concubine in Republican China: Social Perception and Legal Construction’. *Études Chinoises* 28, no. 1 (2009): 119–49. [DOI](https://doi.org/10.3406/etchi.2009.928).
+- Tsai, W. *Reading Shenbao: Nationalism, Consumerism and Individuality in China 1919–37*. 2009.
+- Tsin, Michael. ‘Overlapping Histories: Writing Prison and Penal Practices in Late Imperial and Early Republican China’. *Journal of World History* 20, no. 1 (2009): 69–97. [DOI](https://doi.org/10.1353/jwh.0.0041).
+- Tsin, Michael T. W. *Nation, Governance, and Modernity in China: Canton 1900-1927*. 1 edition. 2003.
+- Tsu, Jing, and Benjamin A Elman, eds. *Science and Technology in Modern China, 1880s-1940s*. 2014.
+- Tsu, Timothy Yun Hui. ‘Japan’s “Yellow Peril”: The Chinese in Imperial Japan and Colonial Korea’. *Japanese Studies* 30, no. 2 (1 September 2010): 161–83. [DOI](https://doi.org/10.1080/10371397.2010.485553).
+- Tsui, Brian. *China’s Conservative Revolution: The Quest for a New Order, 1927–1949*. 2018.
+- Tuchman, Barbara W. *Stilwell and the American Experience in China: 1911-1945*. 2017.
+- Tyler, Christian. *Wild West China: The Taming of Xinjiang*. 2004.
+- Van de Ven, Hans J. *China at War: Triumph and Tragedy in the Emergence of the New China 1937-1952*, 2017.
+- Vautrin, Minnie. *Terror in Minnie Vautrin’s Nanjing: Diaries and Correspondence, 1937-38*. Edited by Suping Lu. 2008.
+- Ven, Hans J. Van de. *War and Nationalism in China, 1925-1945*. 2003.
+- Wakabayashi, Bob Tadashi. *The Nanking Atrocity, 1937-1938: Complicating the Picture*. 2017.
+- Wakefield, David. *Fenjia: Household Division and Inheritance in Qing and Republican China*. 1998.
+- Wakeman, Frederic. *Spymaster: Dai Li and the Chinese Secret Service*. 2003.
+- Wakeman, Frederic E. ‘Policing Modern Shanghai’. *The China Quarterly*, no. 115 (1 September 1988): 408–40. [Link](http://www.jstor.org/stable/654864).
+- ———. *Policing Shanghai, 1927-1937*. 1996.
+- ———. *The Shanghai Badlands: Wartime Terrorism and Urban Crime, 1937-1941*. First Edition. 1996.
+- Wakeman, Frederic, and Richard Louis Edmonds, eds. *Reappraising Republican China*. 2000.
+- Waldron, Arthur. *From War to Nationalism: China’s Turning Point, 1924-1925*. 2003.
+- Walker, Michael. *The 1929 Sino-Soviet War: The War Nobody Knew*. 2021.
+- WAN, Zhaoyuan. *Science and the Confucian Religion of Kang Youwei (1858–1927): China Before the Conflict Thesis*. 2021.
+- Wang, Chengzhi, and Su Chen. *Archival Resources of Republican China in North America*. 2015.
+- Wang, David Der-wei, Angela Ki Che Leung, and Zhang Yinde. *Utopia and Utopianism in the Contemporary Chinese Context: Texts, Ideas, Spaces*. 2020.
+- Wang, Dong. *Managing God’s Higher Learning: U.S.-China Cultural Encounter and Canton Christian College (Lingnan University) 1888-1952*. 2007.
+- Wang, Fan-sen. *Fu Ssu-Nien: A Life in Chinese History and Politics*. 2000.
+- Wang, L. Sophia. ‘The Independent Press and Authoritarian Regimes: The Case of the Dagong Bao in Republican China’. *Pacific Affairs* 67, no. 2 (1994): 216–41. [DOI](https://doi.org/10.2307/2759418).
+- Wang, Liping. ‘Creating A National Symbol: The Sun Yatsen Memorial in Nanjing’. *Republican China* 21, no. 2 (1 April 1996): 23–63. [DOI](https://doi.org/10.1179/repc.1996.21.2.23).
+- Wang, Q. Edward. *Inventing China through History: The May Fourth Approach to Historiography*. 2001.
+- ———. ‘The Chinese Historiography of the May Fourth Movement, 1990s to the Present’. *Twentieth-Century China* 44, no. 2 (2019): 138–49. [Link](https://muse.jhu.edu/pub/1/article/718852).
+- Wang T Tig. *General Chiang Kai Shek The Builder Of New China*, 1929. [Link](http://archive.org/details/in.ernet.dli.2015.77392).
+- Wang, Zheng. *Women in the Chinese Enlightenment: Oral and Textual Histories*. 1999.
+- Wasserstrom, Jeffrey N. *Student Protests in Twentieth-Century China: The View from Shanghai*. 1991.
+- Wei, Shuge. *News Under Fire: China’s Propaganda Against Japan in the English-Language Press, 1928-1941*, 2017.
+- Wei, Yan. *Detecting Chinese Modernities: Rupture and Continuity in Modern Chinese Detective Fiction (1896–1949)*. 2020. [Link](https://brill.com/display/title/39109).
+- Weiping, Chen. ‘An Analysis of Anti-Traditionalism in the New Culture Movement’. *Social Sciences in China* 38, no. 2 (3 April 2017): 175–87. [DOI](https://doi.org/10.1080/02529203.2017.1302243).
+- Weng, Jeffrey. ‘What Is Mandarin? The Social Project of Language Standardization in Early Republican China’. *The Journal of Asian Studies* 77, no. 3 (1 August 2018): 611–33. [DOI](https://doi.org/10.1017/S0021911818000487).
+- Weston, Timothy B. ‘The Formation and Positioning of the New Culture Community, 1913-1917’. *Modern China* 24, no. 3 (1998): 255–84. [Link](https://www.jstor.org/stable/189405).
+- ———. *The Power of Position: Beijing University, Intellectuals, and Chinese Political Culture, 1898-1929*. 2004.
+- Wilbur, C. Martin. *The Nationalist Revolution in China, 1923-1928*. Electronic book. 1984.
+- Wilbur, Clarence Martin, and Julie Lien-ying How. *Missionaries of Revolution: Soviet Advisers and Nationalist China, 1920-1927*. 1989.
+- Wilson, Sandra. *The Manchurian Crisis and Japanese Society, 1931-33*. 1st ed. 2001.
+- ———. *The Manchurian Crisis and Japanese Society, 1931-33*. 2004.
+- Witke, Roxane. ‘Mao Tse-Tung, Women and Suicide in the May Fourth Era’. *The China Quarterly*, no. 31 (1967): 128–47. [Link](https://www.jstor.org/stable/651520).
+- Wolf, Arthur P., and Chieh-shan Huang. *Marriage and Adoption in China, 1845-1945*. 1980.
+- Wolff, David. *To the Harbin Station: The Liberal Alternative in Russian Manchuria, 1898-1914*. 1999.
+- Wong, Young-tsu. *Search for Modern Nationalism: Zhang Binglin and Revolutionary China, 1869-1936*. 1989.
+- Wood, Alan. *Russia’s Frozen Frontier: A History of Siberia and the Russian Far East 1581 - 1991*. 2011.
+- Woodhouse, Eiko. *Chinese Hsinhai Revolution: G. E. Morrison and Anglo-Japanese Relations, 1897-1920*. 2013.
+- Woon, Yuen-fong. *Social Organization in South China, 1911–1949: The Case of Kuan Lineage in K’ai-P’ing County*. Electronic book. 1984.
+- Worthing, Peter. *General He Yingqin: The Rise and Fall of Nationalist China*. 2016.
+- ———. ‘Toward the Minjiu Incident: Militarist Conflict in Guizhou, 1911-1921’. *Modern China* 33, no. 2 (2007): 258–83. [Link](https://www.jstor.org/stable/20062669).
+- Wou, Odoric Y. K. *Militarism in Modern China: The Career of Wu P’ei-Fu, 1916-39*. 1978.
+- ———. *Mobilizing the Masses: Building Revolution in Henan*. 1994.
+- Wright, Mary Clabough, ed. *China in Revolution: The First Phase, 1900-1913*. 1968.
+- Wu, Guo. *Chinese Revolution in Practice: From Movement to the State*. Electronic book. Routledge Studies in Modern History. 2024.
+- Wu, Shellen Xiao. *Empires of Coal: Fueling China’s Entry into the Modern World Order, 1860-1920*. 2015.
+- Wu, Tien-wei. *The Sian Incident: A Pivotal Point in Modern Chinese History*. 1976.
+- Wu, Yuzhang. *Recollections of the Revolution of 1911: A Great Democratic Revolution of China*. 2001.
+- Xia, Yun. ‘“Traitors to the Chinese Race (Hanjian)”: Political and Cultural Campaigns against Collaborators during the Sino-Japanese War of 1937--1945’. Ph.D., 2010. [Link](http://search.proquest.com.ezp-prod1.hul.harvard.edu/pqdtft/docview/816426749/138AC034C812CF82AFC/1?accountid=11311).
+- Xing, Jun. *Baptized in the Fire of Revolution: The American Social Gospel and the YMCA in China, 1919-1937*. 1996.
+- Xu, Aymeric. *From Culturalist Nationalism to Conservatism: Origins and Diversification of Conservative Ideas in Republican China*. 2021.
+- Xu, Guoqi. *Strangers on the Western Front: Chinese Workers in the Great War*. 2011.
+- Xu, Xiaoqun. *Chinese Professionals and the Republican State: The Rise of Professional Associations in Shanghai, 1912–1937*. 2000.
+- ———. ‘Law, Custom, and Social Norms: Civil Adjudications in Qing and Republican China’. *Law and History Review* 36, no. 1 (February 2018): 77–104. [DOI](https://doi.org/10.1017/S0738248017000554).
+- ———. *Trial of Modernity: Judicial Reform in Early Twentieth-Century China, 1901-1937*. 2008.
+- Xu, Y., and P. Billingsley. ‘Book Review: Out of the Closet: China’s Historians “Discover” Republican-Period Bandits’. *Modern China* 28, no. 4 (1 October 2002): 467–99. [DOI](https://doi.org/10.1177/009770040202800403).
+- Xue, Jundu, and Xing Huang, eds. *The Chinese Revolution of 1911: New Perspectives*. 1986.
+- Yan, Lu. *Re-Understanding Japan: Chinese Perspectives, 1895–1945*. Electronic book. Asian Interactions and Comparisons 6. 2004.
+- Yang, C. K. *Religion in Chinese Society: A Study of Contemporary Social Functions of Religion and Some of Their Historical Factors*. 1961.
+- Yang, Daqing. *Nanjing Atrocity: The Making of a Twentieth Century Rashomon*. 1989.
+- Yangwen, Zheng. *The Social Life of Opium in China*. 2005.
+- Ye, Weili. *Seeking Modernity in China’s Name: Chinese Students in the United States, 1900-1927*. 2002.
+- Yeh, Emilie Yueh-yu. *Early Film Culture in Hong Kong, Taiwan, and Republican China: Kaleidoscopic Histories*. 2018.
+- Yeh, Wen-Hsin, ed. *Becoming Chinese: Passages to Modernity and Beyond*. 2000. [Link](http://ark.cdlib.org/ark:/13030/kt5j49q621/).
+- ———. *Shanghai Splendor: Economic Sentiments and the Making of Modern China, 1843-1949*. 2008.
+- ———. *The Alienated Academy: Culture and Politics in Republican China, 1919-1937*. 2000.
+- Yeh, Wen-Hsin, and Yeh Wen-hsin. *Provincial Passages: Culture, Space, and the Origins of Chinese Communism*. 1996.
+- Yin, Chan Hok. ‘Revisiting the Discourse of the May Fourth Movement in Hong Kong’. *Oriens Extremus* 54 (2015): 1–22. [Link](https://www.jstor.org/stable/26372433).
+- Young, Ernest P. *The Presidency of Yuan Shih-Kʻai: Liberalism and Dictatorship in Early Republican China*. 1977.
+- Young, Louise. *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism*. 1999.
+- Yu, George T. *Party Politics in Republican China: The Kuomintang, 1912-1924*. 2021.
+- Yu, Maochun. *The Dragon’s War: Allied Operations And the Fate of China, 1937-1947*. 2006.
+- Yuhe, Zuo. ‘Populism During the Period of the 1911 Revolution’. *Journal of Modern Chinese History* 6, no. 1 (2012): 33–43. [DOI](https://doi.org/10.1080/17535654.2012.670513).
+- Yü-sheng, Lin. ‘Notes on the Themes in the Crisis of Chinese Consciousness: Radical Anti-Traditionalism in the May Fourth Era’. *Chinese Republican Studies Newsletter* 4, no. 1 (1978): 15–19. [Link](https://muse.jhu.edu/pub/1/article/790499).
+- Zanasi, Margherita. *Economic Thought in Modern China: Market and Consumption, c.1500–1937*. 2020.
+- ———. *Saving the Nation: Economic Modernity in Republican China*. 2006.
+- Zarrow, Peter. ‘A Question of Civil Religion: Three Case Studies in the Intellectual History of “May Fourth”’. *Twentieth-Century China* 44, no. 2 (2019): 150–60. [Link](https://muse.jhu.edu/pub/1/article/718853).
+- ———. *After Empire: The Conceptual Transformation of the Chinese State, 1885-1924*. First Edition. Hardback. 2012.
+- ———. *Anarchism and Chinese Political Culture*. 1990.
+- ———. *Educating China: Knowledge, Society and Textbooks in a Modernizing World, 1902–1937*. 2015.
+- ———. ‘Historical Trauma: Anti-Manchuism and Memories of Atrocity in Late Qing China’. *History and Memory* 16, no. 2 (2004): 67–107. [DOI](https://doi.org/10.2979/his.2004.16.2.67).
+- Zhao, Xuduo. *Heretics in Revolutionary China: The Ideas and Identities of Two Cantonese Socialists, 1917–1928*. Electronic book. Asian Studies E-Books Online, Collection 2023 51. 2023.
+- ———. ‘Revisiting the Dissemination of Marxism in May Fourth China: A Perspective of Cultural Field’. *Twentieth-Century China* 44, no. 2 (2019): 190–205. [Link](https://muse.jhu.edu/pub/1/article/718856).
+- Zheng, Xiaowei. *The Politics of Rights and the 1911 Revolution in China*, 2018.
+- Zhesheng, Ouyang. ‘Expanding the Discursive Domain of Research on the New Culture Movement: An Incomplete Review of Studies on the New Culture Movement’. *Chinese Studies in History* 49, no. 2 (2 April 2016): 90–101. [DOI](https://doi.org/10.1080/00094633.2015.1132927).
+- Zhitian, Luo. ‘Wholeness and Individuality: Revisiting the New Culture Movement, as Symbolized by May Fourth’. *Chinese Studies in History* 52, no. 3–4 (2 October 2019): 188–208. [DOI](https://doi.org/10.1080/00094633.2019.1654802).
+- Zhou, G. *Placing the Modern Chinese Vernacular in Transnational Literature*. 2011.
+- Zongyi, Li. ‘On the Cataloging and Publication of the Archives of the 1911 Revolution’. *Chinese Republican Studies Newsletter* 8, no. 2 (1982): 8–15. [Link](https://muse.jhu.edu/pub/1/article/790453).
+- 丁守中. *The Dilemma of Disintegration: Nationalist China’s Policy Toward Japan: 1931-1937*. 2012.
+
+## The Communist Revolution and The People's Republic of China {#prc}
+
+- *Agrarian China: Selected Source Materials from Chinese Authors. Compiled and Translated by the Research Staff of the Secretariat, Institute of Pacific Relations, with an Introduction by R.H. Tawney*. 1938.
+- Alexander, Robert Jackson. *Maoism in the Developed World*. 2001.
+- Allinson, Robert Elliott. *The Philosophical Influences of Mao Zedong: Notations, Reflections and Insights*. 2019.
+- Altegenger, Jennifer E. *Legal Lessons: Popularizing Laws in the People’s Republic of China, 1949-1989*. Electronic book. Studies in Netherlandish Art and Cultural History 411. 2018.
+- Altehenger, Jennifer, and Denise Y. Ho. *Material Contradictions in Mao’s China*. 2022.
+- Anagnost, Ann. *National Past-Times: Narrative, Representation, and Power in Modern China*. 1997.
+- Andors, Phyllis. *The Unfinished Liberation of Chinese Women, 1949-1980*. 1983.
+- Andreas, Joel. ‘Battling over Political and Cultural Power during the Chinese Cultural Revolution’. *Theory and Society* 31, no. 4 (2002): 463–519. [Link](https://www.jstor.org/stable/3108513).
+- ———. *Rise of the Red Engineers: The Cultural Revolution and the Origins of China’s New Class*. 2009.
+- Apter, David Ernest, and Tony Saich. *Revolutionary Discourse in Mao’s Republic*. 1994.
+- Armstrong, Elisabeth B. *Bury the Corpse of Colonialism: The Revolutionary Feminist Conference of 1949*. Electronic book. 2023.
+- Atwill, David, and Yurong Atwill. *Sources in Chinese History: Diverse Perspectives from 1644 to the Present*. 2nd ed. 2021.
+- Averill, Stephen C. ‘Party, Society, and Local Elite in the Jiangxi Communist Movement’. *The Journal of Asian Studies* 46, no. 2 (1987): 279–303. [DOI](https://doi.org/10.2307/2056015).
+- ———. *Revolution in the Highlands: China’s Jinggangshan Base Area*. 2006.
+- Bachman, David M. *Bureaucracy, Economy, and Leadership in China: The Institutional Origins of the Great Leap Forward*. Electronic book. 1991.
+- ‘Badges of Chairman Mao Zedong’. Accessed 10 September 2024. [Link](http://museums.cnd.org/CR/old/maobadge/).
+- Bailey, Paul J. *Women and Gender in Twentieth-Century China*. 2012.
+- Bakken, Børge. *The Exemplary Society: Human Improvement, Social Control, and the Dangers of Modernity in China*. 2000.
+- Bakken, B_rge. *Crime, Punishment, and Policing in China*. 2007.
+- Bao, Yajun. ‘The Xinjiang Production and Construction Corps: An Insider’s Perspective’. *China: An International Journal* 18, no. 2 (2020): 161–74. [Link](https://muse.jhu.edu/pub/43/article/756368).
+- Barlow, Tani. *In the Event of Women*. 2021.
+- ———. *The Question of Women in Chinese Feminism*. 2004.
+- Barlow, Tani E. *Gender Politics in Modern China: Writing and Feminism*. 1993.
+- Barme, Geremie. *Shades of Mao: The Posthumous Cult of the Great Leader: The Posthumous Cult of the Great Leader*. 1996.
+- Barmé, Geremie, and Linda Jaivin. *New Ghosts, Old Dreams: Chinese Rebel Voices*. 1992.
+- Barmé, Geremie, and John Minford. *Seeds of Fire: Chinese Voices of Conscience*. 1986.
+- Barnett, A. Doak. *China On The Eve Of Communist Takeover*. 2019.
+- ———. *Communist China: The Early Years, 1949-55*. 1964.
+- Barnouin, Barbara, and Yu Changgen. *Ten Years of Turbulence: The Chinese Cultural Revolution*. 2012.
+- Basu, Subho. *Intimation of Revolution: Global Sixties and the Making of Bangladesh*. Electronic book. Cambridge Books Online. 2023.
+- Baum, R. *Prelude to Revolution: Mao, the Party, and the Peasant Question*. 1975.
+- Baum, Richard. *Burying Mao: Chinese Politics in the Age of Deng Xiaoping - Updated Edition*. 2018.
+- Baum, Richard, and Frederick C. Teiwes. *Ssu-Ch’Ing: The Socialist Education Movement of 1962-1966*. 1968.
+- Beat, The China. ‘Jokes from the Great Proletarian Cultural Revolution (1966-1976)’. *The China Beat* (blog), 17 April 2009. [Link](http://thechinabeat.blogspot.com/2009/04/jokes-from-great-proletarian-cultural.html).
+- Becker, Jasper. *Hungry Ghosts: Mao’s Secret Famine*. 1996.
+- Bell, Daniel A. *China’s New Confucianism: Politics and Everyday Life in a Changing Society*. 2008.
+- Bellér-Hann, Ildikó. *Community Matters in Xinjiang, 1880-1949: Towards a Historical Anthropology of the Uyghur*. 2008.
+- ———. ‘Feudal Villains or Just Rulers? The Contestation of Historical Narratives in Eastern Xinjiang’. *Central Asian Survey* 31, no. 3 (1 September 2012): 311–25. [DOI](https://doi.org/10.1080/02634937.2012.723417).
+- Benson, Linda. *The Ili Rebellion: The Moslem Challenge to Chinese Authority in Xinjiang, 1944-1949*. 1990.
+- Benton, Gregor, ed. *Chen Duxiu’s Last Articles and Letters, 1937-1942.*. 2018.
+- ———. *Mountain Fires: The Red Army’s Three-Year War in South China, 1934-1938*. 1992.
+- ———. *New Fourth Army: Communist Resistance Along the Yangtze and the Huai, 1938-1941*. 1999.
+- ———. *Prophets Unarmed: Chinese Trotskyists in Revolution, War, Jail, and the Return from Limbo*. 2015.
+- Benton, Gregor, and Alan Hunter, eds. *Wild Lily, Prairie Fire: China’s Road to Democracy, Yan’an to Tian’anmen, 1942-1989*. 1995.
+- Benton, Gregor, and Chun Lin, eds. *Was Mao Really a Monster? The Academic Response to Chang and Halliday’s Mao, the Unknown Story*. 2010.
+- Bernstein, Richard. *China 1945: Mao’s Revolution and America’s Fateful Choice*. 2014.
+- Bernstein, Thomas P. ‘Mao Zedong and the Famine of 1959-1960: A Study in Wilfulness’. *The China Quarterly*, no. 186 (2006): 421–45. [Link](http://www.jstor.org/stable/20192620).
+- ———. ‘Problems of Village Leadership after Land Reform’. *The China Quarterly*, no. 36 (1968): 1–22. [Link](https://www.jstor.org/stable/652193).
+- ———. *Up to the Mountains and Down to the Villages: The Transfer of Youth from Urban to Rural China*. 1977.
+- Bernstein, Thomas P., and Hua-Yu Li, eds. *China Learns from the Soviet Union, 1949-Present*. Harvard Cold War Studies Book Series. 2011.
+- Bertram, James M. *First Act in China: The Story of the Sian Mutiny*. 1975.
+- Bianco, Lucien. *Peasants without the Party: Grassroots Movements in Twentieth Century China*. 2015.
+- ———. *Wretched Rebels: Rural Disturbances on the Eve of the Chinese Revolution*. 2020.
+- Black, George, and Robin Munro. *Black Hands of Beijing: Lives of Defiance in China’s Democracy Movement*. 1993.
+- Blanke, Anja, Julia C. Strauss, and Klaus Mühlhahn. *Revolutionary Transformations: The People’s Republic of China in the 1950s*. 2023.
+- Bonavia, David. *Verdict in Peking: The Trial of the Gang of Four*. 1984.
+- Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth (1968–1980)*. 2013.
+- Bovingdon, Gardner. ‘The History of the History of Xinjiang’. *Twentieth-Century China* 26, no. 2 (2000): 95–139. [Link](https://muse.jhu.edu/pub/1/article/788854).
+- Bowker, Geoffrey C., and Susan Leigh Star. *Sorting Things Out: Classification and Its Consequences*. Electronic book. Inside Technology. 1999.
+- Brady, Anne-Marie. *A Foreign Missionary on the Long March: The Unpublished Memoirs of Arnolis Hayman of the China Inland Mission*. 2011.
+- ———. *Making the Foreign Serve China: Managing Foreigners in the People’s Republic*. 2003.
+- Brandenberger, David, and Mikhail V. Zelenov. *Stalin’s Master Narrative: A Critical Edition of the History of the Communist Party of the Soviet Union (Bolsheviks), Short Course*. 2019.
+- Brandt, Conrad, Benjamin Schwartz, and John K. Fairbank, eds. *A Documentary History of Chinese Communism*, 1977.
+- Brautigam, Deborah. *The Dragon’s Gift: The Real Story of China in Africa*. Electronic book. 2009.
+- Bray, David. *Social Space and Governance in Urban China: The Danwei System from Origins to Reform*. 2005.
+- Brazelton, Mary Augusta. *Mass Vaccination: Citizens’ Bodies and State Power in Modern China*. Electronic book. Studies of the Weatherhead East Asian Institute, Columbia University. 2019.
+- *Brill’s Encyclopedia of China*. 2008. [Link](https://brill.com/edcollbook/title/14177).
+- Brødsgaard, Kjeld Erik, ed. *Critical Readings on the Communist Party of China (4 Vols. Set)*. 2016. [Link](https://brill.com/edcollbook/title/32194).
+- Brook, Timothy. *Collaboration: Japanese Agents and Local Elites in Wartime China*. 2005.
+- ———. *Quelling the People: The Military Suppression of the Beijing Democracy Movement*. 1992.
+- Brophy, David. *Uyghur Nation: Reform and Revolution on the Russia-China Frontier*. Electronic book. 2016.
+- Broudehoux, Anne-Marie. *The Making and Selling of Post-Mao Beijing*. 2004.
+- Brown, Jeremy. *City Versus Countryside in Mao’s China: Negotiating the Divide*. Electronic book. Cambridge Books Online. 2012. [Link](http://library.st-andrews.ac.uk/record=b1951401~S5).
+- ———. ‘Finding and Using Grassroots Historical Sources from the Mao Era’. *Chinese History Dissertation Reviews* (blog), 15 December 2010. [Link](https://dissertationreviews.wordpress.com/2010/12/15/finding-and-using-grassroots-historical-sources-from-the-mao-era-by-jeremy-brown/).
+- ———. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. Electronic book. New Approaches to Asian History 22. 2021.
+- ———. *Maoism at the Grassroots: Everyday Life in China’s Era of High Socialism*. Electronic book. 2015.
+- Brownell, Susan. *Training the Body for China: Sports in the Moral Order of the People’s Republic*. 1995.
+- Brownell, Susan, Jeffrey N. Wasserstrom, and Thomas Laqueur. *Chinese Femininities, Chinese Masculinities: A Reader*. 2002.
+- Brugger, Bill, and David Kelly. *Chinese Marxism in the Post-Mao Era*. 1990.
+- Buck, John Lossing. *Land Utilization in China: A Study of 16,786 Farms in 168 Localities, and 38,256 Farm Families in Twenty-Two Provinces in China, 1929-1933*. 1956.
+- Bukharin, Nikolai, and Evgenii Preobrazensky. *The ABC of Communism*. 2021.
+- Bunker, Gerald E. *The Peace Conspiracy; Wang Ching-Wei and the China War, 1937-1941*. 1972.
+- Burki, Shahid Javed. *A Study of Chinese Communes, 1965*. 1969. [Link](https://brill.com/display/title/57708).
+- Buruma, Ian. *Bad Elements: Chinese Rebels from Los Angeles to Beijing*. 2002.
+- Bush, Richard Clarence. *Religion in Communist China*. 1970.
+- Buxbaum, David C. *Chinese Family Law and Social Change in Historical and Comparative Perspective*. 1978.
+- Byler, Darren. *Terror Capitalism: Uyghur Dispossession and Masculinity in a Chinese City*. Electronic book. 2022.
+- Byron, John, and Robert Pack. *The Claws of the Dragon: Kang Sheng, the Evil Genius Behind Mao and His Legacy of Terror in People’s China*. 1992.
+- Cai, Xiang, Rebecca E. Karl, and Xueping Zhong. *Revolution and Its Narratives: China’s Socialist Literary and Cultural Imaginaries, 1949-1966*. Electronic book. 2016.
+- Calhoun, Craig. *Neither Gods nor Emperors: Students and the Struggle for Democracy in China*. 1994.
+- Cao, Xun, Haiyan Duan, Chuyu Liu, James A. Piazza, and Yingjie Wei. ‘Digging the “Ethnic Violence in China” Database: The Effects of Inter-Ethnic Inequality and Natural Resources Exploitation in Xinjiang’. *China Review* 18, no. 2 (2018): 121–54. [Link](https://www.jstor.org/stable/26435650).
+- Chan, Alfred. ‘Fabricated Secrets and Phantom Documents: The “Tiananmen Papers” and “China’s Leadership Files,” A Re-Rejoinder’, n.d.
+- Chan, Alfred L. *Mao’s Crusade: Politics and Policy Implementation in China’s Great Leap Forward*. 2001.
+- ———. *Xi Jinping: Political Career, Governance, and Leadership, 1953-2018*. 2022.
+- Chan, Alfred L., and Andrew J. Nathan. ‘The Tiananmen Papers Revisited’. *The China Quarterly*, no. 177 (2004): 190–214. [Link](https://www.jstor.org/stable/20192311).
+- Chan, Anita, Richard Madsen, and Jonathan Unger. *Chen Village Under Mao and Deng*. 1992.
+- Chan, F. Gilbert. *China At The Crossroads: Nationalists And Communists, 1927-1949*. 2019.
+- Chan, Ming K., Arif Dirlik, and Professor Arif Dirlik. *Schools Into Fields and Factories: Anarchists, the Guomindang, and the National Labor University in Shanghai, 1927-1932*. 1991.
+- Chang, Kuo-t’ao. *The Rise of the Chinese Communist Party: The Autobiography of Chang Kuo-t’ao*, 1971.
+- Chang, Leslie T. *Factory Girls: From Village to City in a Changing China*. 2009.
+- Chanisheff, Söyüngül. *The Land Drenched in Tears*. 2018.
+- Chan/Madsen, Anita Chan, Richard Madsen, and Jonathan Unger. *Chen Village: Revolution to Globalization*. Electronic book. 2010.
+- Chapman, Herbert Owen. *The Chinese Revolution, 1926-27: A Record of the Period Under Communist Control as Seen from the Nationalist Capital, Hankow*. 1928.
+- Chartier, Roger. *The Cultural Origins of the French Revolution*. Bicentennial Reflections on the French Revolution. 1991.
+- Chau, Adam Yuet. *Miraculous Response: Doing Popular Religion in Contemporary China*. Electronic book. 2006.
+- Chee, Liz P. Y. *Mao’s Bestiary: Medicinal Animals and Modern China*. Electronic book. Experimental Futures : Technological Lives, Scientific Arts, Anthropological Voices. 2021.
+- Cheek, Timothy, ed. *A Critical Introduction to Mao*. Electronic book. 2010.
+- ———. *Living with Reform: China since 1989*. 2008.
+- ———. *Mao Zedong and China’s Revolutions: A Brief History with Documents*. 2002.
+- ———. *The Intellectual in Modern Chinese History*. Electronic book. 2015.
+- Cheek, Timothy, and Professor of Chinese Research Timothy Cheek. *Propaganda and Culture in Mao’s China: Deng Tuo and the Intelligentsia*. 1997.
+- Cheek, Timothy, Klaus Mühlhahn, and Hans van de Ven. *The Chinese Communist Party: A Century in Ten Lives*. 2021.
+- Cheek, Timothy, and Tony Saich. *New Perspectives on State Socialism in China*. 2016.
+- Chen, Jian. *Mao’s China and the Cold War*. 2010.
+- Chen, Pingyuan. *Touches of History: An Entry into ‘May Fourth’ China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b3530559~S5).
+- Chen, Ruoxi, Nancy Ing, and Howard Goldblatt. *The Execution of Mayor Yin and Other Stories from the Great Proletarian Cultural Revolution*. Electronic book. Rev. ed. 2004.
+- Chen, Theodore Hsi-en. *Chinese Education Since 1949: Academic and Revolutionary Models*. 2014.
+- ———. *Thought Reform of the Chinese Intellectuals*. 1960.
+- Chen, Thomas. *Made in Censorship: The Tiananmen Movement in Chinese Literature and Film*. Electronic book. 2022.
+- Chen, Tina Mai. ‘Female Icons, Feminist Iconography? Socialist Rhetoric and Women’s Agency in 1950s China’. *Gender & History* 15, no. 2 (2003): 268–95. [DOI](https://doi.org/10.1111/1468-0424.00303).
+- Chen, Xiaomei. *Acting the Right Part: Political Theater and Popular Drama in Contemporary China*. Electronic book. 2002.
+- ———. *Staging Chinese Revolution: Theater, Film, and the Afterlives of Propaganda*. Electronic book. 2016.
+- Chen, Yung-fa. *Making Revolution: The Communist Movement in Eastern and Central China, 1937-1945*. 1986. [Link](https://library.st-andrews.ac.uk/record=b3284135~S5).
+- Cheng, Victor Shiu Chiang. ‘Imagining China’s Madrid in Manchuria The Communist Military Strategy at the Onset of the Chinese Civil War, 1945-1946’. *Modern China* 31, no. 1 (1 January 2005): 72–114. [DOI](https://doi.org/10.1177/0097700404270549).
+- Cherrington, Ruth. *China’s Students: The Struggle for Democracy*. 1991.
+- Chesneaux, Jean, and Lucien Bianco. *Popular Movements and Secret Societies in China, 1840-1950*. 1972.
+- Chʻen, Shao-yü, and Ming Wang. *Mao’s Betrayal*. 1979.
+- Chiang, Howard. *The Making of the Human Sciences in China: Historical and Conceptual Foundations*. 2019.
+- Chin, Sei Jeong. ‘The Korean War, Anti-US Propaganda, and the Marginalization of Dissent in China, 1950–1953’. *Twentieth-Century China* 48, no. 1 (2023): 23–47. [Link](https://muse.jhu.edu/pub/1/article/877254).
+- Chin, Steve S. K. *The Thought of Mao Tse-Tung: Form and Content*. 1979.
+- *China’s Great Terror: New Documentation on the Cultural Revolution*. 1993.
+- Chong, Woei Lien. *China’s Great Proletarian Cultural Revolution: Master Narratives and Post-Mao Counternarratives*. 2002.
+- Chun, Lin. *Revolution and Counterrevolution in China*. 2021.
+- Chʼên, Jerome. *Mao and the Chinese Revolution*. 1972.
+- Ci, Jiwei. *Dialectic of the Chinese Revolution: From Utopianism to Hedonism*. 1994.
+- Clark, Paul. *Chinese Cinema: Culture and Politics Since 1949*. 1988.
+- ———. *The Chinese Cultural Revolution: A History*. 2008.
+- Clart, Philip, and Charles B. Jones, eds. *Religion in Modern Taiwan: Tradition and Innovation in aChanging Society*. Electronic book. 2003.
+- Coble, Parks M. *The Collapse of Nationalist China: How Chiang Kai-Shek Lost China’s Civil War*. 2023.
+- Coderre, Laurence. *Newborn Socialist Things: Materiality in Maoist China*. Electronic book. 2021.
+- Coggins, Christopher Reed. *The Tiger and the Pangolin: Nature, Culture, and Conservation in China*. Electronic book. 2002.
+- Cohen, Arthur Allen. *The Communism of Mao Tse-Tung*. 1964.
+- Cohen, Paul A. *Speaking to History: The Story of King Goujian in Twentieth-Century China*. 2010.
+- Compton, Boyd, ed. *Mao’s China: Party Reform Documents, 1942-44*. 1952.
+- *Conflicting Memories: Tibetan History under Mao Retold*. 2020.
+- Cong, Xiaoping. *Marriage, Law, and Gender in Revolutionary China, 1940-1960*. 2016.
+- Cook, Alexander. ‘“Settling Accounts”: Law as History in the Trial of the Gang of Four’. In *Law and History: Current Legal Issues 2003 Volume 6*, edited by Andrew Lewis and Michael Lobban, 0. 2004. [DOI](https://doi.org/10.1093/acprof:oso/9780199264148.003.0019).
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014.
+- ———. *The Cultural Revolution on Trial: Justice in the Post-Mao Transition*. 2016.
+- Cothran, Boyd, Joan Judge, and Adrian Shubert. *Women Warriors and National Heroes: Global Histories*. 2020.
+- Courtney, Chris. ‘At War with Water: The Maoist State and the 1954 Yangzi Floods’. *Modern Asian Studies* 52, no. 6 (November 2018): 1807–36. [DOI](https://doi.org/10.1017/S0026749X16001049).
+- Croll, Elisabeth. *Feminism and Socialism in China*. 2013.
+- Crook, David, and Isabel Crook. *Revolution in a Chinese Village: Ten Mile Inn*. 2006.
+- Crook, Isabel, and David Crook. *Ten Mile Inn: Mass Movement in a Chinese Village*. 1979.
+- Culp, Robert. *The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism*. Electronic book. Studies of the Weatherhead East Asian Institute, Columbia University. 2019.
+- Dai, Xuanzhi, Elizabeth J. Perry, and Ronald Stanley Suleski. *The Red Spears, 1916–1949*. Electronic book. Michigan Monographs in Chinese Studies, no. 54. 2020. [Link](http://library.st-andrews.ac.uk/record=b3196830~S5).
+- Dallmayr, Fred R., Tingyang Zhao, and MyiLibrary, eds. *Contemporary Chinese Political Thought: Debates and Perspectives*. Asia in the New Millennium. 2012.
+- Davies, Gloria. *Worrying about China: The Language of Chinese Critical Inquiry*. Electronic book. 2009.
+- Davin, Delia and American Council of Learned Societies. *Woman-Work Women and the Party in Revolutionary China*. 1976.
+- Davis, Deborah. *Long Lives: Chinese Elderly and the Communist Revolution. Expanded Edition*. 1991.
+- Davis, Deborah, Ezra Vogel, and Brill Online, eds. *Chinese Society on the Eve of Tiananmen*. Electronic book. Harvard Contemporary China Series 7. 1990.
+- De Giorgi, Laura, Peter Ludes, and Merle Schatz, eds. *Contact Zones in China: Multidisciplinary Perspectives*. Electronic book. 2020.
+- Dean, Kenneth. *Lord of the Three in One: The Spread of a Cult in Southeast China*. Electronic book. 2023.
+- DeMare, Brian. ‘It Takes a Village: Land Reform in the Classroom’. *PRC History Review*, 2021.
+- ———. *Land Wars: The Story of China’s Agrarian Revolution*. 1st edition. 2019.
+- ———. ‘Local Actors and National Politics: Rural Amateur Drama Troupes and Mass Campaigns in Hubei Province, 1949-1953’. *Modern Chinese Literature and Culture* 24, no. 2 (2012): 129–78. [Link](https://www.jstor.org/stable/42940561).
+- DeMare, Brian James. *Mao’s Cultural Army: Drama Troupes in China’s Rural Revolution*. Electronic book. Cambridge Studies in the History of the People’s Republic of China. 2015. [Link](http://library.st-andrews.ac.uk/record=b3040098~S5).
+- Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. Electronic book. 2014.
+- ———. *Modern Chinese Literary Thought: Writings on Literature, 1893-1945*. 1996.
+- ———. *The Columbia Companion to Modern Chinese Literature*. 2016.
+- Diamant, Neil J. *Embattled Glory: Veterans, Military Families, and the Politics of Patriotism in China, 1949–2007*. 2010.
+- ———. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5).
+- Diamant, Neil J., and Feng Xiaocai. ‘Textual Anxiety: Reading (and Misreading) the Draft Constitution in China, 1954’. *Journal of Cold War Studies* 20, no. 3 (2018): 153–79. [Link](https://muse.jhu.edu/pub/6/article/704573).
+- Dikötter, Frank. ‘Crime and Punishment in Post-Liberation China: The Prisoners of a Beijing Gaol in the 1950s’. *The China Quarterly*, no. 149 (1997): 147–59. [Link](https://www.jstor.org/stable/655049).
+- ———. *Crime, Punishment and the Prison in Modern China*. 2002.
+- ———. *Mao’s Great Famine: The History of China’s Most Devastating Catastrophe, 1958-1962*. 2011.
+- Dikotter, Frank. *Sex, Culture and Modernity in China: Her Tumultuous Life’s Journey to the West*. 1995.
+- ———. *The Age of Openness: China before Mao*. 2008.
+- Dikötter, Frank. *The Cultural Revolution: A People’s History, 1962—1976*. 2016.
+- Dikotter, Frank. *The Discourse of Race in Modern China*. 1992.
+- Dikötter, Frank. ‘The Emergence of Labour Camps in Shandong Province, 1942-1950’. *The China Quarterly*, no. 175 (1 September 2003): 803–17. [Link](http://www.jstor.org/stable/20059040).
+- ———. *The Tragedy of Liberation: A History of the Chinese Revolution 1945-1957*. 2013. [Link](http://library.st-andrews.ac.uk/record=b2195989~S5).
+- Dikötter, Frank, Lars Peter Laamann, and Xun Zhou. *Narcotic Culture: A History of Drugs in China*. 2004.
+- Dillon, Michael. *China in the Age of Xi Jinping*. 2021.
+- ———. *Contemporary China - An Introduction*. 2008.
+- ———. *Lesser Dragons: Minority Peoples of China*. 2018.
+- ———. *Xinjiang: China’s Muslim Far Northwest*. 2003.
+- ———. *Xinjiang in the Twenty-First Century: Islam, Ethnicity and Resistance*. 2018.
+- Ding, Ling. *I Myself Am a Woman: Selected Writings of Ding Ling*. 1989.
+- Dirlik, Arif. *Anarchism in the Chinese Revolution*. 1991.
+- ———. *Marxism in the Chinese Revolution*. 2005.
+- ———. ‘Reversals, Ironies, Hegemonies: Notes on the Contemporary Historiography of Modern China’. *Modern China* 22, no. 3 (1996): 243–84.
+- ———. *Revolution and History: Origins of Marxist Historiography in China, 1919-1937*. 1989.
+- ———. *The Origins of Chinese Communism*. 1989.
+- ———. ‘The Revolution That Never Was: Anarchism in the Guomindang’. *Modern China* 15, no. 4 (1 October 1989): 419–62. [DOI](https://doi.org/10.2307/189240).
+- ———. ‘Vision and Revolution: Anarchism in Chinese Revolutionary Thought on the Eve of the 1911 Revolution’. *Modern China* 12, no. 2 (1 April 1986): 123–65. [DOI](https://doi.org/10.2307/189118).
+- Dirlik, Arif, Paul Michael Healy, and Nick Knight. *Critical Perspectives on Mao Zedong’s Thought*. 1997.
+- Dittmer, Lowell. *China Under Reform*. 2018.
+- ———. *China’s Continuous Revolution: The Post-Liberation Epoch 1949-1981*. 2024. [Link](http://library.st-andrews.ac.uk/record=b3283146~S5).
+- ———. *Liu Shaoqi and the Chinese Cultural Revolution*. Rev. ed. 1998.
+- ———. ‘The Structural Evolution of “Criticism and Self-Criticism”’. *The China Quarterly*, no. 56 (1973): 708–29. [Link](https://www.jstor.org/stable/652164).
+- Dittmer, Lowell, and Samuel S. Kim. *China’s Quest for National Identity*. 2018.
+- Domenach, Jean-Luc, and A. M. Berrett. *The Origins of the Great Leap Forward: The Case of One Chinese Province*. English-Language ed. Transitions : Asia and Asian America. 1995.
+- Doolin, Dennis J., and Peter J. Golas. ‘On Contradiction in the Light of Mao Tse-Tung’s Essay on “Dialectical Materialism”’. *The China Quarterly*, no. 19 (1964): 38–46. [Link](https://www.jstor.org/stable/651501).
+- Doyon, Jérôme. *Rejuvenating Communism: Youth Organizations and Elite Renewal in Post-Mao China*. 2023.
+- Draguhn, Werner, and David S. G. Goodman. *China’s Communist Revolutions: Fifty Years of The People’s Republic of China*. 2012.
+- Dreyer, June Teufel. *China’s Forty Millions: Minority Nationalities and National Integration in the People’s Republic of China*. 1976.
+- Dryburgh, Marjorie. *North China and Japanese Expansion 1933-1937: Regional Power and the National Interest*. 2013.
+- Du, Chunmei. ‘Jeep Girls and American GIs: Gendered Nationalism in Post–World War II China’. *Journal of Asian Studies* 81, no. 2 (1 May 2022): 341–63. [DOI](https://doi.org/10.1017/S002191182100228X).
+- Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. 1997.
+- DuBois, Thomas. *The Sacred Village: Social Change and Religious Life in Rural North China*. Electronic book. 2023.
+- DuBois, Thomas David, Huaiyin Li, and Brill Online, eds. *Agricultural Reform and Rural Transformation in China Since 1949*. Electronic book. Historical Studies of Contemporary China, v. 2. 2016.
+- Dutton, Michael Robert. *Policing Chinese Politics: A History*. 2005.
+- ———. *Streetlife China*. 1998.
+- Eastman, Lloyd E. *Family, Fields, and Ancestors: Constancy and Change in China’s Social and Economic History, 1550-1949*. 1988.
+- Ebrey, Patricia Buckley. *Women and the Family in Chinese History*. 2003.
+- Eisenman, Joshua. *Red China’s Green Revolution: Technological Innovation, Institutional Change, and Economic Development Under the Commune*. 2018.
+- Elman, Benjamin A. *A Cultural History of Modern Science in China*. 2009.
+- Eng, David L., Teemu Ruskola, and Shuang Shen. *China and the Human: Marx, Mao, and the Human*. 2012.
+- Entwisle/Henderson, Barbara Entwisle, and Gail E. Henderson, eds. *Re-Drawing Boundaries: Work, Households, and Gender in China*. Electronic book. Studies on China. 2010.
+- Esherick, Joseph. *Ancestral Leaves: A Family Journey Through Chinese History*. 2011.
+- Esherick, Joseph, Paul Pickowicz, and Andrew George Walder. *The Chinese Cultural Revolution as History*. 2006.
+- Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5).
+- ———. *China in Revolution: History Lessons*. 2022.
+- ———. ‘Deconstructing the Construction of the Party-State: Gulin County in the Shaan-Gan-Ning Border Region’. *The China Quarterly*, no. 140 (1994): 1052–79. [Link](https://www.jstor.org/stable/655194).
+- ———. ‘Deconstructing the Construction of the Party-State: Gulin County in the Shaan-Gan-Ning Border Region’. *The China Quarterly* 140 (December 1994): 1052–79. [DOI](https://doi.org/10.1017/S0305741000052905).
+- ———. ‘Number Games: A Note on Land Distribution in Prerevolutionary China’. *Modern China* 7, no. 4 (1981): 387–411. [Link](https://www.jstor.org/stable/189053).
+- ———. ‘Revolution in a Feudal Fortress: Yangjiagou, Mizhi County, Shaanxi, 1937-1948’. *Modern China* 24, no. 4 (1998): 339–77. [Link](https://www.jstor.org/stable/189475).
+- ———. ‘Ten Theses on the Chinese Revolution’. *Modern China* 21, no. 1 (1995): 45–76. [Link](https://www.jstor.org/stable/189282).
+- Esherick, Joseph W., and Jeffrey N. Wasserstrom. ‘Acting Out Democracy: Political Theater in Modern China’. *The Journal of Asian Studies* 49, no. 4 (1990): 835–65. [DOI](https://doi.org/10.2307/2058238).
+- Esselstrom, Erik. *That Distant Country Next Door: Popular Japanese Perceptions of Mao’s China*. Electronic book. 2019.
+- Evans, Harriet. *Beijing from Below: Stories of Marginal Lives in the Capital’s Center*. Electronic book. 2020.
+- Evans, Harriet, and Stephanie Donald. *Picturing Power in the People’s Republic of China: Posters of the Cultural Revolution*. 1999.
+- Eyferth, Jan Jacob Karl. *Eating Rice from Bamboo Roots: The Social History of a Community of Handicraft Papermakers in Rural Sichuan, 1920-2000*. Electronic book. Harvard East Asian Monographs 314. 2009.
+- Ezpeleta, Mariano. *Red Shadows Over Shanghai*. 1972.
+- Fairbank, John K., and Roderick MacFarquhar, eds. ‘Bibliographical Essays’. In *The Cambridge History of China: Volume 15: The People’s Republic*, 15:889–938. The Cambridge History of China. 1991. [DOI](https://doi.org/10.1017/CHOL9780521243377.016).
+- Fairbank, John King, and Robert R. Bowie, eds. *Communist China 1955-1959: Policy Documents with Analysis*. 1962.
+- Fairbank, John King, and Albert Feuerwerker, eds. *The Cambridge History of China. Volume 13, Part 2: Republican China 1912–1949*. Electronic book. Cambridge Histories Online. 1986.
+- Falkenheim, Victor. *Citizens and Groups in Contemporary China*. 1987.
+- Fan, Ruiping. *The Renaissance of Confucianism in Contemporary China*. 2011.
+- Fan, Xin. *Global History in China*. 2024.
+- Fan, Xing. *Staging Revolution: Artistry and Aesthetics in Model Beijing Opera During the Cultural Revolution*. Electronic book. 2018.
+- Fang, Lizhi. *Bringing Down the Great Wall: Writings on Science, Culture, and Democracy in China*. 1992.
+- Fang, Xiaoping. *China and the Cholera Pandemic: Restructuring Society under Mao*. 2021.
+- Fann, K. T. ‘Mao and the Chinese Revolution in Philosophy’. *Studies in Soviet Thought* 12, no. 2 (1972): 111–23. [Link](https://www.jstor.org/stable/20098494).
+- Fanxi, Wang. *Mao Zedong Thought*. 2020.
+- Feigon, Lee. *Chen Duxiu, Founder of the Chinese Communist Party*. 2014.
+- *Feminist Encounters with Confucius*. 2016. [Link](https://brill.com/edcollbook/title/32695).
+- Feng, Chongyi, and David S. G. Goodman, eds. *North China at War: The Social Ecology of Revolution, 1937-1945*. 2000.
+- Feng, Jicai. *Ten Years of Madness: Oral Histories of China’s Cultural Revolution*. 1996.
+- Feng, Youlan. *The Hall of Three Pines: An Account of My Life*. 2000.
+- Fengcheng, Yang. *On Mao’s Political Ideology: Reviewing Chinese and Global Studies, 1940-2007*. 2011.
+- Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. Electronic book. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
+- Ferry, Megan M. ‘China as Utopia: Visions of the Chinese Cultural Revolution in Latin America’. *Modern Chinese Literature and Culture* 12, no. 2 (1 October 2000): 236–69. [Link](http://www.jstor.org/stable/41490834).
+- Fewsmith, Joseph. *China Since Tiananmen: From Deng Xiaoping to Hu Jintao*. Electronic book. Second edition. Cambridge Modern China Series. 2008.
+- Findlay, Mark. ‘Show Trials in China: After Tiananmen Square’. *Journal of Law and Society* 16, no. 3 (1989): 352–59. [DOI](https://doi.org/10.2307/1409989).
+- Finnane, Antonia. ‘Dressed to Kill in the Cultural Revolution’. In *Changing Clothes in China: Fashion, History, Nation*. 2008.
+- ———. *How to Make a Mao Suit: Clothing the People of Communistchina, 1949-1976*. Electronic book. Cambridge Studies in the History of the People’s Republic of China. 2023.
+- Firsov, Fridrikh Igorevich, Harvey Klehr, and John Earl Haynes. *Secret Cables of the Comintern, 1933-1943*. 2014.
+- Flath, James A. *The Cult of Happiness: Nianhua, Art, and History in Rural North China*. Electronic book. Contemporary Chinese Studies. 2004.
+- Florence, Éric, Judith Pernin, Keith Richburg, King-wa Fu, Louisa Lim, Edmund Cheng, Samson Yuen, and wen yau. ‘1989-2019: Perspectives on June 4<em>th</Em> from Hong Kong’. *China Perspectives*, no. 2 (117) (2019): 81–87. [Link](https://www.jstor.org/stable/26663924).
+- Fogel, Joshua A. *Ai Ssu-Ch’i’s Contribution to the Development of Chinese Marxism*. 2020.
+- Fonoroff, Paul. *Chinese Movie Magazines: From Charlie Chaplin to Chairman Mao, 1921-1951*. 2018.
+- Forbes, Andrew D. W. *Warlords and Muslims in Chinese Central Asia: A Political History of Republican Sinkiang 1911-1949*. 1986.
+- Forster, Keith. *Rebellion and Factionalism in a Chinese Province: Zhejiang, 1966-76*. 1990.
+- Frazier, Mark W. *The Making of the Chinese Industrial Workplace: State, Revolution, and Labor Management*. Electronic book. Cambridge Modern China Series. 2002. [Link](http://library.st-andrews.ac.uk/record=b3047377~S5).
+- Friedman, Edward, Paul G. Pickowicz, and Mark Selden. *Chinese Village, Socialist State*. 1991.
+- ———, eds. *Revolution, Resistance, and Reform in Village China*. Electronic book. Yale Agrarian Studies Series. 2008. [Link](http://library.st-andrews.ac.uk/record=b3279505~S5).
+- Friedman, Eli, Kevin Lin, and Ashley Smith. *The China Question: Toward Left Perspectives*. 2022.
+- Frolic, B. Michael. *Mao’s People: Sixteen Portraits of Life in Revolutionary China*. 1980.
+- Fromm, Martin T. *Borderland Memories: Searching for Historical Identity in Post-Mao China*. Electronic book. Cambridge Studies in the History of the People’s Republic of China. 2019.
+- Furth, Charlotte, ed. *The Limits of Change: Essays on Conservative Alternatives in Republican China*. Electronic book. Reprint 2014. Harvard East Asian Series 84. 2014.
+- Galbiati, Fernando. *P’eng P’ai and the Hai-Lu-Feng Soviet*. 1985.
+- Galimberti Jacopo, García Noemi de Haro, and Scott Victoria H. F. *Art, Global Maoism and the Chinese Cultural Revolution*. 2019.
+- Galimberti, Jacopo, Noemí de Haro García, Victoria H. F. Scott, and JSTOR (Organization), eds. *Art, Global Maoism and the Chinese Cultural Revolution*. Electronic book. Rethinking Art’s Histories. 2020.
+- Galway, Matthew. ‘Review of Lovell Maoism: A Global History’ PRC History Review Book Review Series (n.d.).
+- ———. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
+- Gamble, Sidney David. *Ting Hsien: A North China Rural Community*. 1954.
+- Gao, James Zheng. *The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954*. A Study of the Weatherhead East Asian Institute. 2004.
+- Gao, Mobo. *The Battle for China’s Past: Mao and the Cultural Revolution*. 2008.
+- Gao, Mobo C. F. ‘Debating the Cultural Revolution: Do We Only Know What We Believe?’ *Critical Asian Studies* 34, no. 3 (2002): 419–34. [DOI](https://doi.org/10.1080/1467271022000008956).
+- ———. *Gao Village: A Portrait of Rural Life in Modern China*. 1999.
+- Gao, Moho C.F. ‘Maoist Discourse and a Critique of the Present Assessments of the Cultural Revolution’. *Bulletin of Concerned Asian Scholars* 26, no. 3 (1 September 1994): 13–32. [DOI](https://doi.org/10.1080/14672715.1994.10416158).
+- Garnaut, Anthony. ‘Hard Facts and Half-Truths: The New Archival History of China’s Great Famine’. *China Information* 27, no. 2 (1 July 2013): 223–46. [DOI](https://doi.org/10.1177/0920203X13485390).
+- Garner, Karen. *Precious Fire: Maud Russell and the Chinese Revolution*. 2009.
+- Garver, John W. *Chinese-Soviet Relations, 1937-1945: The Diplomacy of Chinese Nationalism*. 1988.
+- Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008.
+- Gerth, Karl. *Unending Capitalism: How Consumerism Negated China’s Communist Revolution*. 2020. [DOI](https://doi.org/10.1017/9781139025225).
+- Gilley, Bruce, and Andrew Nathan. *China’s New Rulers: The Secret Files; Second, Revised Edition*. 2003.
+- Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. 1995. [Link](http://library.st-andrews.ac.uk/record=b1940470~S5).
+- Gittings, John. *China Changes Face: The Road from Revolution, 1949-1989*. 1989.
+- ———. *Survey of the Sino-Soviet Dispute. A Comment. and Extracts from the Recent Polemics 1963-1967 [by] John Gittings*. 1968.
+- ———. *The Changing Face of China: From Mao to Market*. 2006.
+- ———. *The Role of the Chinese Army*. 1981.
+- Gladney, Dru C. *Making Majorities: Constituting the Nation in Japan, Korea, China, Malaysia, Fiji, Turkey, and the United States*. 1998.
+- ———. *Muslim Chinese: Ethnic Nationalism in the People’s Republic*. 1996.
+- Glantz, David. *The Soviet Strategic Offensive in Manchuria, 1945: ‘August Storm’*. 2003.
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003.
+- Goh, Evelyn. *Constructing the U.S. Rapprochement with China, 1961-1974: From ‘Red Menace’ to ‘Tacit Ally’*. 2004.
+- Gold, Thomas B. ‘After Comradeship: Personal Relations in China since the Cultural Revolution’. *The China Quarterly*, no. 104 (1985): 657–75. [Link](https://www.jstor.org/stable/653206).
+- Goldman, Merle. *China’s Intellectuals: Advise and Dissent*. 1981.
+- ———. *From Comrade to Citizen: The Struggle for Political Rights in China*. 2007.
+- ———. *Literary Dissent in Communist China*. Electronic book. Reprint 2014. Harvard East Asian Series 29. 2014.
+- Goldman, Merle, Timothy Cheek, and Carol Lee Hamrin. *China’s Intellectuals and the State: In Search of a New Relationship*. 2020.
+- Goldman, Merle, and Leo Ou-fan Lee. *An Intellectual History of Modern China*. 2002.
+- Goldman, Merle, and Elizabeth J. Perry, eds. *Grassroots Political Reform in Contemporary China*. Electronic book. Harvard Contemporary China Series 14. 2009. [Link](http://library.st-andrews.ac.uk/record=b3071834~S5).
+- Goldman, Rene. ‘Mao, Maoism and Mao-Ology’. *Pacific Affairs* 41, no. 4 (1968): 560–74. [DOI](https://doi.org/10.2307/2754566).
+- Goldstein, Melvyn C. *A History of Modern Tibet, 1913-1951: The Demise of the Lamaist State (Vol. 1)*. 1989.
+- ———. *A History of Modern Tibet: In the Eye of the Storm, 1957-1959 (Vol. 4)*. 2019.
+- ———. *A History of Modern Tibet: The Calm Before the Storm: 1951-1955 (Vol. 2)*. 2009.
+- ———. *A History of Modern Tibet: The Storm Clouds Descend, 1955-1957 (Vol. 3)*. 2013.
+- ———. *The Snow Lion and the Dragon: China, Tibet, and the Dalai Lama*. 1997.
+- Goldstein, Melvyn C., Ben Jiao, and Tanzen Lhundrup. *On the Cultural Revolution in Tibet: The Nyemo Incident of 1969*. Electronic book. 2009.
+- Goncharov, Serge? Nikolaevich, John Wilson Lewis, and Litai Xue. *Uncertain Partners: Stalin, Mao, and the Korean War*. 1993.
+- Goodman, Bryna, and David S. G. Goodman. *Twentieth-Century Colonialism and China: Localities, the Everyday and the World*. 2012.
+- Goodman, David S. G. ‘JinJiLuYu in the Sino-Japanese War: The Border Region and the Border Region Government’. *The China Quarterly*, no. 140 (1994): 1007–24. [Link](https://www.jstor.org/stable/655192).
+- ———. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000.
+- Goossaert, Vincent, Jan Kiely, John Lagerwey, and Brill Online, eds. *Modern Chinese Religion. II: 1850-2015*. Electronic book. Handbook of Oriental Studies = Handbuch Der Orientalistik. Section 4, China, v. 32. 2015.
+- Goossaert, Vincent, and David A. Palmer. *The Religious Question in Modern China*. 2011.
+- Gray, Jack. *Rebellions and Revolutions: China from the 1800s to 2000*. 2002.
+- Gray, Jack, and Patrick Cavendish. *Chinese Communism in Crisis: Maoism and the Cultural Revolution*. 1968.
+- Grice, Francis. *The Myth of Mao Zedong and Modern Insurgency*. Electronic book. 2019.
+- Grieder, Jerome B. *Intellectuals and the State in Modern China: A Narrative History*. 1981.
+- Gries, Peter Hays. ‘Tears of Rage: Chinese Nationalist Reactions to the Belgrade Embassy Bombing’. *The China Journal*, no. 46 (2001): 25–43. [DOI](https://doi.org/10.2307/3182306).
+- Griffin, Patricia. ‘Prison Management in the Kiangsi and Yenan Periods’. *The China Quarterly*, no. 58 (1974): 310–31. [Link](https://www.jstor.org/stable/652403).
+- Griffin, Patricia E. *The Chinese Communist Treatment of Counterrevolutionaries, 1924-1949*. 1976.
+- Gross, Miriam. *Farewell to the God of Plague: Chairman Mao’s Campaign to Deworm China*, 2016.
+- Guang, Lei. ‘Realpolitik Nationalism: International Sources of Chinese Nationalism’. *Modern China* 31, no. 4 (2005): 487–514. [Link](https://www.jstor.org/stable/20062622).
+- Guidi, Chen, and Wu Chuntao. *Will the Boat Sink the Water?: The Life of China’s Peasants*. 2007.
+- Guo, Jian, Yongyi Song, and Yuan Zhou. *The A to Z of the Chinese Cultural Revolution*. 2009.
+- Guo, Qiyong. *Studies on Contemporary Chinese Philosophy (1949–2009)*. 2018. [Link](https://brill.com/display/title/25185).
+- Guoqiang, Dong, and Andrew G. Walder. *A Decade of Upheaval: The Cultural Revolution in Rural China*. Electronic book. Princeton Studies in Contemporary China 12. 2021.
+- ———. ‘Local Politics in the Chinese Cultural Revolution: Nanjing Under Military Control’. *The Journal of Asian Studies* 70, no. 02 (2011): 425–47. [DOI](https://doi.org/10.1017/S0021911811000039).
+- Hammond, Kenneth J., and Jeffrey L. Richey, eds. *Sage Returns, The: Confucian Revival in Contemporary China*. 2015.
+- Hamrin, Carol Lee, and Timothy Cheek. *China’s Establishment Intellectuals*. 2023.
+- Han, Minzhu. *Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*. 2021.
+- Harding, Harry. *China’s Second Revolution: Reform After Mao*. 1987.
+- ———. *Organizing China: The Problem of Bureaucracy, 1949-1976*. 1981.
+- Harrell, Stevan. *Cultural Encounters on China’s Ethnic Frontiers*. 2011.
+- ———. *Ways of Being Ethnic in Southwest China*. 2012.
+- Harris, Rachel. *Soundscapes of Uyghur Islam*. 2020.
+- Harrison, James Pinckney. *The Long March to Power: A History of the Chinese Communist Party, 1921-72*. 1973.
+- Hartford, Kathleen, and Steven M. Goldstein. *Single Sparks: China’s Rural Revolutions*. 1989.
+- Hayes, Anna, and Michael Clarke. *Inside Xinjiang: Space, Place and Power in China’s Muslim Far Northwest*. 2015.
+- Hayes, Jack Patrick. *A Change in Worlds on the Sino-Tibetan Borderlands: Politics, Economies, and Environments in Northern Sichuan*. 2013.
+- Hayhoe, Ruth. ‘China’s Universities since Tiananmen: A Critical Assessment’. *The China Quarterly*, no. 134 (1993): 291–309. [Link](https://www.jstor.org/stable/654303).
+- ———. ‘Political Texts in Chinese Universities Before and After Tiananmen’. *Pacific Affairs* 66, no. 1 (1993): 21–43. [DOI](https://doi.org/10.2307/2760014).
+- He, Henry Yuhuai. *Dictionary of the Political Thought of the People’s Republic of China*. 2016.
+- He, Qiliang. *The People’s West Lake: Propaganda, Nature, and Agency in Mao’s China, 1949–1976*. 2023.
+- He, Rowena Xiaoqing. *Tiananmen Exiles: Voices of the Struggle for Democracy in China*. 2014.
+- Heilmann, Sebastian, Elizabeth J. Perry, and Brill Online, eds. *Mao’s Invisible Hand*. Electronic book. Harvard Contemporary China Series 17. 2011.
+- Heinzig, Dieter. *The Soviet Union and Communist China 1945-1950: The Arduous Road to the Alliance*. 2015.
+- Heng, Liang, and Judith Shapiro. *Son of the Revolution*. 1984.
+- Henriot, Christian. ‘“La Fermeture”: The Abolition of Prostitution in Shanghai, 1949-58’. *The China Quarterly*, no. 142 (1995): 467–86. [Link](https://www.jstor.org/stable/655424).
+- Hershatter, Gail. *Dangerous Pleasures: Prostitution and Modernity in Twentieth-Century Shanghai*. 1997.
+- ———. ‘Making a Friend: Changing Patterns of Courtship in Urban China’. *Pacific Affairs* 57, no. 2 (1984): 237–51. [DOI](https://doi.org/10.2307/2759125).
+- ———. ‘The Gender of Memory: Rural Chinese Women and the 1950s’. *Signs* 28, no. 1 (2002): 43–70. [DOI](https://doi.org/10.1086/340906).
+- ———. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011.
+- ———. *Women and China’s Revolutions*. 2018.
+- ———. *Women in China’s Long Twentieth Century*. 2007.
+- Hess, Christian. ‘Revolutionary Real Estate: Envisioning Space in Communist Dalian’. In *Visualizing China: Image, History and Memory in China, 1750-Present*, 2014.
+- Hessler, Peter. *Oracle Bones: A Journey Through Time in China*. 2009.
+- Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. Electronic book. Sinotheory. 2020.
+- HINKLE, LAWRENCE E., Jr., and HAROLD G. WOLFF. ‘Communist Interrogation and Indoctrination of “Enemies of the States”: Analysis of Methods Used by the Communist State Police (A Special Report)’. *A.M.A. Archives of Neurology & Psychiatry* 76, no. 2 (1 August 1956): 115–74. [DOI](https://doi.org/10.1001/archneurpsyc.1956.02330260001001).
+- Hinton, William. *Fanshen: A Documentary of Revolution in a Chinese Village*. Electronic book. 1997.
+- ———. *Shenfan: The Continuing Revolution in a Chinese Village*. 1984.
+- Hirata, Koji. *Making Mao’s Steelworks: Industrial Manchuria and the Transnational Origins of Chinese Socialism*. 2024.
+- Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017.
+- ———. ‘Revolutionizing Antiquity: The Shanghai Cultural Bureaucracy in the Cultural Revolution, 1966-1968’. *The China Quarterly*, no. 207 (2011): 687–705. [Link](https://www.jstor.org/stable/41305263).
+- Hockx, Michel, Joan Judge, and Barbara Mittler. *Women and the Periodical Press in China’s Long Twentieth Century*. 2018.
+- Hoffmann, Michael. *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*. Electronic book. Dislocations 21. 2018.
+- Hofheinz, Roy. *The Broken Wave: The Chinese Communist Peasant Movement, 1922-1928*. 1977.
+- Holm, David. *Art and Ideology in Revolutionary China*. 1991.
+- Holubnychy, Vsevolod. ‘Mao Tse-Tung’s Materialistic Dialectics’. *The China Quarterly*, no. 19 (1964): 3–37. [Link](https://www.jstor.org/stable/651500).
+- ‘Home | Mao Era in Objects’. Accessed 2 April 2024. [Link](https://maoeraobjects.ac.uk/).
+- Hong, Yanbi. *Between Sacred and Secular Knowledge: Rationalities and Education of a Muslim Village in Northwest China*. 2021.
+- Honig, Emily. *Creating Chinese Ethnicity: Subei People in Shanghai, 1850-1980*. 1992.
+- ———. ‘Maoist Mappings of Gender: Reassessing the Red Guards’. In *Chinese Femininities/Chinese Masculinities: A Reader*, edited by Susan Brownell, Jeffrey N. Wasserstrom, and Thomas Laqueur, 255–68. 2002. [DOI](https://doi.org/10.1525/9780520935303-017).
+- ———. ‘Socialist Sex: The Cultural Revolution Revisited’. *Modern China* 29, no. 2 (1 April 2003): 143–75. [Link](http://www.jstor.org/stable/3181306).
+- Honig, Emily, and Gail Hershatter. *Personal Voices: Chinese Women in the 1980’s*. 1988.
+- Honig, Emily, and Xiaojian Zhao. *Across the Great Divide: The Sent-down Youth Movement in Mao’s China, 1968-1980*. Electronic book. Cambridge Studies in the History of the People’s Republic of China. 2019.
+- Hooper, Beverley. *China Stands Up: Ending the Western Presence, 1948-1950*. 1986.
+- ———. *Foreigners Under Mao: Western Lives in China, 1949-1976*. 2016.
+- Hou, Xiaojia. *Negotiating Socialism in Rural China: Mao, Peasants, and Local Cadres, in Shanxi, 1949-1953*. 2016.
+- Howard, Joshua H. *Workers at War: Labor in China’s Arsenals, 1937-1953*. 2004.
+- Hsiao, Tso-liang. *Power Relations Within the Chinese Communist Movement, 1930-34*. 1961.
+- Hsiung, James Chieh. *China’s Bitter Victory: The War With Japan, 1937-1945*. 1992.
+- ———. *Ideology and Practice: The Evolution of Chinese Communism*. 1972.
+- Hu Chiao-Mu. *Thirty Years of the Communist Party of China: An Outline History*, 1951. [Link](http://archive.org/details/30yearsofthecpchuchiaomu1951).
+- Hu, Chi-hsi. ‘The Sexual Revolution in the Kiangsi Soviet’. *The China Quarterly* 59 (September 1974): 477–90.
+- Hua, Gao. *How the Red Sun Rose: The Origin and Development of the Yan’an Rectification Movement, 1930–1945*. 2018.
+- Hua, Yu. *China in Ten Words: Essays*. 2012.
+- Huang, Jing. *Factionalism in Chinese Communist Politics*. Electronic book. Cambridge Modern China Series. 2000.
+- Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985.
+- Huang, Philip C., Lynda Schaefer Bell, and Kathy Le Mons Walker. *Chinese Communists and Rural Society, 1927-1934*. 1978.
+- Huang, Philip C. C. ‘Mao Tse-Tung and the Middle Peasants, 1925-1928’. *Modern China* 1, no. 3 (1975): 271–96. [Link](https://www.jstor.org/stable/188998).
+- ———. ‘Rural Class Struggle in the Chinese Revolution: Representational and Objective Realities from the Land Reform to the Cultural Revolution’. *Modern China* 21, no. 1 (1 January 1995): 105–43. [DOI](https://doi.org/10.2307/189284).
+- Hui, Wang, and Rebecca Karl. *The End of the Revolution: China and the Limits of Modernity*. 2011.
+- Hung, Chang-tai. *Going to the People: Chinese Intellectuals and Folk Literature, 1918-1937*. 1985.
+- ———. *Mao’s New World: Political Culture in the Early People’s Republic*. Electronic book. 2011. [Link](http://library.st-andrews.ac.uk/record=b3076481~S5).
+- ———. ‘The Anti—Unity Sect Campaign and Mass Mobilization in the Early People’s Republic of China’. *The China Quarterly*, no. 202 (2010): 400–420. [Link](https://www.jstor.org/stable/20749385).
+- ———. *War and Popular Culture: Resistance in Modern China, 1937-1945*. 1994. [Link](http://ark.cdlib.org/ark:/13030/ft829008m5/).
+- Hung, Eva P. W., and Stephen W. K. Chiu. ‘The Lost Generation: Life Course Dynamics and Xiagang in China’. *Modern China* 29, no. 2 (2003): 204–36. [Link](https://www.jstor.org/stable/3181308).
+- Hung, Wu. *Remaking Beijing: Tiananmen Square and the Creation of a Political Space*. 2005.
+- Hunter, Neale. *Shanghai Journal: An Eyewitness Account of the Cultural Revolution*. 1988.
+- Hutchings, graham. *China 1949: Year of Revolution*. Electronic book. First edition. 2021.
+- III, Lynn T. White. *Policies of Chaos: The Organizational Causes of Violence in China’s Cultural Revolution*. 1991.
+- Ingalls, Jeremy, Allen John Wittenborn, and Zedong Mao. *Dragon in Ambush: The Art of War in the Poems of Mao Zedong*. 2013.
+- Ishikawa, Yoshihiro, and Joshua A Fogel. *The Formation of the Chinese Communist Party*. 2013.
+- Israel, John. *Lianda: A Chinese University in War and Revolution*. 1998.
+- Jacobs, Dan Norman. *Borodin: Stalin’s Man in China*. 1981.
+- Jacobs, Justin M. ‘Exile Island: Xinjiang Refugees and the “One China” Policy in Nationalist Taiwan, 1949–1971’. *Journal of Cold War Studies* 18, no. 1 (2016): 188–218. [Link](https://muse.jhu.edu/pub/6/article/612011).
+- ———. *Xinjiang and the Modern Chinese State*. 2016.
+- James DeMare, Brian. ‘Casting (Off) Their Stinking Airs: Chinese Intellectuals and Land Reform, 1946–52’. *The China Journal*, no. 67 (2012): 109–30. [DOI](https://doi.org/10.1086/665742).
+- Javed, Jeffrey Arshad. *Righteous Revolutionaries: Morality, Mobilization, and Violence in the Making of the Chinese State*. Electronic book. China Understandings Today. 2022.
+- Jersild, Austin. *The Sino-Soviet Alliance: An International History*. 2014.
+- Jian, Chen. *China’s Road to the Korean War: The Making of the Sino-American Confrontation*. 1995.
+- Jian, Guo, Yongyi Song, and Yuan Zhou. *Historical Dictionary of the Chinese Cultural Revolution*. 2015.
+- ‘Jiang Qing Critiques Feature Films’. Accessed 15 September 2024. [Link](http://morningsun.org/smash/jq_films.html#).
+- Jin, Qiu. *The Culture of Power: The Lin Biao Incident in the Cultural Revolution*. 1999.
+- Jing, Jun. *The Temple of Memories: History, Power, and Morality in a Chinese Village*. 1996.
+- Jocelyn, Ed, and Andrew McEwen. *The Long March: The True Story Behind the Legendary Journey That Made Mao’s China*. 2006.
+- Joffe, Ellis. *The Chinese Army After Mao*. 1987.
+- Johnson, Chalmers. *Peasant Nationalism and Communist Power: The Emergence of Revolutionary China, 1937-1945*. 1st ed. 1962.
+- Johnson, Ian. *The Souls of China: The Return of Religion After Mao*. 2017.
+- Johnson, Kay Ann. *Women, the Family, and Peasant Revolution in China*. 2009.
+- Johnson, Matthew D. ‘Foundations of Theory in PRC History: Mass Communications Research, Political Culture, and the Values Paradigm’. *Positions: Asia Critique* 29, no. 4 (2021): 835–68. [Link](https://muse.jhu.edu/pub/4/article/820436).
+- Jones, Stephen. ‘Chinese Ritual Music under Mao and Deng’. *British Journal of Ethnomusicology* 8 (1999): 27–66. [Link](https://www.jstor.org/stable/3060851).
+- Jordan, David K., and Daniel L. Overmyer. *The Flying Phoenix: Aspects of Chinese Sectarianism in Taiwan*. Electronic book. Course Book. Princeton Legacy Library 390. 2014.
+- Joseph, William A., Christine P. W. Wong, and David Zweig. *New Perspectives on the Cultural Revolution*. 2020.
+- Jowett, Philip. *China and Japan at War, 1937–1945: Rare Photographs from Wartime Archives*. 2016.
+- Judd, Ellen R. *Gender and Power in Rural North China*. 1994.
+- Kampen, Thomas. *Mao Zedong, Zhou Enlai and the Evolution of the Chinese Communist Leadership*. 2000.
+- Kang, Xiaofei, and Donald Sutton. *Contesting the Yellow Dragon: Ethnicity, Religion, and the State in the Sino-Tibetan Borderland*. Electronic book. Religion in Chinese Societies, v. 10. 2016.
+- Karl, Rebecca E. *Mao Zedong and China in the Twentieth-Century World: A Concise History*. 2010.
+- ———. ‘Translation, Modernity, and Women in China’. *Critical Asian Studies* 33, no. 3 (2001): 459–72.
+- Kataoka, Tetsuya. *Resistance and Revolution in China: The Communists and the Second United Front*. 1974.
+- Keating, Pauline. ‘The Yan’an Way of Co-Operativization’. *The China Quarterly*, no. 140 (1994): 1025–51. [Link](https://www.jstor.org/stable/655193).
+- Keating, Pauline B. *Two Revolutions: Village Reconstruction and the Cooperative Movement in Northern Shaanxi, 1934-1945*. 1997.
+- Khétsun, Tubten, and Matthew Akester. *Memories of Life in Lhasa Under Chinese Rule*. Electronic book. 2007.
+- Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014.
+- Kim, Hyung-Chan. ‘Some Thoughts on Mao Tse-Tung’s Views of Man, Society and Human Knowledge’. *Journal of Thought* 7, no. 2 (1972): 77–84. [Link](https://www.jstor.org/stable/42590041).
+- Kim, Ilpyong J. *The Politics of Chinese Communism: Kiangsi under the Soviets*. 1973.
+- King, Richard, ed. *Heroes of China’s Great Leap Forward: Two Stories*. Electronic book. 2010.
+- ———. *Milestones on a Golden Road: Writing for Chinese Socialism, 1945-80*. 2013.
+- Kinkley, Jeffrey. *Visions of Dystopia in China’s New Historical Novels*. Electronic book. 2014.
+- Kipnis, Andrew B. *Producing Guanxi: Sentiment, Self, and Subculture in a North China Village*. 1997.
+- Kluver, Randolph. ‘Rhetorical Trajectories of Tiananmen Square’. *Diplomatic History* 34, no. 1 (2010): 71–94. [Link](https://www.jstor.org/stable/24916034).
+- Knight, Nicholas James. ‘Mao and History: An Interpretive Essay on Some Problems in Mao Zedong’s Philosophy of History’. 1992.
+- Knight, Nick. ‘Contemporary Chinese Marxism and the Marxist Tradition: Globalisation, Socialism and the Search for Ideological Coherence’. *Asian Studies Review* 30, no. 1 (1 March 2006): 19–39. [DOI](https://doi.org/10.1080/10357820500537039).
+- ———. ‘Herman Gorter and the Origins of Marxism in China’. *China Information* 19, no. 3 (1 November 2005): 381–412. [DOI](https://doi.org/10.1177/0920203X05058504).
+- ———. *Li Da And Marxist Philosophy In China*. 2018.
+- ———, ed. *Mao Zedong on Dialecitcal Materialism: Writings on Philosophy, 1937*. 1990.
+- ———. ‘Mao ZeDong’s On Contradiction and On Practice: Pre-Liberation Texts’. *The China Quarterly* 84 (December 1980): 641–68. [DOI](https://doi.org/10.1017/S0305741000012595).
+- ———. *Marxist Philosophy in China: From Qu Qiubai to Mao Zedong, 1923-1945*. Electronic book. 2005.
+- ———. *Philosophy and Politics in Mao Texts of the Yan’an Period*. 1988.
+- ———. *Rethinking Mao: Explorations in Mao Zedong’s Thought*. 2007.
+- ———. ‘Review Essay: Mao Zedong’s Thought and Chinese Marxism—Recent Documents and Interpretations’. *Bulletin of Concerned Asian Scholars* 25, no. 2 (1 June 1993): 54–63. [DOI](https://doi.org/10.1080/14672715.1993.10416117).
+- ———. ‘The Form of Mao Zedong’s `Sinificant of Marxism’’. *The Australian Journal of Chinese Affairs*, no. 9 (1983): 17–33. [DOI](https://doi.org/10.2307/2159087).
+- ———. *The Political Thought of Mao Zedong: Studies from China, 1981-1989*. 1992.
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.
+- Köll, Elisabeth. *From Cotton Mill to Business Empire: The Emergence of Regional Enterprises in Modern China*. 2020.
+- Kraus, Richard Curt. *Class Conflict in Chinese Socialism*. Electronic book. Studies of the East Asian Institute. 1981.
+- Kueh, Y. Y. *Agricultural Instability in China, 1931-1990: Weather, Technology, and Institutions*. 1995.
+- Kuhn, Robert Lawrence. *The Man Who Changed China: The Life and Legacy of Jiang Zemin*. 2004.
+- Kuisong, Yang. *Eight Outcasts: Social and Political Marginalization in China under Mao*. Electronic book. 2021.
+- ———. ‘Reconsidering the Campaign to Suppress Counterrevolutionaries’. *The China Quarterly*, no. 193 (2008): 102–21. [Link](https://www.jstor.org/stable/20192166).
+- Kunze, Rui, and Marc Andre Matten. *Knowledge Production in Mao-Era China: Learning from the Masses*. 2021.
+- Kwan, Daniel Y. K. *Marxist Intellectuals and the Chinese Labor Movement: A Study of Deng Zhongxia (1894-1933)*. 1997.
+- LaCouture, Elizabeth. *Dwelling in the World: Family, House, and Home in Tianjin, China, 1860–1960*. 2021.
+- Ladany, Laszlo. *Law and Legality in China: The Testament of a China-Watcher*. 1992.
+- ———. *The Communist Party of China and Marxism, 1921-1985: A Self-Portrait*. 2018.
+- Lai, Sherman Xiaogang. *A Springboard to Victory: Shandong Province and Chinese Communist Military and Financial Strength, 1937-1945*. China Studies, v. 19. 2011.
+- Laikwan, Pang. *The Art of Cloning: Creative Production During China’s Cultural Revolution*. 2017.
+- Lampton, David M. *The Politics of Medicine in China: The Policy Process 1949-1977*. 2019.
+- Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017.
+- Lary, Diana. *China’s Civil War: A Social History, 1945-1949*. Electronic book. New Approaches to Asian History 13. 2015.
+- Lary, Diana, and Stephen MacKinnon. *Scars of War: The Impact of Warfare on Modern China*. 2011.
+- Law, K. *The Chinese Cultural Revolution Reconsidered: Beyond Purge and Holocaust*. 2003.
+- Le Han, Eileen. *Micro-Blogging Memories: Weibo and Collective Remembering in Contemporary China*. Electronic book. 2016.
+- Lee, Chae-Jin. *China’s Korean Minority: The Politics of Ethnic Education*. 1986.
+- Lee, Ching Kwan. *Against the Law: Labor Protests in China’s Rustbelt and Sunbelt*. 2007.
+- Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. Electronic book. China : From Revolution to Reform 4. 2021.
+- Lee, Haiyan. *Revolution of the Heart: A Genealogy of Love in China, 1900-1950*. 2010.
+- Lee, Hong Yung. *The Politics of the Chinese Cultural Revolution: A Case Study*. 1980.
+- Lee, James Zhongzi. ‘Central-Local Political Relationships in Post-Mao China: A Study of Recruitment Policy Implementation in Wuhan’. Ph.D., 1993. [Link](http://search.proquest.com/dissertations/docview/304057582/abstract/6FC95620B1B7432FPQ/13).
+- Lee, Jennifer Dorothy. *Anxiety Aesthetics: Maoist Legacies in China, 1978–1985*. 2024.
+- Lee, Nelson K. ‘How Is a Political Public Space Made? – The Birth of Tiananmen Square and the May Fourth Movement’. *Political Geography* 28, no. 1 (1 January 2009): 32–43. [DOI](https://doi.org/10.1016/j.polgeo.2008.05.003).
+- Leese, Daniel. *Mao Cult: Rhetoric and Ritual in China’s Cultural Revolution*. Cambridge Books Online. 2011.
+- Leibold, J. *Reconfiguring Chinese Nationalism: How the Qing Frontier and Its Indigenes Became Chinese*. 2016.
+- Lescot, Patrick. *Before Mao: The Untold Story of Li Lisan and the Creation of Communist China*. 2005.
+- Levine, Marilyn Avra. *The Found Generation: Chinese Communists in Europe During the Twenties*. 1993.
+- Levine, Steven I. *Anvil of Victory: The Communist Revolution in Manchuria 1945-1948*. 1987.
+- Levy, Jr Marion J. *The Family Revolution in Modern China*. 2014.
+- Lewis, James R. *Falun Gong: Spiritual Warfare and Martyrdom*. Electronicbook. Elements in Religion and Violence. 2018.
+- Leys, Simon. *The Chairman’s New Clothes: Mao and the Cultural Revolution*. 1981.
+- Li, Fangchun. ‘Mass Democracy, Class Struggle, and Remolding the Party and Government during the Land Reform Movement in North China’. *Modern China* 38, no. 4 (2012): 411–45. [Link](https://www.jstor.org/stable/23216954).
+- Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. 2013.
+- ———. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009.
+- ———. *Village Governance in North China: 1875-1936*. 2005.
+- Li, Hua-Yu. *Mao and the Economic Stalinization of China, 1948–1953*. 2006.
+- Li, Jie. ‘Revolutionary Echoes: Radios and Loudspeakers in the Mao Era’. *Twentieth-Century China* 45, no. 1 (2020): 25–45. [Link](https://muse.jhu.edu/pub/1/article/746155).
+- ———. *Utopian Ruins: A Memorial Museum of the Mao Era*. Electronic book. Sinotheory. 2020.
+- Li, Jie, and Enhua Zhang. *Red Legacies in China: Cultural Afterlives of the Communist Revolution*. 2016.
+- Li, Jie, Enhua Zhang, and Brill Online, eds. *Red Legacies in China: Cultural Afterlives of the Communist Revolution*. Electronic book. Harvard Contemporary China Series 18. 2016.
+- Li, Lillian M. *Fighting Famine in North China: State, Market, and Environmental Decline, 1690s-1990s*. 2007.
+- Li, Lu. *Moving the Mountain: My Life in China from the Cultural Revolution to Tiananmen Square*. 1990.
+- Li, Rui. *The Early Revolutionary Activities of Comrade Mao Tse-Tung*. 1977.
+- Li, Xiaobing. *The Dragon in the Jungle: The Chinese Army in the Vietnam War*. 2020.
+- Li, Xiaobing, Allan Reed Millett, and Bin Yu. *Mao’s Generals Remember Korea*. 2001.
+- ‘Liang Shuming and Mao Zedong’. *Chinese Studies in History* 34, no. 1 (1 October 2000): 61–92. [DOI](https://doi.org/10.2753/CSH0009-4633340161).
+- Lieberthal, Kenneth. *Governing China: From Revolution Through Reform*. 2004.
+- ———. *Revolution and Tradition in Tientsin, 1949-1952*. 1980.
+- Lifton, Robert Jay. *Thought Reform and the Psychology of Totalism: A Study of ‘brainwashing’ in China*. 2012.
+- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. Electronic book. 2014.
+- Lin, Chun. *The Transformation of Chinese Socialism*. 2006.
+- Ling, Chai. *A Heart for Freedom: The Remarkable Journey of a Young Dissident, Her Daring Escape, and Her Quest to Free China’s Daughters*. 2011.
+- Ling, Minhua. ‘“Bad Students Go to Vocational Schools!”: Education, Social Reproduction and Migrant Youth in Urban China’. *The China Journal* 73 (January 2015): 108–31. [DOI](https://doi.org/10.1086/679271).
+- Link, E. Perry, ed. *Stubborn Weeds: Popular and Controversial Chinese Literature After the Cultural Revolution*. Electronic book. Chinese Literature in Translation. 1983.
+- Link, E. Perry, Richard Madsen, and Paul Pickowicz, eds. *Unofficial China: Popular Culture and Thought in the People’s Republic*. 1989.
+- Link, Perry. ‘June 4th: Memory and Ethics’. *China Perspectives* 2009, no. 2 (1 June 2009): 4–16. [DOI](https://doi.org/10.4000/chinaperspectives.4797).
+- ———. *The Uses of Literature: Life in the Socialist Chinese Literary System*. Electronic book. 2022.
+- Link, Perry, Richard P. Madsen, and Paul G. Pickowicz, eds. *Restless China*. 2013.
+- Linton, Suzannah. ‘Rediscovering the War Crimes Trials in Hong Kong, 1946–48’, 2012. [Link](https://papers.ssrn.com/abstract=2140328).
+- Lipman, Jonathan N. *Familiar Strangers: A History of Muslims in Northwest China*. 2011.
+- Liu, Alan P. L. *Political Culture & Group Conflict in Communist China*. 1976.
+- Liu, Binyan. *A Higher Kind of Loyalty: A Memoir by China’s Foremost Journalist*. 1990.
+- Liu, Liyan. ‘The Man Who Molded Mao: Yang Changji and the First Generation of Chinese Communists’. *Modern China* 32, no. 4 (2006): 483–512. [Link](https://www.jstor.org/stable/20062651).
+- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. 2013.
+- Liu, Xiaoyuan. *To the End of Revolution: The Chinese Communist Party and Tibet, 1949–1959*. Electronic book. 2020.
+- Liu, Yonghua. *Confucian Rituals and Chinese Villagers: Ritual Change and Social Transformation in a Southeastern Chinese Community, 1368-1949*. 2013.
+- Lizhi, Fang. *The Most Wanted Man in China: My Journey from Scientist to Enemy of the State*. 2016.
+- Lo, Carlos Wing-hung. *China’s Legal Awakening: Legal Theory and Criminal Justice in Deng’s Era*. 1995.
+- Loh, Christine. *Underground Front: The Chinese Communist Party in Hong Kong, Second Edition*. 2018.
+- Loh, Robert, and Humphrey Evans. *Escape from Red China*. 1962.
+- Louie, Kam. *Chinese Masculinities in a Globalizing World*. 2014.
+- Louie, Kam, and Professor Kam Louie. *Theorising Chinese Masculinity: Society and Gender in China*. 2002.
+- Louie, Kam, and Morris Low. *Asian Masculinities: The Meaning and Practice of Manhood in China and Japan*. 2005.
+- Lu, Duanfang. *Remaking Chinese Urban Form: Modernity, Scarcity and Space, 1949-2005*. Planning, History, and Environment Series. 2011.
+- Lu, Hanchao. ‘Shanghai Flora: The Politics of Urban Greening in Maoist China’. *Urban History* 45, no. 4 (November 2018): 660–81. [DOI](https://doi.org/10.1017/S0963926817000396).
+- Lü, Xiaobo. *Cadres and Corruption: The Organizational Involution of the Chinese Communist Party*. 2000.
+- Lu, Xing. *Rhetoric of the Chinese Cultural Revolution: The Impact on Chinese Thought, Culture, and Communication*. 2020.
+- ———. *The Rhetoric of Mao Zedong: Transforming China and Its People*. 2017.
+- Lu, Xun, and Julia Lovell. *The Real Story of Ah-Q and Other Tales of China: The Complete Fiction of Lu Xun*. Penguin Classics. 2009.
+- Lubman, Stanley. ‘Mao and Mediation: Politics and Dispute Resolution in Communist China’. *California Law Review* 55, no. 5 (1967): 1284–1359. [DOI](https://doi.org/10.2307/3479330).
+- Lubman, Stanley B. *Bird in a Cage: Legal Reform in China After Mao*. 1999.
+- Lüthi, Lorenz M. *The Sino-Soviet Split: Cold War in the Communist World*. 2010. [Link](http://library.st-andrews.ac.uk/record=b3083486~S5).
+- Lynteris, C. *The Spirit of Selflessness in Maoist China: Socialist Medicine and the New Man*. 2012.
+- Ma, Li, and Jin Li. *Surviving the State, Remaking the Church: A Sociological Portrait of Christians in Mainland China*. 2017.
+- Ma, Shaoling. *The Stone and the Wireless: Mediating China, 1861–1906*. Electronic book. Sign, Storage, Transmission. 2021.
+- MacCarthy (Sir), Desmond. *Brain-Washing in Red China: The Calculated Destruction of Men’s Minds*, 1951.
+- Macdonald, Angus. *The Urban Origins of Rural Revolution in Hunan*, 1974.
+- MacFarquhar, Roderick. *The Hundred Flowers Campaign and the Chinese Intellectuals*. 1960.
+- ———. *The Origins of the Cultural Revolution 3 Vols.*. 1999.
+- MacFarquhar, Roderick, and John K. Fairbank, eds. *The Cambridge History of China: Volume 15: The People’s Republic*. Vol. 15. The Cambridge History of China. 1991. [DOI](https://doi.org/10.1017/CHOL9780521243377).
+- MacFarquhar, Roderick, and Michael Schoenhals. *Mao’s Last Revolution*. 2008.
+- ———. ‘The Wuhan Incident’. In *Mao’s Last Revolution*. 2008.
+- MacFarquhar, Roderick, Eugene Wu, and Timothy Cheek, eds. *The Secret Speeches of Chairman Mao*. 2020.
+- MacKinnon, Stephen R. *China at War: Regions of China, 1937-1945*. 2007.
+- Madsen, Richard. *Morality and Power in a Chinese Village*. 1984.
+- ———. ‘The Countryside Under Communism’. In *The Cambridge History of China: Volume 15: The People’s Republic*, edited by John K. Fairbank and Roderick MacFarquhar, 15:617–81. The Cambridge History of China. 1991. [DOI](https://doi.org/10.1017/CHOL9780521243377.010).
+- Makeham, J. *New Confucianism: A Critical Examination*. 2003.
+- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011.
+- Manning, Kimberley Ens. ‘Making a Great Leap Forward? The Politics of Women’s Liberation in Maoist China’. *Gender & History* 18, no. 3 (2006): 574–93. [DOI](https://doi.org/10.1111/j.1468-0424.2006.00456.x).
+- Manning, Kimberley Ens, and Felix Wemheuer. *Eating Bitterness: New Perspectives on China’s Great Leap Forward and Famine*. 2011.
+- Mao, Sheng. ‘More Than a Famine: Mass Exodus of 1962 in Northwest Xinjiang’. *China Review* 18, no. 2 (2018): 155–83. [Link](https://muse.jhu.edu/pub/250/article/696532).
+- Mao, Tse-tung. *Quotations from Chairman Mao-Tse-Tung*. Edited by Stuart R. Schram. 1967.
+- Mao, Zedong. *Mao Tse-Tung Unrehearsed: Talks and Letters, 1956-71*. 1974.
+- ———. *Mao’s Road to Power: Revolutionary Writings 1912-1949*. Edited by Stuart R Schram. 1992.
+- ———. *Miscellany of Mao Tse-Tung Thought (1949-1968)*. 1974.
+- ———. *Report from Xunwu*. 1990.
+- Mao, Zedong, and Stuart R. Schram. *The Political Thought of Mao Tsê-Tung*. Enlarged and Revised ed. Pelican Books. 1969.
+- Margolies, David, Qing Cao, Knowledge Unlatched (Firm), and Open Research Library, eds. *Utopia and Modernity in China: Contradictions in Transition*. Electronic book. 2022.
+- Mark, Chi-Kwan. ‘The “Problem of People”: British Colonials, Cold War Powers, and the Chinese Refugees in Hong Kong, 1949-62’. *Modern Asian Studies* 41, no. 6 (2007): 1145–81. [Link](https://www.jstor.org/stable/4499816).
+- Mark, Chi-kwan, and Lecturer in Twentieth-Century International History Chi-Kwan Mark. *Hong Kong and the Cold War: Anglo-American Relations 1949-1957*. 2004.
+- Marks, Robert. *Rural Revolution in South China: Peasants and the Making of History in Haifeng County, 1570-1930*. 1984.
+- Martin, Edwin W. *Divided Counsel: The Anglo-American Response to Communist Victory in China*. 2021.
+- Martin, Helmut. *Cult & Canon: The Origins and Development of State Maoism*. 1982.
+- Mazur, Mary G. *Wu Han, Historian: Son of China’s Times*. 1955.
+- McLaren, Anne E. ‘Performing Grief: Bridal Laments in Rural China’. Electronic book. 2008.
+- Meisner, Maurice. ‘Mao and Marx in the Scholastic Tradition’. *Modern China* 3, no. 4 (1977): 401–6. [Link](https://www.jstor.org/stable/188821).
+- ———. *Mao’s China and After: A History of the People’s Republic*. 1999.
+- Meisner, Maurice J. *Li Ta-Chao and the Origins of Chinese Marxism*. 1970.
+- ———. *The Deng Xiaoping Era: An Inquiry Into the Fate of Chinese Socialism, 1978-1994*. 1996.
+- Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014.
+- Meyer, Mahlon. *Remembering China from Taiwan: Divided Families and Bittersweet Reunions After the Chinese Civil War*. 2012.
+- Meyskens, Covell F. *Mao’s Third Front: The Militarization of Cold War China*. Electronic book. 2020.
+- Miles, James A. R. *The Legacy of Tiananmen: China in Disarray*. 1996.
+- Millward, James A. *Eurasian Crossroads: A History of Xinjiang*. 2021.
+- Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China*. 2000.
+- Mittler, Barbara. *A Continuous Revolution: Making Sense of Cultural Revolution Culture*. 2013.
+- Moïse, Edwin E. *Land Reform in China and North Vietnam: Consolidating the Revolution at the Village Level*. 2017.
+- Molony, Barbara. *Gender in Modern East Asia*. 2018.
+- Moreau, Theresa Marie. *Blood of the Martyrs: Trappist Monks in Communist China*. 2013.
+- ‘Morning Sun | Library’. Accessed 15 September 2024. [Link](http://morningsun.org/library/index.html).
+- Moser, Michael J., and Yeone Wei-chih Moser. *Foreigners Within the Gates: The Legations at Peking*. 1993.
+- Mullaney, Thomas. *Coming to Terms with the Nation: Ethnic Classification in Modern China*. 2010.
+- Munro, Robin. *China’s Psychiatric Inquisition: Dissent, Psychiatry, and the Law in Post-1949 China*. 2006.
+- Murray, Jeremy A. *China’s Lonely Revolution: The Local Communist Movement of Hainan Island, 1926-1956*. 2017.
+- Nathan, Andrew J. *Chinese Democracy*. 1986.
+- ———. ‘The Tiananmen Papers: An Editor’s Reflections’. *The China Quarterly* 167 (September 2001): 724–37. [DOI](https://doi.org/10.1017/S0009443901000407).
+- Nedostup, Rebecca. *Superstitious Regimes: Religion and the Politics of Chinese Modernity*. Electronic book. Harvard East Asian Monographs 322. 2010.
+- Nianzhong, Ou, Liang Yongkang, and Laura Maynard. *Mao’s Lost Children: Stories of the Rusticated Youth of China’s Cultural Revolution*. 2015.
+- Nien, Cheng. *Life and Death in Shanghai*. 2010.
+- NING, LOU. *Chinese Democracy and the Crisis of 1989: Chinese and American Reflections*. 1993.
+- Noellert, Matthew. *Power over Property: The Political Economy of Communist Land Reform in China*. 2021.
+- Nulo, Naktsang. *My Tibetan Childhood: When Ice Shattered Stone*. 2014.
+- Ogden, Suzanne, Kathleen Hartford, Nancy Sullivan, and David Zweig. *China’s Search for Democracy: The Students and Mass Movement of 1989: The Students and Mass Movement of 1989*. 2016.
+- Oi, Jean C. *State and Peasant in Contemporary China: The Political Economy of Village Government*. 1991.
+- Oksenberg, Michel, Carl Riskin, and Ezra F. Vogel. *The Cultural Revolution: 1967 in Review*. 2021.
+- Oksenberg, Michel, Lawrence R. Sullivan, and Marc Lambert. *Beijing Spring, 1989: Confrontation and Conflict: The Basic Documents*. 1990.
+- Ono, Kazuko, and Joshua A Fogel. *Chinese Women in a Century of Revolution, 1850-1950*. 1989.
+- Opper, Marc. ‘The Chinese Soviet Republic, 1931–1934’. In *People’s Wars in China, Malaya, and Vietnam*, 35–64. 2020. [Link](https://www.jstor.org/stable/10.3998/mpub.11413902.8).
+- Ouyang, Lei X. *Music as Mao’s Weapon: Remembering the Cultural Revolution*. 2022.
+- Ownby, David. *Falun Gong and the Future of China*. Electronic book. Oxford Scholarship Online. 2008.
+- ———. ‘Imperial Fantasies: The Chinese Communists and Peasant Rebellions’. *Comparative Studies in Society and History* 43, no. 1 (2001): 65–91. [Link](https://www.jstor.org/stable/2696622).
+- Pan, Philip, and Philip P. Pan. *Out of Mao’s Shadow: The Struggle for the Soul of a New China*. 2009.
+- Pang, Laikwan. *The Art of Cloning: Creative Production During China’s Cultural Revolution*. 2017.
+- Pang, Laikwan, Paul Clark, and Tsan-Huang Tsai. *Listening to China’s Cultural Revolution: Music, Politics, and Cultural Continuities*. 2016.
+- Peck, Graham. *Two Kinds of Time*. 2018.
+- Pepper, Suzanne. *China’s Education Reform in the 1980s: Policies, Issues, and Historical Perspectives*. 1990.
+- ———. *Civil War in China: The Political Struggle, 1945-1949*. 2nd ed. 1999.
+- ———. *Radicalism and Education Reform in 20th-Century China: The Search for an Ideal Development Model*. 1996. [Link](http://library.st-andrews.ac.uk/record=b3055014~S5).
+- Perry, Elizabeth. ‘Moving the Masses: Emotion Work in the Chinese Revolution’. *Mobilization* 7, no. 2 (2002): 111–28.
+- ———. *Proletarian Power: Shanghai In The Cultural Revolution*. 2018.
+- Perry, Elizabeth J. *Anyuan: Mining China’s Revolutionary Tradition*. 2012.
+- ———. ‘Reclaiming the Chinese Revolution’. *The Journal of Asian Studies* 67, no. 4 (2008): 1147–64. [Link](https://www.jstor.org/stable/20203481).
+- ———. *Shanghai on Strike: The Politics of Chinese Labor*. 1995.
+- ———. ‘Shanghai’s Strike Wave of 1957’. *The China Quarterly*, no. 137 (1994): 1–27. [Link](https://www.jstor.org/stable/655685).
+- ———. ‘The Populist Dream of Chinese Democracy’. *The Journal of Asian Studies* 74, no. 4 (2015): 903–15. [Link](https://www.jstor.org/stable/24738563).
+- Perry, Samuel. *Recasting Red Culture in Proletarian Japan: Childhood, Korea, and the Historical Avant-Garde*. Electronic book. 2014.
+- Peterson, Glen. ‘House Divided: Transnational Families in the Early Years of the People’s Republic of China’. *Asian Studies Review* 31, no. 1 (1 March 2007): 25–40. [DOI](https://doi.org/10.1080/10357820701196676).
+- ———. *The Power of Words: Literacy and Revolution in South China, 1949-95*. Electronic book. Contemporary Chinese Studies. 1997. [Link](http://library.st-andrews.ac.uk/record=b3266376~S5).
+- ———. *The Power of Words: Literacy and Revolution in South China, 1949-95*. 2011.
+- Pickowicz, Paul. *Dilemmas of Victory: The Early Years of the People’s Republic of China*. 2007. [Link](http://library.st-andrews.ac.uk/record=b3071732~S5).
+- Pieragastini, Steven. ‘Reform and Closing Up: Thought Reform and the Institutional Reorganization of Shanghai’s Universities’. *Twentieth-Century China* 43, no. 2 (2018): 139–62. [Link](https://muse.jhu.edu/pub/1/article/694217).
+- Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012.
+- Potter, Pitman B. *From Leninist Discipline to Socialist Legalism: Peng Zhen on Law and Political Authority in the PRC*. 2003.
+- Potter, Pitman B., Stanley Lubman, and Association for Asian Studies Meeting. *Domestic Law Reforms in Post-Mao China*. 1994.
+- Potter, Sulamith Heins, and Jack M. Potter. *China’s Peasants: The Anthropology of a Revolution*. Electronic book. 1990.
+- Price, Ruth. *The Lives of Agnes Smedley*. 2005.
+- Qian, Zhenchao, and Randy Hodson. ‘“Sent Down” in China: Stratification Challenged but Not Denied’. *Research in Social Stratification and Mobility* 29, no. 2 (1 June 2011): 205–19. [DOI](https://doi.org/10.1016/j.rssm.2010.08.001).
+- Qing, Dai. *Wang Shiwei and Wild Lilies: Rectification and Purges in the Chinese Communist Party 1942-1944*. 1994.
+- Qing, Jiang. *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*. Edited by Daniel A. Bell and Ruiping Fan. Translated by Edmund Ryden. 2012.
+- ‘Reactions to Executions in Beijing (1951)’. *Contemporary Chinese Thought* 38, no. 3 (1 April 2007): 10–24. [DOI](https://doi.org/10.2753/CSP1097-1467380301).
+- Rene, Helena K. *China’s Sent-Down Generation: Public Administration and the Legacies of Mao’s Rustication Program*. 2013.
+- ‘Rethinking Cultural Revolution Culture’. Accessed 10 September 2024. [Link](https://www.sino.uni-heidelberg.de/conf/propaganda/musik.html).
+- Rittenberg, Sidney, Amanda Bennett, and Mike Wallace. *The Man Who Stayed Behind*. Electronic book. 2001.
+- Roberts, Rosemary A. *Maoist Model Theatre: The Semiotics of Gender and Sexuality in the Chinese Cultural Revolution (1966-1976)*. 2010.
+- Roberts, Rosemary, and Li Li. *The Making and Remaking of China’s “Red Classics”: Politics, Aesthetics, and Mass Culture*. 2017.
+- Roberts, Sean R. *The War on the Uyghurs: China’s Internal Campaign against a Muslim Minority*. Electronic book. Princeton Studies in Muslim Politics 78. 2020.
+- Robinson, Thomas W. ‘The Wuhan Incident: Local Strife and Provincial Rebellion during the Cultural Revolution’. *The China Quarterly*, no. 47 (1971): 413–38. [Link](https://www.jstor.org/stable/652320).
+- Rodriguez, Sarah Mellors. *Reproductive Realities in Modern China: Birth Control and Abortion, 1911–2021*. 2023.
+- Rodríguez-Merino, Pablo A. *Violence, Discourse, and Politics in China’s Uyghur Region: The Terroristization of Xinjiang*. Electronic book. Interventions. 2023.
+- Rooij, Benjamin van. ‘The Campaign Enforcement Style: Chinese Practice in Context and Comparison’. In *Comparative Law and Regulation: Understanding the Global Regulatory Process*, edited by Francesca Bignami and David Zaring. 2016.
+- Rosenbaum, Arthur Lewis. *New Perspectives on Yenching University, 1916-1952: A Liberal Education for a New China*. 2015.
+- Rue, John E. ‘Is Mao Tse-Tung’s “Dialectical Materialism” A Forgery?’ *The Journal of Asian Studies* 26, no. 3 (1967): 464–68. [DOI](https://doi.org/10.2307/2051421).
+- ———. *Mao Tse-Tung in Opposition, 1927-1935*. 1966.
+- Ruf, Gregory A. *Cadres and Kin: Making a Socialist Village in West China,1921-1991*. 1998.
+- Russell, Matthew William. ‘From Imperial Soldier to Communist General: The Early Career of Zhu De and His Influence on the Formation of the Chinese Red Army’. Ph.D., 2009. [Link](http://search.proquest.com.ezp-prod1.hul.harvard.edu/pqdtft/docview/304880258/abstract/138ABFA2247481942C5/2?accountid=11311).
+- Saich, Tony. *Governance and Politics of China*. 4th ed. 2015.
+- ———. ‘Introduction: The Chinese Communist Party and the Anti-Japanese War Base Areas’. *The China Quarterly*, no. 140 (1994): 1000–1006. [Link](https://www.jstor.org/stable/655191).
+- Saich, Tony, and Hans J. Van De Ven. *New Perspectives on the Chinese Revolution*. 2015.
+- Saich, Tony, and Benjamin Yang, eds. *The Rise to Power of the Chinese Communist Party: Documents and Analysis*. 2016.
+- Sang, Tze-Lan D. *The Emerging Lesbian: Female Same-Sex Desire in Modern China*. 2003.
+- Sang, Ye. *China Candid: The People on the People’s Republic*. 2006.
+- Sayer, Derek. *The Violence of Abstraction: The Analytic Foundations of Historical Materialism*. 1987.
+- Schell, Orville. *Mandate of Heaven: The Legacy of Tiananmen Square and the Next Generation of China’s Leaders*. 1995.
+- Schluessel, Eric. *The World as Seen from Yarkand: Ghulām Muḥammad Khān’s 1920s Chronicle Mā Tīṭayni[N︠g︡] Wāqiʻasi*. 2014.
+- Schmalzer, Sigrid. *Red Revolution, Green Revolution: Scientific Farming in Socialist China*, 2016.
+- ———. *The People’s Peking Man Popular Science and Human Identity in Twentieth-Century China*. 2008. [Link](http://public.eblib.com/choice/publicfullrecord.aspx?p=432291).
+- Schneider, Axel. ‘Bridging the Gap: Attempts at Constructing a “New” Historical-Cultural Identity in the PRC’. *East Asian History*, no. 22 (December 2001).
+- Schoenhals, Michael. *China’s Cultural Revolution, 1966-1969: Not a Dinner Party*. 1996.
+- ———. ‘Demonising Discourse in Mao Zedong’s China: People vs Non‐People’. *Totalitarian Movements and Political Religions* 8, no. 3–4 (1 September 2007): 465–82. [DOI](https://doi.org/10.1080/14690760701571114).
+- ———. *Doing Things with Words in Chinese Politics: Five Studies*. 1992.
+- ———. ‘Original Contradictions--on the Unrevised Text of Mao Zedong’s `On the Correct Handling of Contradictions Among the People’’. *The Australian Journal of Chinese Affairs*, no. 16 (1986): 99–112. [DOI](https://doi.org/10.2307/2158777).
+- ———. ‘“Why Don’t We Arm the Left?” Mao’s Culpability for the Cultural Revolution’s “Great Chaos” of 1967’. *The China Quarterly* 182 (June 2005): 277–300. [DOI](https://doi.org/10.1017/S0305741005000196).
+- Schoppa, R. Keith. *Blood Road: The Mystery of Shen Dingyi in Revolutionary China*. Electronic book. 1995. [Link](http://library.st-andrews.ac.uk/record=b1941997~S5).
+- Schram, Stuart, ed. *Chairman Mao Talks to the People: Talks and Letters: 1956-1971*. 1974.
+- Schram, Stuart R. ‘A Review Article: Mao Tse-Tung as Marxist Dialectician’. Edited by Arthur A. Cohen. *The China Quarterly*, no. 29 (1967): 155–65. [Link](https://www.jstor.org/stable/651592).
+- ———. *Authority Participation and Cultural Change in China: Essays by a European Study Group*. 1973.
+- ———. ‘Mao Tse-Tung and Secret Societies’. *The China Quarterly*, no. 27 (1966): 1–13. [Link](https://www.jstor.org/stable/651472).
+- ———. ‘Mao Tse-Tung and the Theory of the Permanent Revolution, 1958–69’. *The China Quarterly* 46 (June 1971): 221–44. [DOI](https://doi.org/10.1017/S0305741000010675).
+- ———. ‘Mao Tse-Tung’s Thought from 1949 to 1976’. In *The Cambridge History of China: Volume 15: The People’s Republic*, edited by John K. Fairbank and Roderick MacFarquhar, 15:1–104. The Cambridge History of China. 1991. [DOI](https://doi.org/10.1017/CHOL9780521243377.002).
+- Schram, Stuart Reynolds. *The Thought of Mao Tse-Tung*. 1989.
+- Schran, Peter. *Guerilla Economy: The Development of the Shensi-Kansu-Ninghsia Border Region, 1937-1945*. 1976.
+- Schurmann, Franz. *Ideology and Organization in Communist China*. 1973.
+- Schurmann, Franz, and David Milton, eds. *The China Reader: Republican China*. 1967.
+- Schurmann, Franz, and Orville Schell, eds. *The China Reader: Communist China: Revolutionary Reconstruction and International Confrontation*. 1967.
+- ———. *The China Reader: People’s China: Social Experimentation, Politics, Entry onto the World Scene 1966 through 1972*. 1974.
+- Schwarcz, Vera. *The Chinese Enlightenment: Intellectuals and the Legacy of the May Fourth Movement of 1919*. 1986.
+- Schwartz, Benjamin I. *Chinese Communism and the Rise of Mao*, 1966.
+- Seiwert, Hubert. *Popular Religious Movements and Heterodox Sects in ChineseHistory*. Electronic book. Brill Book Archive Part 1, ISBN: 9789004472495 3. 2003.
+- Selden, Mark. *China in Revolution: The Yenan Way Revisited*. 1995.
+- ———. *The People’s Republic of China: A Documentary History of Revolutionary Change*. 1979.
+- ———. *The Yenan Way in Revolutionary China*. 1971.
+- Seybolt, Peter J. ‘Terror and Conformity: Counterespionage Campaigns, Rectification, and Mass Movements, 1942-1943’. *Modern China* 12, no. 1 (January 1986): 39–73. [Link](https://www.jstor.org/stable/188918).
+- ———. *Throwing The Emperor From His Horse: Portrait Of A Village Leader In China, 1923-1995*. 1996.
+- Shaffer, Robert. ‘A Rape in Beijing, December 1946: GIs, Nationalist Protests, and U.S. Foreign Policy’. *Pacific Historical Review* 69, no. 1 (1 February 2000): 31–64. [DOI](https://doi.org/10.2307/3641237).
+- Shakya, Tsering. *Dragon In The Land Of Snows: The History of Modern Tibet since 1947*. 2012.
+- Shambaugh, David. *Modernizing China’s Military: Progress, Problems, and Prospects*. Electronic book. 2003.
+- Shapiro, Judith. *Mao’s War against Nature: Politics and the Environment in Revolutionary China*. 2001.
+- Sheehan, Jackie. *Chinese Workers: A New History*. 2002.
+- Shen, Tong, and Marianne Yen. *Almost a Revolution: The Story of a Chinese Student’s Journey from Boyhood to Leadership in Tiananmen Square*. 1998.
+- Shen, Zhihua, and Danhui Li. *After Leaning to One Side: China and Its Allies in the Cold War*. 2011.
+- Sheng, Michael. *Battling Western Imperialism: Mao, Stalin, and the United States*. 2021.
+- ———. ‘Mao and Chinese Elite Politics in the 1950s: The Gao Gang Affair Revisited’. *Twentieth-Century China* 36, no. 1 (1 January 2011): 67–96. [DOI](https://doi.org/10.1179/152153810X12925963452826).
+- Sheng, Michael M. ‘Mao Zedong and the Three-Anti Campaign (November 1951 to April 1952): A Revisionist Interpretation’. *Twentieth-Century China*, 1 November 2006. [DOI](https://doi.org/10.1179/tcc.2006.32.1.56).
+- Shi, Wei. *Universal and Particular—Ideological Developments in the Contemporary Chinese Confucian Revival Movement (2000–2020)*. 2023. [Link](https://brill.com/display/title/65137).
+- Shi, Yifan. *Living with the Party: How Leisure Shaped a New China*. Electronic book. 2023.
+- Shue, Vivienne. *Peasant China in Transition: The Dynamics of Development Toward Socialism, 1949-1956*. 1980.
+- ———. *The Reach of the State: Sketches of the Chinese Body Politic*. 1988.
+- Shum, Kui-Kwong. *The Chinese Communists’ Road to Power: The Anti-Japanese National United Front, 1935-1945*. 1988.
+- Shuyun, Sun. *The Long March: The True History of Communist China’s Founding Myth*. 2009.
+- Siu, Helen F. *Agents and Victims in South China: Accomplices in Rural Revolution*. 1989.
+- Slyke, Lyman P. Van. *Enemies and Friends, the United Front in Chinese Communist History*. 1967.
+- ———. *The Chinese Communist Movement: A Report of the United States War Department, July 1945*. 1968.
+- Smith, Aminda. ‘Long Live the Mass Line! Errant Cadres and Post-Disillusionment PRC History’. *Positions: Asia Critique* 29, no. 4 (2021): 783–807. [Link](https://muse.jhu.edu/pub/4/article/820434).
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013.
+- Smith, S. A. ‘Talking Toads and Chinless Ghosts: The Politics of “Superstitious” Rumors in the People’s Republic of China, 1961–1965: The American Historical Review’. *The American Historical Review* 111, no. 2 (1 April 2006): 405–27. [DOI](https://doi.org/10.1086/ahr.111.2.405).
+- Smith, Steve. ‘Fear and Rumour in the People’s Republic of China in the 1950s’. *Cultural and Social History*, 1 September 2008. [DOI](https://doi.org/10.2752/147800408X331399).
+- Smith, Steve A. ‘Local Cadres Confront the Supernatural: The Politics of Holy Water (Shenshui) in the PRC, 1949-1966’. *The China Quarterly*, no. 188 (2006): 999–1022. [Link](https://www.jstor.org/stable/20192702).
+- Solomon, Richard H. *Mao’s Revolution and the Chinese Political Culture*. 1971.
+- Songlin, Yang. *Telling the Truth: China’s Great Leap Forward, Household Registration and the Famine Death Tally*. Electronic book. 2021.
+- Sorace, Christian, Ivan Franceschini, and Nicholas Loubere. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019.
+- Spence, Jonathan D. *The Search for Modern China*. 2013.
+- Stacey, Judith. *Patriarchy and Socialist Revolution in China*. 1983.
+- Starn, Orin, and Miguel La Serna. *The Shining Path: Love, Madness, and Revolution in the Andes*. Illustrated edition. 2019.
+- Starr, John Bryan. ‘Conceptual Foundations of Mao Tse-Tung’s Theory of Continuous Revolution’. *Asian Survey* 11, no. 6 (1971): 610–28. [DOI](https://doi.org/10.2307/2642773).
+- ———. ‘Conceptual Foundations of Mao Tse-Tung’s Theory of Continuous Revolution’. *Asian Survey* 11, no. 6 (1971): 610–28. [DOI](https://doi.org/10.2307/2642773).
+- ———. ‘Conceptual Foundations of Mao Tse-Tung’s Theory of Continuous Revolution’. *Asian Survey* 11, no. 6 (1 June 1971): 610–28. [DOI](https://doi.org/10.2307/2642773).
+- ———. *Continuing the Revolution: The Political Thought of Mao*. 2015.
+- Stavis, Ben. ‘China and the Comparative Analysis of Land Reform’. *Modern China* 4, no. 1 (1978): 63–78. [Link](https://www.jstor.org/stable/188966).
+- Stranahan, Patricia. *Molding the Medium: The Chinese Communist Party and the Liberation Daily*. 1990.
+- ———. ‘Strange Bedfellows: The Communist Party and Shanghai’s Elite in the National Salvation Movement’. *The China Quarterly*, no. 129 (1992): 26–51. [Link](https://www.jstor.org/stable/654596).
+- ———. *Yan’an Women and the Communist Party*. 1983.
+- Strauss, Julia. ‘Morality, Coercion and State Building by Campaign in the Early PRC: Regime Consolidation and After, 1949–1956’. *The China Quarterly* 188 (December 2006): 891–912. [DOI](https://doi.org/10.1017/S0305741006000488).
+- Strauss, Julia C. ‘Paternalist Terror: The Campaign to Suppress Counterrevolutionaries and Regime Consolidation in the People’s Republic of China, 1950-1953’. *Comparative Studies in Society and History* 44, no. 1 (2002): 80–105. [Link](https://www.jstor.org/stable/3879401).
+- Su, Xiaokang, and Luxiang Wang. *Deathsong of the River: A Reader’s Guide to the Chinese TV Series Heshang*. 1991.
+- Su, Yang. *Deadly Decision in Beijing: Succession Politics, Protest Repression, and the 1989 Tiananmen Massacre*. Electronic book. Cambridge Books Online. 2023.
+- Suettinger, Robert. *Beyond Tiananmen: The Politics of U.S.-China Relations, 1989-2000*. 2003.
+- Sun, Feiyu. *Social Suffering And Political Confession: Suku In Modern China*. 2012.
+- Szonyi, Michael. *Cold War Island: Quemoy on the Front Line*. 2008.
+- Tam, Gina Anne. *Dialect and Nationalism in China, 1860–1960*. 2020.
+- Tan, Hecheng. *The Killing Wind: A Chinese County’s Descent Into Madness During the Cultural Revolution*. 2017.
+- Tan, Ying Jia. *Recharging China in War and Revolution, 1882-1955*. Electronic book. 2021.
+- Tang, Zongli, and Bing Zuo. *Maoism and Chinese Culture*. 1996.
+- Tanner, Harold M. *The Battle for Manchuria and the Fate of China: Siping, 1946 (Twentieth-Century Battles)*. 2013.
+- ———. *Where Chiang Kai-Shek Lost China: The Liao-Shen Campaign, 1948*. 2015.
+- Taylor, Jay. *The Generalissimo: Chiang Kai-Shek and the Struggle for Modern China, With a New Postscript*. 2009.
+- Taylor, Jeremy E. ‘The Production of the Chiang Kai-Shek Personality Cult, 1929-1975’. *The China Quarterly*, no. 185 (2006): 96–110. [Link](https://www.jstor.org/stable/20192577).
+- Taylor, Kim. *Chinese Medicine in Early Communist China, 1945-1963: A Medicine of Revolution*. Needham Research Institute Series. 2011.
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993.
+- ———. *Politics at Mao’s Court: Gao Gang and Party Factionalism in the Early 1950s*. 2016.
+- Teiwes, Frederick C., and Warren Sun. *China’s Road to Disaster: Mao, Central Politicians, and Provincial Leaders in the Unfolding of the Great Leap Forward, 1955-1959*. 1998.
+- ———. *The End of the Maoist Era: Chinese Politics During the Twilight of the Cultural Revolution, 1972-1976*. 2014.
+- ———. *The Tragedy of Lin Biao: Riding the Tiger During the Cultural Revolution, 1966-1971*. 1996.
+- Terrill, Ross. *Madame Mao: The White-Boned Demon: Revised Edition*. 1999.
+- Thai, Philip. *China’s War on Smuggling: Law, Economic Life, and the Making of the Modern State, 1842–1965*. 2018.
+- Thapa, Deepak, ed. *Understanding The Maoist Movement Of Nepal*. 2003.
+- Thaxton, Ralph. *Catastrophe and Contention in Rural China: Mao’s Great Leap Forward Famine and the Origins of Righteous Resistance in Da Fo Village*. 2008. [Link](http://library.st-andrews.ac.uk/record=b3043303~S5).
+- ———. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax).
+- ———. *Salt of the Earth: The Political Origins of Peasant Protest and Communist Revolution in China*. 1997.
+- ‘The Miracles of Chairman Mao’. Accessed 15 September 2024. [Link](http://morningsun.org/red/deafmute/miracles.html).
+- Thornton, Richard C. *The Comintern and the Chinese Communists, 1928-1931*. 1969. [Link](http://archive.org/details/cominternchinese0000thor).
+- Thum, Rian. *The Sacred Routes of Uyghur History*. 2014.
+- Thurston, Anne F. *Enemies of the People: The Ordeal of the Intellectuals in China’s Great Cultural Revolution*. 1988.
+- Tian, Guoqiang, and Xudong Chen. *China’s Reform: History, Logic, and Future*. Electronic book. 2022.
+- Tillman, Margaret Mih. *Raising China’s Revolutionaries: Modernizing Childhood for Cosmopolitan Nationalists and Liberated Comrades, 1920s-1950s*. Electronic book. Studies of the Weatherhead East Asian Institute, Columbia University. 2018.
+- Ting, Lee-hsia Hsu. *Government Control of the Press in Modern China, 1900–1949*. 2020.
+- Tobin, David. *Securing China’s Northwest Frontier: Identity and Insecurity in Xinjiang*. Electronic book. Cambridge Books Online. 2020.
+- Trevaskes, Sue. ‘People’s Justice and Injustice: Courts and The Redressing of Cultural Revolution Cases’. *China Information* 16, no. 2 (1 October 2002): 1–26. [DOI](https://doi.org/10.1177/0920203X0201600201).
+- Tsai, Lily L. *Accountability without Democracy: Solidary Groups and Public Goods Provision in Rural China*. 2007.
+- Tse-Tung, Mao. *On Practice and Contradiction*. Edited by Slavoj Zizek. 2017.
+- Tsou, Tang. *The Cultural Revolution and Post-Mao Reforms: A Historical Perspective*. 1986.
+- Tu, Hang. ‘Long Live Chairman Mao! Death, Resurrection, and the (Un)Making of a Revolutionary Relic’. *Journal of Asian Studies* 81, no. 3 (1 August 2022): 507–22. [DOI](https://doi.org/10.1017/S0021911821002321).
+- Tyler, Christian. *Wild West China: The Taming of Xinjiang*. 2004.
+- U, Eddy. *Creating the Intellectual: Chinese Communism and the Rise of a Classification*. Electronic book. 2019.
+- ———. *Disorganizing China: Counter-Bureaucracy and the Decline of Socialism*. 2007.
+- U., Eddy. ‘The Making of Chinese Intellectuals: Representations and Organization in the Thought Reform Campaign’. *The China Quarterly*, no. 192 (2007): 971–89. [Link](https://www.jstor.org/stable/20192857).
+- Unger, J. *The Pro-Democracy Protests in China: Reports from the Provinces*. 1991.
+- Unger, Jonathan, ed. *Using the Past to Serve the Present: Historiography and Politics in Contemporary China: Historiography and Politics in Contemporary China*. 2015.
+- Van Fleit Hang, Krista. *Literature the People Love: Reading Chinese Texts from the Early Maoist Period (1949-1966)*. Electronic book. Chinese Literature and Culture in the World. 2013.
+- Van Slyke, Lyman. ‘The Chinese Communist Movement during the Sino-Japanese War 1937–1945’. In *The Cambridge History of China: Volume 13: Republican China 1912–1949*, edited by Albert Feuerwerker and John K. Fairbank, 13:609–722. The Cambridge History of China. 1986. [DOI](https://doi.org/10.1017/CHOL9780521243384.013).
+- Veg, Sebastian. *Minjian: The Rise of China’s Grassroots Intellectuals*. 2019.
+- Veg, Sebastian, University Press Scholarship Online (Online service), and University Press Scholarship Online (Online service), eds. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. Electronic book. Hong Kong Scholarship Online. 2019.
+- Ven, Hans J. van de. *From Friend to Comrade: The Founding of the Chinese Communist Party, 1920-1927*. 1992.
+- Vogel, Ezra F. *Canton under Communism: Programs and Politics in a Provincial Capital, 1949-1968*. Electronic book. 2nd ed. Reprint 2014. Harvard East Asian Series 41. 2014.
+- ———. *Deng Xiaoping and the Transformation of China*. 2013.
+- ———. ‘From Friendship to Comradeship: The Change in Personal Relations in Communist China’. *The China Quarterly*, no. 21 (1965): 46–60. [Link](https://www.jstor.org/stable/651316).
+- ———. *One Step Ahead in China: Guangdong Under Reform*. 1989.
+- Vukovich, Daniel F. *Illiberal China: The Ideological Challenge of the People’s Republic of China*. Electronic book. China in Transformation. 2019.
+- Walder, Andrew G. ‘Actually Existing Maoism’. *The Australian Journal of Chinese Affairs*, no. 18 (1987): 155–66. [DOI](https://doi.org/10.2307/2158588).
+- ———. *China Under Mao: A Revolution Derailed*. 2015.
+- ———. *Communist Neo-Traditionalism: Work and Authority in Chinese Industry*. Electronic book. 2011.
+- ———. *Fractured Rebellion: The Beijing Red Guard Movement*. 2012.
+- ———. ‘Marxism, Maoism, and Social Change’. *Modern China* 3, no. 1 (1977): 101–18. [Link](https://www.jstor.org/stable/188913).
+- Walder, Andrew G., and Yang Su. ‘The Cultural Revolution in the Countryside: Scope, Timing and Human Impact’. *The China Quarterly* 173 (March 2003): 74–99. [DOI](https://doi.org/10.1017/S0009443903000068).
+- Walder, Andrew G., and Gong Xiaoxia. ‘Workers in the Tiananmen Protests: The Politics of the Beijing Workers’ Autonomous Federation’. *The Australian Journal of Chinese Affairs*, no. 29 (1993): 1–29. [DOI](https://doi.org/10.2307/2949950).
+- Walker, Michael. *The 1929 Sino-Soviet War: The War Nobody Knew*. 2021.
+- Walker, Richard Louis. *China Under Communism: The First Five Years*. 1955.
+- Walter, Carl E., and Fraser J. T. Howie. *Red Capitalism: The Fragile Financial Foundation of China’s Extraordinary Rise*. 2011.
+- Wang, Anna. *Inconvenient Memories: A Personal Account of the Tiananmen Square Incident and the China Before and After*. 2019.
+- Wang, Ban. *Words and Their Stories: Essays on the Language of the Chinese Revolution*. 2010.
+- Wang, David Der-wei, Angela Ki Che Leung, and Zhang Yinde. *Utopia and Utopianism in the Contemporary Chinese Context: Texts, Ideas, Spaces*. 2020.
+- Wang, Di. *Violence and Order on the Chengdu Plain: The Story of a Secret Brotherhood in Rural China, 1939-1949*. 2018.
+- Wang, Dong. *Managing God’s Higher Learning: U.S.-China Cultural Encounter and Canton Christian College (Lingnan University) 1888-1952*. 2007.
+- Wang, Fanxi, and Gregor Benton. *Mao Zedong Thought*. Electronic book. Historical Materialism Book Series 210. 2020.
+- Wang, Gungwu. *China and the World Since 1949: The Impact of Independence, Modernity and Revolution*. The Making of the 20th Century. 1977.
+- Wang, Jing. *High Culture Fever: Politics, Aesthetics, and Ideology in Deng’s China*. 2023.
+- Wang, Q. Edward. ‘Between Marxism and Nationalism: Chinese Historiography and the Soviet Influence, 1949-1963’. *Journal of Contemporary China* 9, no. 23 (1 March 2000): 95–111.
+- ———. *Inventing China through History: The May Fourth Approach to Historiography*. 2001.
+- Wang, Q. Edward, and Georg G. Iggers. *Marxist Historiographies: A Global Perspective*. 2015.
+- Wang, Shaoguang. *Failure of Charisma: The Cultural Revolution in Wuhan*. 1995.
+- ———. ‘The Construction of State Extractive Capacity: Wuhan, 1949-1953’. *Modern China* 27, no. 2 (2001): 229–61. [Link](https://www.jstor.org/stable/3181320).
+- Wang, Xiaoxuan. *Maoism and Grassroots Religion: The Communist Revolutionand the Reinvention of Religious Life in China*. Electronic book. Oxford Scholarship Online. 2020.
+- ———. ‘Solving the “Religious Problem”: The Great Leap Forward of “Religious Work” and Protestant Communities in Pingyang, Wenzhou in 1958’. *Twentieth-Century China* 49, no. 1 (2024): 66–85. [Link](https://muse.jhu.edu/pub/1/article/917212).
+- Wang, Youqin. ‘Finding a Place for the Victims: The Problem in Writing the History of the Cultural Revolution’. *China Perspectives* 2007, no. 4 (15 December 2007). [DOI](https://doi.org/10.4000/chinaperspectives.2593).
+- ———. *Victims of the Cultural Revolution: Testimonies of China’s Tragedy*. 2023.
+- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017.
+- Wangling, Gao, and Liu Yang. ‘On a Slippery Roof: Chinese Farmers and the Complex Agenda of Land Reform’. *Études Rurales*, no. 179 (2007): 19–34. [Link](https://www.jstor.org/stable/20122569).
+- Wasserstrom, Jeffrey N. *Popular Protest And Political Culture In Modern China: Second Edition*. 2018.
+- ———. *Student Protests in Twentieth-Century China: The View from Shanghai*. 1991.
+- Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. 1994.
+- Watson, James L. *Class and Social Stratification in Post-Revolution China*. 2010.
+- Watson, Rubie S., and Patricia Buckley Ebrey. *Marriage and Inequality in Chinese Society*. 1991.
+- Wei, Chunjuan Nancy, and Darryl E. Brock. *Mr. Science and Chairman Mao’s Cultural Revolution: Science and Technology in Modern China*. 2013.
+- Weiner, Benno. *The Chinese Revolution on the Tibetan Frontier*. Electronic book. Studies of the Weatherhead East Asian Institute, Columbia University. 2020.
+- Welch, Holmes. *Buddhism Under Mao*. 1972.
+- Wemheuer, Felix. *A Social History of Maoist China*. 2019.
+- ———. ‘Dealing with Responsibility for the Great Leap Famine in the People’s Republic of China’. *The China Quarterly* 201 (March 2010): 176–94. [DOI](https://doi.org/10.1017/S0305741009991123).
+- ———. *Famine Politics in Maoist China and the Soviet Union*. Electronic book. Yale Agrarian Studies Series. 2015.
+- ———. ‘Sites of Horror: Mao’s Great Famine [with Response]’. Edited by Frank Dikötter. *The China Journal*, no. 66 (2011): 155–64. [Link](http://www.jstor.org/stable/41262812).
+- Wenqian, Gao. *Zhou Enlai: The Last Perfect Revolutionary*. 2008.
+- Westad, Odd Arne. *Decisive Encounters: The Chinese Civil War, 1946-1950*. 2003.
+- Westad, Professor of International History Odd Arne. *Brothers in Arms: The Rise and Fall of the Sino-Soviet Alliance, 1945-1963*. 1998.
+- White, Gordon. *Party and Professionals: The Political Role of Teachers in Contemporary China*. 2017.
+- White, Tyrene. *China’s Longest Campaign: Birth Planning in the People’s Republic, 1949–2005*. 2018.
+- Whiting, Allen S. *China Crosses the Yalu: The Decision to Enter the Korean War*, 1960.
+- WHITING, Allen Suess. *Sinkiang: Pawn Or Pivot?*. 1958.
+- Whyte, Martin King. ‘Corrective Labor Camps in China’. *Asian Survey* 13, no. 3 (1973): 253–69. [DOI](https://doi.org/10.2307/2643036).
+- ———. *Small Groups and Political Rituals in China*. 2023.
+- ———. ‘Urban Life in the People’s Republic’. In *The Cambridge History of China: Volume 15: The People’s Republic*, edited by John K. Fairbank and Roderick MacFarquhar, 15:682–742. The Cambridge History of China. 1991. [DOI](https://doi.org/10.1017/CHOL9780521243377.011).
+- Whyte, Martin King, and William L. Parish. *Urban Life in Contemporary China*. 1985.
+- Wilbur, Clarence Martin, and Julie Lien-ying How. *Missionaries of Revolution: Soviet Advisers and Nationalist China, 1920-1927*. 1989.
+- Williams, Philip F., and Yenna Wu. *The Great Wall of Confinement: The Chinese Prison Camp Through Contemporary Fiction and Reportage*. 2004.
+- Wilson, Dick. *The Long March, 1935: The Epic of Chinese Communism’s Survival*. 1971.
+- Wittfogel, Karl A. ‘Some Remarks on Mao’s Handling of Concepts and Problems of Dialectics’. *Studies in Soviet Thought* 3, no. 4 (1963): 251–69. [Link](https://www.jstor.org/stable/20098091).
+- Woeser, Tsering. *Forbidden Memory: Tibet During the Cultural Revolution*. 2020.
+- ———. *Tibet on Fire: Self-Immolations Against Chinese Rule*. 2016.
+- Wolf, Margery. *Revolution Postponed: Women in Contemporary China*. 1985.
+- Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. Reprint. 2012.
+- Womack, Brantly. *The Foundations of Mao Zedong’s Political Thought, 1917–1935*. 2019.
+- ———. ‘The Historical Shaping of Mao Zedong’s Political Thought’. In *Contemporary Chinese Philosophy*, edited by Frederick J. Adelmann, 27–61. 1982. [DOI](https://doi.org/10.1007/978-94-009-7689-4_2).
+- Wong, John. *Land Reform in the People’s Republic of China: Institutional Transformation in Agriculture*. 1973.
+- Wood, Alan. *Russia’s Frozen Frontier: A History of Siberia and the Russian Far East 1581 - 1991*. 2011.
+- Wou, Odoric Y. K. *Mobilizing the Masses: Building Revolution in Henan*. 1994.
+- Wu, Hongda Harry. *Laogai--the Chinese Gulag*. 2018.
+- Wu, Tien-wei. *The Sian Incident: A Pivotal Point in Modern Chinese History*. 1976.
+- Wu, Yang. ‘Changing Faces in the Chinese Communist Revolution: Party Members and Organization Building in Two Jiaodong Counties, 1928-1948’, 2013. [Link](http://circle.ubc.ca/handle/2429/45675).
+- Wu, Yi. *Negotiating Rural Land Ownership in Southwest China: State, Village, Family*. 2016.
+- Wu, Yiching. *The Cultural Revolution at the Margins*. 2014.
+- Wu, Yiching Wu. *The Cultural Revolution at the Margins: Chinese Socialism in Crisis*. Electronic book. 2014.
+- Wylie, Raymond F. ‘Mao Tse-Tung, Ch’en Po-Ta and the “Sinification of Marxism,” 1936-38’. *The China Quarterly*, no. 79 (1979): 447–80. [Link](https://www.jstor.org/stable/652903).
+- Wylie, Raymond Finlay. *The Emergence of Maoism: Mao Tse-Tung, Ch’en Po-Ta, and the Search for Chinese Theory, 1935-1945*. 1980.
+- Xia, Yun. *Down with Traitors: Justice and Nationalism in Wartime China*. 2017.
+- Xiaobo. *The Danwei: Changing Chinese Workplace in Historical and Comparative Perspective*. 1st edition. 1997.
+- Xiaojun, Zhang. ‘Land Reform in Yang Village: Symbolic Capital and the Determination of Class Status’. *Modern China* 30, no. 1 (2004): 3–45. [Link](https://www.jstor.org/stable/3181375).
+- Xinjiang Documentation Project. ‘Xinjiang Documentation Project’. Accessed 15 September 2024. [Link](https://xinjiang.sppga.ubc.ca/).
+- Xiuyuan, Lü. ‘A Step Toward Understanding Popular Violence in China’s Cultural Revolution’. *Pacific Affairs* 67, no. 4 (1994): 533–63. [DOI](https://doi.org/10.2307/2759573).
+- Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. Electronic book. Cambridge Books Online. 2021.
+- Yan, Haiping. *Chinese Women Writers and the Feminist Imagination, 1905-1948*. 2006.
+- Yan, Jiaqi. *Toward a Democratic China: The Intellectual Autobiography of Yan Jiaqi*. 1992.
+- Yan, Jiaqi, and Gao Gao. *Turbulent Decade: A History of the Cultural Revolution*. 1996.
+- Yan, Yunxiang. *Private Life under Socialism: Love, Intimacy, and Family Change in a Chinese Village, 1949-1999*. 2003.
+- Yang, C. K. *Religion in Chinese Society: A Study of Contemporary Social Functions of Religion and Some of Their Historical Factors*. 1961.
+- ———. *The Chinese Family in the Communist Revolution*. 1984.
+- Yang, C. K., and Ch’ing-K’Un Yang. *A Chinese Village in Early Communist Transition*. 1984.
+- Yang, Chung Kun, and Qingkun Yang. *Chinese Communist Society: The Family and the Village*. 1965.
+- Yang, Dali L. *Calamity and Reform in China: State, Rural Society, and Institutional Change Since the Great Leap Famine*. 1996.
+- Yang, Guobin. ‘China’s Zhiqing Generation: Nostalgia, Identity, and Cultural Resistance in the 1990s’. *Modern China* 29, no. 3 (2003): 267–96. [Link](https://www.jstor.org/stable/3181294).
+- ———. *The Red Guard Generation and Political Activism in China*. 2016.
+- Yang, Jisheng. *Tombstone: The Untold Story of Mao’s Great Famine*. 2012.
+- Yang, Mayfair Mei-Hui. *Gifts, Favors, and Banquets: The Art of Social Relationships in China*. 2016.
+- Yang, Mayfair Mei-hui. *Spaces of Their Own: Women’s Public Sphere in Transnational China*. 1999.
+- Yang, Nianqun. ‘Disease Prevention, Social Mobilization and Spatial Politics: The Anti Germ-Warfare Incident of 1952 and the “Patriotic Health Campaign”’. *The Chinese Historical Review* 11, no. 2 (1 September 2004): 155–82. [DOI](https://doi.org/10.1080/1547402X.2004.11827202).
+- Yang, Shu. *Untamed Shrews: Negotiating New Womanhood in Modern China*. Electronic book. 2023.
+- Yang, Su. *Collective Killings in Rural China during the Cultural Revolution*. 2011. [Link](http://library.st-andrews.ac.uk/record=b3042793~S5).
+- Yangwen, Zheng. *The Social Life of Opium in China*. 2005.
+- Ye, W., Ye Weili, and Ma Xiaodong. *Growing Up in the People’s Republic: Conversations between Two Daughters of China’s Revolution*. 2005.
+- Yeh, Wen-Hsin, ed. *Becoming Chinese: Passages to Modernity and Beyond*. 2000. [Link](http://ark.cdlib.org/ark:/13030/kt5j49q621/).
+- Yeh, Wen-Hsin, and Yeh Wen-hsin. *Provincial Passages: Culture, Space, and the Origins of Chinese Communism*. 1996.
+- Yep, Ray. ‘“Cultural Revolution in Hong Kong”: Emergency Powers, Administration of Justice and the Turbulent Year of 1967’. *Modern Asian Studies* 46, no. 4 (2012): 1007–32. [Link](https://www.jstor.org/stable/41478426).
+- ———, ed. *Negotiating Autonomy in Greater China: Hong Kong and Its Sovereign Before and After 1997*. 2013.
+- Yin, Cao. *Chinese Sojourners in Wartime Raj, 1942-45*. 2022.
+- Yiwu, Liao. *Bullets and Opium: Real-Life Stories of China After the Tiananmen Square Massacre*. 2020.
+- Yu, Frederick T. C. *Mass Persuasion in Communist China*. 1964.
+- Yu, Maochun. *Oss in China: Prelude to Cold War*. 1996.
+- ———. *The Dragon’s War: Allied Operations And the Fate of China, 1937-1947*. 2006.
+- Yuan, Gao. *Born Red: A Chronicle of the Cultural Revolution*. 1st ed. 1987.
+- Yue, Daiyun, and Carolyn Wakeman. *To The Storm: The Odyssey of a Revolutionary Chinese Woman*. 1987.
+- Yuen, Sun-Pong, Pui-Lam Law, Yuk-Ying Ho, and Fong-Ying Yu. *Marriage, Gender and Sex in a Contemporary Chinese Village*. 2015.
+- Zagoria, Donald S. *Sino-Soviet Conflict, 1956-1961*. 2015.
+- Zang, Xiaowei. *Children Of The Cultural Revolution: Family Life And Political Behavior In Mao’s China*. 2000.
+- Zarrow, Peter. *Anarchism and Chinese Political Culture*. 1990.
+- ———. ‘He Zhen and Anarcho-Feminism in China’. *The Journal of Asian Studies* 47, no. 4 (1988): 796–813.
+- Zha, Jianying. *China Pop: How Soap Operas, Tabloids and Bestsellers Are Transforming a Culture*. 2011.
+- Zhai, Qiang. *China and the Vietnam Wars, 1950-1975*. 2005.
+- Zhai, Zhen-Hua, and Zhai Zhenhua. *Red Flower of China: An Autobiography*. 1992.
+- Zhang, Boli. *Escape from China: The Long Journey from Tiananmen to Freedom*. 2003.
+- Zhang, Liang, Andrew J. Nathan, and E. Perry Link. *The Tiananmen Papers*. 2001.
+- Zhang, Shu Guang. *Economic Cold War: America’s Embargo Against China and the Sino-Soviet Alliance, 1949-1963*. 2001.
+- ———. *Mao’s Military Romanticism: China and the Korean War, 1950-1953*. 1995.
+- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. Electronic book. 2001.
+- Zhao, Suisheng. ‘A State-Led Nationalism: The Patriotic Education Campaign in Post-Tiananmen China’. *Communist and Post-Communist Studies* 31, no. 3 (1 September 1998): 287–302. [DOI](https://doi.org/10.1016/S0967-067X(98)00009-9).
+- Zhao, Ziyang, Bao Pu, Adi Ignatius, Renee Chiang, and Roderick MacFarquhar. *Prisoner of the State: The Secret Journal of Zhao Ziyang*. 2014.
+- Zheng, Yazhuo, and Kent Deng. *State Failure and Distorted Urbanisation in Post-Mao’s China, 1993-2012*. Electronic book. Palgrave Studies in Economic History. 2018.
+- Zhi, Mei. *F: Hu Feng’s Prison Years*. 2013.
+- Zhihua, Shen. ‘Sino-Soviet Relations and the Origins of the Korean War: Stalin’s Strategic Goals in the Far East’. *Journal of Cold War Studies* 2, no. 2 (2000): 44–68. [Link](https://www.jstor.org/stable/26925062).
+- Zhi-Sui, Li. *The Private Life of Chairman Mao*. 2011.
+- Zhong, Yurou. *Chinese Grammatology: Script Revolution and Literary Modernity, 1916-1958*. Electronic book. 2019.
+- Zhou, Taomo. *Migration in the Time of Revolution: China, Indonesia, and the Cold War*. Electronic book. 2019.
+- Zhou, Xun. *Forgotten Voices of Mao’s Great Famine, 1958-1962: An Oral History*. 2013.
+- ———. *The Great Famine in China, 1958-1962: A Documentary History*. 2012.
+- Zia, Helen. *Last Boat Out of Shanghai: The Epic Story of the Chinese Who Fled Mao’s Revolution*. 2019.
+- Zuo, Jiping. ‘Political Religion: The Case of the Cultural Revolution in China’. *Sociological Analysis* 52, no. 1 (1991): 99–110. [DOI](https://doi.org/10.2307/3710718).
+- Zürcher, E., Erik Jan Zürcher, and Kim van der Zouw. *Three Months in Mao’s China: Between the Great Leap Forward and the Cultural Revolution*. Electronic book. Cambridge Books Online. 2017.
+- 毛澤東, and DeFrancis John. *Annotated Quotations from Chairman Mao*. 1975.
+
