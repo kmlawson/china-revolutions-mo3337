@@ -1,4 +1,4 @@
-## Policies 
+# Policies 
 
 **Marking**
 
@@ -53,3 +53,9 @@ I have a separate document where I outline the ways in which LLMs (generative AI
 If you are unsure about the correct presentation of academic material, you should approach your tutor. You can also contact CEED, which provides an extensive range of training on Academic Skills.
 
 [https://www.st-andrews.ac.uk/ceed/](https://www.st-andrews.ac.uk/ceed/)
+
+**Equality, Diversity and Inclusion**
+
+The School of History is committed to supporting equality of opportunity and inclusion at every level, irrespective of age, gender, maternity, disability, race, faith, sex and sexual orientation, through the enactment of fair policies and practices. The School seeks to provide a place of welcome, tolerance and inclusivity in which to study, work and research. For more information, please visit the Equality, Diversity and Inclusion section of the School's website, on 
+
+[https://www.st-andrews.ac.uk/history/about/equality-diversity-inclusion/](https://www.st-andrews.ac.uk/history/about/equality-diversity-inclusion/)

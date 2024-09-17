@@ -1,5 +1,12 @@
-# Bibliography
+\newpage
 
+# Bibliography {#biblio}
+
+Below are some larger bibliographies that can help you find scholarship on a variety of topics.
+
+- [The Qing Dynasty](#qing)
+- [Republican China](#minguo)
+- [The Communist Revolution and the People's Republic](#prc)
 
 ## The Qing Dynasty {#qing}
 

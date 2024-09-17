@@ -1,6 +1,6 @@
 \pagebreak
 
-## Chronology
+# Chronology
 
 Below are some of the major dates relevant to this course. Please become familiar with them and commit them to memory if possible, if at least for the duration of our course, as it will help to put our various readings into the context of other events around them:
 

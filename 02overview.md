@@ -16,6 +16,8 @@
 10. 19 Nov [**Maoism in the World**](#world)
 11. 26 Nov [**Culture, History, and Memory**](#culture)
 
+[Research Bibliography](#biblio)
+
 ### Key Details:
 
 **Email:** kml8@st-andrews.ac.uk  
@@ -47,7 +49,6 @@ This module traces the modern history of China through the lens of its most tran
 ### Learning Outcomes
 
 * Assess the impact of economic and social changes on political upheaval in Chinese history and the role of Western and Japanese imperialism
-* Understand the impacts of the war of resistance against Japan on the rise of the Chinese Communist Party 
 * Compare the ways in which revolution and rapid social and political transformations were inspired by and contributed to myth building and historiography
 * Analyse the institutions for 'thought reform' and 'ideological struggle' in the Maoist period
 * Evaluate continuities and differences in the scale of violence in China's revolutions and the impact of revolution on gender relations, family, and culture

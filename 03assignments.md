@@ -299,8 +299,6 @@ The points that follow should be fairly clear from the questions posed above but
 - The School of History Style Guide was carefully followed.
 - A well-formatted bibliography is provided showing that research was carried out using sources of an appropriate quality and number.
 
-\pagebreak
-
 ### Feedback
 
 Feedback is generally provided directly on the mark sheet, which will be posted to the MMS within two weeks. Presentation feedback is provided at two points in the semester so they may be marked in groups. Some formative feedback on Moodle posts (before they are submitted to MMS) will be made sporadically throughout the semester, especially on the first or second post made by a student. 

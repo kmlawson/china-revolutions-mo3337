@@ -1,6 +1,6 @@
 \newpage
 
-## Films of Interest
+# Films of Interest
 
 For each week of our seminar I have listed one or more films that relate somewhat to the theme for that week. Many of these films are, to be frank, awful. Some of them use a historical event as a backdrop for their own plots. Some generally focus on the historical event or some historical figure in it, but almost all of them deviate significantly from the historical events and generally should be treated as fictional accounts.
 
