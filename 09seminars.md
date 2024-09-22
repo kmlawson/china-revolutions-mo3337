@@ -156,12 +156,9 @@ Secondary Sources (93pp):
     - Hershatter, Gail. *Women and China’s Revolutions*. 2018. Ch 3 "Revolutionary Currents, 1895-1912" pp57-91 (Files)
 - **(F) Students and May Fourth** - Lanza, Fabio. *Behind the Gate Inventing Students in Beijing*. 2010. [Link](https://library.st-andrews.ac.uk/record=b3305559~S5). Ch 1 + Ch 4-5 pp23-50; 101-145 (P)
 - **(G) Liberalism and Western Radicalism** - Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. 2010. [Link](https://library.st-andrews.ac.uk/record=b2397826~S5). Ch 1 pp27-60 + Ch 4 pp128-158
+- **(H) May Fourth Societies** - Rahav, Shakhar. *The Rise of Political Intellectuals in Modern China: May Fourth Societies and the Roots of Mass-Party Politics*. 2015. [Link](https://library.st-andrews.ac.uk/record=b2383406~S5) Intro + Ch 3 + Ch 5
 
 Background Reading: *The Search for Modern China* Ch 12-13
-
-### Preparation
-
-* The reading is relatively heavy this week, please give the primary sources a close look over and don't forget to bring them to class - I would recommend printing them out as otherwise you may get frustrated jumping around in the online interface.
 
 ### To Watch
 
@@ -175,9 +172,11 @@ Background Reading: *The Search for Modern China* Ch 12-13
     * X [Chen Duxiu and New Youth](https://www.youtube.com/watch?v=C8-Av-XGob4)
     * X [Bai Hua](https://www.youtube.com/watch?v=RabetsH7vPE)
 
-### To Review
+### Preparation
 
-- please review for this week's map quiz using the [online map](https://muninn.net/modules/mo3337/map/)
+* The reading is relatively heavy this week, please give the primary sources a close look over and don't forget to bring them to class - I would recommend printing them out as otherwise you may get frustrated jumping around in the online interface.
+
+- please review for this week's [map quiz](#maps) using the [online map](https://muninn.net/modules/mo3337/map/)
 - please keep reviewing your event flashcards.
 - choose your era for the semester: Late Qing / Republic / Sino-Japanese Conflict / Rise of the CCP and Civil War / Maoist China
 - start your essay research
@@ -251,10 +250,14 @@ Bibliography: [The Republic - Readings](#minguo)
 * My Early Days in France (我的法兰西岁月 2012)
 * My 1919 (我的1919 1999)
 * Epoch-Making（开天辟地 2011)
+* The Founding of a Party (建党伟业 2011)
+* The Founding of an Army (建军大业 2017) - Falls in the time between this week and next week's focus
 
 \newpage
 
 ## Week 3 - Building Revolution and the War with Japan, 1931-1945 {#sj}
+
+Between the May Fourth Movement and the outbreak of full scale war with Japan in 1937 there are several weeks worth of important events. Key among them are the 1927 Northern Expedition under the United Front, the end of the United Front and Chiang Kai-shek's large scale massacres of suspected Communists in Shanghai, the emergence of the first Chinese soviets and failed attempts to take key cities, Chiang Kai-shek's encirclement campaigns and the long march that eventually leads what remains of Communist forces to Shaanxi, and the return of a fragile and United Front after the Xian incident and Japan's full-scale invasion in 1937. In this week, however, we are going to focus on the period from 1937-1945 on Communist controlled base areas.
 
 ### Required Reading
 
@@ -279,34 +282,28 @@ Primary sources (42pp):
 Secondary sources (69pp):
 
 - Seybolt, "Terror and Conformity: Counterespionage Campaigns, Rectification, and Mass Movements, 1942-1943" [link](https://www.jstor.org/stable/188918) 36pp
-- Apter, David Ernest, and Tony Saich. *Revolutionary Discourse in Mao’s Republic*. 1994. pp150-153 (in Ch 5) + Ch 8 pp263-293 (Files) (P)
+- Apter, David Ernest, and Tony Saich. *Revolutionary Discourse in Mao’s Republic*. 1994. pp150-153 (in Ch 5) + Ch 8 pp263-293 (Teams) (P)
 
 ### Elective Reading
 
 This week we will collectively build up class knowledge about a range of historiographical interventions on the CCPs wartime bases over the past few decades. I would like to ask that all students consider doing one of their three handouts this week on one of the following so that we have at least one (but ideally more) handout for each of the following. As you take notes on the reading, pay especially close attention to how these authors refer to eachother: especially in the case of the texts published in later years who refer back to Johnson, Selden, Kataoka, Chen, etc. What are the stakes in these debates? Consider reading a book review or two of the book you choose.
 
-- **(A)** Johnson, Chalmers. *Peasant Nationalism and Communist Power: The Emergence of Revolutionary China, 1937-1945*. 1962. Ch 1 + Ch 3-4 (P)
-- **(B 3 students)** Selden, Mark. *The Yenan Way in Revolutionary China*. 1971. Ch 4-6 (P)
-- **(C)** Kataoka, Tetsuya. *Resistance and Revolution in China: The Communists and the Second United Front*. 1974. Intro + Ch 7-8 (P)
-- **(D 2 students)** Thaxton, Ralph. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax). Intro + Ch 4-6 (P)
-- **(E 2 students )** Chen, Yung-fa. *Making Revolution: The Communist Movement in Eastern and Central China, 1937-1945*. 1986. [Link](https://library.st-andrews.ac.uk/record=b3284135~S5). Intro + Ch 7 + Conclusion (P)
-- **(F)** Hartford, Kathleen, and Steven M. Goldstein. *Single Sparks: China’s Rural Revolutions*. 1989. Intro + Ch 3-4
-- **(G)** Wou, Odoric Y. K. *Mobilizing the Masses: Building Revolution in Henan*. 1994. Intro + Ch 6-7 (P)
-- **(H)** Feng, Chongyi, and David S. G. Goodman, eds. *North China at War: The Social Ecology of Revolution, 1937-1945*. 2000. Intro + Ch 5 + Ch 7-8
-- **(I)** Goodman, David S. G. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000. Ch 1 + Ch 7 + Conclusion (P)
-- **(J)** Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008. Intro + Ch 5-6 + Conclusion (P)
-- **(K)** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5) Preface + Ch 5-6 (P)
+- **(A) Johnson** Johnson, Chalmers. *Peasant Nationalism and Communist Power: The Emergence of Revolutionary China, 1937-1945*. 1962. Ch 1 + Ch 3-4 (P)
+- **(B) Selden - 3 students** Selden, Mark. *The Yenan Way in Revolutionary China*. 1971. Ch 4-6 + Conclusion (P)
+- **(C) Kataoka** Kataoka, Tetsuya. *Resistance and Revolution in China: The Communists and the Second United Front*. 1974. Intro + Ch 7-8 (P)
+- **(D) Thaxton - 2 students** Thaxton, Ralph. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax). Intro + Ch 4-6 (P)
+- **(E) Chen - 2 students** Chen, Yung-fa. *Making Revolution: The Communist Movement in Eastern and Central China, 1937-1945*. 1986. [Link](https://library.st-andrews.ac.uk/record=b3284135~S5). Intro + Ch 7 + Conclusion (P)
+- **(F) Hartford** Hartford, Kathleen, and Steven M. Goldstein. *Single Sparks: China’s Rural Revolutions*. 1989. Intro + Ch 3-4
+- **(G) Wou** Wou, Odoric Y. K. *Mobilizing the Masses: Building Revolution in Henan*. 1994. Intro + Ch 6-7 (P)
+- **(H) Benton** Benton, Gregor. *New Fourth Army: Communist Resistance Along the Yangtze and the Huai, 1938-1941*. 1999. (In Library) Introduction + Ch 4-5 (P)
+- **(I) Feng** Feng, Chongyi, and David S. G. Goodman, eds. *North China at War: The Social Ecology of Revolution, 1937-1945*. 2000. Intro + Ch 5 + Ch 7-8
+- **(J) Goodman** Goodman, David S. G. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000. Ch 1 + Ch 7 + Conclusion (P)
+- **(J) Gatu** Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008. Intro + Ch 5-6 + Conclusion (P)
+- **(K) Esherick** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5) Preface + Ch 5-6 (P)
 
 Background reading: 
 
 *The Search for Modern China* Ch 16-17 but better for our purposes is probabely: Van Slyke, Lyman. ‘The Chinese Communist Movement during the Sino-Japanese War 1937–1945’. In *The Cambridge History of China: Volume 13: Republican China 1912–1949*, edited by Albert Feuerwerker and John K. Fairbank, 13:609–722. The Cambridge History of China. 1986. [DOI](https://doi.org/10.1017/CHOL9780521243384.013).
-
-### Preparation
-
-- Continue your essay research and bring 1-3 ideas for an essay topic that you have been looking into
-- Take a look at some of the essays from previous years that I have shared
-- Prepare for this week's event quiz by studying the "China Timeline 1830s-1989" [flashcard set](https://muninn.net/modules/mo3337/flash/) online.
-- For the reading today and generally, try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
 
 ### To Watch
 
@@ -320,26 +317,35 @@ Background reading:
     * X [Economic and Social Consequences](https://www.youtube.com/watch?v=vmtZseZV7gM)
     * X [Postwar Dilemmas](https://www.youtube.com/watch?v=svvtv6oJDCg)
 
+### Preparation
+
+- Continue your essay research and bring 1-3 ideas for an essay topic that you have been looking into
+- Take a look at some of the essays from previous years that I have shared
+- Prepare for this week's event quiz by studying the "China Timeline 1830s-1989" [flashcard set](https://muninn.net/modules/mo3337/flash/) online.
+- For the reading today and generally, try not to get bogged down in the details of local case studies - you can skim over those details. Instead keep your eye open for how these authors contest eachothers' general arguments about the role of the wartime period on the rise of the Communist party and its later success in taking power. Make yourself good notes comparing what are sometimes subtle, sometimes very blunt differences in emphasis, agency, use of sources, and forms of evidence.
+
 ### Overview
 
-- Activity: We will have our first events quiz today
-- Activity: We will meet with our mutual-aid groups to discuss progress on essay, sharing ideas, and reflecting on the model essays
+- Activity: We will have our first [Events Quiz](#events) today
+- Activity: We will meet with our mutual-aid groups to discuss progress on essay, sharing ideas, and reflecting on the model essays that were shared
 - We will try to divide our reading discussion into three: primary sources, rectification, but a good chunk of time will be spent on the different approaches to the wartime base areas in the elective readings so please come prepared to introduce your elective reading to others in groups and in the class as a whole.
 
 ### Questions
 
-1. In the debates over the relevance of the second Sino-Japanese war on the rise of the Communist party, evaluate the claims of two historians whose arguments can be said to significantly contradict one another.
-2. What is one way that regional differences matter in discussing the impact of the second Sino-Japanese war on the rise of the Communist party during this period?
-3. What patterns do you see in the language and style of Mao and Liu's writing?
-4. What does "democracy" mean for the Communist Party?
-5. What is the party's approach to the public exchange of ideas, art, and literature? How is the view justified?
+1. How important was the experience of the Sino-Japanese war to the rise of the Communist Party?
+2. What are the key differences in the interpretations among various historians about the key elements of the wartime experience?
+3. To what degree does the place (which base area and its context and features), agents (the people and groups focused upon), and the sources available shape the analysis by historians of the wartime experience?
+4. In the debates over the relevance of the second Sino-Japanese war on the rise of the Communist party, evaluate the claims of two historians whose arguments can be said to significantly contradict one another.
+5. What patterns do you see in the language and style of Mao and Liu's writing among the primary sources? 
+6. What does "democracy" mean for the Communist Party?
+7. What is the party's approach to the public exchange of ideas, art, and literature? How is the view justified? What longer term consequences do you think this will have for China?
 
 ### Long Essay Ideas
 
-* This is one of the most active areas of research on modern Chinese history. You might consider wading into this debate in some modest way, perhaps with a focus on a particular case, place, or specific aspect of the argument.
-- Our reading has been limited to a focus on the CCP and its base areas but the further reading gives you a taste of the broader context. I would prefer for essays on this period connect at least in some way with the revolution, but this can also be an exploration of Nationalist party revolutionary policies and campaigns such as its New Life movement, or wartime Wuhan and Chongqing. 
-* Many international visitors came to China or went from China to other parts of the world and commented on the conflict. Primary sources related to this are more accessible to students don't read Chinese and can offer some interesting perspectives.
-* Again here there are rich opportunities for comparative studies or looking at influences and interactions across borders.
+- This is one of the most active areas of research on modern Chinese history. You might consider wading into this debate in some modest way, perhaps with a focus on a particular case, place, or specific aspect of the argument.
+- Our reading has been limited to a focus on the CCP and its base areas but the further reading gives you a taste of the broader context. I would prefer for essays on this period connect at least in some way with the revolution, but this can also be an exploration of Nationalist party revolutionary policies and campaigns such as its New Life movement, or wartime Wuhan and Chongqing.
+- Many international visitors came to China or went from China to other parts of the world and commented on the conflict. Primary sources related to this are more accessible to students don't read Chinese and can offer some interesting perspectives.
+- Again here there are rich opportunities for comparative studies or looking at influences and interactions across borders.
 
 ### Further Reading
 
@@ -371,52 +377,378 @@ Background reading:
 Bibliography: [The Republic - Readings](#minguo)  
 Bibliography: [Chinese Communist Revolution - Readings](#prc)
 
+### Films of Interest
 
-**Films of Interest:**
-
-* Devils on the Doorstep (鬼子来了 2000)
-* City of Life and Death (南京！南京！2009)
-* Red Sorghum (红高粱 1987)
-* Yellow Earth (黄土地 1984)
-* Lust, Caution (色，戒 2007)
-* The Last Emperor (1987)
-* The Mountain of Tai Hang (太行山上 2005)
-* Back to 1942 (一九四二 2012)
-* Feng Shui (风水 2011)
-* The Message (风声 2009)
+- Devils on the Doorstep (鬼子来了 2000)
+- City of Life and Death (南京！南京！2009)
+- Red Sorghum (红高粱 1987)
+- Yellow Earth (黄土地 1984)
+- Lust, Caution (色，戒 2007)
+- The Last Emperor (1987)
+- The Mountain of Tai Hang (太行山上 2005)
+- Back to 1942 (一九四二 2012)
+- Feng Shui (风水 2011)
+- The Message (风声 2009)
+- The 800 (八佰 2020)
+- Hidden Blade (無名 anonymous) 2023
+- Attabu II (2015)
+- Golden Era (黃金時代 2014）
 
 \newpage
 
-*Later weeks of draft cut for now - full handbook coming*
-
 ## Week 4 - Great Leaps Forward: Violence and Reform 1945-1961 {#gl}
 
-- Focus on land reform and the great leap forward but elective readings on other aspects of this period
+Japanese surrender in 1945 is soon followed by civil war on a huge scale, one which had already been brewing in the renewed conflict between the CCP and the Nationalist government at least since the New Fourth Army incident of 1941 but already in the years up to it. We cannot dedicate much time to the war itself, but the idea that its outcome was somehow predetermined has come under much challenge by historians of the war. If we look more broadly at the political campaigns of the transwar period from the late wartime to 1950, we see a growing confidence in the party's willingness to carry out large scale campaigns that will result in the dismantlement of social and economic elites throughout the countryside, including the rent and interest reduction campaign, the anti-traitor campaign, and the land reform campaigns. It is in the links between these campaigns we can find the emergence of a set of important political technologies that are the successors to earlier versions found in the base areas of the early 1930s or Soviet practices, including the art of the public mass trial and "speaking bitterness." After the formation of the People's Republic in 1949, during the Korean War, the Campaign to Suppress Counterrevolutionaries (Zhenfan 镇反) will revisit the earlier "magnanimous" policy of the wartime towards some associates of the Nationalists or the Japanese, execute hundreds of thousands of suspected "counterrevolutionaries" and will both rival and overlap with the violence of the land reform campaigns. Finally, after a period of recovery, Mao will launch his famous "Hundred Flowers" movement followed quickly by the Anti-Rightist campaign and the launch of the Great Leap Forward in 1958 that will result in the most devastating man-made famine in history. 
+
+### Required Reading
+
+Primary Sources (53pp):
+
+- Hinton, William. *Fanshen: A Documentary of Revolution in a Chinese Village*. Electronic book. 1966. [Link](https://library.st-andrews.ac.uk/record=b1940626~S5) Ch 11 + Ch 13 + Ch 15 + Ch 29 (33pp)
+- SOURCES: [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
+    - Mao "On the Correct Handling of Contradictions Among the People" including "On 'Letting a Hundred Flowers Blossom'"  pp459-464
+    - Peng Dehuai "Letter of Opinion" To Mao [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=428&docID=908711&tm=1516892707182) pp469-471
+- Zhou, Xun. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3280978~S5). After reviewing the chronology on pp173-6 1958-61 please read documents:  #14 Report by Comrade Yang Wangxuan (p46), #19 Report regarding villagers in parts of Qu county (pp49-50), #26 A study of cases of cannibalism (only p62), #80 Report on the current situation (pp124-5), #120 speech by comrade Liu Shaoqi (pp163-4)
+
+Secondary Sources (122pp):
+
+- DeMare, Brian. *Land Wars: The Story of China’s Agrarian Revolution*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3624564~S5). Introduction (pp1-25)  + Ch 2 pp48-71 + Ch 4 (pp100-129) 77pp (P)
+- Manning and Wemheuer eds., *Eating Bitterness: New Perspectives on China's Great Leap Forward* Intro (only p1-9), Ch 4 (only p122-127) + Ch 11 "A Study of Peasant 'Counter-Action'" (pp272-294) 27pp
+* Dikötter, *Tragedy of Liberation*, Ch 5 The Great Terror (the Zhenfan) [Ebook](https://library.st-andrews.ac.uk/record=b2195989~S5) pp84-102. 18pp
+
+Background reading: *The Search for Modern China* Ch 18-21
+
+### Elective Reading (~35-75pp)
+
+Land Reform:
+
+- **(A) Evolving Context in North China** - Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985. [Link](https://library.st-andrews.ac.uk/record=b1939770~S5). Ch 14-16 (pp249-292) (P)
+- **(B) China Turned Rightside Up** - Thaxton, Ralph. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax). Ch 6-8 (pp160-234) (P) 
+- **(C) Shuangcheng County Case Study** - Noellert, Matthew. *Power over Property: The Political Economy of Communist Land Reform in China*. 2021. (In Library) Ch 4-6 (P)
+- **(D) Speaking Bitterness**
+    - Sun, Feiyu. *Social Suffering And Political Confession: Suku In Modern China*. 2012. (Teams) Ch 2 "Suku: Beyond a Political Instrument"
+    - Sorace, Christian, Ivan Franceschini, and Nicholas Loubere. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3613317~S5). Ch 42 "Speaking Bitterness" (pp257-262)
+
+Campaign to Suppress Counterrevolutionaries:
+
+- **(E) Research on the the Zhenfan** 
+    - Strauss, Julia C. ‘Paternalist Terror: The Campaign to Suppress Counterrevolutionaries and Regime Consolidation in the People’s Republic of China, 1950-1953’. *Comparative Studies in Society and History* 44, no. 1 (2002): 80–105. [Link](https://www.jstor.org/stable/3879401).
+    - Kuisong, Yang. ‘Reconsidering the Campaign to Suppress Counterrevolutionaries’. *The China Quarterly*, no. 193 (2008): 102–21. [Link](https://www.jstor.org/stable/20192166).
+    - ‘Reactions to Executions in Beijing (1951)’. *Contemporary Chinese Thought* 38, no. 3 (1 April 2007): 10–24. [DOI](https://doi.org/10.2753/CSP1097-1467380301).
+- **(F) Hangzhou During the Zhenfan** - Gao, James Zheng. *The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954*. [Link](https://library.st-andrews.ac.uk/record=b3173372~S5) Ch 3 "The First Efforts" + Ch 5 "The Korean War and the City"
+
+Great Famine:
+
+- **(G) Dikötter's Great Famine**
+    - Dikötter, Frank. *Mao’s Great Famine* 2011. Ch 7-11 + Ch 35.
+    - Garnaut, Anthony. “Hard Facts and Half-Truths: The New Archival History of China’s Great Famine.” *China Information* 27, no. 2 (July 1, 2013): 223–46. [link](https://doi.org/10.1177/0920203X13485390)
+    - Jeremy Brown, review of Rana Mitter, *China’s War with Japan, 1937-1945: The Struggle for Survival* (Allen Lane, 2013) and Frank Dikötter, *The Tragedy of Liberation: A History of the Chinese Revolution, 1945-57* (Bloomsbury, 2013), *The Times Literary Supplement* (February 28, 2014): 24. 4pp. [Link](https://jeremybrownchina.com/wp-content/uploads/2016/05/jbrownmitterdikotterreview.pdf)
+- **(H) The "Better to let half the people die" controversy** (Ideally someone who can read Chinese)
+    - Dikötter, Frank. *Mao's Great Famine* 2011. p88-9. (Teams)
+    - Zhou Xun (and Frank Dikötter) version:  Zhou, Xun. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3280978~S5) Document #5 (just p20)
+    - Gansu archival version (in Chinese): Gansu Provincial Archives 91-018-0494-0005, 44-49. Mao Zedong's Interjections at the March 26, 1959, Meeting in Shanghai. Obtained by Frank Dikotter. [Link](https://digitalarchive.wilsoncenter.org/document/mao-zedongs-interjections-march-26-1959-meeting-shanghai)
+    - Alternative record of the meeting: Hebei Provincial Archives 855-5-1545-2. Transcribed by Zhiyi Fan. [Link](https://digitalarchive.wilsoncenter.org/document/chairmans-interjections-during-comrade-bo-yibos-report-industrial-production-march-26)
+    - Commentary: “Looking for Great Leap ‘smoking gun’ document” [H-PRC](https://networks.h-net.org/node/3544/discussions/99266/looking-great-leap-smoking-gun-document)
+- **(I) Eating Bitterness** - Manning and Wemheuer eds., *Eating Bitterness: New Perspectives on China's Great Leap Forward* (In Library) Ch 3 + Ch 5 + Ch 8
+- **(J) The Great Leap in Da Fo Village** - Thaxton, Ralph. *Catastrophe and Contention in Rural China: Mao’s Great Leap Forward Famine and the Origins of Righteous Resistance in Da Fo Village*. 2008. [Link](http://library.st-andrews.ac.uk/record=b3043303~S5) Introduction + Ch 4-6 (P)
+- **(K) The Great Leap for the Yi Minority in Yunnan** - Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. [Link](https://library.st-andrews.ac.uk/record=b3568916~S5). Introduction, Ch 6 "A Spectral State"
+- **(L) Qin Village, Jiangsu Case Study** - Li, Huaiyin. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009. (In Library) Ch 2-4. (P)
+- **(M) The Political Economy of the Great Leap** - Yang, Dali L. *Calamity and Reform in China: State, Rural Society, and Institutional Change Since the Great Leap Famine*. 1996. (In Library) Ch 1-3.
+- **(N) Pioneering Research: Tombstone** - Yang, Jisheng. *Tombstone: The Untold Story of Mao’s Great Famine*. 2012. Intro (An Everlasting Tombstone) + Ch 13-14 (P)
+- **(O) A Revisionist View on the Great Leap** - Songlin, Yang. *Telling the Truth: China’s Great Leap Forward, Household Registration and the Famine Death Tally*. 2021 [Link](https://library.st-andrews.ac.uk/record=b3160067~S5) "In Lieu of an Introduction" + Ch 7 + Ch 12 + Ch 14
+
+#### To Watch
+
+- Watch either the [opera](https://www.youtube.com/watch?v=W7zN1BJzLFU) or the [film version](https://www.youtube.com/watch?v=C3wYnSM0MGc&t=2045s) of *The White Haired Girl*.
+- Watch Part I, just the first 38 minutes of *"Les camps, secret du pouvoir Chinois" (with English subtitles) [Link](https://www.youtube.com/watch?v=qFtFIcMK9Ow)  
+* Watch these short clips on the Hundred Flowers Movement and anti-rightist repression that followed:
+    * X: [Hundred Flowers Movement](https://www.youtube.com/watch?v=jv2qHZQtdPA)
+    * X: [Scholars and Emperors](https://www.youtube.com/watch?v=9FzMH4xWFlU)
+    * X: [Nameless Individual](https://www.youtube.com/watch?v=zFc-mfdso-E)
+    * X: [Beginning of the Campaign](https://www.youtube.com/watch?v=QPYhm86WB3A)
+    * X: [Mao and the Hundred Flowers](https://www.youtube.com/watch?v=jouG30gbO-Q)
+    * X: [Three Scourges](https://www.youtube.com/watch?v=00cGU2M5KiI)
+    * X: [End of 100 Flowers](https://www.youtube.com/watch?v=Nlvt9zbrbzo)
+
+### Preparation
+
+- If you wish to submit a [Draft Prospectus](#formative), please share this on Teams by the night before class. 
+- Please continue your research for your essay
+- Don't forget your Mao reading, "Study well, to become every day" (好好学习天天向上)
+- consider coming to talk to me about your essay ideas in office hours.
+
+### Overview
+
+- Activity: We will break into our mutual aid groups to discuss draft prospectuses
+- Presentation 
+- We will have a small group discussion on the land reform questions
+- We will devote most of our class time to discussing our readings on the Great Leap Forward and especially its associated famine, which had a devastating impact on China
+
+### Questions
+
+1. The land reform campaign is looked back upon as perhaps the crowning achievement of the Communist Party. Why is this the case? What do you think the arguments are in favor or against such an evaluation?
+2. "In many places land reform - or at least the class struggle that it implies, was, in large part, already complete before land reform began." Discuss and evaluate this claim.
+2. Why was the Great Leap famine unusually devastating? 
+3. What are arguments can be made in favor of different explanations for the Great Leap?
+4. Answer Jeremy Brown's question for students in elective reading (G), "Imagine that China held an open presidential election after Japan surrendered in August 1945. For whom would you have voted?"
+
+### Long Essay Ideas
+
+- This is also a very dark period in Chinese history and somewhat more difficult to explore without the ability to read Chinese primary sources. However, those of you interested in economic history have a lot of possibilities to explore the economic aspects of the great famine (including the role of Chinese exports in this period) and the commune system, and there are also possibilities to explore this period from a comparative perspective.
+- Thinking of things in terms of broad areas, not all of which were included in our seminar discussion: anti-traitor and settling of accounts movements, land reform, civil war period, urban revolutions and student movements, end of Western imperialism in China, China's involvement in Korea, Zhenfan, other campaigns such as the Three-Anti and Five Anti, the Hundred Flowers and the Anti-Rightist campaign, the Great Leap in industry, and the Great Famine in agriculture.
+- There are a range of personal memoirs and accounts that include this period that can form the basis of a student essay. A number of these have been translated or were written by non-Chinese visitors.
+- From an international perspective it might be interesting to explore how this period was depicted abroad at the time with a close case study.
+
+
+### Further Reading
+
+- **The Rice Sprout Song** - Skim Eileen Chang (Zhang Ailing)'s 1955 novel, focusing on its coverage of land reform. See me for a copy.
+- **The Sun Shines over the Sangkan River** - Skim Ding Ling's novel, focusing on its coverage of land reform. In library, or see me for a copy.
+- Brown, Jeremy, and Paul Pickowicz, eds. *Dilemmas of Victory: The Early Years of the People’s Republic of China*. 2007. [Link](http://library.st-andrews.ac.uk/record=b3071732~S5).
+
+- Crook, David, and Isabel Crook. *Revolution in a Chinese Village: Ten Mile Inn*. 2006.
+- Dikötter, Frank. *The Tragedy of Liberation: A History of the Chinese Revolution 1945-1957*. 2013. [Link](http://library.st-andrews.ac.uk/record=b2195989~S5).
+- Hou, Xiaojia. *Negotiating Socialism in Rural China: Mao, Peasants, and Local Cadres, in Shanxi, 1949-1953*. 2016.
+- Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985. [Link](https://library.st-andrews.ac.uk/record=b1939770~S5).
+- Keating, Pauline B. *Two Revolutions: Village Reconstruction and the Cooperative Movement in Northern Shaanxi, 1934-1945*. 1997.
+- Li, Huaiyin. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009.
+- Madsen, Richard. *Morality and Power in a Chinese Village*. 1984.
+- Mao, Zedong. *Report from Xunwu*. 1990.
+- Noellert, Matthew. *Power over Property: The Political Economy of Communist Land Reform in China*. 2021.
+- Selden, Mark. *The Yenan Way in Revolutionary China*. 1971.
+- Siu, Helen F. *Agents and Victims in South China: Accomplices in Rural Revolution*. 1989.
+- Wong, John. *Land Reform in the People’s Republic of China: Institutional Transformation in Agriculture*. 1973.
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5).
+- Chan, Alfred L. *Mao’s Crusade: Politics and Policy Implementation in China’s Great Leap Forward*. 2001.
+- Li, Huaiyin. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009.
+- Manning, Kimberley Ens, and Felix Wemheuer. *Eating Bitterness: New Perspectives on China’s Great Leap Forward and Famine*. 2011.
+- Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. [Link](https://library.st-andrews.ac.uk/record=b3568916~S5).
+- Riskin, Carl. ‘Seven Questions About the Chinese Famine of 1959–1961’. *China Economic Review*, China’s Great Famine, 9, no. 2 (1 September 1998): 111–24. [DOI](https://doi.org/10.1016/S1043-951X(99)80009-1).
+- Teiwes, Frederick C., and Warren Sun. *China’s Road to Disaster: Mao, Central Politicians, and Provincial Leaders in the Unfolding of the Great Leap Forward, 1955-1959*. 1998.
+- Wemheuer, Felix. ‘Dealing with Responsibility for the Great Leap Famine in the People’s Republic of China’. *The China Quarterly* 201 (March 2010): 176–94. [DOI](https://doi.org/10.1017/S0305741009991123).
+- Yang, Jisheng. *Tombstone: The Untold Story of Mao’s Great Famine*. 2012.
+- Zhou, Xun. *Forgotten Voices of Mao’s Great Famine, 1958-1962: An Oral History*. 2013.
+- ———. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3280978~S5).
+- Zürcher, E., Erik Jan Zürcher, and Kim van der Zouw. *Three Months in Mao’s China: Between the Great Leap Forward and the Cultural Revolution*. Electronic book. Cambridge Books Online. 2017.
+- MacFarquhar, Roderick. *The Hundred Flowers Campaign and the Chinese Intellectuals*. 1960.
+- Barnett, A. Doak. *China On The Eve Of Communist Takeover*. 2019.
+- Lary, Diana. *China’s Civil War: A Social History, 1945-1949*. Electronic book. New Approaches to Asian History 13. 2015.
+- Levine, Steven I. *Anvil of Victory: The Communist Revolution in Manchuria 1945-1948*. 1987.
+- Lieberthal, Kenneth. *Revolution and Tradition in Tientsin, 1949-1952*. 1980.
+- Tanner, Harold M. *The Battle for Manchuria and the Fate of China: Siping, 1946 (Twentieth-Century Battles)*. 2013.
+- Xia, Yun. *Down with Traitors: Justice and Nationalism in Wartime China*. 2017.
+- Goncharov, Serge? Nikolaevich, John Wilson Lewis, and Litai Xue. *Uncertain Partners: Stalin, Mao, and the Korean War*. 1993.
+- Jian, Chen. *China’s Road to the Korean War: The Making of the Sino-American Confrontation*. 1995.
+- Zhang, Shu Guang. *Mao’s Military Romanticism: China and the Korean War, 1950-1953*. 1995.
+- Friedman, Edward, Paul Pickowicz, and Mark Selden. *Chinese Village, Socialist State* (P)
+- Amartya Sen *Poverty and Famine* 
+- Joan Scott *Weapons of the Weak* (P)
+- Mukherjee, Janam. *Hungry Bengal: War, Famine and the End of Empire* (P)
+
+### Films of Interest
+
+- To Live (活着 1994)
+- The Blue Kite (蓝风筝 1993）
+- The Battle at Lake Changjin (长津湖 2021)
+- The Battle at Lake Changjin II (长津湖之水门桥 2022)
+
+\newpage
 
 ## Week 5 - The Cultural Revolution {#cr}
 
-- Origins and focus on peak period 1966-8, followed by discussion of the anti-Lin anti-Confucius campaign and down to the countryside campaign
+Perhaps the most iconic and frequently depicted period in modern Chinese history. We will attempt to disentangle the Cultural Revolution (CR) by exploring its different stages, the different scales at which we can analyse it, attempts to understand and explain it, and the experiences of those who lived through it. 
+
+
+
+### To Watch
+
+- *Morning Sun* [Link](https://www.dailymotion.com/video/x8i3q3m) Also in Library. (2hrs)
+* MacFarquhar (author of *Origins of the Cultural Revolution* and co-author of *Mao's Last Revolution*) on CR:
+    * X: [Setting the Stage](https://www.youtube.com/watch?v=aOh2QW6diA4)
+    * X: [To Rebel is Justified, Bombard the Headquarters](https://www.youtube.com/watch?v=c8OHSd4sWH8)
+
+### Required Reading
+
+Primary Sources (pp14)
+
+- Ebrey, Patricia Buckley. *Chinese Civilization: A Sourcebook*. 2009. (Teams) Ch 93 pp449-57 
+* SOURCES Ch 36 Mao Regime [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
+    * "Sixteen Points" (pp474-5)
+    * "Red Guard Memoirs" (pp478-481)
+
+Secondary Sources (pp165)
+
+- Wemheuer, Felix. *A Social History of Maoist China*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3037920~S5) pp196-206 "The Question of Periodization in the Cultural Revolution", "1966 to 1968: A Chronology" (this is part of Ch 6)
+- MacFarquhar and Schoenhals *Mao's Last Revolution* Ch 4-10 (pp66-183), Ch 14 (pp239-252) 130pp [Link](https://library.st-andrews.ac.uk/record=b3212929~S5)
+- Walder, Andrew G., and Yang Su. “The Cultural Revolution in the Countryside: Scope, Timing and Human Impact.” *The China Quarterly* 173 (March 2003): 74–99. [link](https://doi.org/10.1017/S0009443903000068)
+
+### Elective Reading (~40-70pp)
+
+- **(A) Fractured Rebellion** - Walder, Andrew G. *Fractured Rebellion: The Beijing Red Guard Movement*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3172713~S5) Ch 1 (pp1-27) + Ch 9 (pp223-249) +Ch 10 (pp250-264). 67pp (P)
+
+- **(B) Mao Cult** - Leese, Daniel. *Mao Cult: Rhetoric and Ritual in China’s Cultural Revolution*. Cambridge Books Online. 2011. [Link](https://library.st-andrews.ac.uk/record=b3056982~S5) Ch 4-5 + Ch 9. 70pp (P)
+
+- **(C) Tibet During the CR** - Woeser, Tsering. *Forbidden Memory: Tibet During the Cultural Revolution*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3624260~S5) Introduction (20pp) + "The Red Guards in Lhasa Take Action" (pp41-68) + browse photos in Gallery 3 starting p81. 47pp (P)
+
+- **(D) CR in Chen Village** - Chan/Madsen, Anita Chan, Richard Madsen, and Jonathan Unger. *Chen Village: Revolution to Globalization*. 2010. [Link](https://library.st-andrews.ac.uk/record=b3575611~S5) Ch 3 (only pp74-84) and Ch 4-5 (pp103-158, before end of Ch 5). 65pp
+
+- **(E) Red Guard Generation** - Yang, Guobin. *The Red Guard Generation and Political Activism in China*. 2016. [Link](https://library.st-andrews.ac.uk/record=b3068217~S5) Ch 1 (pp18-47) + Ch 3 (pp69-92) + Conclusion. 62pp 
+
+- **(F) Industrial Citizenship** - Andreas, Joel. *Disenfranchised: The Rise and Fall of Industrial Citizenship in China*. 2019. [Link](https://library.st-andrews.ac.uk/record=b2901050~S5) Ch 5-6 (pp99-165) 66pp (P)
+
+- **(G) The Killing Wind** - Tan, Hecheng. *The Killing Wind: A Chinese County’s Descent Into Madness During the Cultural Revolution*. 2017. (In Library) Introduction (pp1-5) Ch 4-5 (pp40-58) + Ch 8-9 (99-122) + Afterward (pp453-464). 57pp (P)
+
+- **(H) Collective Killings** - Yang, Su. *Collective Killings in Rural China during the Cultural Revolution*. 2011. [Link](<D-c>http://library.st-andrews.ac.uk/record=b3042793~S5). Ch 1-2 (pp1-67)  (P)
+
+- **(I) Across the Great Divide** - Honig, Emily, and Xiaojian Zhao. *Across the Great Divide: The Sent-down Youth Movement in Mao’s China, 1968-1980*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3037134~S5) Intro + Ch 1-2 (pp1-64) (P)
+
+- **(J) The Lost Generation** - Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth (1968–1980)*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624212~S5) Ch 1-2 (pp3-24) + Ch 5 (but only pp65-101) 59pp (P)
+
+- **(K) Dressed to Kill** 60pp
+    - Finnane, Antonia. ‘Dressed to Kill in the Cultural Revolution’. In *Changing Clothes in China: Fashion, History, Nation*. 2008. (In Library) pp227-256
+    - Finnane, Antonia. *How to Make a Mao Suit: Clothing the People of Communist China, 1949-1976*. 2023. [Link](https://library.st-andrews.ac.uk/record=b3569568~S5) Intro (pp1-24) + Conclusion (pp290-297)
+
+- **(L) Cultural Revolution Culture** - Mittler, Barbara. *A Continuous Revolution: Making Sense of Cultural Revolution Culture*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3521126~S5) Read one of the following: Ch 1 (but only pp39-97) OR Ch 3 (pp139-189) OR Ch 5 (pp267-330)
+
+**Preparation:**
+
+* Look through these posters related to the Cultural Revolution by browsing the following page, and then the various pages for individual campaigns 1966-1976:
+    * Chineseposters.net: [https://chineseposters.net/themes/cultural-revolution-campaigns.php](https://chineseposters.net/themes/cultural-revolution-campaigns.php)
+* Please use this week to make serious progress on developing your ideas for the long essay.
+
+**Overview:**
+
+* We'll learn a few Chinese phrases popular among young revolutionaries
+* We will discuss how one might talk about several cultural revolutions that call for entirely different historical approaches: the focus on a political campaign carried out by Mao that MacFarquhar emphasises; the experience of its violence by its victims; the campaign to send youth to the villages; a localised political transformation; an emancipatory breathe of fresh air for those who participated actively; a period of cultural devastation for China; the way that all of these have come to be remembered.
+
+**Questions:**
+
+1. How does the Cultural Revolution differ from the many political campaigns that preceded it?
+2. What are the longer term legacies of the Cultural Revolution?
+
+**Long Essays:**
+
+The cultural revolution is one of the most fascinating periods of PRC history. There are many published accounts, visual sources, documentary collections (The *Not a Dinner Party* collection by Schoenhals is one important one) and literary materials that can form the basis of a student essay.
+
+### Further Reading
+
+- Brown, *Maoism at the Grassroots: Everyday Life in Chinas Era of High Socialism* Ch: 2.9 China's "Great Proletarian Information Revolution" of 1966-1967, p230-248.
+* ter Haar, Barend.  “Rethinking Violence in Chinese Culture.”  In Goran Aijmer and Jos Abbink, eds., *Meanings of Violence: A Cross Cultural Perspective*
+* Read rest of MacFarquhar, *Mao's Last Revolution* (P)
+* Michael Schoenhals, *China's Cultural Revolution, 1966-1969: Not a Dinner Party*
+* Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth* (P)
+* White, Lynn T. *Policies of Chaos: the organisational causes of violence in China's Cultural Revolution*. (P)
+* Walder, Andrew G and Dong Guoqiang "Local Politics in the Chinese Cultural Revolution: Nanjing under Military Control” *Journal of Asian Studies* 70.2 (2011)
+* Frank Dikötter, *The Cultural Revolution: A People's History*
+* White, *Policies of Chaos* (P)
+* Esherick, *The Chinese Cultural Revolution As History* (P)
+* MacFarquhar, *Origins of the Cultural Revolution*, vols 1-3 (P)
+* Yue, *To the Storm: The Odyssey of a Revolutionary Chinese Woman* (P)
+* Wu, Yiching. *The Cultural Revolution at the Margins*
+* Nien, *Life and Death in Shanghai*
+* Feng, *Ten Years of Madness* (P)
+* Rae Yang, *Spider Eaters: A Memoir*. (P)
+* Gao, *Born Red: A Chronicle of the Cultural Revolution* (P)
+* Li, *Private Life of Chairman Mao*
+* Yang, *Collective Killings During the Cultural Revolution* (P)
+* Walder, Andrew, *Fractured Rebellion: The Beijing Red Guard Movement*
+* Perry, Elizabeth, and Li Xun, *Proletarian Power: Shanghai in the Cultural
+Revolution*
+
+### Films of Interest
+
+- Consider watching the rest of Part 1 of *"Les camps, secret du pouvoir Chinois" (with English subtitles) [Link](https://www.youtube.com/watch?v=qFtFIcMK9Ow) 
+- Documentary: *Though I am Gone* [Link](https://www.youtube.com/watch?v=eBfGc3-InrA)
+- *How Yukong Moved the Mountains* (pro-CR documentary series) [Link](https://www.youtube.com/playlist?list=PL3fsZgrmuTzdfPnyHdHL6YqPxcMSw2IfY)
+- *Breaking with Old Ideas* (决裂 1975) [Link](https://www.youtube.com/watch?v=ud4uepvluds)
+- *The East Is Red* (1965)
+- again *To Live*
+- again *Farewell my Concubine*
+- *In the Heat of the Sun* (阳光灿烂的日子 1994)
+- *Hibiscus Town* (芙蓉镇 1986)
+- *Balzac and the Little Chinese Seamstress* (巴尔扎克与小裁缝 2002)
+- *Under the Hawthorn Tree* (山楂树之恋 2010)
+- *11 Flowers* (我十一 2011)
+- *Up to the Mountain Down to the Village*
+- *The Coldest Winter in Peking* (皇天后土 1981 - Taiwan film) [Link](https://www.youtube.com/watch?v=rvfvT9mUSs0) 
+- *King of the Children* (孩子王 1987)
+- *Coming Home* (归来 2014)
+- *One Second* (一秒钟 2020)
+- *Xiu Xiu: The Sent Down Girl* (天浴 1998)
+- *Red Violin* (1998)
+
+\newpage
 
 ## Independent Learning Week {#ilw}
 
-- make progress on your long essay
-
 ## Week 7 - From Reform to “Six Four”: Tiananmen {#tian}
 
-- Focus on 1989 with elective readings on 70s protest movement and 80s reform
+Key Texts and Presentation Texts:
+
+- Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P)
+- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. [Link](https://library.st-andrews.ac.uk/record=b2058943~S5) (P)
+- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. [Link](https://library.st-andrews.ac.uk/record=b2173330~S5) (P)
+- Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3278688~S5) (P)
+- Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. 1994. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5)
+
 
 ## Week 8 - Reforming Thought {#sixiang}
 
-- Full week on the "ideological struggle" "thought reform" and its social impact 
+Key Texts and Presentation Texts:
+
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5) (P)
+- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. [Link](https://library.st-andrews.ac.uk/record=b3599961~S5) (P)
+- Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3221515~S5) (P)
+- Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3281069~S5) (P)
+- Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5). (P)
+- Schoenhals, Michael. *Spying for the People: Mao’s Secret Agents, 1949-1967*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3048679~S5) (P)
+
 
 ## Week 9 - Gender and the Family {#gender}
 
-- On changing views about the family, women's role in society, of masculinities and sexuality
+Key Texts and Presentation Texts:
+
+- Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. [Link](https://library.st-andrews.ac.uk/record=b3287142~S5) (P)
+- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3288095~S5) (P)
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003. [Link](https://library.st-andrews.ac.uk/record=b3285896~S5) (P)
+- Hershatter, Gail. *Women and China’s Revolutions*. 2018.
+- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2431654~S5)
+- Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5).
+- Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. 1995. [Link](http://library.st-andrews.ac.uk/record=b1940470~S5). (P)
+- Davin, Delia. *Woman-Work Women and the Party in Revolutionary China*. 1976. [Link](https://library.st-andrews.ac.uk/record=b1939421~S5)
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P)
 
 ## Week 10 - Mao's Revolution in a Global Context {#world}
 
-- on "global Maoism"; cases include Peru, India, Tibet, France, 
+Key Texts and Presentation Texts:
+
+- Lovell, Julia. *Maoism: A Global History*. 2019. (P)
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5)
+- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3244068~S5) (P)
+- Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3087999~S5) (P)
+- Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3076869~S5) (P)
+- Galimberti, Jacopo, Noemí de Haro García, Victoria H. F. Scott, eds. *Art, Global Maoism and the Chinese Cultural Revolution*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3009034~S5)
+- Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P)
+
 
 ## Week 11 - Culture, History, and Memory {#culture}
 
-- exploring the culture of the revolution and how history and memory are embedded in everyday life
+Key Texts and Presentation Texts:
+
+- Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3058820~S5) (P)
+- Laikwan, Pang. *The Art of Cloning: Creative Production During China’s Cultural Revolution*. 2017.
+- Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3173013~S5) (P)
+- Veg, Sebastian, ed. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. 2019. [Link](https://library.st-andrews.ac.uk/record=b2901265~S5)
+- Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3164128~S5) (P)
+- Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3133146~S5) (P)
+- Goldman, Merle. *Literary Dissent in Communist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3072516~S5)
+- Lee, Jennifer Dorothy. *Anxiety Aesthetics: Maoist Legacies in China, 1978–1985*. 2024. [Link](https://library.st-andrews.ac.uk/record=b3604653~S5) (P)
+- Culp, Robert. *The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3069065~S5) (P)
+
+
+
+
+
+
+
+

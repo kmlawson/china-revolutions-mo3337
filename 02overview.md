@@ -7,7 +7,7 @@
 1. 17 Sep [**Rebellions and Revolution**](#reb)
 2. 24 Sep [**From 1911 to May Fourth**](#may)
 3. 01 Oct [**Building Revolution and the War with Japan, 1931-1945**](#sj)
-4. 08 Oct [**Great Leaps Forward: Violence and Reform 1942-1961**](#gl)
+4. 08 Oct [**Great Leaps Forward: Violence and Reform 1945-1961**](#gl)
 5. 15 Oct [**The Cultural Revolution**](#cr)
 6. [*Independent Learning Week*](#ilw)
 7. 29 Oct [**From Reform to "Six Four": Tiananmen**](#tian)
