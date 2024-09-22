@@ -499,13 +499,11 @@ Great Famine:
 - There are a range of personal memoirs and accounts that include this period that can form the basis of a student essay. A number of these have been translated or were written by non-Chinese visitors.
 - From an international perspective it might be interesting to explore how this period was depicted abroad at the time with a close case study.
 
-
 ### Further Reading
 
-- **The Rice Sprout Song** - Skim Eileen Chang (Zhang Ailing)'s 1955 novel, focusing on its coverage of land reform. See me for a copy.
-- **The Sun Shines over the Sangkan River** - Skim Ding Ling's novel, focusing on its coverage of land reform. In library, or see me for a copy.
+- Skim Eileen Chang (Zhang Ailing)'s 1955 novel *The Rice Sprout Song*, focusing on its coverage of land reform. See me for a copy.
+- Skim Ding Ling's novel *The Sun Shines over the Sangkan River*, focusing on its coverage of land reform. In library, or see me for a copy.
 - Brown, Jeremy, and Paul Pickowicz, eds. *Dilemmas of Victory: The Early Years of the People’s Republic of China*. 2007. [Link](http://library.st-andrews.ac.uk/record=b3071732~S5).
-
 - Crook, David, and Isabel Crook. *Revolution in a Chinese Village: Ten Mile Inn*. 2006.
 - Dikötter, Frank. *The Tragedy of Liberation: A History of the Chinese Revolution 1945-1957*. 2013. [Link](http://library.st-andrews.ac.uk/record=b2195989~S5).
 - Hou, Xiaojia. *Negotiating Socialism in Rural China: Mao, Peasants, and Local Cadres, in Shanxi, 1949-1953*. 2016.
@@ -683,6 +681,8 @@ Revolution*
 
 ## Week 7 - From Reform to “Six Four”: Tiananmen {#tian}
 
+hic sunt dracones
+
 Key Texts and Presentation Texts:
 
 - Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P)
@@ -693,6 +693,9 @@ Key Texts and Presentation Texts:
 
 
 ## Week 8 - Reforming Thought {#sixiang}
+
+hic sunt dracones
+
 
 Key Texts and Presentation Texts:
 
@@ -705,6 +708,8 @@ Key Texts and Presentation Texts:
 
 
 ## Week 9 - Gender and the Family {#gender}
+
+hic sunt dracones
 
 Key Texts and Presentation Texts:
 
@@ -720,6 +725,8 @@ Key Texts and Presentation Texts:
 
 ## Week 10 - Mao's Revolution in a Global Context {#world}
 
+hic sunt dracones
+
 Key Texts and Presentation Texts:
 
 - Lovell, Julia. *Maoism: A Global History*. 2019. (P)
@@ -732,6 +739,8 @@ Key Texts and Presentation Texts:
 
 
 ## Week 11 - Culture, History, and Memory {#culture}
+
+hic sunt dracones
 
 Key Texts and Presentation Texts:
 
