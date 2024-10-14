@@ -300,8 +300,9 @@ This week we will collectively build up class knowledge about a range of histori
 - **(J) Goodman** Goodman, David S. G. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000. Ch 1 + Ch 7 + Conclusion (P)
 - **(J) Gatu** Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008. Intro + Ch 5-6 + Conclusion (P)
 - **(K) Esherick** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5) Preface + Ch 5-6 (P)
+- **(L) 訴苦復仇 (1947)** - Special elective reading for a volunteer student who is comfortable reading Chinese with full form characters. Please do a handout for this. See Teams. 
 
-Background reading: 
+( Background reading: )
 
 *The Search for Modern China* Ch 16-17 but better for our purposes is probabely: Van Slyke, Lyman. ‘The Chinese Communist Movement during the Sino-Japanese War 1937–1945’. In *The Cambridge History of China: Volume 13: Republican China 1912–1949*, edited by Albert Feuerwerker and John K. Fairbank, 13:609–722. The Cambridge History of China. 1986. [DOI](https://doi.org/10.1017/CHOL9780521243384.013).
 
@@ -328,6 +329,7 @@ Background reading:
 
 - Activity: We will have our first [Events Quiz](#events) today
 - Activity: We will meet with our mutual-aid groups to discuss progress on essay, sharing ideas, and reflecting on the model essays that were shared
+- Activity: Presentation
 - We will try to divide our reading discussion into three: primary sources, rectification, but a good chunk of time will be spent on the different approaches to the wartime base areas in the elective readings so please come prepared to introduce your elective reading to others in groups and in the class as a whole.
 
 ### Questions
@@ -349,8 +351,6 @@ Background reading:
 
 ### Further Reading
 
-- Brook, Timothy. *Collaboration: Japanese Agents and Local Elites in Wartime China*. 2005.
-- Bunker, Gerald E. *The Peace Conspiracy; Wang Ching-Wei and the China War, 1937-1941*. 1972.
 - Dryburgh, Marjorie. *North China and Japanese Expansion 1933-1937: Regional Power and the National Interest*. 2013.
 - ———. ‘Deconstructing the Construction of the Party-State: Gulin County in the Shaan-Gan-Ning Border Region’. *The China Quarterly*, no. 140 (1994): 1052–79. [Link](https://www.jstor.org/stable/655194).
 - Howard, Joshua H. *Workers at War: Labor in China’s Arsenals, 1937-1953*. 2004. (P)
@@ -359,7 +359,6 @@ Background reading:
 - Hung, Chang-tai. *War and Popular Culture: Resistance in Modern China, 1937-1945*. 1994. [Link](http://ark.cdlib.org/ark:/13030/ft829008m5/). (P)
 - Keating, Pauline B. *Two Revolutions: Village Reconstruction and the Cooperative Movement in Northern Shaanxi, 1934-1945*. 1997.
 - Lai, Sherman Xiaogang. *A Springboard to Victory: Shandong Province and Chinese Communist Military and Financial Strength, 1937-1945*. 2011. (P)
-- Lary, Diana, and Stephen MacKinnon. *Scars of War: The Impact of Warfare on Modern China*. 2011.
 - MacKinnon, Stephen R. *China at War: Regions of China, 1937-1945*. 2007.
 - Mitter, Rana. *The Manchurian Myth: Nationalism, Resistance and Collaboration in Modern China*. 2000. (P)
 - Peck, Graham. *Two Kinds of Time*. 2018.
@@ -367,12 +366,15 @@ Background reading:
 - Schran, Peter. *Guerilla Economy: The Development of the Shensi-Kansu-Ninghsia Border Region, 1937-1945*. 1976. (P)
 - Brook, Timothy, ed. *Documents on the Rape of Nanking*. 1999.
 - Henshaw, Jonathan, Craig A. Smith, and Norman Smith. *Translating the Occupation: The Japanese Invasion of China, 1931–45*. 2021.
+- Lary, Diana, and Stephen MacKinnon. *Scars of War: The Impact of Warfare on Modern China*. 2011.
 - Lary, Diana. *The Chinese People at War: Human Suffering and Social Transformation, 1937-1945*. 2010.
 - Mitter, Rana. *China’s War with Japan, 1937-1945: The Struggle for Survival*. 2013.
 - Peattie, Mark, Edward J. Drea, and Hans J. Van de Ven. *The Battle for China: Essays on the Military History of the Sino-Japanese War of 1937-1945*. 2010.
 - Schoppa, R. Keith. *In a Sea of Bitterness: Refugees During the Sino-Japanese War*. 2011.
 - Van de Ven, Hans J. *China at War: Triumph and Tragedy in the Emergence of the New China 1937-1952*, 2017.
 - Wakabayashi, Bob Tadashi. *The Nanking Atrocity, 1937-1938: Complicating the Picture*. 2017.
+- Brook, Timothy. *Collaboration: Japanese Agents and Local Elites in Wartime China*. 2005.
+- Bunker, Gerald E. *The Peace Conspiracy; Wang Ching-Wei and the China War, 1937-1941*. 1972.
 
 Bibliography: [The Republic - Readings](#minguo)  
 Bibliography: [Chinese Communist Revolution - Readings](#prc)
@@ -404,7 +406,7 @@ Japanese surrender in 1945 is soon followed by civil war on a huge scale, one wh
 
 Primary Sources (53pp):
 
-- Hinton, William. *Fanshen: A Documentary of Revolution in a Chinese Village*. Electronic book. 1966. [Link](https://library.st-andrews.ac.uk/record=b1940626~S5) Ch 11 + Ch 13 + Ch 15 + Ch 29 (33pp)
+- Hinton, William. *Fanshen: A Documentary of Revolution in a Chinese Village*. Electronic book. 1966. [Link](https://library.st-andrews.ac.uk/record=b1940626~S5) Ch 11 + Ch 13 + Ch 15 + Ch 29 (33pp) Also, see this [website in progress](https://froginawell.net/frog/fanshen/)
 - SOURCES: [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
     - Mao "On the Correct Handling of Contradictions Among the People" including "On 'Letting a Hundred Flowers Blossom'"  pp459-464
     - Peng Dehuai "Letter of Opinion" To Mao [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=428&docID=908711&tm=1516892707182) pp469-471
@@ -416,7 +418,7 @@ Secondary Sources (122pp):
 - Manning and Wemheuer eds., *Eating Bitterness: New Perspectives on China's Great Leap Forward* Intro (only p1-9), Ch 4 (only p122-127) + Ch 11 "A Study of Peasant 'Counter-Action'" (pp272-294) 27pp
 * Dikötter, *Tragedy of Liberation*, Ch 5 The Great Terror (the Zhenfan) [Ebook](https://library.st-andrews.ac.uk/record=b2195989~S5) pp84-102. 18pp
 
-Background reading: *The Search for Modern China* Ch 18-21
+( Background reading: *The Search for Modern China* Ch 18-21 )
 
 ### Elective Reading (~35-75pp)
 
@@ -461,7 +463,7 @@ Great Famine:
 
 - Watch either the [opera](https://www.youtube.com/watch?v=W7zN1BJzLFU) or the [film version](https://www.youtube.com/watch?v=C3wYnSM0MGc&t=2045s) of *The White Haired Girl*.
 - Watch Part I, just the first 38 minutes of *"Les camps, secret du pouvoir Chinois" (with English subtitles) [Link](https://www.youtube.com/watch?v=qFtFIcMK9Ow)  
-* Watch these short clips on the Hundred Flowers Movement and anti-rightist repression that followed:
+* We aren't dedicating class discussion to this, but if you are interested in the '57-'58 period, watch these short clips on the Hundred Flowers Movement and anti-rightist repression that followed:
     * X: [Hundred Flowers Movement](https://www.youtube.com/watch?v=jv2qHZQtdPA)
     * X: [Scholars and Emperors](https://www.youtube.com/watch?v=9FzMH4xWFlU)
     * X: [Nameless Individual](https://www.youtube.com/watch?v=zFc-mfdso-E)
@@ -472,16 +474,16 @@ Great Famine:
 
 ### Preparation
 
-- If you wish to submit a [Draft Prospectus](#formative), please share this on Teams by the night before class. 
+- If you wish to submit a [Draft Prospectus](#formative), please share this on Teams by the night before class. We will make time for discussion around this in class.
 - Please continue your research for your essay
-- Don't forget your Mao reading, "Study well, to become every day" (好好学习天天向上)
+- Don't forget your daily Mao reading, "Study well, to become every day!" (好好学习天天向上!)
 - consider coming to talk to me about your essay ideas in office hours.
 
 ### Overview
 
-- Activity: We will break into our mutual aid groups to discuss draft prospectuses
-- Presentation 
-- We will have a small group discussion on the land reform questions
+- Activity: We will break into our mutual aid groups to discuss draft prospectuses. If anyone in your group hasn't submitted one, please: no struggle sessions, but ask them how things are coming along with their research. 
+- Activity: Presentation 
+- We will have a small group discussion on the land reform questions below.
 - We will devote most of our class time to discussing our readings on the Great Leap Forward and especially its associated famine, which had a devastating impact on China
 
 ### Questions
@@ -543,6 +545,8 @@ Great Famine:
 - Joan Scott *Weapons of the Weak* (P)
 - Mukherjee, Janam. *Hungry Bengal: War, Famine and the End of Empire* (P)
 
+Bibliography: [Chinese Communist Revolution - Readings](#prc)
+
 ### Films of Interest
 
 - To Live (活着 1994)
@@ -554,9 +558,7 @@ Great Famine:
 
 ## Week 5 - The Cultural Revolution {#cr}
 
-Perhaps the most iconic and frequently depicted period in modern Chinese history. We will attempt to disentangle the Cultural Revolution (CR) by exploring its different stages, the different scales at which we can analyse it, attempts to understand and explain it, and the experiences of those who lived through it. 
-
-
+Together with the war of resistance against Japan, this is the most iconic and frequently depicted period in modern Chinese history. We will attempt to disentangle the Cultural Revolution (CR) by exploring its different stages, the different scales at which we can analyse it, attempts to understand and explain it, and the experiences of those who lived through it. 
 
 ### To Watch
 
@@ -608,50 +610,140 @@ Secondary Sources (pp165)
 
 - **(L) Cultural Revolution Culture** - Mittler, Barbara. *A Continuous Revolution: Making Sense of Cultural Revolution Culture*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3521126~S5) Read one of the following: Ch 1 (but only pp39-97) OR Ch 3 (pp139-189) OR Ch 5 (pp267-330)
 
-**Preparation:**
 
-* Look through these posters related to the Cultural Revolution by browsing the following page, and then the various pages for individual campaigns 1966-1976:
-    * Chineseposters.net: [https://chineseposters.net/themes/cultural-revolution-campaigns.php](https://chineseposters.net/themes/cultural-revolution-campaigns.php)
-* Please use this week to make serious progress on developing your ideas for the long essay.
+( **Background Reading:** The required *Mao's Last Revolution* offers a solid survey, you may want to explore other chapters in the work.)
+
+### Preparation
+
+- Browse these posters related to the Cultural Revolution by browsing the following page, and then the various pages for individual campaigns 1966-1976:
+    - Chineseposters.net: [https://chineseposters.net/themes/cultural-revolution-campaigns.php](https://chineseposters.net/themes/cultural-revolution-campaigns.php)
+- Please use this week to make serious progress on your long essay and make a plan and schedule for the use of your independent learning week.
+- Take a look at some of the sample essays that are shared in Teams
 
 **Overview:**
 
-* We'll learn a few Chinese phrases popular among young revolutionaries
-* We will discuss how one might talk about several cultural revolutions that call for entirely different historical approaches: the focus on a political campaign carried out by Mao that MacFarquhar emphasises; the experience of its violence by its victims; the campaign to send youth to the villages; a localised political transformation; an emancipatory breathe of fresh air for those who participated actively; a period of cultural devastation for China; the way that all of these have come to be remembered.
+- Activity: Event Quiz 2
+- Activity: Mutual aid group discussion around essay progress and example essays shared. 
+- Activity: Presentation
+- We will discuss how one might talk about several cultural revolutions that call for entirely different historical approaches: the focus on a political campaign carried out by Mao that MacFarquhar emphasises; the experience of its violence by its victims; the campaign to send youth to the villages; a localised political transformation; an emancipatory breathe of fresh air for those who participated actively; a period of cultural devastation for China; the way that all of these have come to be remembered.
+- Activity: We will have a small group discussion around the broader causes and legacies of the CR. What do you understand these to be from the reading? To what degree do your elective readings allow you to better understand it, and why are some of them less able to answer that question?
+- Activity: We will have a small group discussion which focuses on elective readings. Share with your group how your elective reading allows you to better understand an aspect of the experience of the CR in a place, at a time, or from the perspective of particular sets of agents.
 
 **Questions:**
 
-1. How does the Cultural Revolution differ from the many political campaigns that preceded it?
-2. What are the longer term legacies of the Cultural Revolution?
+1. How might we best explain what the Cultural Revolution was as a whole? 
+2. To what degree is it more useful to see the CR from the perspective of a top down political struggle, or a series of society-wide experiences? How might we balance the two?
+2. How does the Cultural Revolution differ from the many political campaigns that preceded it?
+3. What are the longer term legacies of the Cultural Revolution?
 
-**Long Essays:**
+### Long Essays
 
-The cultural revolution is one of the most fascinating periods of PRC history. There are many published accounts, visual sources, documentary collections (The *Not a Dinner Party* collection by Schoenhals is one important one) and literary materials that can form the basis of a student essay.
+The cultural revolution is one of the most fascinating periods of PRC history. There are many published accounts translated from Chinese or written in English, as well as visual sources, documentary collections (The *Not a Dinner Party* collection edited by Schoenhals is one important one) and literary materials that can form the basis of a student essay.
 
 ### Further Reading
 
-- Brown, *Maoism at the Grassroots: Everyday Life in Chinas Era of High Socialism* Ch: 2.9 China's "Great Proletarian Information Revolution" of 1966-1967, p230-248.
-* ter Haar, Barend.  “Rethinking Violence in Chinese Culture.”  In Goran Aijmer and Jos Abbink, eds., *Meanings of Violence: A Cross Cultural Perspective*
-* Read rest of MacFarquhar, *Mao's Last Revolution* (P)
-* Michael Schoenhals, *China's Cultural Revolution, 1966-1969: Not a Dinner Party*
-* Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth* (P)
-* White, Lynn T. *Policies of Chaos: the organisational causes of violence in China's Cultural Revolution*. (P)
-* Walder, Andrew G and Dong Guoqiang "Local Politics in the Chinese Cultural Revolution: Nanjing under Military Control” *Journal of Asian Studies* 70.2 (2011)
-* Frank Dikötter, *The Cultural Revolution: A People's History*
-* White, *Policies of Chaos* (P)
-* Esherick, *The Chinese Cultural Revolution As History* (P)
-* MacFarquhar, *Origins of the Cultural Revolution*, vols 1-3 (P)
-* Yue, *To the Storm: The Odyssey of a Revolutionary Chinese Woman* (P)
-* Wu, Yiching. *The Cultural Revolution at the Margins*
-* Nien, *Life and Death in Shanghai*
-* Feng, *Ten Years of Madness* (P)
-* Rae Yang, *Spider Eaters: A Memoir*. (P)
-* Gao, *Born Red: A Chronicle of the Cultural Revolution* (P)
-* Li, *Private Life of Chairman Mao*
-* Yang, *Collective Killings During the Cultural Revolution* (P)
-* Walder, Andrew, *Fractured Rebellion: The Beijing Red Guard Movement*
-* Perry, Elizabeth, and Li Xun, *Proletarian Power: Shanghai in the Cultural
-Revolution*
+Some Primary Source Accounts on CR:
+
+- ‘An Insider’s Account of the Cultural Revolution: Wang Li’s Memoirs’. Chinese Law and Government 27 (1994): 1.
+- Barthes, Roland. Travels in China. Polity, 2012.
+- Bennett, Gordon A. Ronald N. Montaperto. Red Guard; the Political Biography of Dai Hsiao-Ai. 1st ed. edition. Doubleday, 1971.
+- Bo, Ma. Blood Red Sunset: A Memoir of the Chinese Cultural Revolution. Penguin, 1996.
+- Chen, Jack. A Year in Upper Felicity: Life in a Chinese Village During the Cultural Revolution. Prentice-Hall, 1972.
+- Feng, Jicai. Ten Years of Madness: Oral Histories of China’s Cultural Revolution. China Books, 1996.
+- Han, Dongping. The Unknown Cultural Revolution: Life and Change in a Chinese Village. NYU Press, 2008.
+- Hinton, William. Hundred Day War: The Cultural Revolution at Qinghua University. Foreign Languages Press, 2023.
+- Hunter, Neale. Shanghai Journal: An Eyewitness Account of the Cultural Revolution. Oxford University Press, 1988.
+- Ma, Jisen. The Cultural Revolution in the Foreign Ministry of China. The Chinese University of Hong Kong Press, 2020.
+- Leys, Simon. The Chairman’s New Clothes: Mao and the Cultural Revolution. Allison & Busby, 1981.
+- Lo, Fulang. Morning Breeze: A True Story of China’s Cultural Revolution. China Books & Periodicals, 1989.
+- Lo, Ruth Earnshaw, and Katharine S. Kinderman. In the Eye of the Typhoon: An American Woman in China during the Cultural Revolution. Harcourt Brace Jovanovich, 1980.
+- Min, Anchee. Red Azalea. A&C Black, 2012. https://archive.org/details/redazalea0000unse/.
+- Nee, Victor, and Don Layman. The Cultural Revolution at Peking University. Monthly Review Press, 1969.
+- Nien, Cheng. Life and Death in Shanghai. Grove Press, 1995.
+- Niu-Niu. No Tears for Mao: Growing Up in the Cultural Revolution. Academy Chicago Publishers, 1995.
+- Seltman, Muriel. What’s Left? What’s Right?: A Political Journey via North Korea and the Chinese Cultural Revolution. 2nd Revised ed. edition. Matador, 2014.
+- Wang, Youqin. Victims of the Cultural Revolution: Testimonies of China’s Tragedy. Simon and Schuster, 2023.
+- Wen, Chihua. The Red Mirror: Children Of China’s Cultural Revolution. Routledge, 2018.
+- Wood, Frances. Hand-Grenade Practice in Peking: My Part in the Cultural Revolution. Slightly Foxed, 2011.
+- Yang, Rae. Spider Eaters: A Memoir. University of California Press, 1997.
+- Yang, Xiaokai, and Susan McFadden. Captive Spirits: Prisoners of the Cultural Revolution. Oxford University Press, 1997.
+- Ye, Ting-Xing. My Name Is Number 4: A True Story from the Cultural Revolution. Macmillan + ORM, 2008.
+- Yuan, Gao. Born Red: A Chronicle of the Cultural Revolution. 1st ed. Stanford University Press, 1987.
+- Zhai, Zhen-Hua, and Zhai Zhenhua. Red Flower of China: An Autobiography. Lester Publishing, 1992. [Link](https://archive.org/details/redflowerofchina0000zhai)
+
+Secondary Sources:
+
+- Brown, Jeremy ed. *Maoism at the Grassroots: Everyday Life in Chinas Era of High Socialism* Ch: 2.9 China's "Great Proletarian Information Revolution" of 1966-1967, p230-248.
+- MacFarquhar, Roderick. **The Origins of the Cultural Revolution 3 Vols.** Columbia University Press, 1999.
+Andreas, Joel. ‘Battling over Political and Cultural Power during the Chinese Cultural Revolution’. *Theory and Society* 31, no. 4 (2002): 463–519.
+- ———. *Disenfranchised: The Rise and Fall of Industrial Citizenship in China*. Oxford University Press, 2019.
+- ———. *Rise of the Red Engineers: The Cultural Revolution and the Origins of China’s New Class*. Stanford University Press, 2009.
+- The China Beat. ‘Jokes from the Great Proletarian Cultural Revolution (1966-1976)’. The China Beat (blog), 17 April 2009. [Link](http://thechinabeat.blogspot.com/2009/04/jokes-from-great-proletarian-cultural.html)
+- Bernstein, Thomas P. *Up to the Mountains and Down to the Villages: The Transfer of Youth from Urban to Rural China*. Yale University Press, 1977.
+- Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth (1968–1980)*. The Chinese University of Hong Kong Press, 2013.
+- Chen, Ruoxi, Nancy Ing, and Howard Goldblatt. *The Execution of Mayor Yin and Other Stories from the Great Proletarian Cultural Revolution*. Electronic book. Rev. ed. Bloomington: Indiana University Press, 2004.
+- Chong, Woei Lien. *China’s Great Proletarian Cultural Revolution: Master Narratives and Post-Mao Counternarratives*. Rowman & Littlefield, 2002.
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. Cambridge University Press, 2014.
+- ———. *The Cultural Revolution on Trial: Justice in the Post-Mao Transition*. Cambridge University Press, 2016.
+- DeMare, Brian James. *Mao’s Cultural Army: Drama Troupes in China’s Rural Revolution*. [Link](http://library.st-andrews.ac.uk/record=b3040098~S5)
+- Dikötter, Frank. *The Cultural Revolution: A People’s History, 1962—1976*. Bloomsbury Publishing, 2016.
+- Dittmer, Lowell. *China’s Continuous Revolution: The Post-Liberation Epoch 1949-1981*. Univ of California Press, 2024. 
+- ———. *Liu Shaoqi and the Chinese Cultural Revolution*. Rev. ed. Armonk, N.Y: M.E. Sharpe, 1998.
+- Esherick, Joseph, Paul Pickowicz, and Andrew George Walder. *The Chinese Cultural Revolution as History*. Stanford University Press, 2006.
+- Evans, Harriet, and Stephanie Donald. *Picturing Power in the People’s Republic of China: Posters of the Cultural Revolution*. Rowman & Littlefield, 1999.
+- Fan, Xing. *Staging Revolution: Artistry and Aesthetics in Model Beijing Opera During the Cultural Revolution*. 2018.
+- Ferry, Megan M. ‘China as Utopia: Visions of the Chinese Cultural Revolution in Latin America’. *Modern Chinese Literature and Culture* 12, no. 2 (1 October 2000): 236–69.
+- Forster, Keith. *Rebellion and Factionalism in a Chinese Province: Zhejiang, 1966-76*. Routledge, 1990.
+- Galimberti, Jacopo, Noemí de Haro García, and Victoria H. F. Scott, eds. *Art, Global Maoism and the Chinese Cultural Revolution*. Manchester: Manchester University Press, 2020.
+- Gao, Mobo. *The Battle for China’s Past: Mao and the Cultural Revolution*. Pluto Press, 2008.
+- Gao, Mobo C. F. ‘Debating the Cultural Revolution: Do We Only Know What We Believe?’ *Critical Asian Studies* 34, no. 3 (2002): 419–34. https://doi.org/10.1080/1467271022000008956.
+- Goldstein, Melvyn C., Ben Jiao, and Tanzen Lhundrup. *On the Cultural Revolution in Tibet: The Nyemo Incident of 1969*. Electronic book. De Gruyter: University of California Press, 2009.
+- Guoqiang, Dong, and Andrew G. Walder. *A Decade of Upheaval: The Cultural Revolution in Rural China*. Electronic book. Princeton Studies in Contemporary China 12. De Gruyter: Princeton University Press, 2021.
+- ———. ‘Local Politics in the Chinese Cultural Revolution: Nanjing Under Military Control’. *The Journal of Asian Studies* 70, no. 02 (2011): 425–47. https://doi.org/10.1017/S0021911811000039.
+- Han, Dongping. *The Unknown Cultural Revolution: Life and Change in a Chinese Village.* NYU Press, 2008.
+- Ho, Denise Y. ‘Revolutionizing Antiquity: The Shanghai Cultural Bureaucracy in the Cultural Revolution, 1966-1968’. *The China Quarterly*, no. 207 (2011): 687–705.
+- Honig, Emily. ‘Socialist Sex: The Cultural Revolution Revisited’. *Modern China* 29, no. 2 (1 April 2003): 143–75.
+- Honig, Emily, and Xiaojian Zhao. *Across the Great Divide: The Sent-down Youth Movement in Mao’s China, 1968-1980*. Cambridge: Cambridge University Press, 2019.
+- Huang, Philip C. C. ‘Rural Class Struggle in the Chinese Revolution: Representational and Objective Realities from the Land Reform to the Cultural Revolution’. *Modern China* 21, no. 1 (1 January 1995): 105–43. https://doi.org/10.2307/189284.
+- Lynn T. White. Policies of Chaos: The Organizational Causes of Violence in China’s Cultural Revolution. Princeton Univ Pr, 1991.
+- Jian, Guo, Yongyi Song, and Yuan Zhou. Historical Dictionary of the Chinese Cultural Revolution. Rowman & Littlefield, 2015.
+- Jin, Qiu. *The Culture of Power: The Lin Biao Incident in the Cultural Revolution*. Stanford University Press, 1999.
+Joseph, William A., Christine P. W. Wong, and David Zweig. *New Perspectives on the Cultural Revolution*. BRILL, 1991.
+- Law, K. *The Chinese Cultural Revolution Reconsidered: Beyond Purge and Holocaust*. Palgrave Macmillan UK, 2003.
+- Leese, Daniel. Mao Cult: Rhetoric and Ritual in China’s Cultural Revolution. Cambridge Books Online. Cambridge: Cambridge University Press, 2011.
+- Li, Jie, and Enhua Zhang. Red Legacies in China: Cultural Afterlives of the Communist Revolution. Electronic book. Harvard University Asia Center, 2016.
+- Lifton, Robert Jay. Revolutionary Immortality: Mao Tse-Tung and the Chinese Cultural Revolution. Random House, 1968.
+- Link, E. Perry, ed. Stubborn Weeds: Popular and Controversial Chinese Literature After the Cultural Revolution. Electronic book. Chinese Literature in Translation. Bloomington: Indiana University Press, 1983.
+- Lu, Xing. Rhetoric of the Chinese Cultural Revolution: The Impact on Chinese Thought, Culture, and Communication. Univ of South Carolina Press, 2004.
+- Nianzhong, Ou, Liang Yongkang, and Laura Maynard. Mao’s Lost Children: Stories of the Rusticated Youth of China’s Cultural Revolution. MerwinAsia, 2015.
+- Oksenberg, Michel, Carl Riskin, and Ezra F. Vogel. The Cultural Revolution: 1967 in Review. University of Michigan Press, 1968.
+- Ouyang, Lei X. Music as Mao’s Weapon: Remembering the Cultural Revolution. University of Illinois Press, 2022.
+- Pang, Laikwan. The Art of Cloning: Creative Production During China’s Cultural Revolution. London ; New York: Verso, 2017.
+- Pang, Laikwan, Paul Clark, and Tsan-Huang Tsai. Listening to China’s Cultural Revolution: Music, Politics, and Cultural Continuities. Springer, 2016.
+- Perry, Elizabeth. Proletarian Power: Shanghai In The Cultural Revolution. Routledge, 2018.
+- Schoenhals, Michael. China’s Cultural Revolution, 1966-1969: Not a Dinner Party. Armonk, N.Y. 
+- ———. ‘“Why Don’t We Arm the Left?” Mao’s Culpability for the Cultural Revolution’s “Great Chaos” of 1967’. The China Quarterly 182 (June 2005): 277–300. https://doi.org/10.1017/S0305741005000196.
+- Tan, Hecheng. The Killing Wind: A Chinese County’s Descent Into Madness During the Cultural Revolution. Oxford University Press, 2017.
+- Teiwes, Frederick C., and Warren Sun. The End of the Maoist Era: Chinese Politics During the Twilight of the Cultural Revolution, 1972-1976. Routledge, 2014.
+- ———. The Tragedy of Lin Biao: Riding the Tiger During the Cultural Revolution, 1966-1971. University of Hawaii Press, 1996.
+- Thurston, Anne F. Enemies of the People: The Ordeal of the Intellectuals in China’s Great Cultural Revolution. Harvard University Press, 1988.
+- Trevaskes, Sue. ‘People’s Justice and Injustice: Courts and The Redressing of Cultural Revolution Cases’. China Information 16, no. 2 (1 October 2002): 1–26. https://doi.org/10.1177/0920203X0201600201.
+- Walder, Andrew G. Civil War in Guangxi: The Cultural Revolution on China’s Southern Periphery. Stanford University Press, 2023.
+- ———. Fractured Rebellion: The Beijing Red Guard Movement. Harvard University Press, 2012.
+- Walder, Andrew G., and Yang Su. ‘The Cultural Revolution in the Countryside: Scope, Timing and Human Impact’. The China Quarterly 173 (March 2003): 74–99. https://doi.org/10.1017/S0009443903000068.
+- Wang, Shaoguang. Failure of Charisma: The Cultural Revolution in Wuhan. Hong Kong; New York: Oxford University Press, 1995.
+- Wang, Youqin. ‘Finding a Place for the Victims: The Problem in Writing the History of the Cultural Revolution’. China Perspectives 2007, no. 4 (15 December 2007). https://doi.org/10.4000/chinaperspectives.2593.
+- ———. Victims of the Cultural Revolution: Testimonies of China’s Tragedy. Simon and Schuster, 2023.
+- Wei, Chunjuan Nancy, and Darryl E. Brock. Mr. Science and Chairman Mao’s Cultural Revolution: Science and Technology in Modern China. Rowman & Littlefield, 2013.
+- Wu, Yiching. The Cultural Revolution at the Margins. Harvard University Press, 2014.
+- Yan, Jiaqi, and Gao Gao. Turbulent Decade: A History of the Cultural Revolution. University of Hawaii Press, 1996.
+- Yang, Guobin. The Red Guard Generation and Political Activism in China. Columbia University Press, 2016.
+- Yang, Su. Collective Killings in Rural China during the Cultural Revolution. Cambridge University Press, 2011. http://library.st-andrews.ac.uk/record=b3042793~S5.
+- Yep, Ray. ‘“Cultural Revolution in Hong Kong”: Emergency Powers, Administration of Justice and the Turbulent Year of 1967’. Modern Asian Studies 46, no. 4 (2012): 1007–32.
+- Zang, Xiaowei. Children Of The Cultural Revolution: Family Life And Political Behavior In Mao’s China. Avalon Publishing, 2000.
+- Zuo, Jiping. ‘Political Religion: The Case of the Cultural Revolution in China’. Sociological Analysis 52, no. 1 (1991): 99–110. [Link](https://doi.org/10.2307/3710718)
+
+Bibliography: [Chinese Communist Revolution - Readings](#prc)
 
 ### Films of Interest
 
@@ -679,6 +771,8 @@ Revolution*
 
 ## Independent Learning Week {#ilw}
 
+Make good progress on your essay this week. Your graded prospectus is due Week 7. 
+
 ## Week 7 - From Reform to “Six Four”: Tiananmen {#tian}
 
 hic sunt dracones
@@ -691,11 +785,9 @@ Key Texts and Presentation Texts:
 - Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3278688~S5) (P)
 - Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. 1994. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5)
 
-
 ## Week 8 - Reforming Thought {#sixiang}
 
 hic sunt dracones
-
 
 Key Texts and Presentation Texts:
 
@@ -705,7 +797,6 @@ Key Texts and Presentation Texts:
 - Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3281069~S5) (P)
 - Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5). (P)
 - Schoenhals, Michael. *Spying for the People: Mao’s Secret Agents, 1949-1967*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3048679~S5) (P)
-
 
 ## Week 9 - Gender and the Family {#gender}
 
@@ -736,7 +827,6 @@ Key Texts and Presentation Texts:
 - Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3076869~S5) (P)
 - Galimberti, Jacopo, Noemí de Haro García, Victoria H. F. Scott, eds. *Art, Global Maoism and the Chinese Cultural Revolution*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3009034~S5)
 - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P)
-
 
 ## Week 11 - Culture, History, and Memory {#culture}
 
