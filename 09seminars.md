@@ -463,7 +463,7 @@ Great Famine:
 
 - Watch either the [opera](https://www.youtube.com/watch?v=W7zN1BJzLFU) or the [film version](https://www.youtube.com/watch?v=C3wYnSM0MGc&t=2045s) of *The White Haired Girl*.
 - Watch Part I, just the first 38 minutes of *"Les camps, secret du pouvoir Chinois" (with English subtitles) [Link](https://www.youtube.com/watch?v=qFtFIcMK9Ow)  
-* We aren't dedicating class discussion to this, but if you are interested in the '57-'58 period, watch these short clips on the Hundred Flowers Movement and anti-rightist repression that followed:
+- We aren't dedicating class discussion to this, but if you are interested in the '57-'58 period, watch these short clips on the Hundred Flowers Movement and anti-rightist repression that followed:
     * X: [Hundred Flowers Movement](https://www.youtube.com/watch?v=jv2qHZQtdPA)
     * X: [Scholars and Emperors](https://www.youtube.com/watch?v=9FzMH4xWFlU)
     * X: [Nameless Individual](https://www.youtube.com/watch?v=zFc-mfdso-E)
@@ -476,7 +476,7 @@ Great Famine:
 
 - If you wish to submit a [Draft Prospectus](#formative), please share this on Teams by the night before class. We will make time for discussion around this in class.
 - Please continue your research for your essay
-- Don't forget your daily Mao reading, "Study well, to become every day!" (好好学习天天向上!)
+- Don't forget your daily Mao reading, "Study well, to become better every day!" (好好学习天天向上!)
 - consider coming to talk to me about your essay ideas in office hours.
 
 ### Overview
@@ -644,32 +644,32 @@ The cultural revolution is one of the most fascinating periods of PRC history. T
 
 Some Primary Source Accounts on CR:
 
-- ‘An Insider’s Account of the Cultural Revolution: Wang Li’s Memoirs’. Chinese Law and Government 27 (1994): 1.
-- Barthes, Roland. Travels in China. Polity, 2012.
-- Bennett, Gordon A. Ronald N. Montaperto. Red Guard; the Political Biography of Dai Hsiao-Ai. 1st ed. edition. Doubleday, 1971.
-- Bo, Ma. Blood Red Sunset: A Memoir of the Chinese Cultural Revolution. Penguin, 1996.
-- Chen, Jack. A Year in Upper Felicity: Life in a Chinese Village During the Cultural Revolution. Prentice-Hall, 1972.
-- Feng, Jicai. Ten Years of Madness: Oral Histories of China’s Cultural Revolution. China Books, 1996.
-- Han, Dongping. The Unknown Cultural Revolution: Life and Change in a Chinese Village. NYU Press, 2008.
-- Hinton, William. Hundred Day War: The Cultural Revolution at Qinghua University. Foreign Languages Press, 2023.
-- Hunter, Neale. Shanghai Journal: An Eyewitness Account of the Cultural Revolution. Oxford University Press, 1988.
-- Ma, Jisen. The Cultural Revolution in the Foreign Ministry of China. The Chinese University of Hong Kong Press, 2020.
-- Leys, Simon. The Chairman’s New Clothes: Mao and the Cultural Revolution. Allison & Busby, 1981.
-- Lo, Fulang. Morning Breeze: A True Story of China’s Cultural Revolution. China Books & Periodicals, 1989.
-- Lo, Ruth Earnshaw, and Katharine S. Kinderman. In the Eye of the Typhoon: An American Woman in China during the Cultural Revolution. Harcourt Brace Jovanovich, 1980.
-- Min, Anchee. Red Azalea. A&C Black, 2012. https://archive.org/details/redazalea0000unse/.
-- Nee, Victor, and Don Layman. The Cultural Revolution at Peking University. Monthly Review Press, 1969.
-- Nien, Cheng. Life and Death in Shanghai. Grove Press, 1995.
-- Niu-Niu. No Tears for Mao: Growing Up in the Cultural Revolution. Academy Chicago Publishers, 1995.
-- Seltman, Muriel. What’s Left? What’s Right?: A Political Journey via North Korea and the Chinese Cultural Revolution. 2nd Revised ed. edition. Matador, 2014.
-- Wang, Youqin. Victims of the Cultural Revolution: Testimonies of China’s Tragedy. Simon and Schuster, 2023.
-- Wen, Chihua. The Red Mirror: Children Of China’s Cultural Revolution. Routledge, 2018.
-- Wood, Frances. Hand-Grenade Practice in Peking: My Part in the Cultural Revolution. Slightly Foxed, 2011.
-- Yang, Rae. Spider Eaters: A Memoir. University of California Press, 1997.
-- Yang, Xiaokai, and Susan McFadden. Captive Spirits: Prisoners of the Cultural Revolution. Oxford University Press, 1997.
-- Ye, Ting-Xing. My Name Is Number 4: A True Story from the Cultural Revolution. Macmillan + ORM, 2008.
-- Yuan, Gao. Born Red: A Chronicle of the Cultural Revolution. 1st ed. Stanford University Press, 1987.
-- Zhai, Zhen-Hua, and Zhai Zhenhua. Red Flower of China: An Autobiography. Lester Publishing, 1992. [Link](https://archive.org/details/redflowerofchina0000zhai)
+- ‘An Insider’s Account of the Cultural Revolution: Wang Li’s Memoirs’. *Chinese Law and Government* 27 (1994): 1. [Link](https://heinonline.org/HOL/Page?handle=hein.journals/chinelgo27&id=497&div=&collection=).
+- Barthes, Roland. *Travels in China*. 2012.
+- Bennett, Gordon A. Ronald N. Montaperto. *Red Guard; the Political Biography of Dai Hsiao-Ai*. 1st ed. edition. 1971.
+- Bo, Ma. *Blood Red Sunset: A Memoir of the Chinese Cultural Revolution*. 1996.
+- Feng, Chi-ts’ai. *Voices from the Whirlwind: An Oral History of the Chinese Cultural Revolution*. 1991.
+- Feng, Jicai. *Ten Years of Madness: Oral Histories of China’s Cultural Revolution*. 1996.
+- Han, Dongping. *The Unknown Cultural Revolution: Life and Change in a Chinese Village*. 2008.
+- Hinton, William. *Hundred Day War: The Cultural Revolution at Qinghua University*. 2023.
+- Hunter, Neale. *Shanghai Journal: An Eyewitness Account of the Cultural Revolution*. 1988.
+- Jisen, Ma. *The Cultural Revolution in the Foreign Ministry of China*. 2020.
+- Leys, Simon. *The Chairman’s New Clothes: Mao and the Cultural Revolution*. 1981.
+- Ling, Ken. *Red Guard: School Boy to Little General in Mao’s China*, 1972.
+- Lo, Fulang. *Morning Breeze: A True Story of China’s Cultural Revolution*. 1989.
+- Lo, Ruth Earnshaw, and Katharine S. Kinderman. *In the Eye of the Typhoon: An American Woman in China during the Cultural Revolution*. 1980.
+- Min, Anchee. *Red Azalea*. 2012. [Link](https://archive.org/details/redazalea0000unse/).
+- Nee, Victor, and Don Layman. *The Cultural Revolution at Peking University*. 1969.
+- Niu-Niu. *No Tears for Mao: Growing Up in the Cultural Revolution*. 1995.
+- Seltman, Muriel. *What’s Left? What’s Right?: A Political Journey via North Korea and the Chinese Cultural Revolution*. 2nd Revised ed. edition. 2014.
+- Wang, Youqin. *Victims of the Cultural Revolution: Testimonies of China’s Tragedy*. 2023.
+- Wen, Chihua. *The Red Mirror: Children Of China’s Cultural Revolution*. 2018.
+- Wood, Frances. *Hand-Grenade Practice in Peking: My Part in the Cultural Revolution*. 2011.
+- Yang, Rae. *Spider Eaters: A Memoir*. 1997.
+- Yang, Xiaokai, and Susan McFadden. *Captive Spirits: Prisoners of the Cultural Revolution*. 1997.
+- Ye, Ting-Xing. *My Name Is Number 4: A True Story from the Cultural Revolution*. 2008.
+- Yuan, Gao. *Born Red: A Chronicle of the Cultural Revolution*. 1st ed. 1987.
+- Zhai, Zhen-Hua, and Zhai Zhenhua. *Red Flower of China: An Autobiography*. 1992. [Link](https://archive.org/details/redflowerofchina0000zhai).
 
 Secondary Sources:
 
@@ -773,34 +773,282 @@ Bibliography: [Chinese Communist Revolution - Readings](#prc)
 
 Make good progress on your essay this week. Your graded prospectus is due Week 7. 
 
-## Week 7 - From Reform to “Six Four”: Tiananmen {#tian}
+## Week 7 - From Reform to June Fourth: Tiananmen {#tian}
 
-hic sunt dracones
+This week will focus primarily on the 1989 Tiananmen protests and massacre which ends a period of combined economic and cultural opening up after the death of Mao Zedong in 1976. 1989 weighs heavily in contemporary Chinese history as a turning point that sets the foundations of political developments in its aftermath. 
 
-Key Texts and Presentation Texts:
+### To Watch
 
-- Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P)
-- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. [Link](https://library.st-andrews.ac.uk/record=b2058943~S5) (P)
-- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. [Link](https://library.st-andrews.ac.uk/record=b2173330~S5) (P)
-- Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3278688~S5) (P)
-- Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. 1994. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5)
+- *The Gate of Heavenly Peace* - The DVD for this is in the library. Be certain to also read Jeremy Brown's comments on the documentary in his *June Fourth* pp39-40 and p72
+- ChinaX clips to watch:
+    - X: [Ezra Vogel: Deng's Background](https://www.youtube.com/watch?v=-v_55FkaVDU)
+    - X: [Deng's Plans for Modernization After Cultural Revolution](https://www.youtube.com/watch?v=OhFgBqXOgHY)
+    - X: [Reform and Opening Under Deng](https://www.youtube.com/watch?v=9W-uC4ATuv0)
+    - X: [Political Deng: The Democracy Wall and Tiananmen Protests](https://www.youtube.com/watch?v=EZLKyifgw9A)
+    - X: [Deng's Legacy](https://www.youtube.com/watch?v=EEULoquPCHM)
+    - X: [Elizabeth Perry: Social Movement in China](https://www.youtube.com/watch?v=tXW-SgVEku0)
+    - X: [Social Movements II](https://www.youtube.com/watch?v=yahKFC2UY9w)
+    - X: [Legacy of Mao](https://www.youtube.com/watch?v=T1lX_s2WsK0)
+
+### Required Reading
+
+*Primary Sources:* (35pp)
+
+- SOURCES Ch 37 pp496-510 Early Critiques of the Deng Regime + Deng's Speech [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
+- Han, Minzhu ed. *Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*. Princeton University Press, 1990. [Link](https://library.st-andrews.ac.uk/record=b3300757~S5) 
+    - Ch 1 pp13-15 I'd Like to Know
+    - Ch 1 pp42-44 Sketch of the Chinese Communist Party
+    - Ch 2 pp107-111 Road to Freedom of the Press...
+    - Ch 2 pp121-124 A Discussion of the Historical Tasks...
+    - Ch 3 pp135-7 New May Fourth Manifesto
+    - Ch 6 pp369-71 Deng Xiaoping Remarks to Martial Law Officers on June 9
+
+*Secondary Sources:* (150pp)
+
+- Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. Ch 4-7 pp39-88 + Ch 9-16 pp101-139 [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P) 
+- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. Afterward, pp206-211. [Link](https://library.st-andrews.ac.uk/record=b2173330~S5) (P)
+- Esherick and Wasserstrom, "Acting Out Democracy,"" 835-860 [link](https://www.jstor.org/stable/2058238)
+- Hung, "Tiananmen Square: A Political History of Monuments," 84-117 [link](http://www.jstor.org/stable/2928718)
+- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. pp6-12 (in Introduction) [Link](https://library.st-andrews.ac.uk/record=b2058943~S5) (P)
+
+### Elective Reading (40-60pp)
+
+Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P)
+
+A) Ch 18-21 pp151-194 Nationwide
+B) Ch 24-30 pp209-253 Aftermath
+
+Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. [Link](https://library.st-andrews.ac.uk/record=b2173330~S5) (P)
+
+C) Ch 2-3 pp31-82 Staying, Exile
+D) Ch 7-8 pp157-205 Official, Chengdu
+
+Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. [Link](https://library.st-andrews.ac.uk/record=b2058943~S5) (P)
+
+E) Ch 3 Economic Reform + Ch 4 Decline of the System for Controlling Students pp79-122
+F) Ch 7 State Legitimacy, State Behaviors + Ch 8 Ecology-Based Mobilization pp209-266
+G) Ch 10 Construction of Public Opinion + Conclusion pp297-256
+
+Wasserstrom, Jeffrey N., and Elizabeth J. Perry eds. *Popular Protest and Political Culture in Modern China*. 1994. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5)
+
+H) Ch 3 Casting a Chinese "Democracy" Movement (19pp) + Ch 5 Gender and the Chinese Student Movement (11pp) + Ch 12 Discos and Dictatorship (22pp)
+I) Ch 8 Memory and Commemoration (14pp) + Ch 13 History, Myth and the Tales of Tiananmen (36pp)
+
+J) Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. Introdution + Ch 4 [Link](https://library.st-andrews.ac.uk/record=b3278688~S5)
+
+### Preparation
+
+- Your prospectus is due this week. During the ILW you should have made considerable progress on the research for your essay including: settling on a topic, identifying primary sources and appropriate historiography, and thinking about how to structure the essay.
+- From this week onwards it is particularly important to reserve enough of your 15-20 hours per week spent on this module to focus on your essay. If you can read 30 pages per hour, try not to spend more than 8-9 hours on the weekly reading and save the rest of the time on your essay and any remaining posts.
+
+### Overview
+
+1. Reflections on *The Gate of Heavenly Peace* and Jeremy Brown's perspective on it.
+2. We will discuss the primary source documents together
+3. Presentation
+4. June Fourth: context, event, and legacy
+5. Drawing on insights from the elective readings
+
+### Questions
+
+1. What are continuities and differences between the students of 1989 and earlier periods?
+2. How does space, from the square to the city to the country need to be taken into account in our study of these events?
+3. How would you characterise the similarities and differences between Tiananmen and the protests in Hong Kong in recent years?
+4. The Chinese government, and many Chinese will claim that the blood of Tiananmen was a price to pay in order to avert political chaos that would have resulted in far more violence. What logic and assumptions are at work here? What happens when we generalise these claims to other places and times?
+
+### Long Essays
+
+The protests and massacre in 1989 has produced a lot of primary source material and some memoirs both in English but especially in Chinese (for the latter see me as I may have access to some of these works). More broadly, however, students are welcome to explore essays that engage with the reform period from the late 1970s and through the 1980s but I would prefer that you not venture too much beyond 1989 in order to retain a tighter chronological focus for the module. 
+
+### Further Readings
+
+- Barmé, Geremie, and Linda Jaivin. *New Ghosts, Old Dreams: Chinese Rebel Voices*. 1992.
+- Benton, Gregor, and Alan Hunter, eds. *Wild Lily, Prairie Fire: China’s Road to Democracy, Yan’an to Tian’anmen, 1942-1989*. 1995.
+- Black, George, and Robin Munro. *Black Hands of Beijing: Lives of Defiance in China’s Democracy Movement*. 1993.
+- Brook, Timothy. *Quelling the People: The Military Suppression of the Beijing Democracy Movement*. 1992.
+- Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. Electronic book. New Approaches to Asian History 22. 2021.
+- Buruma, Ian. *Bad Elements: Chinese Rebels from Los Angeles to Beijing*. 2002.
+- Calhoun, Craig. *Neither Gods nor Emperors: Students and the Struggle for Democracy in China*. 1994.
+- Chan, Alfred. ‘Fabricated Secrets and Phantom Documents: The “Tiananmen Papers” and “China’s Leadership Files,” A Re-Rejoinder’, n.d.
+- Chan, Alfred L., and Andrew J. Nathan. ‘The Tiananmen Papers Revisited’. *The China Quarterly*, no. 177 (2004): 190–214. [Link](https://www.jstor.org/stable/20192311).
+- Cheek, Timothy. *Living with Reform: China since 1989*. 2008.
+- Chen, Thomas. *Made in Censorship: The Tiananmen Movement in Chinese Literature and Film*. Electronic book. 2022.
+- Cherrington, Ruth. *China’s Students: The Struggle for Democracy*. 1991.
+- Chong, Denise. *Egg on Mao: The Story of an Ordinary Man Who Defaced an Icon and Unmasked a Dictatorship*. 2009.
+- Davis, Deborah, Ezra Vogel, and Brill Online, eds. *Chinese Society on the Eve of Tiananmen*. Electronic book. Harvard Contemporary China Series 7. 1990.
+- Esherick, Joseph W., and Jeffrey N. Wasserstrom. ‘Acting Out Democracy: Political Theater in Modern China’. *The Journal of Asian Studies* 49, no. 4 (1990): 835–65. [DOI](https://doi.org/10.2307/2058238).
+- Findlay, Mark. ‘Show Trials in China: After Tiananmen Square’. *Journal of Law and Society* 16, no. 3 (1989): 352–59. [DOI](https://doi.org/10.2307/1409989).
+- Florence, Éric, Judith Pernin, Keith Richburg, King-wa Fu, Louisa Lim, Edmund Cheng, Samson Yuen, and wen yau. ‘1989-2019: Perspectives on June 4th from Hong Kong’. *China Perspectives*, no. 2 (117) (2019): 81–87. [Link](https://www.jstor.org/stable/26663924).
+- Goldman, Merle. *From Comrade to Citizen: The Struggle for Political Rights in China*. 2007.
+- Han, Minzhu, ed. *Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*. 1990.
+- Hayhoe, Ruth. ‘China’s Universities since Tiananmen: A Critical Assessment’. *The China Quarterly*, no. 134 (1993): 291–309. [Link](https://www.jstor.org/stable/654303).
+- ———. ‘Political Texts in Chinese Universities Before and After Tiananmen’. *Pacific Affairs* 66, no. 1 (1993): 21–43. [DOI](https://doi.org/10.2307/2760014).
+- He, Rowena Xiaoqing. *Tiananmen Exiles: Voices of the Struggle for Democracy in China*. 2014.
+- Hung, Wu. *Remaking Beijing: Tiananmen Square and the Creation of a Political Space*. 2005.
+- Kluver, Randolph. ‘Rhetorical Trajectories of Tiananmen Square’. *Diplomatic History* 34, no. 1 (2010): 71–94. [Link](https://www.jstor.org/stable/24916034).
+- Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 4. 2021.
+- Lee, Nelson K. ‘How Is a Political Public Space Made? – The Birth of Tiananmen Square and the May Fourth Movement’. *Political Geography* 28, no. 1 (1 January 2009): 32–43. [DOI](https://doi.org/10.1016/j.polgeo.2008.05.003).
+- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. Electronic book. 2014.
+- Ling, Chai. *A Heart for Freedom: The Remarkable Journey of a Young Dissident, Her Daring Escape, and Her Quest to Free China’s Daughters*. 2011.
+- Link, Perry. ‘June 4th: Memory and Ethics’. *China Perspectives* 2009, no. 2 (1 June 2009): 4–16. [DOI](https://doi.org/10.4000/chinaperspectives.4797).
+- Lizhi, Fang. *The Most Wanted Man in China: My Journey from Scientist to Enemy of the State*. 2016.
+- Miles, James A. R. *The Legacy of Tiananmen: China in Disarray*. 1996.
+- Nathan, Andrew J. ‘The Tiananmen Papers: An Editor’s Reflections’. *The China Quarterly* 167 (September 2001): 724–37. [DOI](https://doi.org/10.1017/S0009443901000407).
+- NING, LOU. *Chinese Democracy and the Crisis of 1989: Chinese and American Reflections*. 1993.
+- Ogden, Suzanne, Kathleen Hartford, Nancy Sullivan, and David Zweig. *China’s Search for Democracy: The Students and Mass Movement of 1989: The Students and Mass Movement of 1989*. 2016.
+- Oksenberg, Michel, Lawrence R. Sullivan, and Marc Lambert. *Beijing Spring, 1989: Confrontation and Conflict: The Basic Documents*. 1990.
+- Perry, Elizabeth J. ‘The Populist Dream of Chinese Democracy’. *The Journal of Asian Studies* 74, no. 4 (2015): 903–15. [Link](https://www.jstor.org/stable/24738563).
+- Schell, Orville. *Mandate of Heaven: The Legacy of Tiananmen Square and the Next Generation of China’s Leaders*. 1995.
+- Shen, Tong, and Marianne Yen. *Almost a Revolution: The Story of a Chinese Student’s Journey from Boyhood to Leadership in Tiananmen Square*. 1998.
+- Su, Yang. *Deadly Decision in Beijing: Succession Politics, Protest Repression, and the 1989 Tiananmen Massacre*. Electronic book. Cambridge Books Online. 2023.
+- Suettinger, Robert. *Beyond Tiananmen: The Politics of U.S.-China Relations, 1989-2000*. 2003.
+- Unger, J. *The Pro-Democracy Protests in China: Reports from the Provinces*. 1991.
+- Vogel, Ezra F. *Deng Xiaoping and the Transformation of China*. 2013.
+- Walder, Andrew G., and Gong Xiaoxia. ‘Workers in the Tiananmen Protests: The Politics of the Beijing Workers’ Autonomous Federation’. *The Australian Journal of Chinese Affairs*, no. 29 (1993): 1–29. [DOI](https://doi.org/10.2307/2949950).
+- Wang, Anna. *Inconvenient Memories: A Personal Account of the Tiananmen Square Incident and the China Before and After*. 2019.
+- Wasserstrom, Jeffrey N., and Elizabeth Perry, eds. *Popular Protest And Political Culture In Modern China: Second Edition*. 2018. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5).
+- Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. 1994.
+- Yiwu, Liao. *Bullets and Opium: Real-Life Stories of China After the Tiananmen Square Massacre*. 2020.
+- Zhang, Boli. *Escape from China: The Long Journey from Tiananmen to Freedom*. 2003.
+- Zhang, Liang, Andrew J. Nathan, and E. Perry Link. *The Tiananmen Papers*. 2001.
+- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. Electronic book. 2001.
+- Zhao, Suisheng. ‘A State-Led Nationalism: The Patriotic Education Campaign in Post-Tiananmen China’. *Communist and Post-Communist Studies* 31, no. 3 (1 September 1998): 287–302. [DOI](https://doi.org/10.1016/S0967-067X(98)00009-9).
+- Zhao, Ziyang, Bao Pu, Adi Ignatius, Renee Chiang, and Roderick MacFarquhar. *Prisoner of the State: The Secret Journal of Zhao Ziyang*. 2014.
+
+Some Chinese language sources:
+
+- 封從德. 六四日記:廣場上的共和國
+- 何芝洲. 血沃中華: 89年北京學潮資料集續編. 1989.
+- 吳仁華. 六四事件中的戒嚴部隊. 2009.
+- 吳仁華. 《六四事件全程實錄》2014.
+- ———. 六四天安門血腥清場內幕. 2014.
+- 平息反革命暴乱500题. 1989.
+- 張剛華. 李鵬六四日記真相: 附錄李鵬六四日記原文. 2010.
+- 張萬舒. 歷史的大爆炸
+- 戒严一日. 1989.
+- 最後的秘密——中共十三屆四中全會「六四」結論文檔
+- 王超華. 從來就沒有救世主: 六四30週年祭. 2019.
+- 陸超祺. 六四內部日記
 
 ## Week 8 - Reforming Thought {#sixiang}
 
-hic sunt dracones
+### To Watch
 
-Key Texts and Presentation Texts:
+- Watch Aminda Smith's talk "The Legacies of 'Brainwashing': Cold War Ideology and Modern Chinese History" [Link](https://www.youtube.com/watch?v=KmxkU826x0I)
 
-- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5) (P)
-- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. [Link](https://library.st-andrews.ac.uk/record=b3599961~S5) (P)
-- Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3221515~S5) (P)
-- Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3281069~S5) (P)
-- Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5). (P)
-- Schoenhals, Michael. *Spying for the People: Mao’s Secret Agents, 1949-1967*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3048679~S5) (P)
+### Required Reading
+
+*Primary Sources:*
+
+- Make sure you have read Ch 27 of Mao's Little Red Book: Criticism and Self-Criticism [Link](https://muninn.net/modules/mo3337/quotes/#chapter-27)
+- Stalin "Against Vulgarising the Slogan of Self-Criticism" [Link](https://www.marxists.org/reference/archive/stalin/works/1928/06/26.htm)
+- Liu Shaoqi *How to Be a Good Communist* "The Self-Cultivation of Communists and the Revolutionary Practice of the Masses" [Link](https://www.marxists.org/reference/archive/liu-shaoqi/1939/how-to-be/ch03.htm)
+
+*Secondary Sources:*
+
+- Sorace, Christian, Ivan Franceschini, and Nicholas Loubere eds. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3613317~S5). Ch 47 "Thought Reform" pp287-292
+
+- Chen, Theodore Hsi-en. *Thought Reform of the Chinese Intellectuals*. 1960. (Files) Ch 8 The Confessions pp59-71 + Ch 9 Operational Principles of Thought Reform pp72-79
+
+- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. [Link](https://library.st-andrews.ac.uk/record=b3599961~S5) (P) Ch 2 Significance of Small Groups pp7-17 + Ch 4 Small Groups and Political Rituals: The Ideal Forms pp36-57 + choose one from: Ch 5 on Cadres, or Ch 6 on Students or Ch 7 on Inmates (~20-30pp)
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). Introduction pp1-12 + Conclusion pp181-195
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5). Ch 2 The Rectification Process: Methods, Sanctions and Effectiveness pp25-45.
+
+- Perry, Elizabeth. ‘Moving the Masses: Emotion Work in the Chinese Revolution’. *Mobilization* 7, no. 2 (2002): 111–28. [Link](https://dash.harvard.edu/handle/1/11591713)
+
+### Elective Reading (~40-60pp)
+
+A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. [Link](https://library.st-andrews.ac.uk/record=b2372311~S5) Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
+
+Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). 
+
+B) Ch 1 Finding a Place pp13-50
+C) Ch 2 People versus their Enemies pp51-78
+D) Ch 3 Curriculum of Consciousness pp79-118
+E) Ch 4 Laboring Masses pp119-154
+F) Ch 5 People Stand Up pp155-180
+
+G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3608639~S5). Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
+
+Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. Electronic book. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
+
+I) Ch 2 Linguistic Engineering before the Cultural Revolution pp42-109
+J) Ch 4 Revolutionary Conformity pp150-188
+K) Ch 6 Creating Referents and Controlling the Word pp221-247
+
+L) Schoenhals, Michael. *Doing Things with Words in Chinese Politics: Five Studies*. 1992. Ch 1 Formalized Language as a Form of Power + Ch 2 Party Circulars Proscribing and Prescribing Terminology
+
+M) 吳蘭, ed. 《自我批評實例》 1950.
+
+### Preparation
+
+### Overview
+
+### Questions
+
+### Long Essays
+
+### Further Readings
+
+- Apter, David Ernest, and Tony Saich. *Revolutionary Discourse in Mao’s Republic*. 1994.
+- Bakken, Børge. *The Exemplary Society: Human Improvement, Social Control, and the Dangers of Modernity in China*. 2000.
+- Bakken, B_rge. *Crime, Punishment, and Policing in China*. 2007.
+- Chen, Theodore Hsi-en. *Thought Reform of the Chinese Intellectuals*. 1960.
+- Dikötter, Frank. ‘Crime and Punishment in Post-Liberation China: The Prisoners of a Beijing Gaol in the 1950s’. *The China Quarterly*, no. 149 (1997): 147–59. [Link](https://www.jstor.org/stable/655049).
+- ———. *Crime, Punishment and the Prison in Modern China*. 2002.
+- ———. ‘The Emergence of Labour Camps in Shandong Province, 1942-1950’. *The China Quarterly*, no. 175 (1 September 2003): 803–17. [Link](http://www.jstor.org/stable/20059040).
+- Dittmer, Lowell. ‘The Structural Evolution of “Criticism and Self-Criticism”’. *The China Quarterly*, no. 56 (1973): 708–29. [Link](https://www.jstor.org/stable/652164).
+- Dutton, Michael Robert. *Policing Chinese Politics: A History*. 2005.
+- Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. Electronic book. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
+- Gold, Thomas B. ‘After Comradeship: Personal Relations in China since the Cultural Revolution’. *The China Quarterly*, no. 104 (1985): 657–75. [Link](https://www.jstor.org/stable/653206).
+- Griffin, Patricia. ‘Prison Management in the Kiangsi and Yenan Periods’. *The China Quarterly*, no. 58 (1974): 310–31. [Link](https://www.jstor.org/stable/652403).
+- Griffin, Patricia E. *The Chinese Communist Treatment of Counterrevolutionaries, 1924-1949*. 1976.
+- Hershatter, Gail. ‘Making a Friend: Changing Patterns of Courtship in Urban China’. *Pacific Affairs* 57, no. 2 (1984): 237–51. [DOI](https://doi.org/10.2307/2759125).
+- Hinkle, Lawrence, and Harold Wolff. ‘Communist Interrogation and Indoctrination of “Enemies of the States”: Analysis of Methods Used by the Communist State Police (A Special Report)’. *A.M.A. Archives of Neurology & Psychiatry* 76, no. 2 (1 August 1956): 115–74. [DOI](https://doi.org/10.1001/archneurpsyc.1956.02330260001001).
+- Hua, Gao. *How the Red Sun Rose: The Origin and Development of the Yan’an Rectification Movement, 1930–1945*. 2018.
+- Hunter, Edward. *Brainwashing in Red China: The Calculated Destruction of Men’s Minds*. 1959.
+- Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014.
+- Li, Jie. ‘Revolutionary Echoes: Radios and Loudspeakers in the Mao Era’. *Twentieth-Century China* 45, no. 1 (2020): 25–45. [Link](https://muse.jhu.edu/pub/1/article/746155).
+- Lifton, Robert Jay. *Thought Reform and the Psychology of Totalism: A Study of ‘Brainwashing’ in China*. 2012.
+- Perry, Elizabeth. ‘Moving the Masses: Emotion Work in the Chinese Revolution’. *Mobilization* 7, no. 2 (2002): 111–28.
+- Pieragastini, Steven. ‘Reform and Closing Up: Thought Reform and the Institutional Reorganization of Shanghai’s Universities’. *Twentieth-Century China* 43, no. 2 (2018): 139–62. [Link](https://muse.jhu.edu/pub/1/article/694217).
+- Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3608639~S5).
+- Qing, Dai. *Wang Shiwei and Wild Lilies: Rectification and Purges in the Chinese Communist Party 1942-1944*. 1994.
+- ‘Reactions to Executions in Beijing (1951)’. *Contemporary Chinese Thought* 38, no. 3 (1 April 2007): 10–24. [DOI](https://doi.org/10.2753/CSP1097-1467380301).
+- Schoenhals, Michael. ‘Demonising Discourse in Mao Zedong’s China: People vs Non‐People’. *Totalitarian Movements and Political Religions* 8, no. 3–4 (1 September 2007): 465–82. [DOI](https://doi.org/10.1080/14690760701571114).
+- ———. *Doing Things with Words in Chinese Politics: Five Studies*. 1992.
+- ———. *Spying for the People: Mao’s Secret Agents, 1949-1967*. 2013.
+- Seybolt, Peter J. ‘Terror and Conformity: Counterespionage Campaigns, Rectification, and Mass Movements, 1942-1943’. *Modern China* 12, no. 1 (January 1986): 39–73. [Link](https://www.jstor.org/stable/188918).
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5).
+- ———. ‘Thought Reform and the Unreformable: Reeducation Centers and the Rhetoric of Opposition in the Early People’s Republic of China’. *The Journal of Asian Studies* 72, no. 4 (November 2013): 937–58. [DOI](https://doi.org/10.1017/S0021911813001654).
+- Stranahan, Patricia. *Molding the Medium: The Chinese Communist Party and the Liberation Daily*. 1990.
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5).
+- U, Eddy. ‘The Making of Chinese Intellectuals: Representations and Organization in the Thought Reform Campaign’. *The China Quarterly*, no. 192 (2007): 971–89. [Link](https://www.jstor.org/stable/20192857).
+- Vogel, Ezra F. ‘From Friendship to Comradeship: The Change in Personal Relations in Communist China’. *The China Quarterly*, no. 21 (1965): 46–60. [Link](https://www.jstor.org/stable/651316).
+- Whyte, Martin King. ‘Corrective Labor Camps in China’. *Asian Survey* 13, no. 3 (1973): 253–69. [DOI](https://doi.org/10.2307/2643036).
+- ———. *Small Groups and Political Rituals in China*. 1974.
+- Williams, Philip F., and Yenna Wu. *The Great Wall of Confinement: The Chinese Prison Camp Through Contemporary Fiction and Reportage*. 2004.
+- Williams, Philip, and Yenna Wu. *Remolding and Resistance Among Writers of the Chinese Prison Camp: Disciplined and Published*. 2006.
+- Wu, Hongda Harry. *Laogai: The Chinese Gulag*. 1992.
+- Yu, Frederick T. C. *Mass Persuasion in Communist China*. 1964.
+
+Some Chinese sources, mostly on "criticism and self-criticism":
+
+- 丁浩, ed. 党的批评与自我批评, 1956.
+- 中国民主同盟西南总支部, ed. 宣传学习资料 第3辑 -重视政治学习 加强思想改造, 1951.
+- 吳蘭, ed. 自我批評實例. 1950.
+- 吴建. 怎样开展批评与自我批评. 1953.
+- 大众书店编辑委员会, ed. 怎样进行批评与自我批评, 1951.
+- 学习批评与自我批评. 1952.
+- 宫琦. 杂谈批评与自我批评. 1956.
+- 张湘霓, ed. 新时期思想政治工作手册. 1987.
+- 批评与自我批评是苏维埃社会发展规律, 1948.
+- 批评和自我批评是我们的武器
+- 新华时事丛刊, ed. 论批评与自我批评, 1950.
+- 曹宪镛, ed. 谈谈批评与自我批评. 1984.
+- (苏)普切林(В.Пчелин). 共产党内的批评与自我批评, 1955.
 
 ## Week 9 - Gender and the Family {#gender}
-
-hic sunt dracones
 
 Key Texts and Presentation Texts:
 
@@ -816,8 +1064,6 @@ Key Texts and Presentation Texts:
 
 ## Week 10 - Mao's Revolution in a Global Context {#world}
 
-hic sunt dracones
-
 Key Texts and Presentation Texts:
 
 - Lovell, Julia. *Maoism: A Global History*. 2019. (P)
@@ -830,8 +1076,6 @@ Key Texts and Presentation Texts:
 
 ## Week 11 - Culture, History, and Memory {#culture}
 
-hic sunt dracones
-
 Key Texts and Presentation Texts:
 
 - Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3058820~S5) (P)
@@ -843,11 +1087,4 @@ Key Texts and Presentation Texts:
 - Goldman, Merle. *Literary Dissent in Communist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3072516~S5)
 - Lee, Jennifer Dorothy. *Anxiety Aesthetics: Maoist Legacies in China, 1978–1985*. 2024. [Link](https://library.st-andrews.ac.uk/record=b3604653~S5) (P)
 - Culp, Robert. *The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3069065~S5) (P)
-
-
-
-
-
-
-
 

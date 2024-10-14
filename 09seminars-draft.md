@@ -743,3 +743,17 @@ United States* (P)
 * We'll split our time between Cohen, moving back to the Boxer Rebellion and how it was deployed in later times, Mittler, which attempts to think more explicitly about the role of culture in Mao's revolution, and Lim, which is more on forgetting than on remembering.
 * Task: We will also discuss the three character classic and do an exercise with this in class.
 
+- 丁浩, ed. 党的批评与自我批评, 1956.
+- 中国民主同盟西南总支部, ed. 宣传学习资料 第3辑 -重视政治学习 加强思想改造, 1951.
+- 吳蘭, ed. 自我批評實例. 1950.
+- 吴建. 怎样开展批评与自我批评. 1953.
+- 大众书店编辑委员会, ed. 怎样进行批评与自我批评, 1951.
+- 学习批评与自我批评. 1952.
+- 宫琦. 杂谈批评与自我批评. 1956.
+- 张湘霓, ed. 新时期思想政治工作手册. 1987.
+- 批评与自我批评是苏维埃社会发展规律, 1948.
+- 批评和自我批评是我们的武器, n.d.
+- 新华时事丛刊, ed. 论批评与自我批评, 1950.
+- 曹宪镛, ed. 谈谈批评与自我批评. 1984.
+- (苏)普切林(В.Пчелин). 共产党内的批评与自我批评, 1955.
+

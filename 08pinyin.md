@@ -8,7 +8,7 @@ I would prefer that you use pinyin in your writing for this class, and convert W
 
 To make this easier, consider using this website:
 
-[http://www.lib.uchicago.edu/e/easia/py-wd.html](http://www.lib.uchicago.edu/e/easia/py-wd.html)
+[Wade-Giles to Pinyin Conversion Table](https://www.lib.uchicago.edu/about/directory/departments/eastasia/find/wade-giles-pinyin-conversion-table/)
 
 When it comes to pronouncing Chinese, there are a number of good videos on Youtube and on various websites online. I encourage you to give it a try and watch some of these videos or listen to the audio available on a number of online sites. Spending a few minutes of work a few times during the semester you should be able to learn the main sounds in Chinese, even if you will not be able to master the rules for tones.  While obviously, this is not assessed in this history course, but I hope you will find this rewarding, as the we see Chinese names, terms, and hear ever more about China in our daily lives.
 
@@ -25,4 +25,3 @@ A few particularly troublesome sounds when trying to pronounce words in pinyin:
 * Ü = start saying "ee", then close your mouth as if you are blowing out a candle. As in "ou" in Scottish "You!" or German ü
 * Shi, Zhi, Chi = "ure" sound as in Sure, (Jer)sey, and (Chur)n
 
-As a fun exercise, during our course, I will teach you a few basic "revolutionary" words and phrases in Chinese. Most of these are not commonly used in China today, but will also hopefully provide you with another oral connection to China's communist revolutionary history.

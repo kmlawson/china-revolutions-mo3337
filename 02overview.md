@@ -10,7 +10,7 @@
 4. 08 Oct [**Great Leaps Forward: Violence and Reform 1945-1961**](#gl)
 5. 15 Oct [**The Cultural Revolution**](#cr)
 6. [*Independent Learning Week*](#ilw)
-7. 29 Oct [**From Reform to "Six Four": Tiananmen**](#tian)
+7. 29 Oct [**From Reform to June Fourth: Tiananmen**](#tian)
 8. 05 Nov [**Reforming Thought**](#sixiang)
 9. 12 Nov [**Gender and the Family**](#gender)
 10. 19 Nov [**Maoism in the World**](#world)
