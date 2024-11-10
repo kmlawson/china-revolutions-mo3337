@@ -626,6 +626,11 @@ The cultural revolution is one of the most fascinating periods of PRC history. T
 * Hershatter, *Gender of Memory*, Ch 1-2, p96-128, Ch 5, p186-191 (P)
 * Note: If you are interested more in the post-'49 period, you can skip Ono and Glosser, if you are more interested in pre-'49 period, you can just read Ch 1-2 of Hershatter
 
+F) Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. 1995. [Link](http://library.st-andrews.ac.uk/record=b1940470~S5). (P)
+
+G) Davin, Delia. *Woman-Work Women and the Party in Revolutionary China*. 1976. [Link](https://library.st-andrews.ac.uk/record=b1939421~S5) (P)
+
+
 **Further Reading:**
 
 * Finish Hershatter, *Gender of Memory* (P)

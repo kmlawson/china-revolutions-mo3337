@@ -834,7 +834,7 @@ Wasserstrom, Jeffrey N., and Elizabeth J. Perry eds. *Popular Protest and Politi
 H) Ch 3 Casting a Chinese "Democracy" Movement (19pp) + Ch 5 Gender and the Chinese Student Movement (11pp) + Ch 12 Discos and Dictatorship (22pp)
 I) Ch 8 Memory and Commemoration (14pp) + Ch 13 History, Myth and the Tales of Tiananmen (36pp)
 
-J) Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. Introdution + Ch 4 [Link](https://library.st-andrews.ac.uk/record=b3278688~S5)
+J) Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. Introduction + Ch 4 [Link](https://library.st-andrews.ac.uk/record=b3278688~S5)
 
 ### Preparation
 
@@ -843,11 +843,12 @@ J) Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and
 
 ### Overview
 
-1. Reflections on *The Gate of Heavenly Peace* and Jeremy Brown's perspective on it.
-2. We will discuss the primary source documents together
-3. Presentation
-4. June Fourth: context, event, and legacy
-5. Drawing on insights from the elective readings
+1. In mutual aid groups we will share your prospectus. Each person will be given a few minutes and will be asked to elaborate on a) argument b) sources c) "so what?" d) challenges e) next step
+2. Reflections on *The Gate of Heavenly Peace* and Jeremy Brown's perspective on it.
+3. We will discuss the primary source documents together
+4. Presentation
+5. June Fourth: context, event, and legacy
+6. Drawing on insights from the elective readings
 
 ### Questions
 
@@ -930,7 +931,11 @@ Some Chinese language sources:
 - 王超華. 從來就沒有救世主: 六四30週年祭. 2019.
 - 陸超祺. 六四內部日記
 
+\newpage
+
 ## Week 8 - Reforming Thought {#sixiang}
+
+This week we will explore the phenomenon of thought reform (sixiang gaizao 思想改造) and especially the method of "criticism and self-criticism" (piping yu ziwo piping 批评与自我批评) as central to the Chinese revolutionary project. We will see how it was used in political campaigns but also became a key element of disciplinary, penal, and educational cultures in general. Some of our readings will go broader to reflect on the ways in which language and discourse are used to shape the revolutionary subject.
 
 ### To Watch
 
@@ -938,29 +943,28 @@ Some Chinese language sources:
 
 ### Required Reading
 
-*Primary Sources:*
+*Primary Sources:* (~15pp)
 
-- Make sure you have read Ch 27 of Mao's Little Red Book: Criticism and Self-Criticism [Link](https://muninn.net/modules/mo3337/quotes/#chapter-27)
+- Don't forget to continue your daily Mao reading. For today's topic, make sure you have read Ch 27 of Mao's Little Red Book: Criticism and Self-Criticism [Link](https://muninn.net/modules/mo3337/quotes/#chapter-27)
 - Stalin "Against Vulgarising the Slogan of Self-Criticism" [Link](https://www.marxists.org/reference/archive/stalin/works/1928/06/26.htm)
 - Liu Shaoqi *How to Be a Good Communist* "The Self-Cultivation of Communists and the Revolutionary Practice of the Masses" [Link](https://www.marxists.org/reference/archive/liu-shaoqi/1939/how-to-be/ch03.htm)
 
-*Secondary Sources:*
+*Secondary Sources:* (~150pp)
 
 - Sorace, Christian, Ivan Franceschini, and Nicholas Loubere eds. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3613317~S5). Ch 47 "Thought Reform" pp287-292
 
-- Chen, Theodore Hsi-en. *Thought Reform of the Chinese Intellectuals*. 1960. (Files) Ch 8 The Confessions pp59-71 + Ch 9 Operational Principles of Thought Reform pp72-79
+- Chen, Theodore Hsi-en. *Thought Reform of the Chinese Intellectuals*. 1960. (Files) Ch 8 The Confessions pp59-71 + Ch 9 Operational Principles of Thought Reform pp72-79 (P)
 
-- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. [Link](https://library.st-andrews.ac.uk/record=b3599961~S5) (P) Ch 2 Significance of Small Groups pp7-17 + Ch 4 Small Groups and Political Rituals: The Ideal Forms pp36-57 + choose one from: Ch 5 on Cadres, or Ch 6 on Students or Ch 7 on Inmates (~20-30pp)
-- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). Introduction pp1-12 + Conclusion pp181-195
+- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. (P) [Link](https://library.st-andrews.ac.uk/record=b3599961~S5) (P) Ch 2 Significance of Small Groups pp7-17 + Ch 4 Small Groups and Political Rituals: The Ideal Forms pp36-57 + choose one from: Ch 5 on Cadres, or Ch 6 on Students or Ch 7 on Inmates (~20-30pp)
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. (P) 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). Introduction pp1-12 + Conclusion pp181-195
 - Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5). Ch 2 The Rectification Process: Methods, Sanctions and Effectiveness pp25-45.
-
 - Perry, Elizabeth. ‘Moving the Masses: Emotion Work in the Chinese Revolution’. *Mobilization* 7, no. 2 (2002): 111–28. [Link](https://dash.harvard.edu/handle/1/11591713)
 
 ### Elective Reading (~40-60pp)
 
-A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. [Link](https://library.st-andrews.ac.uk/record=b2372311~S5) Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
+A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. (P) [Link](https://library.st-andrews.ac.uk/record=b2372311~S5) Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
 
-Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). 
+Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). (P)
 
 B) Ch 1 Finding a Place pp13-50
 C) Ch 2 People versus their Enemies pp51-78
@@ -968,31 +972,47 @@ D) Ch 3 Curriculum of Consciousness pp79-118
 E) Ch 4 Laboring Masses pp119-154
 F) Ch 5 People Stand Up pp155-180
 
-G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3608639~S5). Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
+G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. (P) [Link](https://library.st-andrews.ac.uk/record=b3608639~S5). Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
 
-Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. Electronic book. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
+Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*, 2003. (P) [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
 
-I) Ch 2 Linguistic Engineering before the Cultural Revolution pp42-109
-J) Ch 4 Revolutionary Conformity pp150-188
-K) Ch 6 Creating Referents and Controlling the Word pp221-247
+H) Ch 2 Linguistic Engineering before the Cultural Revolution pp42-109
+I) Ch 4 Revolutionary Conformity pp150-188
+J) Ch 6 Creating Referents and Controlling the Word pp221-247
 
-L) Schoenhals, Michael. *Doing Things with Words in Chinese Politics: Five Studies*. 1992. Ch 1 Formalized Language as a Form of Power + Ch 2 Party Circulars Proscribing and Prescribing Terminology
+K) Schoenhals, Michael. *Doing Things with Words in Chinese Politics: Five Studies*. 1992. (P) Ch 1 Formalized Language as a Form of Power + Ch 2 Party Circulars Proscribing and Prescribing Terminology
 
-M) 吳蘭, ed. 《自我批評實例》 1950.
+Opportunity for someone with Chinese language: 
+
+L) 吳蘭, ed. 《自我批評實例》 1950. (browse and skim; share thoughts with the class) (P)
 
 ### Preparation
 
+- Continue to work on your essay. I encourage you to start the writing by this week, even if it is drafting some of the most basic paragraphs providing background or historiographical overview. 
+- Bring one (or a short part) of your primary sources (or secondary if you are doing a historiography piece) to class. Be prepared to share with your group what you think you can use your source to argue (as part of a sub-argument or your essay's main argument)
+
 ### Overview
+
+- In mutual aid groups we will have an opportunity to share some essay sources with each other and what you may use the source to argue.
+- We will ask several volunteers to report on progress on their essay to the group as a whole.
+- In small groups we will discuss the institution of criticism and self-criticism, letters or diaries of self-criticism, and their role in political ritual and group interactions. 
+- In small groups we will share findings from the elective readings and one presenter from each of the two groups will share these findings to the full class.
 
 ### Questions
 
+- To what degree does criticism and self-criticism in revolutionary China represent something which is found widely across cultures, within the Communist world, or represent a distinctive political innovation?
+- What arguments can be brought for and against the idea of this institution being a highly effective one? How might the context, or a consideration of the question "effective for what?" change our answer?
+- Beyond its use merely in the context of labor and reform camps or specific campaigns, it can be said that thought reform permeates everything the PRC state does. Discuss, delimit, and contest this statement.
+
 ### Long Essays
+
+Thought reform is best represented in English language in the memoirs and other accounts of individuals who spent time in re-education through labour and reform through labour camps as well as in rectification campaigns. Essays which develop an argument based on evidence from these sources, when considered carefully, are welcome. Thinking about mass persuasion and social control in general, the institutions of education, broader social propaganda, and cultural institutions are an excellent direction to go.
 
 ### Further Readings
 
 - Apter, David Ernest, and Tony Saich. *Revolutionary Discourse in Mao’s Republic*. 1994.
 - Bakken, Børge. *The Exemplary Society: Human Improvement, Social Control, and the Dangers of Modernity in China*. 2000.
-- Bakken, B_rge. *Crime, Punishment, and Policing in China*. 2007.
+- Bakken, Børge. *Crime, Punishment, and Policing in China*. 2007.
 - Chen, Theodore Hsi-en. *Thought Reform of the Chinese Intellectuals*. 1960.
 - Dikötter, Frank. ‘Crime and Punishment in Post-Liberation China: The Prisoners of a Beijing Gaol in the 1950s’. *The China Quarterly*, no. 149 (1997): 147–59. [Link](https://www.jstor.org/stable/655049).
 - ———. *Crime, Punishment and the Prison in Modern China*. 2002.
@@ -1050,17 +1070,176 @@ Some Chinese sources, mostly on "criticism and self-criticism":
 
 ## Week 9 - Gender and the Family {#gender}
 
-Key Texts and Presentation Texts:
+### To Watch
 
-- Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. [Link](https://library.st-andrews.ac.uk/record=b3287142~S5) (P)
-- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3288095~S5) (P)
-- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003. [Link](https://library.st-andrews.ac.uk/record=b3285896~S5) (P)
-- Hershatter, Gail. *Women and China’s Revolutions*. 2018.
-- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2431654~S5)
+- *Small Happiness* (1984, 1 hour documentary, YouTube) - set in "Long Bow" village of *Fanshen* fame. 
+
+### Required Reading
+
+*Primary Sources:* (13pp)
+
+- "Qiu Jin's Address to 200 Million Fellow Countrywomen (1904)" *Sources in Chinese History: Diverse Perspectives from 1644 to the Present* pp126-8 (Files)
+- SOURCES Ding Ling "Thoughts on March 8, 1942" (Review from Week 3) Ch 35 Communist Praxis [Link](https://library.st-andrews.ac.uk/record=b2005711~S5) pp446-449
+- *China Pictorial* 1.4 (April, 1951) [Link](https://www.bannedthought.net/China/Magazines/ChinaPictorial/index.htm) pp1-5 (of the PDF)
+
+*Secondary Sources:* (~155pp)
+
+- Hershatter, Gail. *Women in China’s Long Twentieth Century* University of California Press, 2007. [Link](https://library.st-andrews.ac.uk/record=b2059838~S5) pp7-25, 36-50, 51-64, 98-105 (53pp)
+- Hershatter, Gail. ‘The Gender of Memory: Rural Chinese Women and the 1950s’. *Signs* 28, no. 1 (2002): 43–70. [DOI](https://doi.org/10.1086/340906) (27pp)
+- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2431654~S5) Ch 7 Same-sex Relationships and Transgendered Performance pp137-153, Ch 9 Sexuality and the Other pp169-197. (61pp)
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P) Introduction pp1-6, pp227-9 (9pp)
+- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3288095~S5) (P) Ch 8 The Iron Girls pp221-241 (20pp)
+
+### Elective Reading (50-70pp)
+
+A) Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003. [Link](https://library.st-andrews.ac.uk/record=b3285896~S5) (P) Introduction pp1-27, Ch 4 Love for Revolution: Xiao Jiating in the People's Republic pp167-196 (56pp)
+
+B) Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P) Ch 2 The Body Inside Out pp38-67, Ch 6 Cinderella's Dreams pp187-225 (67pp)
+
+C) Goodman, Bryna. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. Harvard University Press, 2021. [Link](https://library.st-andrews.ac.uk/record=b3172723~S5) (P) Prologue only pp1-4, Ch 2 The New Woman, the Ghost, and the Ubiquitous Concubine pp57-102 (49pp)
+
+D) Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. [Link](https://library.st-andrews.ac.uk/record=b3287142~S5) (P) Ch 4 Activist, pp96-128, Ch 9 Laborer, pp236-266 (62pp) 
+
+E) Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5) (P) Introduction pp1-29, Ch 7 The Conservative Backlash: Politics, Sex, and the Family in the Cultural Revolution, 1966–1968 pp281-312 (60pp)
+
+F) Barlow, Tani E. *The Question of Women in Chinese Feminism* [Link](https://library.st-andrews.ac.uk/record=b3138737~S5), Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252 (62pp) 
+
+G) Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3288095~S5) (P) Introduction pp1-26, Ch 8 The Iron Girls pp221-241 (46pp)
+
+### Overview
+
+At this point in the semester you should definitely have begun your writing process for the long essay. You should be getting your prospectus feedback and if you are contemplating a pivot in your topic, I suggest that, at this point, try to stick relatively close to your original intended focus. 
+
+During the class we will focus some discussion on the primary sources, and an extended discussion around the impact of questions related to gender and family on the broader narratives of the Communist revolution, especially (see Question 1 below). 
+
+### Questions
+
+1. Do our readings contribute to the "May Fourth story" that Hershatter is referring to below? What kinds of historical texts and sources may contribute or contest that narrative? 
+
+Gail Hershatter: "A course that begins with the late imperial period and moves through the history of revolutions runs the risk of becoming a narrative that reproduces the Communist revolution’s story about itself: that it was a progressive move from darkness into light. It doesn’t matter how much time I spend talking about the accomplishments of educated women in the Qing, or pushing students not just to denounce footbinding, but to consider why women who bound their daughters’ feet regarded themselves as fulfilling a motherly duty, and why daughters understood it as an unquestioned, if painful, part of growing up female. Students head straight for what historian Dorothy Ko has called the “May Fourth story”—a version of the Chinese past developed by radical social critics in the 1910s and 1920s arguing feudal society oppressed, sequestered, and deformed women, and that only modernity (directed by mostly male intellectuals) could free them. The Party-led revolution then becomes the fulfillment of that promise" - in "On Learning to Resist Verdicts and Disappearances: Teaching about Gender in Mao’s China" *PRC Review* Vol. 6, No. 4 (October 2021)
+
+2. What are some of the contradictions that exist in post-1949 PRC policies regarding women? 
+3. Thinking more broadly, what can we say about how masculinity and femininity is deployed in modern Chinese political contexts?
+
+### Long Essays
+
+This is a topic which is often represented by its own module. If you are thinking of writing a long essay in this area, consider exploring the further reading for one of the periods: Qing, Republican period, or for a CCP/PRC focus. You can see from the diversity of topics from our required and elective readings that there a range of very distinct directions you can take an essay in this general area. 
+
+### Further Reading
+
+- We don't have an ebook of this, but this survey history is very useful place to start for anyone exploring this topic: **Hershatter, Gail. *Women and China’s Revolutions*. 2018.**
+
+*Some primary accounts by women to consider exploring:*
+
+- Ding, Ling. *I Myself Am a Woman: Selected Writings of Ding Ling*. Beacon Press, 1989.
+- Huiqin, Chen. *Daughter of Good Fortune: A Twentieth-Century Chinese Peasant Memoir*. University of Washington Press, 2015.
+- Ning, Lao Tʻai-tʻai. *A Daughter of Han; the Autobiography of a Chinese Working Woman*. New Haven, 1945. 
+- Zhong, Xueping, Zheng Wang, and Bai Di. *Some of Us: Chinese Women Growing Up in the Mao Era*. Rutgers University Press, 2001.
+
+- Min, Anchee. *Red Azalea*. A&C Black, 2012. 
+- Zhai, Zhen-Hua, and Zhai Zhenhua. *Red Flower of China: An Autobiography*. Lester Publishing, 1992. 
+- Nien, Cheng. *Life and Death in Shanghai*. Grove Press, 1995.
+- Yue, Daiyun, and Carolyn Wakeman. *To The Storm: The Odyssey of a Revolutionary Chinese Woman*. University of California Press, 1987.
+
+*Secondary scholarship:*
+
+CCP and PRC:
+
+- Andors, Phyllis. *The Unfinished Liberation of Chinese Women, 1949-1980*. 1983.
+- Bailey, Paul J. *Women and Gender in Twentieth-Century China*. 2012.
+- Barlow, Tani E. *Gender Politics in Modern China: Writing and Feminism*. 1993.
+- Brownell, Susan, Jeffrey N. Wasserstrom, and Thomas Laqueur. *Chinese Femininities, Chinese Masculinities: A Reader*. 2002.
+- Buxbaum, David C. *Chinese Family Law and Social Change in Historical and Comparative Perspective*. 1978.
+- Chen, Tina Mai. ‘Female Icons, Feminist Iconography? Socialist Rhetoric and Women’s Agency in 1950s China’. *Gender & History* 15, no. 2 (2003): 268–95. [DOI](https://doi.org/10.1111/1468-0424.00303).
+- Cong, Xiaoping. *Marriage, Law, and Gender in Revolutionary China, 1940-1960*. 2016.
+- Cothran, Boyd, Joan Judge, and Adrian Shubert. *Women Warriors and National Heroes: Global Histories*. 2020.
+- Croll, Elisabeth. *Feminism and Socialism in China*. 2013.
+- Davin, Delia. *Woman-Work Women and the Party in Revolutionary China*. 1976.
 - Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5).
-- Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. 1995. [Link](http://library.st-andrews.ac.uk/record=b1940470~S5). (P)
-- Davin, Delia. *Woman-Work Women and the Party in Revolutionary China*. 1976. [Link](https://library.st-andrews.ac.uk/record=b1939421~S5)
-- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P)
+- Ding, Ling. *I Myself Am a Woman: Selected Writings of Ding Ling*. 1989.
+- Du, Chunmei. ‘Jeep Girls and American GIs: Gendered Nationalism in Post–World War II China’. *Journal of Asian Studies* 81, no. 2 (1 May 2022): 341–63. [DOI](https://doi.org/10.1017/S002191182100228X).
+- Ebrey, Patricia Buckley. *Women and the Family in Chinese History*. 2003.
+- Entwisle/Henderson, Barbara Entwisle, and Gail E. Henderson, eds. *Re-Drawing Boundaries: Work, Households, and Gender in China*. Electronic book. Studies on China. 2010.
+- Fincher, Leta Hong. *Leftover Women: The Resurgence of Gender Inequality in China*. 2016.
+- Gilmartin, Christina Kelley. *Engendering the Chinese Revolution: Radical Women, Communist Politics, and Mass Movements in the 1920s*. 1995.
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003.
+- Hershatter, Gail. *Dangerous Pleasures: Prostitution and Modernity in Twentieth-Century Shanghai*. 1997.
+- ———. ‘The Gender of Memory: Rural Chinese Women and the 1950s’. *Signs* 28, no. 1 (2002): 43–70. [DOI](https://doi.org/10.1086/340906).
+- ———. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011.
+- ———. *Women and China’s Revolutions*. 2018.
+- ———. *Women in China’s Long Twentieth Century*. 2007.
+- Hockx, Michel, Joan Judge, and Barbara Mittler. *Women and the Periodical Press in China’s Long Twentieth Century*. 2018.
+- Honig, Emily. ‘Maoist Mappings of Gender: Reassessing the Red Guards’. In *Chinese Femininities/Chinese Masculinities: A Reader*, edited by Susan Brownell, Jeffrey N. Wasserstrom, and Thomas Laqueur, 255–68. 2002. [DOI](https://doi.org/10.1525/9780520935303-017).
+- Honig, Emily, and Gail Hershatter. *Personal Voices: Chinese Women in the 1980’s*. 1988.
+- Hu, Chi-hsi. ‘The Sexual Revolution in the Kiangsi Soviet’. *The China Quarterly* 59 (September 1974): 477–90.
+- Johnson, Kay Ann. *Women, the Family, and Peasant Revolution in China*. 2009.
+- Judd, Ellen R. *Gender and Power in Rural North China*. 1994.
+- Karl, Rebecca E. ‘Translation, Modernity, and Women in China’. *Critical Asian Studies* 33, no. 3 (2001): 459–72.
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.
+- LaCouture, Elizabeth. *Dwelling in the World: Family, House, and Home in Tianjin, China, 1860–1960*. 2021.
+- Levy, Jr Marion J. *The Family Revolution in Modern China*. 2014.
+- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. 2013.
+- Louie, Kam, and Professor Kam Louie. *Theorising Chinese Masculinity: Society and Gender in China*. 2002.
+- Louie, Kam, and Morris Low. *Asian Masculinities: The Meaning and Practice of Manhood in China and Japan*. 2005.
+- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011.
+- Manning, Kimberley Ens. ‘Making a Great Leap Forward? The Politics of Women’s Liberation in Maoist China’. *Gender & History* 18, no. 3 (2006): 574–93. [DOI](https://doi.org/10.1111/j.1468-0424.2006.00456.x).
+- Molony, Barbara. *Gender in Modern East Asia*. 2018.
+- Ono, Kazuko, and Joshua A Fogel. *Chinese Women in a Century of Revolution, 1850-1950*. 1989.
+- Rodriguez, Sarah Mellors. *Reproductive Realities in Modern China: Birth Control and Abortion, 1911–2021*. 2023.
+- Stacey, Judith. *Patriarchy and Socialist Revolution in China*. 1983.
+- Stranahan, Patricia. *Yan’an Women and the Communist Party*. 1983.
+- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017.
+- Watson, Rubie S., and Patricia Buckley Ebrey. *Marriage and Inequality in Chinese Society*. 1991.
+- Yan, Haiping. *Chinese Women Writers and the Feminist Imagination, 1905-1948*. 2006.
+- Yang, Mayfair Mei-hui. *Spaces of Their Own: Women’s Public Sphere in Transnational China*. 1999.
+- Yuen, Sun-Pong, Pui-Lam Law, Yuk-Ying Ho, and Fong-Ying Yu. *Marriage, Gender and Sex in a Contemporary Chinese Village*. 2015.
+- Zarrow, Peter. ‘He Zhen and Anarcho-Feminism in China’. *The Journal of Asian Studies* 47, no. 4 (1988): 796–813.
+
+Republican period:
+
+- Bernhardt, Kathryn. *Women and Property in China, 960-1949*. 1999.
+- Dikötter, Frank. *Sex, Culture and Modernity in China: Medical Science and the Construction of Sexual Identities in the Early Republican Period*. 1995.
+- Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003.
+- Goodman, Bryna. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. 2021.
+- Hershatter, Gail, and Wang Zheng. ‘Chinese History: A Useful Category of Gender Analysis’. *The American Historical Review* 113, no. 5 (2008): 1404–21.
+- Honig, Emily. *Sisters and Strangers: Women in the Shanghai Cotton Mills, 1919-1949*. 1992.
+- Judge, Joan. *Republican Lens: Gender, Visuality, and Experience in the Early Chinese Periodical Press*. 2015.
+- ———. *The Precious Raft of History: The Past, the West, and the Woman Question in China*. 2008.
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.
+- Lan, Hua R, and Fong, Vanessa L. *Women in Republican China: A Sourcebook*. 1999.
+- Lean, Eugenia. *Public Passions: The Trial of Shi Jianqiao and the Rise of Popular Sympathy in Republican China*. 2007.
+- Liu, Lydia He, Rebecca E. Karl, and Dorothy Ko. *The Birth of Chinese Feminism: Essential Texts in Transnational Theory*. 2013.
+- Ma, Yuxin. *Women Journalists and Feminism in China, 1898-1937*. 2010.
+- Remick, Elizabeth J. *Regulating Prostitution in China: Gender and Local Statebuilding, 1900-1937*. 2014.
+- Rodriguez, Sarah Mellors. *Reproductive Realities in Modern China: Birth Control and Abortion, 1911–2021*. 2023.
+- Schillinger, Nicolas. *The Body and Military Masculinity in Late Qing and Early Republican China: The Art of Governing Soldiers*. 2016.
+- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2059919~S5).
+- Tran, Lisa. ‘Sex and Equality in Republican China: The Debate over the Adultery Law’. *Modern China* 35, no. 2 (2009): 191–223.
+- ———. ‘The Concubine in Republican China: Social Perception and Legal Construction’. *Études Chinoises* 28, no. 1 (2009): 119–49. [DOI](https://doi.org/10.3406/etchi.2009.928).
+- Wolf, Arthur P., and Chieh-shan Huang. *Marriage and Adoption in China, 1845-1945*. 1980.
+
+Qing:
+
+- Beahan, Charlotte L. ‘Feminism and Nationalism in the Chinese Women’s Press, 1902-1911’. *Modern China* 1, no. 4 (1975): 379–416.
+- Bernhardt, Kathryn. *Women and Property in China, 960-1949*. 1999.
+- Bray, Francesca. *Technology and Gender: Fabrics of Power in Late Imperial China*. 1997.
+- Edgerton-Tarpley, Kathryn. ‘Family and Gender in Famine: Cultural Responses to Disaster in North China, 1876-1879’. *Journal of Women’s History* 16, no. 4 (2004): 119–47.
+- Edwards. *Men and Women in Qing China: Gender in The Red Chamber Dream*. Electronic book. Sinica Leidensia 31. 1994.
+- Edwards, Louise. ‘Women Warriors and Amazons of the Mid Qing Texts Jinghua Yuan and Honglou Meng’. *Modern Asian Studies* 29, no. 2 (1995): 225–55.
+- Goodman, Bryna, and Wendy Larson. *Gender in Motion: Divisions of Labor and Cultural Change in Late Imperial and Modern China*. 2005.
+- Hayter-Menzies, Grant. *The Empress and Mrs. Conger: The Uncommon Friendship of Two Women and Two Worlds*. 2011.
+- Hoe, Susanna. *Women at the Siege, Peking 1900*. 2000.
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.
+- ———. *Teachers of the Inner Chambers: Women and Culture in Seventeenth-Century China*. 1994.
+- Ma, Yuxin. *Women Journalists and Feminism in China, 1898-1937*. 2010.
+- Mann, Susan. *Precious Records: Women in China’s Long Eighteenth Century*. 1997.
+- McMahon, Keith. *Celestial Women: Imperial Wives and Concubines in China from Song to Qing*. 2016.
+- Remick, Elizabeth J. *Regulating Prostitution in China: Gender and Local Statebuilding, 1900-1937*. 2014.
+- Widmer, Ellen, and Kang-i Sun Chang. *Writing Women in Late Imperial China*. 1997.
+- Wu, Cuncun, and David Stevenson, eds. *Wanton Women in Late-Imperial Chinese Literature: Models, Genres, Subversions and Traditions*. 2017.
+- Yang, Binbin. *Heroines of the Qing: Exemplary Women Tell Their Stories*. 2016.
+- Zhang, Yun. *Engendering the Woman Question: Men, Women, and Writing in China’s Early Periodical Press*. 2020.
+
 
 ## Week 10 - Mao's Revolution in a Global Context {#world}
 

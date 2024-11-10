@@ -6,7 +6,7 @@
 
  \textbf{Tuesdays 13:00-15:00
 \\ St Katharine's Lodge 0.02 - Seminar Room}
-\\ WEEK 2 DRAFT
+\\ WEEK 2 DRAFT 
 \end{center}
 
 <br />  
