@@ -1243,15 +1243,151 @@ Qing:
 
 ## Week 10 - Mao's Revolution in a Global Context {#world}
 
-Key Texts and Presentation Texts:
 
-- Lovell, Julia. *Maoism: A Global History*. 2019. (P)
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5)
-- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3244068~S5) (P)
+### To Watch
+
+- Preview for *La Chinoise* (1967) ([Youtube](https://www.youtube.com/watch?v=Ts7HBWQXWfA&t=64s)) and this brief [commentary](https://www.youtube.com/watch?v=Ts7HBWQXWfA&t=64s).
+
+
+### Required Reading
+
+*Primary Sources:* (~47pp)
+
+- **Maoists in Scotland: The Workers Party of Scotland (Marxist-Leninist)** (~10pp Online and Files)
+    - *Scottish Vanguard* 1.1 1967 pp20-21 [Link](https://www.marxists.org/history/erol/periodicals/scottish-vanguard/sv-1-1.pdf), 1967 1.2 pp19-21 [Link](https://www.marxists.org/history/erol/periodicals/scottish-vanguard/sv-1-2.pdf), 1968.1 2.1 p11 (examine the "Book, Literature and Pamphlets" list) [Link](https://www.marxists.org/history/erol/periodicals/scottish-vanguard/sv-1-2.pdf), 1968.7 2.7 pp5 "A Challenge to Open Debate") [Link](https://www.marxists.org/history/erol/periodicals/scottish-vanguard/sv-2-7.pdf), 1969 3.6 pp10-11 "The Ninth Congress" and p13 on Gaelic Mao translation. [Link](https://www.marxists.org/history/erol/periodicals/scottish-vanguard/sv-3-6.pdf)
+    - "Matt Lygate: the Passing of a Scottish Leftist" [Link](https://www.workersliberty.org/story/2012/01/25/matt-lygate-passing-scottish-leftist) (see also Files)
+
+- Revolutionary Socialist Students' Federation (London) - "RSSF Manifesto" *New Left Review* 1.53 (Jan-Feb 1969) [Link](https://newleftreview-org.ezproxy.st-andrews.ac.uk/issues/i53/articles/revolutionary-socialist-students-federation-rssf-rssf-manifesto) (Also in Files)
+
+- “On Popular Justice: A Discussion with Maoists” in Michel Foucault, Colin Gordon ed. *Power/Knowledge: Selected Interviews & Other Writings 1972-1977* pp1-36 (Files, English and French versions)
+
+*Secondary Sources:* (82pp)
+
+- Cheek, Timothy *A Critical Introduction to Mao* (2010), Ch 12 Third World Maoism, Ch 13 Mao's Journeys to the West, pp288-331 [Link](https://library.st-andrews.ac.uk/record=b3052188~S5)
+
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 1 Introduction pp1-20
+
+- Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Introduction pp1-19
+
+### Elective Reading
+
+**India**
+
+- Charu Mazumdar "Take This Opportunity" [Link](https://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 7 Empty Symbol: The Little Red Book in India pp117-129
+- Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
+
+*Further Reading:*
+
+- Banerjee, Milinda. ‘“We Shall Create a New World, A New Man, A New Society”: Globalized Horizons among Bengali Naxalites’. In *The Global 1960s*. 2017.
+- Banerjee, Sumanta. *India’s Simmering Revolution: The Naxalite Uprising*. 1984.
+- Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
+- Kennedy, Jonathan, and Sunil Purushotham. ‘Beyond Naxalbari: A Comparative Analysis of Maoist Insurgency and Counterinsurgency in Independent India’. *Comparative Studies in Society and History* 54, no. 4 (2012): 832–62. [Link](https://www.jstor.org/stable/23274553).
+- Ramana, P. V. *The Naxal Challenge: Causes, Linkages, and Policy Options*. 2008.
+- Samaddar, Ranabir. *From Popular Movements to Rebellion: The Naxalite Decade*. 2018.
+
+**Nepal**
+
+- Hutt, Michael. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012): 107–42. [Link](https://eprints.soas.ac.uk/14544/).
+- Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [Link](https://library.st-andrews.ac.uk/record=b3301697~S5)
+
+*Further Reading:*
+
+- Adhikari, Aditya. *The Bullet and the Ballot Box: The Story of Nepal’s Maoist Revolution*. 2014.
+- Davis, Paul K., Eric V. Larson, Zachary Haldeman, Mustafa Oguz, and Yashodhara Rana. ‘Public Support for the Maoists in Nepal’. In *Understanding and Influencing Public Support for Insurgency and Terrorism*, 119–50. 2012. [Link](https://www.jstor.org/stable/10.7249/mg1122osd.13).
+- Einsiedel, Sebastian von, David M. Malone, and Suman Pradhan. *Nepal in Transition: From People’s War to Fragile Peace*. 2012.
+- Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [DOI](https://doi.org/10.1515/9781785337819-004).
+- ———. *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*. Electronic book. Dislocations 21. 2018.
+- Hutt, Michael. *Himalayan People’s War: Nepal’s Maoist Rebellion*. 2004.
+- ———. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012): 107–42. [Link](https://eprints.soas.ac.uk/14544/).
+- Lawoti, Mahendra, and Anup K. Pahari, eds. *The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century*. Routledge Contemporary South Asia Series 20. 2011.
+- Lecomte-Tilouine, Marie. *Revolution in Nepal: An Anthropological and Historical Approach to the People’s War*. 2013.
+- ———. ‘Terror in a Maoist Model Village, Mid-Western Nepal’. *Dialectical Anthropology* 33, no. 3/4 (2009): 383–401. [Link](https://www.jstor.org/stable/29790895).
+- Lohani-Chase, Rama S. ‘Protesting Women in the People’s War Movement in Nepal’. *Signs* 40, no. 1 (2014): 29–36. [DOI](https://doi.org/10.1086/676891).
+- Nepal, Mani, Alok K. Bohara, and Kishore Gawande. ‘More Inequality, More Killings: The Maoist Insurgency in Nepal’. *American Journal of Political Science* 55, no. 4 (2011): 886–906. [Link](https://www.jstor.org/stable/23025126).
+- Pettigrew, Judith. *Maoists at the Hearth: Everyday Life in Nepal’s Civil War*. 2013.
+- Shah, Alpa, and Judith Pettigrew. *Windows into a Revolution: Ethnographies of Maoism in India and Nepal*. 2017.
+- Thapa, Deepak, ed. *Understanding The Maoist Movement Of Nepal*. 2003.
+- Zharkevich, Ina. *Maoist’s People War and the Revolution of Everyday Life Innepal*. Electronic book. South Asia in the Social Sciences 8. 2019.
+
+**Peru**
+
+- Central Committee of the Communist Party of Peru "General Political Line of the Communist Party of Peru" (1988) (Files) only pp1-20
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 8 The Influence of Maoism in Peru pp130-144
+- Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
+
+*Further Reading:*
+
+- Degregori, Carlos Iván. *How Difficult It Is to Be God: Shining Path’s Politics of War in Peru, 1980–1999*. 2012.
+- Ferry, Megan M. ‘China as Utopia: Visions of the Chinese Cultural Revolution in Latin America’. *Modern Chinese Literature and Culture* 12, no. 2 (1 October 2000): 236–69. [Link](http://www.jstor.org/stable/41490834).
+- Fumerton, Mario. *From Victims to Heroes: Peasant Counter-Rebellion and Civil War in Ayacucho, Peru, 1980-2000*. 2003.
+- Gorriti, Gustavo. *The Shining Path: A History of the Millenarian War in Peru*. 2000.
+- Guiné, Anouk. ‘Iconography of a Prison Massacre: Drawings by Peruvian Shining Path War Survivors’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 289–310. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.20).
+- Hazleton, William A., and Sandra Woy‐Hazleton. ‘Terrorism and the Marxist Left: Peru’s Struggle Against Sendero Luminoso’. *Terrorism* 11, no. 6 (1 January 1988): 471–90. [DOI](https://doi.org/10.1080/10576108808435745).
+- Heilman, Jaymie. *Before the Shining Path: Politics in Rural Ayacucho, 1895-1980*. 2010.
+- Palmer, David Scott. *The Shining Path of Peru*. 1992.
+- Palmer, David Scott, and Louise Richardson. ‘Terror in the Name of Mao: Revolution and Response in Peru’. In *Democracy and Counterterrorism: Lessons from the the Past*, edited by Robert J. Art. 2007.
+- Rothwell, Matthew D. *Transpacific Revolutionaries: The Chinese Revolution in Latin America*. 2013.
+- Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
+- Stern, Steve J. *Shining and Other Paths: War and Society in Peru, 1980-1995*. 1998.
+- Taylor, Lewis. *Maoism in the Andes: Sendero Luminoso and the Contemporary Guerilla Movement in Peru*. 1983.
+
+**Cambodia**
+
+- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3244068~S5) Ch 2 Transmitting Maoism; pp55-84 Ch 6 "We Must Combine Theory and Practice" pp159-199
+
+*Further Reading:*
+
+- Chandler, David P. *Brother Number One: A Political Biography Of Pol Pot*. 2018.
+- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
+- ———. ‘“The Most Dissolute and Dishonest” Khmer to Aid China: Hu Nim and Indigenising the Maoist Ideological System, 1955–77’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 69–106. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.8).
+- Kiernan, Ben. *How Pol Pot Came to Power: A History of Communism in Kampuchea, 1930-1975*. 1985.
+- Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014.
+
+**USA**
+
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 14 By the Book pp255-263
+
+**France**
+
+- Anonymous (Louis Althusser) "On the Cultural Revolution" trans. Jason E. Smith *Décalages* 1.1 [Archived Link](https://web.archive.org/web/20180426052352/http://scholar.oxy.edu/decalages/vol1/iss1/9/) (See also Files) 20pp
+- Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77. [Link](https://muse.jhu.edu/pub/4/article/190192). 9pp
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 13 Principally Contradiction: The Flourishing of French Maoism pp225-242. 
 - Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3087999~S5) (P)
-- Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3076869~S5) (P)
-- Galimberti, Jacopo, Noemí de Haro García, Victoria H. F. Scott, eds. *Art, Global Maoism and the Chinese Cultural Revolution*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3009034~S5)
-- Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P)
+
+**Foucault**
+
+**End of Concern** - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Ch 1 Discovering China, Rethinking Knowledge; Ch 2 To Be or Not to Be, A Scholar: The Praxis of Radicalism in Academia pp23-99 (76pp)
+
+
+
+
+
+### Overview
+
+### Long Essays
+
+### Further Reading
+
+*Overview:* Our library doesn't have an ebook of this, but there are affordable paperbacks of Julia Lovell's *Maoism: A Global Survey* which covers a broad range of examples. 
+
+Sources:*
+
+- Consider exploring some of the sources and periodicals in the Marxists.org Encyclopedia of Anti-Revisionism Online, with many of these broadly aligned with Chinese and Maoist approaches:
+    - [Periodicals, Journals, and Newspapers](https://www.marxists.org/history/erol/periodicals/index.htm)
+    - [Home Page](https://www.marxists.org/history/erol/erol.htm)
+- The *Yearbook on International Communist Affairs* put out by the Hoover Institution has year by year news on various communist parties around the world, including Maoist/Marxist-Leninist parties. See me for years not in library.
+
+### Films of Interest
+
+- La Cina è vicina (1967)
+- Gymnaslærer Pedersen (2005)
+- See You at Mao (1970)
+- La Chinoise (1967)
+- United Red Army 実録• 連合赤軍あさま⼭荘への道程 (2007)
+- Der Baader Meinhof Komplex 2008
+- Eight Glorious Years of Nepali People’s War (2004) - Propaganda piece by Communist Party of Nepal
+(Maoist) on Archive.org
 
 ## Week 11 - Culture, History, and Memory {#culture}
 
