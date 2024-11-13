@@ -1,6 +1,6 @@
 % **MO3337: China’s Revolutions, 1850-1989**
-% **Tutor: Konrad M. Lawson**
-% **Fall 2024**
+% **University of St Andrews, Scotland**
+% **Tutor: Konrad M. Lawson - Semester 1 Martinmas 2024**
 
 \begin{center}
 

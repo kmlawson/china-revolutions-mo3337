@@ -14,7 +14,7 @@
 8. 05 Nov [**Reforming Thought**](#sixiang)
 9. 12 Nov [**Gender and the Family**](#gender)
 10. 19 Nov [**Maoism in the World**](#world)
-11. 26 Nov [**Culture, History, and Memory**](#culture)
+11. 26 Nov [**History and Memory**](#history)
 
 [Research Bibliography](#biblio)
 

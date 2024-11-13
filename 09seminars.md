@@ -29,7 +29,7 @@ Read either category A or category B readings:
  
 (B) Boxer Rebellion
  
-- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9 [Link](http://library.st-andrews.ac.uk/record=b1940609~S5)
 - *The Yi Ho Tuan Movement of 1900* (1976) [Archive.org](https://archive.org/details/the-yi-ho-tuan-movement-of-1900). 
     - Skim through this book, but especially read pp12-13, 17-19, 23-24, 95-97, 119-128
     - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?
@@ -288,7 +288,7 @@ Secondary sources (69pp):
 
 This week we will collectively build up class knowledge about a range of historiographical interventions on the CCPs wartime bases over the past few decades. I would like to ask that all students consider doing one of their three handouts this week on one of the following so that we have at least one (but ideally more) handout for each of the following. As you take notes on the reading, pay especially close attention to how these authors refer to eachother: especially in the case of the texts published in later years who refer back to Johnson, Selden, Kataoka, Chen, etc. What are the stakes in these debates? Consider reading a book review or two of the book you choose.
 
-- **(A) Johnson** Johnson, Chalmers. *Peasant Nationalism and Communist Power: The Emergence of Revolutionary China, 1937-1945*. 1962. Ch 1 + Ch 3-4 (P)
+- **(A) Johnson** Johnson, Chalmers. *Peasant Nationalism and Communist Power: The Emergence of Revolutionary China, 1937-1945*. 1962. Preface + Ch 3-4 (P)
 - **(B) Selden - 3 students** Selden, Mark. *The Yenan Way in Revolutionary China*. 1971. Ch 4-6 + Conclusion (P)
 - **(C) Kataoka** Kataoka, Tetsuya. *Resistance and Revolution in China: The Communists and the Second United Front*. 1974. Intro + Ch 7-8 (P)
 - **(D) Thaxton - 2 students** Thaxton, Ralph. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax). Intro + Ch 4-6 (P)
@@ -298,9 +298,9 @@ This week we will collectively build up class knowledge about a range of histori
 - **(H) Benton** Benton, Gregor. *New Fourth Army: Communist Resistance Along the Yangtze and the Huai, 1938-1941*. 1999. (In Library) Introduction + Ch 4-5 (P)
 - **(I) Feng** Feng, Chongyi, and David S. G. Goodman, eds. *North China at War: The Social Ecology of Revolution, 1937-1945*. 2000. Intro + Ch 5 + Ch 7-8
 - **(J) Goodman** Goodman, David S. G. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000. Ch 1 + Ch 7 + Conclusion (P)
-- **(J) Gatu** Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008. Intro + Ch 5-6 + Conclusion (P)
-- **(K) Esherick** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5) Preface + Ch 5-6 (P)
-- **(L) 訴苦復仇 (1947)** - Special elective reading for a volunteer student who is comfortable reading Chinese with full form characters. Please do a handout for this. See Teams. 
+- **(K) Gatu** Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008. Intro + Ch 5-6 + Conclusion (P)
+- **(L) Esherick** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5) Preface + Ch 5-6 (P)
+- **(M) 訴苦復仇 (1947)** - Special elective reading for a volunteer student who is comfortable reading Chinese with full form characters. Please do a handout for this. See Teams. 
 
 ( Background reading: )
 
@@ -962,29 +962,29 @@ This week we will explore the phenomenon of thought reform (sixiang gaizao 思�
 
 ### Elective Reading (~40-60pp)
 
-A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. (P) [Link](https://library.st-andrews.ac.uk/record=b2372311~S5) Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
+- (A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. (P) [Link](https://library.st-andrews.ac.uk/record=b2372311~S5) Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
 
 Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). (P)
 
-B) Ch 1 Finding a Place pp13-50
-C) Ch 2 People versus their Enemies pp51-78
-D) Ch 3 Curriculum of Consciousness pp79-118
-E) Ch 4 Laboring Masses pp119-154
-F) Ch 5 People Stand Up pp155-180
+- (B) Ch 1 Finding a Place pp13-50
+- (C) Ch 2 People versus their Enemies pp51-78
+- (D) Ch 3 Curriculum of Consciousness pp79-118
+- (E) Ch 4 Laboring Masses pp119-154
+- (F) Ch 5 People Stand Up pp155-180
 
-G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. (P) [Link](https://library.st-andrews.ac.uk/record=b3608639~S5). Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
+- (G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. (P) [Link](https://library.st-andrews.ac.uk/record=b3608639~S5). Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
 
 Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*, 2003. (P) [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
 
-H) Ch 2 Linguistic Engineering before the Cultural Revolution pp42-109
-I) Ch 4 Revolutionary Conformity pp150-188
-J) Ch 6 Creating Referents and Controlling the Word pp221-247
+- (H) Ch 2 Linguistic Engineering before the Cultural Revolution pp42-109
+- (I) Ch 4 Revolutionary Conformity pp150-188
+- (J) Ch 6 Creating Referents and Controlling the Word pp221-247
 
-K) Schoenhals, Michael. *Doing Things with Words in Chinese Politics: Five Studies*. 1992. (P) Ch 1 Formalized Language as a Form of Power + Ch 2 Party Circulars Proscribing and Prescribing Terminology
+- (K) Schoenhals, Michael. *Doing Things with Words in Chinese Politics: Five Studies*. 1992. (P) Ch 1 Formalized Language as a Form of Power + Ch 2 Party Circulars Proscribing and Prescribing Terminology
 
-Opportunity for someone with Chinese language: 
+Opportunity for someone with Chinese language (contact Konrad):
 
-L) 吳蘭, ed. 《自我批評實例》 1950. (browse and skim; share thoughts with the class) (P)
+- (L) 吳蘭, ed. 《自我批評實例》 1950. (browse and skim; share thoughts with the class) (P)
 
 ### Preparation
 
@@ -1068,6 +1068,8 @@ Some Chinese sources, mostly on "criticism and self-criticism":
 - 曹宪镛, ed. 谈谈批评与自我批评. 1984.
 - (苏)普切林(В.Пчелин). 共产党内的批评与自我批评, 1955.
 
+\newpage
+
 ## Week 9 - Gender and the Family {#gender}
 
 ### To Watch
@@ -1092,19 +1094,17 @@ Some Chinese sources, mostly on "criticism and self-criticism":
 
 ### Elective Reading (50-70pp)
 
-A) Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003. [Link](https://library.st-andrews.ac.uk/record=b3285896~S5) (P) Introduction pp1-27, Ch 4 Love for Revolution: Xiao Jiating in the People's Republic pp167-196 (56pp)
+- **(A) Family and State** -  Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003. [Link](https://library.st-andrews.ac.uk/record=b3285896~S5) (P) Introduction pp1-27, Ch 4 Love for Revolution: Xiao Jiating in the People's Republic pp167-196 (56pp)
 
-B) Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P) Ch 2 The Body Inside Out pp38-67, Ch 6 Cinderella's Dreams pp187-225 (67pp)
+- **(B) Cinderella's Sisters** - Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P) Ch 2 The Body Inside Out pp38-67, Ch 6 Cinderella's Dreams pp187-225 (67pp)
 
-C) Goodman, Bryna. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. Harvard University Press, 2021. [Link](https://library.st-andrews.ac.uk/record=b3172723~S5) (P) Prologue only pp1-4, Ch 2 The New Woman, the Ghost, and the Ubiquitous Concubine pp57-102 (49pp)
+- **(C) Suicide of Miss Xi** - Goodman, Bryna. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. Harvard University Press, 2021. [Link](https://library.st-andrews.ac.uk/record=b3172723~S5) (P) Prologue only pp1-4, Ch 2 The New Woman, the Ghost, and the Ubiquitous Concubine pp57-102 (49pp)
 
-D) Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. [Link](https://library.st-andrews.ac.uk/record=b3287142~S5) (P) Ch 4 Activist, pp96-128, Ch 9 Laborer, pp236-266 (62pp) 
+- **(D) Gender of Memory** - Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. [Link](https://library.st-andrews.ac.uk/record=b3287142~S5) (P) Ch 4 Activist, pp96-128, Ch 9 Laborer, pp236-266 (62pp) 
 
-E) Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5) (P) Introduction pp1-29, Ch 7 The Conservative Backlash: Politics, Sex, and the Family in the Cultural Revolution, 1966–1968 pp281-312 (60pp)
+- **(E) Revolutionizing the Family** - Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5) (P) Introduction pp1-29, Ch 7 The Conservative Backlash: Politics, Sex, and the Family in the Cultural Revolution, 1966–1968 pp281-312 (60pp)
 
-F) Barlow, Tani E. *The Question of Women in Chinese Feminism* [Link](https://library.st-andrews.ac.uk/record=b3138737~S5), Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252 (62pp) 
-
-G) Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3288095~S5) (P) Introduction pp1-26, Ch 8 The Iron Girls pp221-241 (46pp)
+- **(F) Question of Women** - Barlow, Tani E. *The Question of Women in Chinese Feminism* [Link](https://library.st-andrews.ac.uk/record=b3138737~S5), Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252 (62pp) 
 
 ### Overview
 
@@ -1241,13 +1241,13 @@ Qing:
 - Zhang, Yun. *Engendering the Woman Question: Men, Women, and Writing in China’s Early Periodical Press*. 2020.
 
 
-## Week 10 - Mao's Revolution in a Global Context {#world}
+\newpage
 
+## Week 10 - Mao's Revolution in a Global Context {#world}
 
 ### To Watch
 
 - Preview for *La Chinoise* (1967) ([Youtube](https://www.youtube.com/watch?v=Ts7HBWQXWfA&t=64s)) and this brief [commentary](https://www.youtube.com/watch?v=Ts7HBWQXWfA&t=64s).
-
 
 ### Required Reading
 
@@ -1261,122 +1261,118 @@ Qing:
 
 - “On Popular Justice: A Discussion with Maoists” in Michel Foucault, Colin Gordon ed. *Power/Knowledge: Selected Interviews & Other Writings 1972-1977* pp1-36 (Files, English and French versions)
 
-*Secondary Sources:* (82pp)
+*Secondary Sources:* (~80pp)
 
 - Cheek, Timothy *A Critical Introduction to Mao* (2010), Ch 12 Third World Maoism, Ch 13 Mao's Journeys to the West, pp288-331 [Link](https://library.st-andrews.ac.uk/record=b3052188~S5)
 
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 1 Introduction pp1-20
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 13 Principally Contradiction: The Flourishing of French Maoism pp225-242. 
 
 - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Introduction pp1-19
 
 ### Elective Reading
 
-**India**
-
-- Charu Mazumdar "Take This Opportunity" [Link](https://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 7 Empty Symbol: The Little Red Book in India pp117-129
-- Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
-
-*Further Reading:*
-
-- Banerjee, Milinda. ‘“We Shall Create a New World, A New Man, A New Society”: Globalized Horizons among Bengali Naxalites’. In *The Global 1960s*. 2017.
-- Banerjee, Sumanta. *India’s Simmering Revolution: The Naxalite Uprising*. 1984.
-- Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
-- Kennedy, Jonathan, and Sunil Purushotham. ‘Beyond Naxalbari: A Comparative Analysis of Maoist Insurgency and Counterinsurgency in Independent India’. *Comparative Studies in Society and History* 54, no. 4 (2012): 832–62. [Link](https://www.jstor.org/stable/23274553).
-- Ramana, P. V. *The Naxal Challenge: Causes, Linkages, and Policy Options*. 2008.
-- Samaddar, Ranabir. *From Popular Movements to Rebellion: The Naxalite Decade*. 2018.
-
-**Nepal**
-
-- Hutt, Michael. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012): 107–42. [Link](https://eprints.soas.ac.uk/14544/).
-- Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [Link](https://library.st-andrews.ac.uk/record=b3301697~S5)
-
-*Further Reading:*
-
-- Adhikari, Aditya. *The Bullet and the Ballot Box: The Story of Nepal’s Maoist Revolution*. 2014.
-- Davis, Paul K., Eric V. Larson, Zachary Haldeman, Mustafa Oguz, and Yashodhara Rana. ‘Public Support for the Maoists in Nepal’. In *Understanding and Influencing Public Support for Insurgency and Terrorism*, 119–50. 2012. [Link](https://www.jstor.org/stable/10.7249/mg1122osd.13).
-- Einsiedel, Sebastian von, David M. Malone, and Suman Pradhan. *Nepal in Transition: From People’s War to Fragile Peace*. 2012.
-- Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [DOI](https://doi.org/10.1515/9781785337819-004).
-- ———. *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*. Electronic book. Dislocations 21. 2018.
-- Hutt, Michael. *Himalayan People’s War: Nepal’s Maoist Rebellion*. 2004.
-- ———. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012): 107–42. [Link](https://eprints.soas.ac.uk/14544/).
-- Lawoti, Mahendra, and Anup K. Pahari, eds. *The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century*. Routledge Contemporary South Asia Series 20. 2011.
-- Lecomte-Tilouine, Marie. *Revolution in Nepal: An Anthropological and Historical Approach to the People’s War*. 2013.
-- ———. ‘Terror in a Maoist Model Village, Mid-Western Nepal’. *Dialectical Anthropology* 33, no. 3/4 (2009): 383–401. [Link](https://www.jstor.org/stable/29790895).
-- Lohani-Chase, Rama S. ‘Protesting Women in the People’s War Movement in Nepal’. *Signs* 40, no. 1 (2014): 29–36. [DOI](https://doi.org/10.1086/676891).
-- Nepal, Mani, Alok K. Bohara, and Kishore Gawande. ‘More Inequality, More Killings: The Maoist Insurgency in Nepal’. *American Journal of Political Science* 55, no. 4 (2011): 886–906. [Link](https://www.jstor.org/stable/23025126).
-- Pettigrew, Judith. *Maoists at the Hearth: Everyday Life in Nepal’s Civil War*. 2013.
-- Shah, Alpa, and Judith Pettigrew. *Windows into a Revolution: Ethnographies of Maoism in India and Nepal*. 2017.
-- Thapa, Deepak, ed. *Understanding The Maoist Movement Of Nepal*. 2003.
-- Zharkevich, Ina. *Maoist’s People War and the Revolution of Everyday Life Innepal*. Electronic book. South Asia in the Social Sciences 8. 2019.
-
-**Peru**
-
-- Central Committee of the Communist Party of Peru "General Political Line of the Communist Party of Peru" (1988) (Files) only pp1-20
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 8 The Influence of Maoism in Peru pp130-144
-- Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
-
-*Further Reading:*
-
-- Degregori, Carlos Iván. *How Difficult It Is to Be God: Shining Path’s Politics of War in Peru, 1980–1999*. 2012.
-- Ferry, Megan M. ‘China as Utopia: Visions of the Chinese Cultural Revolution in Latin America’. *Modern Chinese Literature and Culture* 12, no. 2 (1 October 2000): 236–69. [Link](http://www.jstor.org/stable/41490834).
-- Fumerton, Mario. *From Victims to Heroes: Peasant Counter-Rebellion and Civil War in Ayacucho, Peru, 1980-2000*. 2003.
-- Gorriti, Gustavo. *The Shining Path: A History of the Millenarian War in Peru*. 2000.
-- Guiné, Anouk. ‘Iconography of a Prison Massacre: Drawings by Peruvian Shining Path War Survivors’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 289–310. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.20).
-- Hazleton, William A., and Sandra Woy‐Hazleton. ‘Terrorism and the Marxist Left: Peru’s Struggle Against Sendero Luminoso’. *Terrorism* 11, no. 6 (1 January 1988): 471–90. [DOI](https://doi.org/10.1080/10576108808435745).
-- Heilman, Jaymie. *Before the Shining Path: Politics in Rural Ayacucho, 1895-1980*. 2010.
-- Palmer, David Scott. *The Shining Path of Peru*. 1992.
-- Palmer, David Scott, and Louise Richardson. ‘Terror in the Name of Mao: Revolution and Response in Peru’. In *Democracy and Counterterrorism: Lessons from the the Past*, edited by Robert J. Art. 2007.
-- Rothwell, Matthew D. *Transpacific Revolutionaries: The Chinese Revolution in Latin America*. 2013.
-- Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
-- Stern, Steve J. *Shining and Other Paths: War and Society in Peru, 1980-1995*. 1998.
-- Taylor, Lewis. *Maoism in the Andes: Sendero Luminoso and the Contemporary Guerilla Movement in Peru*. 1983.
-
-**Cambodia**
-
-- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3244068~S5) Ch 2 Transmitting Maoism; pp55-84 Ch 6 "We Must Combine Theory and Practice" pp159-199
-
-*Further Reading:*
-
-- Chandler, David P. *Brother Number One: A Political Biography Of Pol Pot*. 2018.
-- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
-- ———. ‘“The Most Dissolute and Dishonest” Khmer to Aid China: Hu Nim and Indigenising the Maoist Ideological System, 1955–77’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 69–106. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.8).
-- Kiernan, Ben. *How Pol Pot Came to Power: A History of Communism in Kampuchea, 1930-1975*. 1985.
-- Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014.
-
-**USA**
-
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 14 By the Book pp255-263
-
-**France**
-
-- Anonymous (Louis Althusser) "On the Cultural Revolution" trans. Jason E. Smith *Décalages* 1.1 [Archived Link](https://web.archive.org/web/20180426052352/http://scholar.oxy.edu/decalages/vol1/iss1/9/) (See also Files) 20pp
-- Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77. [Link](https://muse.jhu.edu/pub/4/article/190192). 9pp
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 13 Principally Contradiction: The Flourishing of French Maoism pp225-242. 
-- Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3087999~S5) (P)
-
-**Foucault**
-
-**End of Concern** - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Ch 1 Discovering China, Rethinking Knowledge; Ch 2 To Be or Not to Be, A Scholar: The Praxis of Radicalism in Academia pp23-99 (76pp)
-
-
-
-
+- **(A) India** (~50pp)
+    - Charu Mazumdar "Take This Opportunity" [Link](https://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
+    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 7 Empty Symbol: The Little Red Book in India pp117-129
+    - Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
+    - *Further Reading:*
+        - Banerjee, Milinda. ‘“We Shall Create a New World, A New Man, A New Society”: Globalized Horizons among Bengali Naxalites’. In *The Global 1960s*. 2017.
+        - Banerjee, Sumanta. *India’s Simmering Revolution: The Naxalite Uprising*. 1984.
+        - Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
+        - Kennedy, Jonathan, and Sunil Purushotham. ‘Beyond Naxalbari: A Comparative Analysis of Maoist Insurgency and Counterinsurgency in Independent India’. *Comparative Studies in Society and History* 54, no. 4 (2012): 832–62. [Link](https://www.jstor.org/stable/23274553).
+        - Ramana, P. V. *The Naxal Challenge: Causes, Linkages, and Policy Options*. 2008.
+        - Samaddar, Ranabir. *From Popular Movements to Rebellion: The Naxalite Decade*. 2018.
+- **(B) Nepal** (~56pp)
+    - Hutt, Michael. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012) but only read 107–23. [Link](https://eprints.soas.ac.uk/14544/).
+    - Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [Link](https://library.st-andrews.ac.uk/record=b3301697~S5)
+    - *Further Reading:*
+        - Adhikari, Aditya. *The Bullet and the Ballot Box: The Story of Nepal’s Maoist Revolution*. 2014.
+        - Davis, Paul K., Eric V. Larson, Zachary Haldeman, Mustafa Oguz, and Yashodhara Rana. ‘Public Support for the Maoists in Nepal’. In *Understanding and Influencing Public Support for Insurgency and Terrorism*, 119–50. 2012. [Link](https://www.jstor.org/stable/10.7249/mg1122osd.13).
+        - Einsiedel, Sebastian von, David M. Malone, and Suman Pradhan. *Nepal in Transition: From People’s War to Fragile Peace*. 2012.
+        - Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [DOI](https://doi.org/10.1515/9781785337819-004).
+        - ———. *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*. Electronic book. Dislocations 21. 2018.
+        - Hutt, Michael. *Himalayan People’s War: Nepal’s Maoist Rebellion*. 2004.
+        - ———. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012): 107–42. [Link](https://eprints.soas.ac.uk/14544/).
+        - Lawoti, Mahendra, and Anup K. Pahari, eds. *The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century*. Routledge Contemporary South Asia Series 20. 2011.
+        - Lecomte-Tilouine, Marie. *Revolution in Nepal: An Anthropological and Historical Approach to the People’s War*. 2013.
+        - ———. ‘Terror in a Maoist Model Village, Mid-Western Nepal’. *Dialectical Anthropology* 33, no. 3/4 (2009): 383–401. [Link](https://www.jstor.org/stable/29790895).
+        - Lohani-Chase, Rama S. ‘Protesting Women in the People’s War Movement in Nepal’. *Signs* 40, no. 1 (2014): 29–36. [DOI](https://doi.org/10.1086/676891).
+        - Nepal, Mani, Alok K. Bohara, and Kishore Gawande. ‘More Inequality, More Killings: The Maoist Insurgency in Nepal’. *American Journal of Political Science* 55, no. 4 (2011): 886–906. [Link](https://www.jstor.org/stable/23025126).
+        - Pettigrew, Judith. *Maoists at the Hearth: Everyday Life in Nepal’s Civil War*. 2013.
+        - Shah, Alpa, and Judith Pettigrew. *Windows into a Revolution: Ethnographies of Maoism in India and Nepal*. 2017.
+        - Thapa, Deepak, ed. *Understanding The Maoist Movement Of Nepal*. 2003.
+        - Zharkevich, Ina. *Maoist’s People War and the Revolution of Everyday Life Innepal*. Electronic book. South Asia in the Social Sciences 8. 2019.
+- **(C) Peru** (~50pp)
+    - Central Committee of the Communist Party of Peru "General Political Line of the Communist Party of Peru" (1988) (Files) but only pp1-20
+    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 8 The Influence of Maoism in Peru pp130-144
+    - Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
+    - *Further Reading:*
+        - Degregori, Carlos Iván. *How Difficult It Is to Be God: Shining Path’s Politics of War in Peru, 1980–1999*. 2012.
+        - Ferry, Megan M. ‘China as Utopia: Visions of the Chinese Cultural Revolution in Latin America’. *Modern Chinese Literature and Culture* 12, no. 2 (1 October 2000): 236–69. [Link](http://www.jstor.org/stable/41490834).
+        - Fumerton, Mario. *From Victims to Heroes: Peasant Counter-Rebellion and Civil War in Ayacucho, Peru, 1980-2000*. 2003.
+        - Gorriti, Gustavo. *The Shining Path: A History of the Millenarian War in Peru*. 2000.
+        - Guiné, Anouk. ‘Iconography of a Prison Massacre: Drawings by Peruvian Shining Path War Survivors’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 289–310. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.20).
+        - Hazleton, William A., and Sandra Woy‐Hazleton. ‘Terrorism and the Marxist Left: Peru’s Struggle Against Sendero Luminoso’. *Terrorism* 11, no. 6 (1 January 1988): 471–90. [DOI](https://doi.org/10.1080/10576108808435745).
+        - Heilman, Jaymie. *Before the Shining Path: Politics in Rural Ayacucho, 1895-1980*. 2010.
+        - Palmer, David Scott. *The Shining Path of Peru*. 1992.
+        - Palmer, David Scott, and Louise Richardson. ‘Terror in the Name of Mao: Revolution and Response in Peru’. In *Democracy and Counterterrorism: Lessons from the the Past*, edited by Robert J. Art. 2007.
+        - Rothwell, Matthew D. *Transpacific Revolutionaries: The Chinese Revolution in Latin America*. 2013.
+        - Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
+        - Stern, Steve J. *Shining and Other Paths: War and Society in Peru, 1980-1995*. 1998.
+        - Taylor, Lewis. *Maoism in the Andes: Sendero Luminoso and the Contemporary Guerilla Movement in Peru*. 1983.
+- **(D) Cambodia** (69pp)
+    - Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3244068~S5) Ch 2 Transmitting Maoism; pp55-84 Ch 6 "We Must Combine Theory and Practice" pp159-199
+    - *Further Reading:*
+        - Chandler, David P. *Brother Number One: A Political Biography Of Pol Pot*. 2018.
+        - Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
+        - ———. ‘“The Most Dissolute and Dishonest” Khmer to Aid China: Hu Nim and Indigenising the Maoist Ideological System, 1955–77’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 69–106. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.8).
+        - Kiernan, Ben. *How Pol Pot Came to Power: A History of Communism in Kampuchea, 1930-1975*. 1985.
+        - Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014.
+- **(E) USA** (64pp)
+    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 14 By the Book pp255-263
+    - Ho, Fred, Bill V. Mullen, and Lisa Li Shen Yun, eds. *Afro Asia: Revolutionary Political and Cultural Connections between African Americans and Asian Americans*. Electronic book. 2008. [Link](http://library.st-andrews.ac.uk/record=b3132124~S5). 
+        - Mao Zedong, Statement Supporting the Afro-American in Their Just Struggle Against Racial Discrimination by U.S. Imperialism, August 8, 1963 pp91-3
+        - Mao Zedong, Statement by Mao Tse-Tung, Chairman of the Central Committee of the Communist Party of China, in Support of the Afro-American Struggle Against Violent Repression, April 16, 1968 pp94-96
+        - Black Like Mao: Red China and Black Revolution pp97-148
+    - *Further Reading*:
+        - Ahmad, Muhammad. *We Will Return in the Whirlwind: Black Radical Organizations 1960-1975*. 2007.
+        - Bloom, Joshua, and Waldo E. Martin Jr. *Black against Empire: The History and Politics of the Black Panther Party*. 2013.
+        - Cleaver, Kathleen, and George Katsiaficas. *Liberation, Imagination and the Black Panther Party: A New Look at the Black Panthers and Their Legacy*. 2014.
+        - Fields, A. Belden. *Trotskyism and Maoism: Theory and Practice in France and the United States*. 1988.
+        - Frazier, Robeson Taj. *The East Is Black: Cold War China in the Black Radical Imagination*. 2014.
+        - Gaiter, Colette. ‘The Black Panther Newspaper and Revolutionary Aesthetics’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 87–108. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.10).
+        - Ho, Fred, Bill V. Mullen, and Lisa Li Shen Yun, eds. *Afro Asia: Revolutionary Political and Cultural Connections between African Americans and Asian Americans*. Electronic book. 2008. [Link](http://library.st-andrews.ac.uk/record=b3132124~S5).
+        - Zeigler, James. *Red Scare Racism and Cold War Black Radicalism*. 2015.
+        - Zheng, Yanqiu. *In Search of Admiration and Respect: Chinese Cultural Diplomacy in the United States, 1875–1974*. 2024.
+- **(F) France** (~80pp)
+    - 1972.9.17 *New York Times Magazine* article on French Maoists (Files)
+    - Anonymous (Louis Althusser) "On the Cultural Revolution" trans. Jason E. Smith *Décalages* 1.1 [Archived Link](https://web.archive.org/web/20180426052352/http://scholar.oxy.edu/decalages/vol1/iss1/9/) (See also Files) 20pp
+    - Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77. [Link](https://muse.jhu.edu/pub/4/article/190192). 9pp
+    - Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3087999~S5) (P) Ch 4 Who Were the Maoists? pp109-154
+    - *Further Reading:*
+        - Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77.
+        - Bosteels, Bruno. ‘Post-Maoism: Badiou and Politics’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 575–634.
+        - Bourg, Julian. ‘The Red Guards of Paris: French Student Maoism of the 1960s’. *History of European Ideas* 31, no. 4 (1 January 2005): 472–90. [DOI](https://doi.org/10.1016/j.histeuroideas.2004.09.001).
+        - Robcis, Camille. ‘“China in Our Heads”: Althusser, Maoism, and Structuralism’. *Social Text* 30, no. 1 (110) (1 March 2012): 51–69. [DOI](https://doi.org/10.1215/01642472-1468317).
+        - Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2010.
+- **(G) End of Concern** (76pp)
+    - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Ch 1 Discovering China, Rethinking Knowledge; Ch 2 To Be or Not to Be, A Scholar: The Praxis of Radicalism in Academia pp23-99 
 
 ### Overview
 
+Maoism, and especially China of the cultural revolution had an electrifying impact around the world. Around the world, organised "Maoist", "(Marxist-Leninist)", and "anti-revisionist" parties found in China (and Albania) an inspirational alternative and in many ways more radical alternative to the Soviet Union or the older Trotskyist parties. In most places these parties were very small and of limited or no significant influence on the broader left. In a broader field, however, Chinese revolutionary politics and Mao's ideas found much wider influence on culture, in academic circles, among philosophers of revolutionary praxis, and it also played supporting and inspirational role in inspiring a number of violent groups that sought funding through bank robberies, carried out violent purges within groups, or spectacular acts of terrorism to draw attention to a revolutionary cause. 
+
+This week we will share some readings in common, including some readings around the small group of Scottish marxists, and then ask students to share aspects of their elective reading cases with each other and the class as a whole. 
+
+### Questions
+
+1. What does being a "Maoist" or a "Maoist party" mean in these different cases? 
+2. What are some features of these other movements that would Mao like? What might he be less happy about? 
+3. If Mao "sinicized" Marxism, what are ways in which these movements adapted Maoism to their own context?
+
 ### Long Essays
 
-### Further Reading
-
-*Overview:* Our library doesn't have an ebook of this, but there are affordable paperbacks of Julia Lovell's *Maoism: A Global Survey* which covers a broad range of examples. 
-
-Sources:*
-
-- Consider exploring some of the sources and periodicals in the Marxists.org Encyclopedia of Anti-Revisionism Online, with many of these broadly aligned with Chinese and Maoist approaches:
-    - [Periodicals, Journals, and Newspapers](https://www.marxists.org/history/erol/periodicals/index.htm)
-    - [Home Page](https://www.marxists.org/history/erol/erol.htm)
-- The *Yearbook on International Communist Affairs* put out by the Hoover Institution has year by year news on various communist parties around the world, including Maoist/Marxist-Leninist parties. See me for years not in library.
+The advantage of long essays related to this week's topic is that you can work with sources in a very wide range of languages and related to a wide range of countries. See the further reading section for some ideas. 
 
 ### Films of Interest
 
@@ -1389,17 +1385,242 @@ Sources:*
 - Eight Glorious Years of Nepali People’s War (2004) - Propaganda piece by Communist Party of Nepal
 (Maoist) on Archive.org
 
-## Week 11 - Culture, History, and Memory {#culture}
+### Further Reading
 
-Key Texts and Presentation Texts:
+*Overview:* Our library doesn't have an ebook of this, but there are affordable paperbacks of Julia Lovell's *Maoism: A Global Survey* which covers a broad range of examples. 
 
-- Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3058820~S5) (P)
-- Laikwan, Pang. *The Art of Cloning: Creative Production During China’s Cultural Revolution*. 2017.
-- Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3173013~S5) (P)
-- Veg, Sebastian, ed. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. 2019. [Link](https://library.st-andrews.ac.uk/record=b2901265~S5)
-- Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3164128~S5) (P)
-- Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3133146~S5) (P)
-- Goldman, Merle. *Literary Dissent in Communist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3072516~S5)
-- Lee, Jennifer Dorothy. *Anxiety Aesthetics: Maoist Legacies in China, 1978–1985*. 2024. [Link](https://library.st-andrews.ac.uk/record=b3604653~S5) (P)
-- Culp, Robert. *The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3069065~S5) (P)
+*Sources:*
+
+- Consider exploring some of the sources and periodicals in the Marxists.org Encyclopedia of Anti-Revisionism Online, with many of these broadly aligned with Chinese and Maoist approaches:
+    - [Periodicals, Journals, and Newspapers](https://www.marxists.org/history/erol/periodicals/index.htm)
+    - [Home Page](https://www.marxists.org/history/erol/erol.htm)
+- The *Yearbook on International Communist Affairs* put out by the Hoover Institution has year by year news on various communist parties around the world, including Maoist/Marxist-Leninist parties. See me for years not in library.
+
+*I have given some case specific further reading above, but below is a broader list, with duplication of the above material.*
+
+- Adhikari, Aditya. *The Bullet and the Ballot Box: The Story of Nepal’s Maoist Revolution*. 2014.
+- Ahmad, Muhammad. *We Will Return in the Whirlwind: Black Radical Organizations 1960-1975*. 2007.
+- Alexander, Robert J. *International Maoism in the Developing World*. 1999.
+- Alexander, Robert Jackson. *Maoism in the Developed World*. 2001.
+- Ando, Takemasa. ‘Transforming “Everydayness”: Japanese New Left Movements and the Meaning of Their Direct Action’. *Japanese Studies* 33, no. 1 (1 May 2013): 1–18. [DOI](https://doi.org/10.1080/10371397.2012.751587).
+- Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77.
+- Baird, Ian G. ‘Becoming Marxist: Ethnic Hmong in the Communist Party of Thailand’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 299–332. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.16).
+- Banerjee, Milinda. ‘“We Shall Create a New World, A New Man, A New Society”: Globalized Horizons among Bengali Naxalites’. In *The Global 1960s*. 2017.
+- Banerjee, Sumanta. *India’s Simmering Revolution: The Naxalite Uprising*. 1984.
+- Barme, Geremie. *Shades of Mao: The Posthumous Cult of the Great Leader*. 1996.
+- Bhushan, Ranjit. *Maoism in India and Nepal*. 2015.
+- Bloom, Joshua, and Waldo E. Martin Jr. *Black against Empire: The History and Politics of the Black Panther Party*. 2013.
+- Bosteels, Bruno. ‘Post-Maoism: Badiou and Politics’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 575–634.
+- Bourg, Julian. ‘The Red Guards of Paris: French Student Maoism of the 1960s’. *History of European Ideas* 31, no. 4 (1 January 2005): 472–90. [DOI](https://doi.org/10.1016/j.histeuroideas.2004.09.001).
+- Brown, Timothy Scott. *West Germany and the Global Sixties: The Anti-Authoritarian Revolt, 1962–1978*. 2013.
+- Chakrabarty, Bidyut, and Rajat Kumar Kujur. *Maoism in India: Reincarnation of Ultra-Left Wing Extremism in the Twenty-First Century*. 2009.
+- Chandler, David P. *Brother Number One: A Political Biography Of Pol Pot*. 2018.
+- Cleaver, Kathleen, and George Katsiaficas. *Liberation, Imagination and the Black Panther Party: A New Look at the Black Panthers and Their Legacy*. 2014.
+- Coogan, Kevin, and Claudia Derichs. *Tracing Japanese Leftist Political Activism (1957 – 2017)*. 2022.
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014.
+- Cooley, John K. *East Wind Over Africa: Red China’s African Offensive*. 1965.
+- Cordoba, Cyril. ‘Beyond the Bamboo Curtain: Sensing the Chinese Cultural Revolution’. In *Sensory Warfare in the Global Cold War: Partition, Propaganda, Covert Operations*, edited by Bodo Mrozek, 58–72. 2024. [DOI](https://doi.org/10.1515/9780271098616-007).
+- Dake, Antonie C. A. *In the Spirit of the Red Banteng: Indonesian Communists Between Moscow and Peking, 1959–1965*. 2018.
+- Davis, Paul K., Eric V. Larson, Zachary Haldeman, Mustafa Oguz, and Yashodhara Rana. ‘Public Support for the Maoists in Nepal’. In *Understanding and Influencing Public Support for Insurgency and Terrorism*, 119–50. 2012. [Link](https://www.jstor.org/stable/10.7249/mg1122osd.13).
+- Degregori, Carlos Iván. *How Difficult It Is to Be God: Shining Path’s Politics of War in Peru, 1980–1999*. 2012.
+- Dirlik, Arif, Paul Michael Healy, and Nick Knight. *Critical Perspectives on Mao Zedong’s Thought*. 1997.
+- Einsiedel, Sebastian von, David M. Malone, and Suman Pradhan. *Nepal in Transition: From People’s War to Fragile Peace*. 2012.
+- Elbaum, Max. *Revolution in the Air: Sixties Radicals Turn to Lenin, Mao and Che*. 2002.
+- Ferrante, Stefano. *La Cina non era vicina. «Servire il popolo» e il maoismo all’italiana*. 2008.
+- Ferry, Megan M. ‘China as Utopia: Visions of the Chinese Cultural Revolution in Latin America’. *Modern Chinese Literature and Culture* 12, no. 2 (1 October 2000): 236–69.
+- Fields, A. Belden. *Trotskyism and Maoism: Theory and Practice in France and the United States*. 1988.
+- Figueroa, William A. ‘China and the Iranian Left: Transnational Networks of Social, Cultural, and Ideological Exchange, 1905–1979’. Ph.D., 2020. [Link](https://www.proquest.com/dissertations/docview/2481048702/abstract/7CE3E326D69E4312PQ/1).
+- Francescangeli, Eros. ‘The Bride in Red: Morality and Private Relationships in the Italian Revolutionary Left – the Case of the Maoist Group Servire Il Popolo’. *European Review of History: Revue Européenne d’histoire* 22, no. 1 (2 January 2015): 101–19. [DOI](https://doi.org/10.1080/13507486.2014.983429).
+- Frazier, Robeson Taj. *The East Is Black: Cold War China in the Black Radical Imagination*. 2014.
+- Fumerton, Mario. *From Victims to Heroes: Peasant Counter-Rebellion and Civil War in Ayacucho, Peru, 1980-2000*. 2003.
+- Gaiter, Colette. ‘The Black Panther Newspaper and Revolutionary Aesthetics’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 87–108. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.10).
+- Galimberti, Jacopo, Noemí de Haro García, and Victoria H. F. Scott, eds. *Art, Global Maoism and the Chinese Cultural Revolution*. 2020.
+- Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
+- ———. ‘“The Most Dissolute and Dishonest” Khmer to Aid China: Hu Nim and Indigenising the Maoist Ideological System, 1955–77’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 69–106. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.8).
+- Galway, Matthew, and Marc H. Opper. *Experiments with Marxism-Leninism in Cold War Southeast Asia*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3616656~S5).
+- Goldman, Rene. ‘Mao, Maoism and Mao-Ology’. *Pacific Affairs* 41, no. 4 (1 December 1968): 560–74. [DOI](https://doi.org/10.2307/2754566).
+- Gorriti, Gustavo. *The Shining Path: A History of the Millenarian War in Peru*. 2000.
+- Graber, Lauren, and Daniel Spaulding. ‘The Red Flag: The Art and Politics of West German Maoism’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 109–28. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.11).
+- Guillermo, Ramon, Teo Marasigan, Amado Anthony, G. Mendoza, and Dominic Sy. ‘Heavier than Mount Banahaw: “Five Golden Rays” and the “Filipinisation” of Maoism’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 137–64. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.10).
+- Guiné, Anouk. ‘Iconography of a Prison Massacre: Drawings by Peruvian Shining Path War Survivors’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 289–310. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.20).
+- Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
+- Hanshew, Karrin. *Terror and Democracy in West Germany*. 2014.
+- Hazleton, William A., and Sandra Woy‐Hazleton. ‘Terrorism and the Marxist Left: Peru’s Struggle Against Sendero Luminoso’. *Terrorism* 11, no. 6 (1 January 1988): 471–90. [DOI](https://doi.org/10.1080/10576108808435745).
+- Heilman, Jaymie. *Before the Shining Path: Politics in Rural Ayacucho, 1895-1980*. 2010.
+- Hevi, Emmanuel John. *An African Student in China*. 1963.
+- Ho, Fred, Bill V. Mullen, and Lisa Li Shen Yun, eds. *Afro Asia: Revolutionary Political and Cultural Connections between African Americans and Asian Americans*. Electronic book. 2008. [Link](http://library.st-andrews.ac.uk/record=b3132124~S5).
+- Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [DOI](https://doi.org/10.1515/9781785337819-004).
+- ———. *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*. Electronic book. Dislocations 21. 2018.
+- ———. ‘The Partial Revolution: Labour, Social Movements and theInvisible Hand of Mao in Western Nepal’. Electronic book. In *Berghahn Books Complete eBook-Package 2018*. Dislocations 21. 2018.
+- Hollander, Paul. *Political Pilgrims: Western Intellectuals in Search of the Good Society*. 2017.
+- Hoxha, Enver. *Reflections on China (1962–1972)*, n.d. [Link](https://www.marxists.org/reference/archive/hoxha/works/ebooks/reflections_on_china_volume_1.pdf).
+- Hutchison, Alan. *China’s African Revolution*. 1975.
+- Hutt, Michael. *Himalayan People’s War: Nepal’s Maoist Rebellion*. 2004.
+- ———. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012): 107–42.
+- Igarashi, Yoshikuni. ‘Dead Bodies and Living Guns: The United Red Army and Its Deadly Pursuit of Revolution, 1971–1972’. *Japanese Studies* 27, no. 2 (1 September 2007): 119–37. [DOI](https://doi.org/10.1080/10371390701494135).
+- Joiner, Lynne. *Honorable Survivor: Mao’s China, McCarthy’s America, and the Persecution of John S. Service : And Other Material*, 1933.
+- Kammen, Douglas, and Katharine McGregor. *The Contours of Mass Violence in Indonesia, 1965-68*. 2012.
+- Kapur, Nick. *Japan at the Crossroads: Conflict and Compromise after Anpo*. 2018.
+- Kennedy, Jonathan, and Sunil Purushotham. ‘Beyond Naxalbari: A Comparative Analysis of Maoist Insurgency and Counterinsurgency in Independent India’. *Comparative Studies in Society and History* 54, no. 4 (2012): 832–62.
+- Kiernan, Ben. *How Pol Pot Came to Power: A History of Communism in Kampuchea, 1930-1975*. 1985.
+- Kuriyama, Yoshihiro. ‘Terrorism at Tel Aviv Airport and a “New Left” Group in Japan’. *Asian Survey* 13, no. 3 (1973): 336–46. [DOI](https://doi.org/10.2307/2643041).
+- Landsberger, Stefan R. ‘Realising the Chinese Dream: Three Visions of Making China Great Again’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 15–34. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.6).
+- Lawoti, Mahendra, and Anup K. Pahari, eds. *The Maoist Insurgency in Nepal: Revolution in the Twenty-First Century*. Routledge Contemporary South Asia Series 20. 2011.
+- Lecomte-Tilouine, Marie. *Revolution in Nepal: An Anthropological and Historical Approach to the People’s War*. 2013.
+- ———. ‘Terror in a Maoist Model Village, Mid-Western Nepal’. *Dialectical Anthropology* 33, no. 3/4 (2009): 383–401.
+- Lekner, Dayton. ‘Breaking the Aquatic Sound Barrier: Hearing Yourself and Your Enemy Across the Taiwan Strait’. In *Sensory Warfare in the Global Cold War: Partition, Propaganda, Covert Operations*, edited by Bodo Mrozek, 91–111. 2024. [DOI](https://doi.org/10.1515/9780271098616-009).
+- Logue, John. *Socialism and Abundance: Radical Socialism in the Welfare State : A Study of the Danish Socialist Peoples Party*. 1982.
+- Lohani-Chase, Rama S. ‘Protesting Women in the People’s War Movement in Nepal’. *Signs* 40, no. 1 (2014): 29–36. [DOI](https://doi.org/10.1086/676891).
+- Lovell, Julia. *Maoism: A Global History*. 2019.
+- ‘Maoism in the United States’. Accessed 7 March 2013. [Link](http://www.marxists.org/history/erol/ncm-1/maoism-us.htm).
+- Marks, Thomas A. *Maoist Insurgency Since Vietnam*. 2012.
+- Marotti, William. ‘Japan 1968: The Performance of Violence and the Theater of Protest’. *The American Historical Review* 114, no. 1 (2009): 97–135.
+- Melby, John F. ‘Maoism as a World Force’. *Annals of the American Academy of Political and Social Science* 402, no. ArticleType: research-article / Issue Title: China in the World Today / Full publication date: Jul., 1972 / Copyright © 1972 American Academy of Political and Social Science (1 July 1972): 26–39.
+- Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014.
+- Nepal, Mani, Alok K. Bohara, and Kishore Gawande. ‘More Inequality, More Killings: The Maoist Insurgency in Nepal’. *American Journal of Political Science* 55, no. 4 (2011): 886–906.
+- ‘“On the Cultural Revolution” by Anonymous Tr. Jason E. Smith [Attributed to Louis Althusser]’, 26 April 2018. [Link](https://web.archive.org/web/20180426052352/http://scholar.oxy.edu/decalages/vol1/iss1/9/).
+- Palmer, David Scott. *The Shining Path of Peru*. 1992.
+- Palmer, David Scott, and Louise Richardson. ‘Terror in the Name of Mao: Revolution and Response in Peru’. In *Democracy and Counterterrorism: Lessons from the the Past*, edited by Robert J. Art. 2007.
+- Paul, Santosh. *The Maoist Movement in India: Perspectives and Counterperspectives*. 2013.
+- Perkins, Christopher. *The United Red Army on Screen: Cinema, Aesthetics and The Politics of Memory*. 2015.
+- Pettigrew, Judith. *Maoists at the Hearth: Everyday Life in Nepal’s Civil War*. 2013.
+- Ramana, P. V. *The Naxal Challenge: Causes, Linkages, and Policy Options*. 2008.
+- ‘Revolutionary Socialist Students’ Federation (RSSF) Manifesto’. *New Left Review*, n.d.
+- Robcis, Camille. ‘“China in Our Heads”: Althusser, Maoism, and Structuralism’. *Social Text* 30, no. 1 (110) (1 March 2012): 51–69. [DOI](https://doi.org/10.1215/01642472-1468317).
+- Rothwell, Matthew D. *Transpacific Revolutionaries: The Chinese Revolution in Latin America*. 2013.
+- Rozman, Gilbert. *A Mirror for Socialism: Soviet Criticisms of China*. 1985.
+- Samaddar, Ranabir. *From Popular Movements to Rebellion: The Naxalite Decade*. 2018.
+- Schieder, Chelsea Szendi. *Coed Revolution: The Female Student in the Japanese New Left*. 2021.
+- Shah, Alpa, and Judith Pettigrew. *Windows into a Revolution: Ethnographies of Maoism in India and Nepal*. 2017.
+- Slobodian, Quinn. *Foreign Front: Third World Politics in Sixties West Germany*. 2012.
+- Solstad, Dag. *Gymnaslærer Pedersens beretning om den store politiske vekkelsen som har hjemsøkt vårt land*. 2006.
+- Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421.
+- Steinhoff, Patricia G. ‘Hijackers, Bombers, and Bank Robbers: Managerial Style in the Japanese Red Army’. *The Journal of Asian Studies* 48, no. 4 (1989): 724–40. [DOI](https://doi.org/10.2307/2058111).
+- Stern, Steve J. *Shining and Other Paths: War and Society in Peru, 1980-1995*. 1998.
+- Taylor, Lewis. *Maoism in the Andes: Sendero Luminoso and the Contemporary Guerilla Movement in Peru*. 1983.
+- Thapa, Deepak, ed. *Understanding The Maoist Movement Of Nepal*. 2003.
+- Ungor, Cagdas. ‘Reaching the Distant Comrade: Chinese Communist Propaganda Abroad (1949–1976)’. Ph.D., 2009. [Link](https://www.proquest.com/dissertations/docview/305108683/abstract/986B5EB717DB4960PQ/1).
+- Volland, Nicolai. ‘Translating the Socialist State: Cultural Exchange, National Identity, and the Socialist World in the Early PRC’. *Twentieth-Century China* 33, no. 2 (1 April 2008): 51–72. [DOI](https://doi.org/10.1179/tcc.2008.33.2.51).
+- Walker, Gavin. *The Red Years: Theory, Politics, and Aesthetics in the Japanese ’68*. 2020.
+- Wittfogel, Karl A. ‘The Legend of “Maoism”’. *The China Quarterly*, no. 1 (1 January 1960): 72–86.
+- Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012.
+- Zeigler, James. *Red Scare Racism and Cold War Black Radicalism*. 2015.
+- Zeleza, Paul Tiyambe. ‘Dancing with the Dragon Africa’s Courtship with China’. *The Global South* 2, no. 2 (1 October 2008): 171–87.
+- Zeller, Nicholas R. ‘Return to Armed Revolution: The Pathet Lao and the Chinese Communist Party on Paths to National Liberation’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 239–70. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.14).
+- Zharkevich, Ina. *Maoist’s People War and the Revolution of Everyday Life Innepal*. Electronic book. South Asia in the Social Sciences 8. 2019.
+- Zheng, Yanqiu. *In Search of Admiration and Respect: Chinese Cultural Diplomacy in the United States, 1875–1974*. 2024.
+- Zhou, Taomo. *Migration in the Time of Revolution: China, Indonesia, and the Cold War*. Electronic book. 2019.
+
+\newpage
+
+## Week 11 - History and Memory {#history}
+
+### Required Reading
+
+*Primary Sources:* (~25-70)
+
+The following three resolutions are the "historical resolutions" that helped establish the Communist Party's officially recognized narrative of its recent past, and by extension, that of the People's Republic. We wil spend a good amount of time in class analysing these documents. You do not need to read all three documents in full. Instead, choose one of the following three options reading pages from the E=English or C=Chinese version, as you prefer, using the version for all these shared in the Files.
+
+- **Choose One from A, B, and C:** 
+    - (A) CCP up to 1949: **1E** pp20-83 (or **1C** pp1-39) + **2E** pp22-25 (or **2C** pp40-44) + **3E** pp1-5 (or **3C** pp1-9)
+    - (B) PRC 1949 through Cultural Revolution and passing of Mao: **2E** pp25-49 (or **2C** pp44-77) + **3E** pp5-7 (or **3C** pp9-14) 
+    - (C) PRC After CR and passing of Mao: **2E** pp49-54 (or **2C** pp77-84) + **3E** pp7-33 (or **3C** pp14-62)
+
+- The sources for the above mostly in Files:
+    - #1 "Resolution on Certain Questions in the History of Our Party" (1945) 
+        - **1E** Files version from *Selected Works of Mao Tse-tung* Vol III  (Files)
+        - **1C** 《关于若干历史问题的决议》和《关于建国以来党的若干历史问题的决议》中共党史出版社 (2010) (Files)
+    - #2 "Resolution on Certain Questions in the History of Our Party since the Founding of the People's Republic of China" (Files, both Chinese and English in the same document)
+        - **2E** in Files, from PDF [version](https://digitalarchive.wilsoncenter.org/document/resolution-certain-questions-history-our-party-founding-peoples-republic-china) from the Wilson Center Digital Archive ([Archived](https://web.archive.org/web/20240427095242/https://digitalarchive.wilsoncenter.org/document/resolution-certain-questions-history-our-party-founding-peoples-republic-china)) There is also a Chinese version here, but harder to read. 
+        - **2C** 《关于若干历史问题的决议》和《关于建国以来党的若干历史问题的决议》中共党史出版社 (2010) (Files)
+    - #3 "Resolution on the Major Achievements and Historical Experience of the Party over the Past Century"
+        - **3E** Files version from State Council website English.gov.cn and issued by Xinhua: [Link](https://english.www.gov.cn/policies/latestreleases/202111/16/content_WS6193a935c6d0df57f98e50b0.html) ([Archived](https://web.archive.org/web/20240309113756/https://english.www.gov.cn/policies/latestreleases/202111/16/content_WS6193a935c6d0df57f98e50b0.html))
+        - **3C** 《中共中央关于党的百年奋斗重大成就和历史经验的决议》人民出版社 2021 (Files)
+
+*Secondary Reading:* (17pp)
+
+- Weigelin-Schwiedrzik, Susanne. ‘Party Historiography in the People’s Republic of China’. *The Australian Journal of Chinese Affairs*, no. 17 (1987): 77–94. [Jstor](https://www.jstor.org/stable/2158969)
+
+### Elective Reading 
+
+(~40-60pp)
+
+- **(A) Curating Revolution** - Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3058820~S5) (P) Ch 2 Exhibiting New China: Fangua Lane Past and Present 
+- **(B) Chairman Mao's Children** - Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3164128~S5) (P) Introduction, only pp1-8; Ch 2 Unequal Memories pp73-101
+- **(C) Exhibiting the Past** - Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3173013~S5) (P) Ch 2 Exhibiting the Revolution pp45-75 and Ch 10 Revolutionary Memory and National Landscape pp214-242
+- **(D) Popular Memories** - Veg, Sebastian, ed. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. 2019. [Link](https://library.st-andrews.ac.uk/record=b2901265~S5)  Ch 2 Writing About the Past pp21-42, Ch 10 Case Files as a Source pp199-219
+- **(E) Negative Exposures** - Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3133146~S5) (P) Ch 2 Keeping it in the Family pp89-130
+- **(F) Mining China's Revolutionary Tradition** - Perry, Elizabeth J. *Anyuan: Mining China’s Revolutionary Tradition*. 2012. [Link](http://library.st-andrews.ac.uk/record=b2065636~S5). Introduction pp1-14; Ch 5 Constructing a Revolutionary Tradition
+- **(G) 1981 Resolution Guide**  学习《关于建国以来党的若干历史问题的决议》(1981)  - opportunity for Chinese readers, contact Konrad
+
+### Overview
+
+This is your last week of the semester so the reading is lighter this week. After checking in with some volunteers on progress with their essay, we will focus our classroom discussion on an analysis of three famous historical resolutions of the CCP from our primary sources. What time we have leftover will be in group work and plenary discussion of the elective readings, which bring in questions of memory and history in a much broader way. 
+
+### Questions
+
+1. How has the CCP's evaluation of its primary successes and failures changed over time? 
+2. Beyond the empirical content, what are changes in the style and approach of the historical resolutions across the three?
+3. How might these documents serve to constrain what historical scholarship is possible to write? Where is there greater ambiguity and flexibility?
+
+### Long Essays
+
+As we saw from very early in the semester, there are many Chinese historical works, including pamphlets, textbooks, and magazines which engage with China's history. Students might want to explore and analyse the CCP (or pre-CCP) historical writing. Memoirs and other accounts are also something that can be analysed not merely for what they can and cannot tell us about the times they describe but analysed more broadly or in aggregate.
+
+### Further Reading
+
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. 1998.
+- Cook, James A., Joshua Goldstein, Matthew D. Johnson, and Sigrid Schmalzer. *Visualizing Modern China: Image, History, and Memory, 1750–Present*. 2014.
+- Crossley, Pamela Kyle. *A Translucent Mirror: History and Identity in Qing Imperial Ideology*. 1999.
+- Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. Electronic book. 2014.
+- Dirlik, Arif. ‘Reversals, Ironies, Hegemonies: Notes on the Contemporary Historiography of Modern China’. *Modern China* 22, no. 3 (1996): 243–84.
+- ———. *Revolution and History: Origins of Marxist Historiography in China, 1919-1937*. 1989.
+- ———. ‘The Problem of Class Viewpoint versus Historicism in Chinese Historiography’. *Modern China* 3, no. 4 (1977): 465–88.
+- Doleželová-Velingerová, Milena, Rudolf G. Wagner, and SpringerLink (Online service), eds. *Chinese Encyclopaedias of New Global Knowledge (1870-1930): Changing Ways of Thought*. 2013.
+- Duara, Prasenjit. *Rescuing History from the Nation: Questioning Narratives of Modern China*. 1997.
+- Elliot, Jeannette Shambaugh, and David Shambaugh. *The Odyssey of China’s Imperial Art Treasures*. 2015.
+- Fan, Xin. *Global History in China*. 2024.
+- ———. *World History and National Identity in China*. 2021.
+- Friedman, Edward. ‘Raising Sheep on Wolf Milk: The Politics and Dangers of Misremembering the Past in China’. *Totalitarian Movements and Political Religions* 9, no. 2–3 (1 June 2008): 389–409. [DOI](https://doi.org/10.1080/14690760802095054).
+- Goldman, Merle. ‘The Role of History in Party Struggle, 1962-4’. *The China Quarterly*, no. 51 (1972): 500–519.
+- Henshaw, Jonathan. ‘That Which Is Carved in Stone: Nanjing’s Monuments and Chinese Commemoration of the Second World War’. *Modern China* 47, no. 6 (1 November 2021): 895–920. [DOI](https://doi.org/10.1177/0097700420942858).
+- Hershatter, Gail. ‘The Gender of Memory: Rural Chinese Women and the 1950s’. *Signs* 28, no. 1 (2002): 43–70. [DOI](https://doi.org/10.1086/340906).
+- ———. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011.
+- Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. Sinotheory. 2020.
+- Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017.
+- ———. ‘Reforming Connoisseurship: State and Collectors in Shanghai in the 1950s and 1960s’. *Frontiers of History in China* 7, no. 4 (1 January 2012): 608–37. [DOI](https://doi.org/10.3868/s020-001-012-0034-3).
+- ———. ‘Revolutionizing Antiquity: The Shanghai Cultural Bureaucracy in the Cultural Revolution, 1966-1968’. *The China Quarterly*, no. 207 (2011): 687–705.
+- Lee, Jennifer Dorothy. *Anxiety Aesthetics: Maoist Legacies in China, 1978–1985*. 2024.
+- Lee, Ching Kwan, and Guobin Yang. *Re-Envisioning the Chinese Revolution: The Politics and Poetics of Collective Memories in Reform China*. 2007.
+- Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. 2013.
+- Li, Jie, and Enhua Zhang. *Red Legacies in China: Cultural Afterlives of the Communist Revolution*. 2016.
+- Matten, Marc Andre. *Places of Memory in Modern China: History, Politics, and Identity*. 2011.
+- Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. [Link](https://library.st-andrews.ac.uk/record=b3568916~S5).
+- Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China*. 2005.
+- Perry, Elizabeth J. *Anyuan: Mining China’s Revolutionary Tradition*. 2012.
+- Qiu, Jin. ‘History and State: Searching the Past in the Light of the Present in the People’s Republic of China’. *Historiography East and West* 2, no. 1 (1 January 2004): 1–44. [DOI](https://doi.org/10.1163/1570186053682314).
+- Schmalzer, Sigrid. *The People’s Peking Man Popular Science and Human Identity in Twentieth-Century China*. 2008. [Link](http://public.eblib.com/choice/publicfullrecord.aspx?p=432291).
+- Schmidt-Glintzer, Helwig, Achim Mittag, and Jörn Rüsen, eds. *Historical Truth, Historical Criticism, and Ideology: Chinese Historiography and Historical Culture from a New Comparative Perspective*. 2005.
+- Schneider, Axel. ‘Bridging the Gap: Attempts at Constructing a “New” Historical-Cultural Identity in the PRC’. *East Asian History*, no. 22 (December 2001).
+- Unger, Jonathan, ed. *Using the Past to Serve the Present: Historiography and Politics in Contemporary China: Historiography and Politics in Contemporary China*. 2015.
+- Varutti, Marzia. *Museums in China: The Politics of Representation After Mao*. 2014. [Link](http://library.st-andrews.ac.uk/record=b3062013~S5).
+- Veg, Sebastian, ed. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. 2019.
+- Wang, Q. Edward. ‘Between Marxism and Nationalism: Chinese Historiography and the Soviet Influence, 1949-1963’. *Journal of Contemporary China* 9, no. 23 (1 March 2000): 95–111.
+- ———. *Inventing China through History: The May Fourth Approach to Historiography*. 2001.
+- ———. ‘The Chinese Historiography of the May Fourth Movement, 1990s to the Present’. *Twentieth-Century China* 44, no. 2 (5 March 2019): 138–49. [DOI](https://doi.org/10.1353/tcc.2019.0015).
+- ———. ‘World History on a Par with Chinese History? China’s Search for World Power in Three Stages’. *Global Intellectual History* 0, no. 0 (9 March 2020): 1–22. [DOI](https://doi.org/10.1080/23801883.2020.1738658).
+- ———. ‘Worldviews in Twentieth-Century Chinese Historiography’. *Global Intellectual History* 0, no. 0 (10 March 2020): 1–6. [DOI](https://doi.org/10.1080/23801883.2020.1738650).
+- Wang, Q. Edward, and Georg G. Iggers. *Marxist Historiographies: A Global Perspective*. 2015.
+- Wang, Zheng. *Never Forget National Humiliation: Historical Memory in Chinese Politics and Foreign Relations*. 2012.
+- Weatherley, Robert, and Qiang Zhang. *History and Nationalist Legitimacy in Contemporary China: A Double-Edged Sword*. Electronic book. 2017.
+- Weigelin-Schwiedrzik, Susanne. ‘Back to the Past: Chinese Intellectuals in Search of Historical Legitimacy’. In *Rethinking China in the 1950s*, edited by Mechthild Leutner. 2007.
+- ———, ed. *Broken Narratives: Post-Cold War History and Identity in Europe and East Asia*. 2014.
+- Weigelin‐Schwiedrzik, Susanne. ‘Chinese Historical Writing since 1949’. In *The Oxford History of Historical Writing: Volume 5: Historical Writing Since 1945*, edited by Axel Schneider and Daniel Woolf, 0. 2011. [DOI](https://doi.org/10.1093/oso/9780199225996.003.0031).
+- Weigelin-Schwiedrzik, Susanne. ‘In Search of a Master Narrative for 20th-Century Chinese History’. *The China Quarterly*, no. 188 (2006): 1070–91.
+- ———. ‘On Shi and Lun: Toward a Typology of Historiography in the PRC’. *History and Theory* 35, no. 4 (1996): 74–95. [DOI](https://doi.org/10.2307/2505445).
+- ———. ‘Party Historiography in the People’s Republic of China’. *The Australian Journal of Chinese Affairs*, no. 17 (1987): 77–94. [DOI](https://doi.org/10.2307/2158969).
+- ———. ‘Recent PRC Scholarship on Liang Qichao and the Globalization of the Research on Modern Chinese History’. In *Science, Medicine and Culture: Festschrift for Friedrich Wallner*, edited by Martin J. Jandl and Kurt Greiner, 176–98. 2005.
+- ———. ‘Trauma and Memory: The Case of the Great Famine in the People’s Republic of China (1959-1961)’. *Historiography East and West* 1, no. 1 (1 January 2003): 39–67. [DOI](https://doi.org/10.1163/157018603763585249).
+- Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. 2021.
+- Xu, Luo. ‘Reconstructing World History in the People’s Republic of China since the 1980s’. *Journal of World History* 18, no. 3 (1 September 2007): 325–50. [DOI](https://doi.org/10.2307/20079435).
 
