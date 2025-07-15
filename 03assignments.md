@@ -6,12 +6,12 @@ The **summative** assessed portion of the coursework for this module consists of
 
 ### Headers and Formatting
 
-At the top of all your written work or on a cover page, you are required to include the following:
+At the top of all your written work or on a **cover page**, you are required to include the following:
 
 * Date: The date of submission
 * Assignment: The assignment you are submitting (e.g. Long Essay, etc.)
 * Student Number
-* Title: A *specific title* for your essay in the case of the Long Essay
+* Title: A *specific title* for your essay in the case of the Prospectus and Long Essay
 * Word Count: The total number of words (use the word count feature of your word processor, including footnotes)
 
 When formatting your assignments, you are required to follow these guidelines:

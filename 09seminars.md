@@ -1530,10 +1530,10 @@ The following three resolutions are the "historical resolutions" that helped est
     - #1 "Resolution on Certain Questions in the History of Our Party" (1945) 
         - **1E** Files version from *Selected Works of Mao Tse-tung* Vol III  (Files)
         - **1C** 《关于若干历史问题的决议》和《关于建国以来党的若干历史问题的决议》中共党史出版社 (2010) (Files)
-    - #2 "Resolution on Certain Questions in the History of Our Party since the Founding of the People's Republic of China" (Files, both Chinese and English in the same document)
+    - #2 "Resolution on Certain Questions in the History of Our Party since the Founding of the People's Republic of China" (1981) (Files, both Chinese and English in the same document)
         - **2E** in Files, from PDF [version](https://digitalarchive.wilsoncenter.org/document/resolution-certain-questions-history-our-party-founding-peoples-republic-china) from the Wilson Center Digital Archive ([Archived](https://web.archive.org/web/20240427095242/https://digitalarchive.wilsoncenter.org/document/resolution-certain-questions-history-our-party-founding-peoples-republic-china)) There is also a Chinese version here, but harder to read. 
         - **2C** 《关于若干历史问题的决议》和《关于建国以来党的若干历史问题的决议》中共党史出版社 (2010) (Files)
-    - #3 "Resolution on the Major Achievements and Historical Experience of the Party over the Past Century"
+    - #3 "Resolution on the Major Achievements and Historical Experience of the Party over the Past Century" (2021)
         - **3E** Files version from State Council website English.gov.cn and issued by Xinhua: [Link](https://english.www.gov.cn/policies/latestreleases/202111/16/content_WS6193a935c6d0df57f98e50b0.html) ([Archived](https://web.archive.org/web/20240309113756/https://english.www.gov.cn/policies/latestreleases/202111/16/content_WS6193a935c6d0df57f98e50b0.html))
         - **3C** 《中共中央关于党的百年奋斗重大成就和历史经验的决议》人民出版社 2021 (Files)
 
