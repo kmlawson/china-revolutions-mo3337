@@ -21,9 +21,9 @@
 ### Key Details:
 
 **Email:** kml8@st-andrews.ac.uk  
-**Meets:** Tue 13:00-15:00 St. Katharine's Lodge 0.02
+**Meets:** Thu 11:00-13:00 St. Katharine's Lodge 1.10
 **Office:** St. Katharine's Lodge B3  
-**Office Hours:** Tue 15:00 (sign up [here](https://goo.gl/Rh19wj)) 
+**Office Hours:** Thu 13:00 (sign up [here](https://goo.gl/Rh19wj)) 
 
 ### Description
 
@@ -33,18 +33,18 @@ This module traces the modern history of China through the lens of its most tran
 
 **Summative** (100% coursework)
 
-- 50% [Long Essay](#longessay) (4,000 Words) **10 December, 5pm**
-- 20% [Four Reading Analysis Posts](#posts) (2,500) **29 November, 5pm**
-- 15% [Essay Prospectus](#prospectus) (500 words) **1 November, 5pm**
-- 15% [Presentation](#presentation) (10 minutes)
+- 60% [Long Essay](#longessay) (4,000 Words) **11 December, 5pm**
+- 20% [Four Reading Analysis Posts](#posts) (2,500) **21 November, 5pm**
+- 20% [Presentation](#presentation) (10 minutes)
 
 **Formative** (Required to pass the module, but no grade given) 
  
+- [Essay Prospectus](#prospectus) (500 words) **27 Oct, 5pm**
 - [Three Elective Reading Handouts](#handouts)
 - [Map Quiz](#maps)
 - [Two Event Quizzes](#events)
 - [Essay Outline](#outline)
-- *Optional*: [Formative Presentation](#formativepres); [Draft Prospectus](#formative)
+- *Optional*: [Formative Presentation](#formativepres)
 
 ### Learning Outcomes
 

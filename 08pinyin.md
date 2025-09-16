@@ -1,6 +1,6 @@
 \pagebreak
 
-## Romanisation and Pronunciation
+# Romanisation and Pronunciation
 
 There are two very common ways to romanise Chinese: Pinyin and Wade-Giles. Both systems have their strengths and weaknesses, but Wide-Giles is very much in decline with the strong support given Pinyin by its its recognition by the People's Republic of China as the official romanisation method. I prefer pinyin myself, mostly because I have been using it the longest. However, the older Wade-Giles romanisation system is still found in many of the older publications that you have been assigned in this class. 
 

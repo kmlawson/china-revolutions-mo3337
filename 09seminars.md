@@ -4,7 +4,7 @@
 
 ## Week 0 - Orientation
 
-This meeting was held online and a recording of it can be found on our Module Team, as well as a copy of the slides. It went over the structure for the module and the assessments.
+Optional orientation meeting my office. See email from me for the details.
 
 ## Week 1 - Introduction: Rebellion and Revolution {#reb}
 
@@ -12,7 +12,7 @@ This meeting was held online and a recording of it can be found on our Module Te
 
 Spence, Jonathan D. *The Search for Modern China* Ch 8-11 pp164-254 (in 3rd ed.)
 
-Over the summer, I advised students to read Ch 8-26 of any edition of *The Search for Modern China*. If you didn't find time for this over the summer, I would recommend you do continue to work through the text for that chapter range. The relevant chapters for the week will be listed normally as "background reading" but only this week will they be listed as the required reading.
+Over the summer, I advised students to read Ch 8-26 of any edition of *The Search for Modern China*. If you didn't find time for this over the summer, I would recommend you do continue to work through the text for that chapter range. The relevant chapters for the week will be listed normally as "background reading" but only this week will they be listed as the required reading. No ebook, so consider getting your own copy.
 
 ### Elective Reading
  
@@ -20,16 +20,16 @@ Read either category A or category B readings:
  
 (A) Taiping Rebellion
  
-- *Cambridge History of China* Vol. 11 ([Ebook](https://library.st-andrews.ac.uk/record=b2401941~S5)) 
+- *Cambridge History of China* Vol. 11 ([Ebook](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991017078472308966)) 
     - Ch 6 – The Taiping Rebellion (but can focus on pp274-281, pp291-297, pp316-317)
     - This will provide you with a more detailed overview of the rebellion than Spence provides
 - *The Taiping Revolution* (1976) [Archive.org](https://archive.org/details/the-taiping-revolution/mode/1up)  
     - Skim through this book, but especially read pp38-41, 152-159, 168-178
     - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?
  
-(B) Boxer Rebellion
+(B) Boxer Uprising (Yihequan Movement)
  
-- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9 [Link](http://library.st-andrews.ac.uk/record=b1940609~S5)
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9 [Link](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991009317629708966)
 - *The Yi Ho Tuan Movement of 1900* (1976) [Archive.org](https://archive.org/details/the-yi-ho-tuan-movement-of-1900). 
     - Skim through this book, but especially read pp12-13, 17-19, 23-24, 95-97, 119-128
     - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?

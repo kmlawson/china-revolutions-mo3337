@@ -4,82 +4,80 @@
 
 Below are some of the major dates relevant to this course. Please become familiar with them and commit them to memory if possible, if at least for the duration of our course, as it will help to put our various readings into the context of other events around them:
 
-- 1839-1842 - (First) Opium War
-- 1843 - Sino-British Treaty of Nanjing; beginning of unequal treaties
-- 1850-1864 - Taiping Rebellion
-- 1851-1868 - Nian Rebellion
-- 1894-1895 - The (First) Sino-Japanese War
-- 1895, Apr - Taiwan Becomes a Colony of Japan
-- 1900 - Boxer Rebellion, occupation of north China by foreign forces
-- 1905 - Sun Yat-sen founds Revolutionary Alliance (Tongmenghui)
-- 1910, Aug - Korea is Annexed by Japan
-- 1911, Oct - The Xinhai Revolution, leading to fall of the Qing
-- 1911-1928 - Severely fragmented power in China (Warlord rule)
-- 1915, Jan - Japan Issues the Twenty-One Demands
-- 1919 - The May Fourth Movement
-- 1921, Jul - Founding of the Chinese Communist Party, First Congress in Shanghai
-- 1924-7 - First United Front Between the Nationalist Party (GMD) and the Communist Party (CCP)
-- 1925, Mar - The Death of Sun Yat-sen, rise of Chiang Kai-shek
-- 1925 - May 30th Movement
-- 1926-7 - The Northern Expedition
-- 1927 - Mao writes his Hunan Report on the peasant movement
-- 1927, Apr - The White Terror, anti-Communist purge begins in Shanghai after city is taken by GMD
-- 1927-1937 - The "Nanjing Decade"
-- 1930-4 - Chiang Kai-shek "encirclement" campaigns against Communists in Jiangxi
-- 1931, Sep - The Japanese Invasion of Manchuria
-- 1931, Nov - Jiangxi Soviet formally established with capital at Ruijin, Mao Zedong appointed chairman
-- 1934-1935 - CCP The Long March
-- 1936, Dec - The Xi'an Incident
-- 1937, Jul - The Marco Polo Bridge Incident
-- 1937-1945 - The (Second) Sino-Japanese War and Second United Front
-- 1937, Dec - Fall of Nanjing to Japan and the Nanjing Massacre
-- 1938, Jun - Chiang Kai-shek blows up the Yellow River dikes leading to mass death through flooding and starvation
-- 1942-5 - Yan'an Rectification Movement
-- 1945, Aug 15 - Japanese surrender and Japanese emperor's radio announcement
-- 1945-1949 - 2nd Civil War between the CCP and GMD
-- 1947, Feb - 2.28 Incident and GMD repression in Taiwan
-- 1947-1952 - Communist Land Reform Campaign
-- 1949, Oct - The Proclamation of the People's Republic
-- 1950, Apr - New Marriage Law pronounced
-- 1950, Oct - PLA invasion of Tibet
-- 1950-1953 - Campaign to Suppress Counterrevolutionaries (Zhenfan)
-- 1950-1953 - China participates in the Korean War
-- 1951-2 - Three-anti and Five-anti campaigns in the cities
-- 1956-1957 - Hundred Flowers Movement
-- 1957-1959 - Anti-Rightist Campaign
-- 1958 - Great Leap Forward Pronounced
-- 1958 - Launch of the Four Pests Campaign
-- 1959 - Tibetan revolt, Dalai Lama flees Tibet
-- 1959-1962 - The Great Leap Famine
-- 1959 - Lushan Conference; Peng Dehuai ousted, replaced by Lin Biao
-- 1960 - Sino-Soviet split widens
-- 1962, Aug - Rectification and Socialist Education campaign
-- 1963 - Learn from Comrade Lei Feng movement
-- 1964 - First nuclear weapon tested in China
-- 1966-1976 - The Cultural Revolution Period
-- 1968-1978 - Down to the Countryside movement
-- 1967-1968 - Revolutionary committees are most active
-- 1969, Apr - Cultural Revolution proclaimed success, Liu Shaoqi dismissed
-- 1969 - Soviet and Chinese troops clash
-- 1971, Oct - UN recognises the PRC as the government of China
-- 1971, Sep - Lin Biao incident and death
-- 1972, Feb - Nixon visit to China and signs Shanghai Communiqué
-- 1973-1975 - Criticize Lin and Confucius movement
-- 1975, Jul - Chiang Kai-shek dies in Taiwan
-- 1976, Sep - Death of Mao, Zhou Enlai and Zhu De die earlier in the year
-- 1976, Oct - The "Gang of Four" are arrested
-- 1978, Feb - 5th National People's Congress adopts Four Modernizations plan
-- 1978 - Posters appear on democracy wall
-- 1978, Dec - Wei Jingsheng's "Fifth Modernization" poster
-- 1979 - Crack down on democracy movement, Wei Jingsheng among those arrested
-- 1980, Sep - One-Child policy formally implemented, lasts until 2015
-- 1979, Jan - USA recognises the PRC as the government of China, in place of Taiwan
-- 1981, Jan - Gang of Four condemned
-- 1981 - Mao blamed for leftist excesses but 70/30 correct and incorrect ratio
-- 1983, Jan - CCP Central Committee calls for rural decollectivisation
-- 1984 - Sino-British joint declaration signed on return of Hong Kong
-- 1988 - Corruption and inflation issues become serious; economic adjustment policy
-- 1989, Apr - Hu Yaobang dies, students in Tian'anmen square
-- 1989, May - Hunger strike in Tiananmen square, large occupation of square
-- 1989, Jun 4 - The Tian'anmen Square Massacre, "6.4"
-
+- 1839-1842	(First) Opium War
+- 1842	Sino-British Treaty of Nanjing; beginning of unequal treaties
+- 1850-1864 	Taiping Rebellion
+- 1851-1868 	Nian Rebellion
+- 1894-1895	The (First) Sino-Japanese War
+- 1895, Apr	Taiwan Becomes a Colony of Japan
+- 1900	Yihequan Movement (Boxer Uprising), occupation of north China by foreign forces
+- 1905	Sun Yat-sen founds Revolutionary Alliance (Tongmenghui)
+- 1910, Aug	Korea is Annexed by Japan
+- 1911, Oct	The Xinhai Revolution, leading to fall of the Qing
+- 1911-1928 	Severely fragmented power in China (Warlord rule)
+- 1915, Jan	Japan Issues the Twenty-One Demands
+- 1919	The May Fourth Movement
+- 1921, Jul	Founding of the Chinese Communist Party, First Congress in Shanghai
+- 1924-7	First United Front Between the Nationalist Party (GMD) and the Communist Party (CCP)
+- 1925, Mar	The Death of Sun Yat-sen, rise of Chiang Kai-shek
+- 1925	May 30th Movement
+- 1926-7 	The Northern Expedition
+- 1927	Mao writes his Hunan Report on the peasant movement
+- 1927, Apr	The White Terror, anti-Communist purge begins in Shanghai after city is taken by GMD
+- 1927-1937	The "Nanjing Decade"
+- 1930-4	Chiang Kai-shek "encirclement" campaigns against Communists in Jiangxi
+- 1931, Sep	The Japanese Invasion of Manchuria
+- 1931, Nov	Jiangxi Soviet formally established with capital at Ruijin
+- 1934-1935	CCP The Long March
+- 1936, Dec	The Xi'an Incident
+- 1937, Jul	The Marco Polo Bridge Incident
+- 1937-1945	The (Second) Sino-Japanese War and Second United Front
+- 1937, Dec	Fall of Nanjing to Japan and the Nanjing Massacre
+- 1938, Jun	Chiang Kai-shek blows up the Yellow River dikes leading to mass death through flooding and starvation
+- 1942-5	Yan'an Rectification Movement
+- 1945, Aug 15	Japanese surrender and Japanese emperor's radio announcement
+- 1945-1949 	2nd Civil War between the CCP and GMD
+- 1947, Feb	2.28 Incident and GMD repression in Taiwan
+- 1946-1952 	Communist Land Reform Campaign
+- 1949, Oct	The Proclamation of the People's Republic
+- 1950, Apr	New Marriage Law pronounced
+- 1950, Oct	PLA invasion of Tibet
+- 1950-1953	Campaign to Suppress Counterrevolutionaries (Zhenfan)
+- 1950-1953	China participates in the Korean War
+- 1951-2	Three-anti and Five-anti campaigns in the cities
+- 1956-1957	Hundred Flowers Movement
+- 1957-1958 	Anti-Rightist Campaign
+- 1958	Great Leap Forward Pronounced
+- 1958	Launch of the Four Pests Campaign
+- 1959	Tibetan revolt, Dalai Lama flees Tibet
+- 1959-1961 	The Great Leap Famine
+- 1959	Lushan Conference; Peng Dehuai ousted, replaced by Lin Biao
+- 1960	Sino-Soviet split widens
+- 1962-1966 	Rectification and Socialist Education Movement ("four cleans")
+- 1963	Learn from Comrade Lei Feng movement
+- 1964	First nuclear weapon tested in China
+- 1966-1976	The Cultural Revolution Period
+- 1968-1978	Down to the Countryside movement
+- 1967-1968	Revolutionary committees are most active
+- 1969	Cultural Revolution proclaimed success, Liu Shaoqi dies
+- 1969	Soviet and Chinese troops clash
+- 1971, Oct	UN recognises the PRC as the government of China
+- 1971, Sep	Lin Biao incident and death
+- 1972, Feb	Nixon visit to China and signs Shanghai Communiqué
+- 1973-1975	Criticize Lin and Confucius movement
+- 1975, Apr	Chiang Kai-shek dies in Taiwan
+- 1976, Sep	Death of Mao, Zhou Enlai and Zhu De die earlier in the year
+- 1976, Oct	The "Gang of Four" are arrested
+- 1978	Deng's proposed reform policies approved ("Four Modernizations")
+- 1978	Posters appear on democracy wall
+- 1978, Dec	Wei Jingsheng's "Fifth Modernization" poster
+- 1979	Crack down on democracy movement, Wei Jingsheng among those arrested
+- 1980, Sep	One-Child policy formally implemented, lasts until 2015
+- 1979, Jan	USA recognises the PRC as the government of China, in place of Taiwan
+- 1981, Jan	Gang of Four condemned
+- 1981	Mao blamed for leftist excesses but 70/30 correct and incorrect ratio
+- 1983, Jan	CCP Central Committee calls for rural decollectivisation
+- 1984	Sino-British joint declaration signed on return of Hong Kong
+- 1988	Corruption and inflation issues become serious; economic adjustment policy
+- 1989, Apr	Hu Yaobang dies, students in Tian'anmen square
+- 1989, May	Hunger strike in Tiananmen square, large occupation of square
