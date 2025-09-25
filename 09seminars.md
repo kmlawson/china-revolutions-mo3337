@@ -29,7 +29,7 @@ Read either category A or category B readings:
  
 (B) Boxer Uprising (Yihequan Movement)
  
-- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9 [Link](https://librarysearch.st-andrews.ac.uk/permalink/44USTA_INST/6vqs55/alma991009317629708966)
+- Cohen, Paul A. *History in Three Keys: The Boxers as Event, Experience, and Myth*. Columbia University Press, 1998. Ch 1, 9 
 - *The Yi Ho Tuan Movement of 1900* (1976) [Archive.org](https://archive.org/details/the-yi-ho-tuan-movement-of-1900). 
     - Skim through this book, but especially read pp12-13, 17-19, 23-24, 95-97, 119-128
     - This Foreign Languages Press book gives you a Communist approved version of the history of the rebellion. What aspects of the rebellion are emphasised and which aspects underplayed? What aspects of the history are indicative of its Marxist approach? How and when does Mao come into it?
@@ -63,18 +63,19 @@ Please start your daily Mao reading, which you should continue throughout the se
 - Short Background Mini-lecture
     - Why revolutions in plural, 1911 and 1949, and the long/plural Communist revolutions in China?
     - The proposed logic for the structure of the module
-- Task: Form our two "small groups" (小组): "Red Heart" (红心) and "For the People" (为民)
+- **Task**: Form our "small groups" (小组): "Red Heart" (红心), "East Wind" (东风), "Smash the Four Olds" (破四), For the People" (为民), and "Front Line" (火線)
     - in each group, one volunteer will play the informal role of a "backbone element" (骨干分子) who can be relied upon to consistently and enthusiastically support the assigned tasks for group work, and serve as a model for (not a keeper of!) discipline - never straying from their focus or getting distracted. We can swap this role later in the semester if anyone gets tired of being a backbone. 
     - in each of the small groups, one or more students may be individually contacted during the semester to carry out special tasks as "activists" (积极分子)
     - There will be no struggle sessions, self-criticism, or speaking bitterness!
-- Task: Form our "mutual aid groups" (互助小组) of with mostly three students.
-- Task: Assemble little red books
-- Task: We will have our presentation week sign-ups (in person or recorded)
-- Task: Elective readings for next two weeks
-- Activity: First mutual aid group meeting to discuss essay topic ideas
-- Activity: We will sing the dynasty song together
-- Activity: Student presentation(s)
-- Activity: Discussion on depictions of these rebellions and their motivations
+- **Task**: Form our "mutual aid groups" (互助小组) of with mostly three students.
+- **Task**: Assemble little red books
+- **Task**: We will have our presentation week sign-ups (in person or recorded)
+- **Task**: Elective readings for next two weeks
+- **Activity**: First mutual aid group meeting to discuss essay topic ideas
+- **Activity**: We will sing the dynasty song together
+- **Activity**: Student presentation(s)
+- **Mini-lecture**: Valerie Cranmer mini
+- **Activity**: Discussion on depictions of these rebellions in the primary source you elected today
 
 ### Long Essay Ideas
 
@@ -124,7 +125,7 @@ Primary Sources (39pp):
 - SOURCES *Sources of Chinese Tradition* [Ebook](https://library.st-andrews.ac.uk/record=b2005711~S5)
     - Ch 32: Hu Hanmin, "The Six Principles of the People's Report" pp316-19 (4) 
     - Ch 32: Sun Yat-sen "The Three People's Principles" pp320-330 (11) 
-    - Ch 33 -  Hu Shi and Chen Duxiu pp352-363, pp366-372
+    - Ch 33 -  Hu Shi and Chen Duxiu pp352-363, pp366-372 - Choose either the CDX readings or the HS readings
         - CDX: "The Way of Confucius and Modern Life" (3)
         - HS: "A Preliminary Discussion of Literary Reform" (4)
         - CDX: "On Literary Revolution" (1)
@@ -140,23 +141,23 @@ Primary Sources (39pp):
 Secondary Sources (93pp):
 
 - Harrison, Henrietta. *China*. Inventing the Nation. 2010. Ch 5 "Ethnicity and Modernity in the 1911 Revolution" pp132-149 (Files)
-- Harrison, Henrietta. *The Making of the Republican Citizen : Political Ceremonies and Symbols in China 1911-1929*. 1999. [Link](https://library.st-andrews.ac.uk/record=b2004922~S5). Ch 1 "Moving the Revolution Beyond Politics" pp14-42
+- Harrison, Henrietta. *The Making of the Republican Citizen : Political Ceremonies and Symbols in China 1911-1929*. 1999.  Ch 1 "Moving the Revolution Beyond Politics" pp14-42
 - Mitter, Rana "1911: The Unanchored Chinese Revolution" 1009-1020 [Link](https://www.jstor.org/stable/41447787)
 - Mitter, Rana *A Bitter Revolution*, 3-40 Ch 1 "Flashpoint: 4 May 1919: The Making of a New China" [Ebook](https://library.st-andrews.ac.uk/record=b3294255~S5)
 - Lanza, Fabio. ‘Of Chronology, Failure, and Fidelity: When Did the May Fourth Movement End?’ *Twentieth-Century China* 38, no. 1 (2013): 53–70. [Link](https://muse.jhu.edu/pub/1/article/653520).
 
 ### Elective Reading
 
-- **(A) Manchus and Han** -  Rhoads, Edward J. M. *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928*. 2000. [Link](https://library.st-andrews.ac.uk/record=b3608378~S5) Intro pp3-10 + Ch 4 "The 1911 Revolution" pp173-230 (P)
-- **(B) Voting as a Rite** - Hill, Joshua. *Voting as a Rite: A History of Elections in Modern China*, 2019. [Link](https://library.st-andrews.ac.uk/record=b3528630~S5). Intro pp1-10 + Ch 3-4 pp74-136 (P)
-- **(C) Unfinished Republic** - Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2059919~S5). Ch 1-2 pp13-96 (P)
-- **(D) Making the Republican Citizen** - Harrison, Henrietta. *The Making of the Republican Citizen : Political Ceremonies and Symbols in China 1911-1929*. 1999. [Link](https://library.st-andrews.ac.uk/record=b2004922~S5) Ch 2-3 pp49-132 (P)
+- **(A) Manchus and Han** -  Rhoads, Edward J. M. *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928*. 2000.  Intro pp3-10 + Ch 4 "The 1911 Revolution" pp173-230 (P)
+- **(B) Voting as a Rite** - Hill, Joshua. *Voting as a Rite: A History of Elections in Modern China*, 2019.  Intro pp1-10 + Ch 3-4 pp74-136 (P)
+- **(C) Unfinished Republic** - Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. 2011.  Ch 1-2 pp13-96 (P)
+- **(D) Making the Republican Citizen** - Harrison, Henrietta. *The Making of the Republican Citizen : Political Ceremonies and Symbols in China 1911-1929*. 1999. Ch 2-3 pp49-132 (P)
 - **(E) Women and 1911**
     - Ono, Kazuko. ‘Women in the 1911 Revolution’. In *Chinese Women in a Century of Revolution*. 1988. (Files)
     - Hershatter, Gail. *Women and China’s Revolutions*. 2018. Ch 3 "Revolutionary Currents, 1895-1912" pp57-91 (Files)
-- **(F) Students and May Fourth** - Lanza, Fabio. *Behind the Gate Inventing Students in Beijing*. 2010. [Link](https://library.st-andrews.ac.uk/record=b3305559~S5). Ch 1 + Ch 4-5 pp23-50; 101-145 (P)
-- **(G) Liberalism and Western Radicalism** - Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. 2010. [Link](https://library.st-andrews.ac.uk/record=b2397826~S5). Ch 1 pp27-60 + Ch 4 pp128-158
-- **(H) May Fourth Societies** - Rahav, Shakhar. *The Rise of Political Intellectuals in Modern China: May Fourth Societies and the Roots of Mass-Party Politics*. 2015. [Link](https://library.st-andrews.ac.uk/record=b2383406~S5) Intro + Ch 3 + Ch 5
+- **(F) Students and May Fourth** - Lanza, Fabio. *Behind the Gate Inventing Students in Beijing*. 2010.  Ch 1 + Ch 4-5 pp23-50; 101-145 (P)
+- **(G) Liberalism and Western Radicalism** - Fung, Edmund S. K. *The Intellectual Foundations of Chinese Modernity: Cultural and Political Thought in the Republican Era*. 2010.  Ch 1 pp27-60 + Ch 4 pp128-158
+- **(H) May Fourth Societies** - Rahav, Shakhar. *The Rise of Political Intellectuals in Modern China: May Fourth Societies and the Roots of Mass-Party Politics*. 2015. Intro + Ch 3 + Ch 5
 
 Background Reading: *The Search for Modern China* Ch 12-13
 
@@ -218,7 +219,7 @@ Background Reading: *The Search for Modern China* Ch 12-13
 - Xue, Jundu, and Xing Huang, eds. *The Chinese Revolution of 1911: New Perspectives*. 1986.
 - Cheek, Timothy. ‘Revolution: Awakening New China (1915-1935)’. Electronic book. In *The Intellectual in Modern Chinese History*. 2015.
 - Chen, Joseph T. *The May Fourth Movement in Shanghai: The Making of a Social Movement in Modern China*. 1971.
-- Chen, Pingyuan. *Touches of History: An Entry into ‘May Fourth’ China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b3530559~S5).
+- Chen, Pingyuan. *Touches of History: An Entry into ‘May Fourth’ China*. 2011. 
 - Chow, Kai-wing, Tze-ki Hon, Hung-yok Ip, and Don C. Price. *Beyond the May Fourth Paradigm: In Search of Chinese Modernity*. 2008.
 - Chow, Tse-tsung. *The May Fourth Movement: Intellectual Revolution in Modern China*. 2013. (P)
 - Denton, Kirk A. *Modern Chinese Literary Thought: Writings on Literature, 1893-1945*. 1996.
@@ -263,7 +264,7 @@ Between the May Fourth Movement and the outbreak of full scale war with Japan in
 
 Primary sources (42pp):
 
-* SOURCES, Ch 34-35 Communist Revolution, Communist Praxis [Link](https://library.st-andrews.ac.uk/record=b2005711~S5) 
+* SOURCES, Ch 34-35 Communist Revolution, Communist Praxis  
     - *Mao's Revolutionary Doctrine pp406-425* (This overlaps with your Mao reading but repetition is not a bad thing!):
     - Mao "Report on an Investigation of the Hunan Peasant Movement" 
     - Mao "The Question of Land Redistribution"
@@ -292,14 +293,14 @@ This week we will collectively build up class knowledge about a range of histori
 - **(B) Selden - 3 students** Selden, Mark. *The Yenan Way in Revolutionary China*. 1971. Ch 4-6 + Conclusion (P)
 - **(C) Kataoka** Kataoka, Tetsuya. *Resistance and Revolution in China: The Communists and the Second United Front*. 1974. Intro + Ch 7-8 (P)
 - **(D) Thaxton - 2 students** Thaxton, Ralph. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax). Intro + Ch 4-6 (P)
-- **(E) Chen - 2 students** Chen, Yung-fa. *Making Revolution: The Communist Movement in Eastern and Central China, 1937-1945*. 1986. [Link](https://library.st-andrews.ac.uk/record=b3284135~S5). Intro + Ch 7 + Conclusion (P)
+- **(E) Chen - 2 students** Chen, Yung-fa. *Making Revolution: The Communist Movement in Eastern and Central China, 1937-1945*. 1986. Intro + Ch 7 + Conclusion (P)
 - **(F) Hartford** Hartford, Kathleen, and Steven M. Goldstein. *Single Sparks: China’s Rural Revolutions*. 1989. Intro + Ch 3-4
 - **(G) Wou** Wou, Odoric Y. K. *Mobilizing the Masses: Building Revolution in Henan*. 1994. Intro + Ch 6-7 (P)
 - **(H) Benton** Benton, Gregor. *New Fourth Army: Communist Resistance Along the Yangtze and the Huai, 1938-1941*. 1999. (In Library) Introduction + Ch 4-5 (P)
 - **(I) Feng** Feng, Chongyi, and David S. G. Goodman, eds. *North China at War: The Social Ecology of Revolution, 1937-1945*. 2000. Intro + Ch 5 + Ch 7-8
 - **(J) Goodman** Goodman, David S. G. *Social and Political Change in Revolutionary China: The Taihang Base Area in the War of Resistance to Japan, 1937-1945*. 2000. Ch 1 + Ch 7 + Conclusion (P)
 - **(K) Gatu** Gatu, Dagfinn. *Village China at War: The Impact of Resistance to Japan, 1937-1945*. 2008. Intro + Ch 5-6 + Conclusion (P)
-- **(L) Esherick** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022. [Link](https://library.st-andrews.ac.uk/record=b3240468~S5) Preface + Ch 5-6 (P)
+- **(L) Esherick** Esherick, Joseph W. *Accidental Holy Land: The Communist Revolution in Northwest China*, 2022.  Preface + Ch 5-6 (P)
 - **(M) 訴苦復仇 (1947)** - Special elective reading for a volunteer student who is comfortable reading Chinese with full form characters. Please do a handout for this. See Teams. 
 
 ( Background reading: )
@@ -406,17 +407,17 @@ Japanese surrender in 1945 is soon followed by civil war on a huge scale, one wh
 
 Primary Sources (53pp):
 
-- Hinton, William. *Fanshen: A Documentary of Revolution in a Chinese Village*. Electronic book. 1966. [Link](https://library.st-andrews.ac.uk/record=b1940626~S5) Ch 11 + Ch 13 + Ch 15 + Ch 29 (33pp) Also, see this [website in progress](https://froginawell.net/frog/fanshen/)
-- SOURCES: [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
+- Hinton, William. *Fanshen: A Documentary of Revolution in a Chinese Village*. Electronic book. 1966.  Ch 11 + Ch 13 + Ch 15 + Ch 29 (33pp) Also, see this [website in progress](https://froginawell.net/frog/fanshen/)
+- SOURCES:
     - Mao "On the Correct Handling of Contradictions Among the People" including "On 'Letting a Hundred Flowers Blossom'"  pp459-464
-    - Peng Dehuai "Letter of Opinion" To Mao [link](https://ebookcentral.proquest.com/lib/st-andrews/reader.action?ppg=428&docID=908711&tm=1516892707182) pp469-471
-- Zhou, Xun. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3280978~S5). After reviewing the chronology on pp173-6 1958-61 please read documents:  #14 Report by Comrade Yang Wangxuan (p46), #19 Report regarding villagers in parts of Qu county (pp49-50), #26 A study of cases of cannibalism (only p62), #80 Report on the current situation (pp124-5), #120 speech by comrade Liu Shaoqi (pp163-4)
+    - Peng Dehuai "Letter of Opinion" To Mao pp469-471
+- Zhou, Xun. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. After reviewing the chronology on pp173-6 1958-61 please read documents:  #14 Report by Comrade Yang Wangxuan (p46), #19 Report regarding villagers in parts of Qu county (pp49-50), #26 A study of cases of cannibalism (only p62), #80 Report on the current situation (pp124-5), #120 speech by comrade Liu Shaoqi (pp163-4)
 
 Secondary Sources (122pp):
 
-- DeMare, Brian. *Land Wars: The Story of China’s Agrarian Revolution*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3624564~S5). Introduction (pp1-25)  + Ch 2 pp48-71 + Ch 4 (pp100-129) 77pp (P)
+- DeMare, Brian. *Land Wars: The Story of China’s Agrarian Revolution*. 2019. Introduction (pp1-25)  + Ch 2 pp48-71 + Ch 4 (pp100-129) 77pp (P)
 - Manning and Wemheuer eds., *Eating Bitterness: New Perspectives on China's Great Leap Forward* Intro (only p1-9), Ch 4 (only p122-127) + Ch 11 "A Study of Peasant 'Counter-Action'" (pp272-294) 27pp
-* Dikötter, *Tragedy of Liberation*, Ch 5 The Great Terror (the Zhenfan) [Ebook](https://library.st-andrews.ac.uk/record=b2195989~S5) pp84-102. 18pp
+* Dikötter, *Tragedy of Liberation*, Ch 5 The Great Terror (the Zhenfan) pp84-102. 18pp
 
 ( Background reading: *The Search for Modern China* Ch 18-21 )
 
@@ -424,12 +425,12 @@ Secondary Sources (122pp):
 
 Land Reform:
 
-- **(A) Evolving Context in North China** - Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985. [Link](https://library.st-andrews.ac.uk/record=b1939770~S5). Ch 14-16 (pp249-292) (P)
+- **(A) Evolving Context in North China** - Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985. Ch 14-16 (pp249-292) (P)
 - **(B) China Turned Rightside Up** - Thaxton, Ralph. *China Turned Rightside up: Revolutionary Legitimacy in the Peasant World*. 1983. [Link](http://archive.org/details/chinaturnedright00thax). Ch 6-8 (pp160-234) (P) 
 - **(C) Shuangcheng County Case Study** - Noellert, Matthew. *Power over Property: The Political Economy of Communist Land Reform in China*. 2021. (In Library) Ch 4-6 (P)
 - **(D) Speaking Bitterness**
     - Sun, Feiyu. *Social Suffering And Political Confession: Suku In Modern China*. 2012. (Teams) Ch 2 "Suku: Beyond a Political Instrument"
-    - Sorace, Christian, Ivan Franceschini, and Nicholas Loubere. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3613317~S5). Ch 42 "Speaking Bitterness" (pp257-262)
+    - Sorace, Christian, Ivan Franceschini, and Nicholas Loubere. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019. Ch 42 "Speaking Bitterness" (pp257-262)
 
 Campaign to Suppress Counterrevolutionaries:
 
@@ -437,7 +438,7 @@ Campaign to Suppress Counterrevolutionaries:
     - Strauss, Julia C. ‘Paternalist Terror: The Campaign to Suppress Counterrevolutionaries and Regime Consolidation in the People’s Republic of China, 1950-1953’. *Comparative Studies in Society and History* 44, no. 1 (2002): 80–105. [Link](https://www.jstor.org/stable/3879401).
     - Kuisong, Yang. ‘Reconsidering the Campaign to Suppress Counterrevolutionaries’. *The China Quarterly*, no. 193 (2008): 102–21. [Link](https://www.jstor.org/stable/20192166).
     - ‘Reactions to Executions in Beijing (1951)’. *Contemporary Chinese Thought* 38, no. 3 (1 April 2007): 10–24. [DOI](https://doi.org/10.2753/CSP1097-1467380301).
-- **(F) Hangzhou During the Zhenfan** - Gao, James Zheng. *The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954*. [Link](https://library.st-andrews.ac.uk/record=b3173372~S5) Ch 3 "The First Efforts" + Ch 5 "The Korean War and the City"
+- **(F) Hangzhou During the Zhenfan** - Gao, James Zheng. *The Communist Takeover of Hangzhou: The Transformation of City and Cadre, 1949-1954*. Ch 3 "The First Efforts" + Ch 5 "The Korean War and the City"
 
 Great Famine:
 
@@ -447,17 +448,17 @@ Great Famine:
     - Jeremy Brown, review of Rana Mitter, *China’s War with Japan, 1937-1945: The Struggle for Survival* (Allen Lane, 2013) and Frank Dikötter, *The Tragedy of Liberation: A History of the Chinese Revolution, 1945-57* (Bloomsbury, 2013), *The Times Literary Supplement* (February 28, 2014): 24. 4pp. [Link](https://jeremybrownchina.com/wp-content/uploads/2016/05/jbrownmitterdikotterreview.pdf)
 - **(H) The "Better to let half the people die" controversy** (Ideally someone who can read Chinese)
     - Dikötter, Frank. *Mao's Great Famine* 2011. p88-9. (Teams)
-    - Zhou Xun (and Frank Dikötter) version:  Zhou, Xun. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3280978~S5) Document #5 (just p20)
+    - Zhou Xun (and Frank Dikötter) version:  Zhou, Xun. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. Document #5 (just p20)
     - Gansu archival version (in Chinese): Gansu Provincial Archives 91-018-0494-0005, 44-49. Mao Zedong's Interjections at the March 26, 1959, Meeting in Shanghai. Obtained by Frank Dikotter. [Link](https://digitalarchive.wilsoncenter.org/document/mao-zedongs-interjections-march-26-1959-meeting-shanghai)
     - Alternative record of the meeting: Hebei Provincial Archives 855-5-1545-2. Transcribed by Zhiyi Fan. [Link](https://digitalarchive.wilsoncenter.org/document/chairmans-interjections-during-comrade-bo-yibos-report-industrial-production-march-26)
     - Commentary: “Looking for Great Leap ‘smoking gun’ document” [H-PRC](https://networks.h-net.org/node/3544/discussions/99266/looking-great-leap-smoking-gun-document)
 - **(I) Eating Bitterness** - Manning and Wemheuer eds., *Eating Bitterness: New Perspectives on China's Great Leap Forward* (In Library) Ch 3 + Ch 5 + Ch 8
-- **(J) The Great Leap in Da Fo Village** - Thaxton, Ralph. *Catastrophe and Contention in Rural China: Mao’s Great Leap Forward Famine and the Origins of Righteous Resistance in Da Fo Village*. 2008. [Link](http://library.st-andrews.ac.uk/record=b3043303~S5) Introduction + Ch 4-6 (P)
-- **(K) The Great Leap for the Yi Minority in Yunnan** - Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. [Link](https://library.st-andrews.ac.uk/record=b3568916~S5). Introduction, Ch 6 "A Spectral State"
+- **(J) The Great Leap in Da Fo Village** - Thaxton, Ralph. *Catastrophe and Contention in Rural China: Mao’s Great Leap Forward Famine and the Origins of Righteous Resistance in Da Fo Village*. 2008. Introduction + Ch 4-6 (P)
+- **(K) The Great Leap for the Yi Minority in Yunnan** - Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. Introduction, Ch 6 "A Spectral State"
 - **(L) Qin Village, Jiangsu Case Study** - Li, Huaiyin. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009. (In Library) Ch 2-4. (P)
 - **(M) The Political Economy of the Great Leap** - Yang, Dali L. *Calamity and Reform in China: State, Rural Society, and Institutional Change Since the Great Leap Famine*. 1996. (In Library) Ch 1-3.
 - **(N) Pioneering Research: Tombstone** - Yang, Jisheng. *Tombstone: The Untold Story of Mao’s Great Famine*. 2012. Intro (An Everlasting Tombstone) + Ch 13-14 (P)
-- **(O) A Revisionist View on the Great Leap** - Songlin, Yang. *Telling the Truth: China’s Great Leap Forward, Household Registration and the Famine Death Tally*. 2021 [Link](https://library.st-andrews.ac.uk/record=b3160067~S5) "In Lieu of an Introduction" + Ch 7 + Ch 12 + Ch 14
+- **(O) A Revisionist View on the Great Leap** - Songlin, Yang. *Telling the Truth: China’s Great Leap Forward, Household Registration and the Famine Death Tally*. 2021 "In Lieu of an Introduction" + Ch 7 + Ch 12 + Ch 14
 
 #### To Watch
 
@@ -474,7 +475,6 @@ Great Famine:
 
 ### Preparation
 
-- If you wish to submit a [Draft Prospectus](#formative), please share this on Teams by the night before class. We will make time for discussion around this in class.
 - Please continue your research for your essay
 - Don't forget your daily Mao reading, "Study well, to become better every day!" (好好学习天天向上!)
 - consider coming to talk to me about your essay ideas in office hours.
@@ -505,11 +505,11 @@ Great Famine:
 
 - Skim Eileen Chang (Zhang Ailing)'s 1955 novel *The Rice Sprout Song*, focusing on its coverage of land reform. See me for a copy.
 - Skim Ding Ling's novel *The Sun Shines over the Sangkan River*, focusing on its coverage of land reform. In library, or see me for a copy.
-- Brown, Jeremy, and Paul Pickowicz, eds. *Dilemmas of Victory: The Early Years of the People’s Republic of China*. 2007. [Link](http://library.st-andrews.ac.uk/record=b3071732~S5).
+- Brown, Jeremy, and Paul Pickowicz, eds. *Dilemmas of Victory: The Early Years of the People’s Republic of China*. 2007. 
 - Crook, David, and Isabel Crook. *Revolution in a Chinese Village: Ten Mile Inn*. 2006.
-- Dikötter, Frank. *The Tragedy of Liberation: A History of the Chinese Revolution 1945-1957*. 2013. [Link](http://library.st-andrews.ac.uk/record=b2195989~S5).
+- Dikötter, Frank. *The Tragedy of Liberation: A History of the Chinese Revolution 1945-1957*. 2013. 
 - Hou, Xiaojia. *Negotiating Socialism in Rural China: Mao, Peasants, and Local Cadres, in Shanxi, 1949-1953*. 2016.
-- Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985. [Link](https://library.st-andrews.ac.uk/record=b1939770~S5).
+- Huang, Philip C. *The Peasant Economy and Social Change in North China*. 1985. 
 - Keating, Pauline B. *Two Revolutions: Village Reconstruction and the Cooperative Movement in Northern Shaanxi, 1934-1945*. 1997.
 - Li, Huaiyin. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009.
 - Madsen, Richard. *Morality and Power in a Chinese Village*. 1984.
@@ -518,17 +518,17 @@ Great Famine:
 - Selden, Mark. *The Yenan Way in Revolutionary China*. 1971.
 - Siu, Helen F. *Agents and Victims in South China: Accomplices in Rural Revolution*. 1989.
 - Wong, John. *Land Reform in the People’s Republic of China: Institutional Transformation in Agriculture*. 1973.
-- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5).
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. 
 - Chan, Alfred L. *Mao’s Crusade: Politics and Policy Implementation in China’s Great Leap Forward*. 2001.
 - Li, Huaiyin. *Village China Under Socialism and Reform: A Micro-History, 1948-2008*. 2009.
 - Manning, Kimberley Ens, and Felix Wemheuer. *Eating Bitterness: New Perspectives on China’s Great Leap Forward and Famine*. 2011.
-- Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. [Link](https://library.st-andrews.ac.uk/record=b3568916~S5).
+- Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. 
 - Riskin, Carl. ‘Seven Questions About the Chinese Famine of 1959–1961’. *China Economic Review*, China’s Great Famine, 9, no. 2 (1 September 1998): 111–24. [DOI](https://doi.org/10.1016/S1043-951X(99)80009-1).
 - Teiwes, Frederick C., and Warren Sun. *China’s Road to Disaster: Mao, Central Politicians, and Provincial Leaders in the Unfolding of the Great Leap Forward, 1955-1959*. 1998.
 - Wemheuer, Felix. ‘Dealing with Responsibility for the Great Leap Famine in the People’s Republic of China’. *The China Quarterly* 201 (March 2010): 176–94. [DOI](https://doi.org/10.1017/S0305741009991123).
 - Yang, Jisheng. *Tombstone: The Untold Story of Mao’s Great Famine*. 2012.
 - Zhou, Xun. *Forgotten Voices of Mao’s Great Famine, 1958-1962: An Oral History*. 2013.
-- ———. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3280978~S5).
+- ———. *The Great Famine in China, 1958-1962: A Documentary History*. 2012. 
 - Zürcher, E., Erik Jan Zürcher, and Kim van der Zouw. *Three Months in Mao’s China: Between the Great Leap Forward and the Cultural Revolution*. Electronic book. Cambridge Books Online. 2017.
 - MacFarquhar, Roderick. *The Hundred Flowers Campaign and the Chinese Intellectuals*. 1960.
 - Barnett, A. Doak. *China On The Eve Of Communist Takeover*. 2019.
@@ -572,43 +572,43 @@ Together with the war of resistance against Japan, this is the most iconic and f
 Primary Sources (pp14)
 
 - Ebrey, Patricia Buckley. *Chinese Civilization: A Sourcebook*. 2009. (Teams) Ch 93 pp449-57 
-* SOURCES Ch 36 Mao Regime [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
+* SOURCES Ch 36 Mao Regime 
     * "Sixteen Points" (pp474-5)
     * "Red Guard Memoirs" (pp478-481)
 
 Secondary Sources (pp165)
 
-- Wemheuer, Felix. *A Social History of Maoist China*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3037920~S5) pp196-206 "The Question of Periodization in the Cultural Revolution", "1966 to 1968: A Chronology" (this is part of Ch 6)
-- MacFarquhar and Schoenhals *Mao's Last Revolution* Ch 4-10 (pp66-183), Ch 14 (pp239-252) 130pp [Link](https://library.st-andrews.ac.uk/record=b3212929~S5)
+- Wemheuer, Felix. *A Social History of Maoist China*. 2019. pp196-206 "The Question of Periodization in the Cultural Revolution", "1966 to 1968: A Chronology" (this is part of Ch 6)
+- MacFarquhar and Schoenhals *Mao's Last Revolution* Ch 4-10 (pp66-183), Ch 14 (pp239-252) 130pp 
 - Walder, Andrew G., and Yang Su. “The Cultural Revolution in the Countryside: Scope, Timing and Human Impact.” *The China Quarterly* 173 (March 2003): 74–99. [link](https://doi.org/10.1017/S0009443903000068)
 
 ### Elective Reading (~40-70pp)
 
-- **(A) Fractured Rebellion** - Walder, Andrew G. *Fractured Rebellion: The Beijing Red Guard Movement*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3172713~S5) Ch 1 (pp1-27) + Ch 9 (pp223-249) +Ch 10 (pp250-264). 67pp (P)
+- **(A) Fractured Rebellion** - Walder, Andrew G. *Fractured Rebellion: The Beijing Red Guard Movement*. 2012. Ch 1 (pp1-27) + Ch 9 (pp223-249) +Ch 10 (pp250-264). 67pp (P)
 
-- **(B) Mao Cult** - Leese, Daniel. *Mao Cult: Rhetoric and Ritual in China’s Cultural Revolution*. Cambridge Books Online. 2011. [Link](https://library.st-andrews.ac.uk/record=b3056982~S5) Ch 4-5 + Ch 9. 70pp (P)
+- **(B) Mao Cult** - Leese, Daniel. *Mao Cult: Rhetoric and Ritual in China’s Cultural Revolution*. Cambridge Books Online. 2011. Ch 4-5 + Ch 9. 70pp (P)
 
-- **(C) Tibet During the CR** - Woeser, Tsering. *Forbidden Memory: Tibet During the Cultural Revolution*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3624260~S5) Introduction (20pp) + "The Red Guards in Lhasa Take Action" (pp41-68) + browse photos in Gallery 3 starting p81. 47pp (P)
+- **(C) Tibet During the CR** - Woeser, Tsering. *Forbidden Memory: Tibet During the Cultural Revolution*. 2020. Introduction (20pp) + "The Red Guards in Lhasa Take Action" (pp41-68) + browse photos in Gallery 3 starting p81. 47pp (P)
 
-- **(D) CR in Chen Village** - Chan/Madsen, Anita Chan, Richard Madsen, and Jonathan Unger. *Chen Village: Revolution to Globalization*. 2010. [Link](https://library.st-andrews.ac.uk/record=b3575611~S5) Ch 3 (only pp74-84) and Ch 4-5 (pp103-158, before end of Ch 5). 65pp
+- **(D) CR in Chen Village** - Chan/Madsen, Anita Chan, Richard Madsen, and Jonathan Unger. *Chen Village: Revolution to Globalization*. 2010. Ch 3 (only pp74-84) and Ch 4-5 (pp103-158, before end of Ch 5). 65pp
 
-- **(E) Red Guard Generation** - Yang, Guobin. *The Red Guard Generation and Political Activism in China*. 2016. [Link](https://library.st-andrews.ac.uk/record=b3068217~S5) Ch 1 (pp18-47) + Ch 3 (pp69-92) + Conclusion. 62pp 
+- **(E) Red Guard Generation** - Yang, Guobin. *The Red Guard Generation and Political Activism in China*. 2016.  Ch 1 (pp18-47) + Ch 3 (pp69-92) + Conclusion. 62pp 
 
-- **(F) Industrial Citizenship** - Andreas, Joel. *Disenfranchised: The Rise and Fall of Industrial Citizenship in China*. 2019. [Link](https://library.st-andrews.ac.uk/record=b2901050~S5) Ch 5-6 (pp99-165) 66pp (P)
+- **(F) Industrial Citizenship** - Andreas, Joel. *Disenfranchised: The Rise and Fall of Industrial Citizenship in China*. 2019. Ch 5-6 (pp99-165) 66pp (P)
 
 - **(G) The Killing Wind** - Tan, Hecheng. *The Killing Wind: A Chinese County’s Descent Into Madness During the Cultural Revolution*. 2017. (In Library) Introduction (pp1-5) Ch 4-5 (pp40-58) + Ch 8-9 (99-122) + Afterward (pp453-464). 57pp (P)
 
-- **(H) Collective Killings** - Yang, Su. *Collective Killings in Rural China during the Cultural Revolution*. 2011. [Link](<D-c>http://library.st-andrews.ac.uk/record=b3042793~S5). Ch 1-2 (pp1-67)  (P)
+- **(H) Collective Killings** - Yang, Su. *Collective Killings in Rural China during the Cultural Revolution*. 2011. . Ch 1-2 (pp1-67)  (P)
 
-- **(I) Across the Great Divide** - Honig, Emily, and Xiaojian Zhao. *Across the Great Divide: The Sent-down Youth Movement in Mao’s China, 1968-1980*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3037134~S5) Intro + Ch 1-2 (pp1-64) (P)
+- **(I) Across the Great Divide** - Honig, Emily, and Xiaojian Zhao. *Across the Great Divide: The Sent-down Youth Movement in Mao’s China, 1968-1980*. 2019. Intro + Ch 1-2 (pp1-64) (P)
 
-- **(J) The Lost Generation** - Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth (1968–1980)*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624212~S5) Ch 1-2 (pp3-24) + Ch 5 (but only pp65-101) 59pp (P)
+- **(J) The Lost Generation** - Bonnin, Michel. *The Lost Generation: The Rustication of China’s Educated Youth (1968–1980)*. 2013. Ch 1-2 (pp3-24) + Ch 5 (but only pp65-101) 59pp (P)
 
 - **(K) Dressed to Kill** 60pp
     - Finnane, Antonia. ‘Dressed to Kill in the Cultural Revolution’. In *Changing Clothes in China: Fashion, History, Nation*. 2008. (In Library) pp227-256
-    - Finnane, Antonia. *How to Make a Mao Suit: Clothing the People of Communist China, 1949-1976*. 2023. [Link](https://library.st-andrews.ac.uk/record=b3569568~S5) Intro (pp1-24) + Conclusion (pp290-297)
+    - Finnane, Antonia. *How to Make a Mao Suit: Clothing the People of Communist China, 1949-1976*. 2023.  Intro (pp1-24) + Conclusion (pp290-297)
 
-- **(L) Cultural Revolution Culture** - Mittler, Barbara. *A Continuous Revolution: Making Sense of Cultural Revolution Culture*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3521126~S5) Read one of the following: Ch 1 (but only pp39-97) OR Ch 3 (pp139-189) OR Ch 5 (pp267-330)
+- **(L) Cultural Revolution Culture** - Mittler, Barbara. *A Continuous Revolution: Making Sense of Cultural Revolution Culture*. 2013.  Read one of the following: Ch 1 (but only pp39-97) OR Ch 3 (pp139-189) OR Ch 5 (pp267-330)
 
 
 ( **Background Reading:** The required *Mao's Last Revolution* offers a solid survey, you may want to explore other chapters in the work.)
@@ -685,7 +685,7 @@ Andreas, Joel. ‘Battling over Political and Cultural Power during the Chinese 
 - Chong, Woei Lien. *China’s Great Proletarian Cultural Revolution: Master Narratives and Post-Mao Counternarratives*. Rowman & Littlefield, 2002.
 - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. Cambridge University Press, 2014.
 - ———. *The Cultural Revolution on Trial: Justice in the Post-Mao Transition*. Cambridge University Press, 2016.
-- DeMare, Brian James. *Mao’s Cultural Army: Drama Troupes in China’s Rural Revolution*. [Link](http://library.st-andrews.ac.uk/record=b3040098~S5)
+- DeMare, Brian James. *Mao’s Cultural Army: Drama Troupes in China’s Rural Revolution*. 
 - Dikötter, Frank. *The Cultural Revolution: A People’s History, 1962—1976*. Bloomsbury Publishing, 2016.
 - Dittmer, Lowell. *China’s Continuous Revolution: The Post-Liberation Epoch 1949-1981*. Univ of California Press, 2024. 
 - ———. *Liu Shaoqi and the Chinese Cultural Revolution*. Rev. ed. Armonk, N.Y: M.E. Sharpe, 1998.
@@ -794,8 +794,8 @@ This week will focus primarily on the 1989 Tiananmen protests and massacre which
 
 *Primary Sources:* (35pp)
 
-- SOURCES Ch 37 pp496-510 Early Critiques of the Deng Regime + Deng's Speech [Link](https://library.st-andrews.ac.uk/record=b2005711~S5)
-- Han, Minzhu ed. *Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*. Princeton University Press, 1990. [Link](https://library.st-andrews.ac.uk/record=b3300757~S5) 
+- SOURCES Ch 37 pp496-510 Early Critiques of the Deng Regime + Deng's Speech 
+- Han, Minzhu ed. *Cries For Democracy: Writings and Speeches from the Chinese Democracy Movement*. Princeton University Press, 1990.  
     - Ch 1 pp13-15 I'd Like to Know
     - Ch 1 pp42-44 Sketch of the Chinese Communist Party
     - Ch 2 pp107-111 Road to Freedom of the Press...
@@ -805,36 +805,36 @@ This week will focus primarily on the 1989 Tiananmen protests and massacre which
 
 *Secondary Sources:* (150pp)
 
-- Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. Ch 4-7 pp39-88 + Ch 9-16 pp101-139 [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P) 
-- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. Afterward, pp206-211. [Link](https://library.st-andrews.ac.uk/record=b2173330~S5) (P)
+- Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. Ch 4-7 pp39-88 + Ch 9-16 pp101-139  (P) 
+- Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. Afterward, pp206-211.  (P)
 - Esherick and Wasserstrom, "Acting Out Democracy,"" 835-860 [link](https://www.jstor.org/stable/2058238)
 - Hung, "Tiananmen Square: A Political History of Monuments," 84-117 [link](http://www.jstor.org/stable/2928718)
-- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. pp6-12 (in Introduction) [Link](https://library.st-andrews.ac.uk/record=b2058943~S5) (P)
+- Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. pp6-12 (in Introduction)  (P)
 
 ### Elective Reading (40-60pp)
 
-Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3153662~S5) (P)
+Brown, Jeremy. *June Fourth: The Tiananmen Protests and Beijing Massacre of 1989*. 2021.  (P)
 
 A) Ch 18-21 pp151-194 Nationwide
 B) Ch 24-30 pp209-253 Aftermath
 
-Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014. [Link](https://library.st-andrews.ac.uk/record=b2173330~S5) (P)
+Lim, Louisa. *The People’s Republic of Amnesia: Tiananmen Revisited*. 2014.  (P)
 
 C) Ch 2-3 pp31-82 Staying, Exile
 D) Ch 7-8 pp157-205 Official, Chengdu
 
-Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001. [Link](https://library.st-andrews.ac.uk/record=b2058943~S5) (P)
+Zhao, Dingxin. *The Power of Tiananmen: State-Society Relations and the 1989 Beijing Student Movement*. 2001.  (P)
 
 E) Ch 3 Economic Reform + Ch 4 Decline of the System for Controlling Students pp79-122
 F) Ch 7 State Legitimacy, State Behaviors + Ch 8 Ecology-Based Mobilization pp209-266
 G) Ch 10 Construction of Public Opinion + Conclusion pp297-256
 
-Wasserstrom, Jeffrey N., and Elizabeth J. Perry eds. *Popular Protest and Political Culture in Modern China*. 1994. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5)
+Wasserstrom, Jeffrey N., and Elizabeth J. Perry eds. *Popular Protest and Political Culture in Modern China*. 1994. 
 
 H) Ch 3 Casting a Chinese "Democracy" Movement (19pp) + Ch 5 Gender and the Chinese Student Movement (11pp) + Ch 12 Discos and Dictatorship (22pp)
 I) Ch 8 Memory and Commemoration (14pp) + Ch 13 History, Myth and the Tales of Tiananmen (36pp)
 
-J) Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. Introduction + Ch 4 [Link](https://library.st-andrews.ac.uk/record=b3278688~S5)
+J) Lee, Francis L. F., and Joseph Man Chan. *Memories of Tiananmen: Politics and Processes of Collective Remembering in Hong Kong, 1989-2019*. 2021. Introduction + Ch 4 
 
 ### Preparation
 
@@ -907,7 +907,7 @@ The protests and massacre in 1989 has produced a lot of primary source material 
 - Vogel, Ezra F. *Deng Xiaoping and the Transformation of China*. 2013.
 - Walder, Andrew G., and Gong Xiaoxia. ‘Workers in the Tiananmen Protests: The Politics of the Beijing Workers’ Autonomous Federation’. *The Australian Journal of Chinese Affairs*, no. 29 (1993): 1–29. [DOI](https://doi.org/10.2307/2949950).
 - Wang, Anna. *Inconvenient Memories: A Personal Account of the Tiananmen Square Incident and the China Before and After*. 2019.
-- Wasserstrom, Jeffrey N., and Elizabeth Perry, eds. *Popular Protest And Political Culture In Modern China: Second Edition*. 2018. [Link](https://library.st-andrews.ac.uk/record=b3624108~S5).
+- Wasserstrom, Jeffrey N., and Elizabeth Perry, eds. *Popular Protest And Political Culture In Modern China: Second Edition*. 2018. 
 - Wasserstrom, Jeffrey N., and Elizabeth J. Perry. *Popular Protest and Political Culture in Modern China*. 1994.
 - Yiwu, Liao. *Bullets and Opium: Real-Life Stories of China After the Tiananmen Square Massacre*. 2020.
 - Zhang, Boli. *Escape from China: The Long Journey from Tiananmen to Freedom*. 2003.
@@ -951,20 +951,20 @@ This week we will explore the phenomenon of thought reform (sixiang gaizao 思�
 
 *Secondary Sources:* (~150pp)
 
-- Sorace, Christian, Ivan Franceschini, and Nicholas Loubere eds. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019. [Link](https://library.st-andrews.ac.uk/record=b3613317~S5). Ch 47 "Thought Reform" pp287-292
+- Sorace, Christian, Ivan Franceschini, and Nicholas Loubere eds. *Afterlives of Chinese Communism: Political Concepts from Mao to Xi*. 2019.  Ch 47 "Thought Reform" pp287-292
 
 - Chen, Theodore Hsi-en. *Thought Reform of the Chinese Intellectuals*. 1960. (Files) Ch 8 The Confessions pp59-71 + Ch 9 Operational Principles of Thought Reform pp72-79 (P)
 
-- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. (P) [Link](https://library.st-andrews.ac.uk/record=b3599961~S5) (P) Ch 2 Significance of Small Groups pp7-17 + Ch 4 Small Groups and Political Rituals: The Ideal Forms pp36-57 + choose one from: Ch 5 on Cadres, or Ch 6 on Students or Ch 7 on Inmates (~20-30pp)
-- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. (P) 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). Introduction pp1-12 + Conclusion pp181-195
-- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5). Ch 2 The Rectification Process: Methods, Sanctions and Effectiveness pp25-45.
+- Whyte, Martin King. *Small Groups and Political Rituals in China*. 1974. (P)  Ch 2 Significance of Small Groups pp7-17 + Ch 4 Small Groups and Political Rituals: The Ideal Forms pp36-57 + choose one from: Ch 5 on Cadres, or Ch 6 on Students or Ch 7 on Inmates (~20-30pp)
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. (P) 2013. . Introduction pp1-12 + Conclusion pp181-195
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. . Ch 2 The Rectification Process: Methods, Sanctions and Effectiveness pp25-45.
 - Perry, Elizabeth. ‘Moving the Masses: Emotion Work in the Chinese Revolution’. *Mobilization* 7, no. 2 (2002): 111–28. [Link](https://dash.harvard.edu/handle/1/11591713)
 
 ### Elective Reading (~40-60pp)
 
-- (A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. (P) [Link](https://library.st-andrews.ac.uk/record=b2372311~S5) Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
+- (A) Kiely, Jan. *The Compelling Ideal: Thought Reform and the Prison in China, 1901-1956*. 2014. (P)  Ch 7 Revolutionary Thought Reform + Conclusion pp255-309
 
-Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5). (P)
+Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013.  (P)
 
 - (B) Ch 1 Finding a Place pp13-50
 - (C) Ch 2 People versus their Enemies pp51-78
@@ -972,9 +972,9 @@ Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, R
 - (E) Ch 4 Laboring Masses pp119-154
 - (F) Ch 5 People Stand Up pp155-180
 
-- (G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. (P) [Link](https://library.st-andrews.ac.uk/record=b3608639~S5). Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
+- (G) Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. (P)  Ch 1 What is Thought Remolding + Ch 2 How was Thought Remolding Possible pp13-61
 
-Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*, 2003. (P) [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
+Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*, 2003. (P) 
 
 - (H) Ch 2 Linguistic Engineering before the Cultural Revolution pp42-109
 - (I) Ch 4 Revolutionary Conformity pp150-188
@@ -1019,7 +1019,7 @@ Thought reform is best represented in English language in the memoirs and other 
 - ———. ‘The Emergence of Labour Camps in Shandong Province, 1942-1950’. *The China Quarterly*, no. 175 (1 September 2003): 803–17. [Link](http://www.jstor.org/stable/20059040).
 - Dittmer, Lowell. ‘The Structural Evolution of “Criticism and Self-Criticism”’. *The China Quarterly*, no. 56 (1973): 708–29. [Link](https://www.jstor.org/stable/652164).
 - Dutton, Michael Robert. *Policing Chinese Politics: A History*. 2005.
-- Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. Electronic book. 2003. [Link](http://library.st-andrews.ac.uk/record=b3081203~S5).
+- Fengyuan, Ji. *Linguistic Engineering: Language and Politics in Mao’s China*. Electronic book. 2003. .
 - Gold, Thomas B. ‘After Comradeship: Personal Relations in China since the Cultural Revolution’. *The China Quarterly*, no. 104 (1985): 657–75. [Link](https://www.jstor.org/stable/653206).
 - Griffin, Patricia. ‘Prison Management in the Kiangsi and Yenan Periods’. *The China Quarterly*, no. 58 (1974): 310–31. [Link](https://www.jstor.org/stable/652403).
 - Griffin, Patricia E. *The Chinese Communist Treatment of Counterrevolutionaries, 1924-1949*. 1976.
@@ -1032,17 +1032,17 @@ Thought reform is best represented in English language in the memoirs and other 
 - Lifton, Robert Jay. *Thought Reform and the Psychology of Totalism: A Study of ‘Brainwashing’ in China*. 2012.
 - Perry, Elizabeth. ‘Moving the Masses: Emotion Work in the Chinese Revolution’. *Mobilization* 7, no. 2 (2002): 111–28.
 - Pieragastini, Steven. ‘Reform and Closing Up: Thought Reform and the Institutional Reorganization of Shanghai’s Universities’. *Twentieth-Century China* 43, no. 2 (2018): 139–62. [Link](https://muse.jhu.edu/pub/1/article/694217).
-- Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3608639~S5).
+- Ping, Hu. *The Thought Remolding Campaign of the Chinese Communist Party-State*. 2012. 
 - Qing, Dai. *Wang Shiwei and Wild Lilies: Rectification and Purges in the Chinese Communist Party 1942-1944*. 1994.
 - ‘Reactions to Executions in Beijing (1951)’. *Contemporary Chinese Thought* 38, no. 3 (1 April 2007): 10–24. [DOI](https://doi.org/10.2753/CSP1097-1467380301).
 - Schoenhals, Michael. ‘Demonising Discourse in Mao Zedong’s China: People vs Non‐People’. *Totalitarian Movements and Political Religions* 8, no. 3–4 (1 September 2007): 465–82. [DOI](https://doi.org/10.1080/14690760701571114).
 - ———. *Doing Things with Words in Chinese Politics: Five Studies*. 1992.
 - ———. *Spying for the People: Mao’s Secret Agents, 1949-1967*. 2013.
 - Seybolt, Peter J. ‘Terror and Conformity: Counterespionage Campaigns, Rectification, and Mass Movements, 1942-1943’. *Modern China* 12, no. 1 (January 1986): 39–73. [Link](https://www.jstor.org/stable/188918).
-- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. [Link](https://library.st-andrews.ac.uk/record=b3624561~S5).
+- Smith, Aminda M. *Thought Reform and China’s Dangerous Classes: Reeducation, Resistance, and the People*. 2013. 
 - ———. ‘Thought Reform and the Unreformable: Reeducation Centers and the Rhetoric of Opposition in the Early People’s Republic of China’. *The Journal of Asian Studies* 72, no. 4 (November 2013): 937–58. [DOI](https://doi.org/10.1017/S0021911813001654).
 - Stranahan, Patricia. *Molding the Medium: The Chinese Communist Party and the Liberation Daily*. 1990.
-- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. [Link](https://library.st-andrews.ac.uk/record=b3624208~S5).
+- Teiwes, Frederick C. *Politics and Purges in China: Rectification and the Decline of Party Norms, 1950-1965*. 1993. 
 - U, Eddy. ‘The Making of Chinese Intellectuals: Representations and Organization in the Thought Reform Campaign’. *The China Quarterly*, no. 192 (2007): 971–89. [Link](https://www.jstor.org/stable/20192857).
 - Vogel, Ezra F. ‘From Friendship to Comradeship: The Change in Personal Relations in Communist China’. *The China Quarterly*, no. 21 (1965): 46–60. [Link](https://www.jstor.org/stable/651316).
 - Whyte, Martin King. ‘Corrective Labor Camps in China’. *Asian Survey* 13, no. 3 (1973): 253–69. [DOI](https://doi.org/10.2307/2643036).
@@ -1081,30 +1081,30 @@ Some Chinese sources, mostly on "criticism and self-criticism":
 *Primary Sources:* (13pp)
 
 - "Qiu Jin's Address to 200 Million Fellow Countrywomen (1904)" *Sources in Chinese History: Diverse Perspectives from 1644 to the Present* pp126-8 (Files)
-- SOURCES Ding Ling "Thoughts on March 8, 1942" (Review from Week 3) Ch 35 Communist Praxis [Link](https://library.st-andrews.ac.uk/record=b2005711~S5) pp446-449
+- SOURCES Ding Ling "Thoughts on March 8, 1942" (Review from Week 3) Ch 35 Communist Praxis  pp446-449
 - *China Pictorial* 1.4 (April, 1951) [Link](https://www.bannedthought.net/China/Magazines/ChinaPictorial/index.htm) pp1-5 (of the PDF)
 
 *Secondary Sources:* (~155pp)
 
-- Hershatter, Gail. *Women in China’s Long Twentieth Century* University of California Press, 2007. [Link](https://library.st-andrews.ac.uk/record=b2059838~S5) pp7-25, 36-50, 51-64, 98-105 (53pp)
+- Hershatter, Gail. *Women in China’s Long Twentieth Century* University of California Press, 2007.  pp7-25, 36-50, 51-64, 98-105 (53pp)
 - Hershatter, Gail. ‘The Gender of Memory: Rural Chinese Women and the 1950s’. *Signs* 28, no. 1 (2002): 43–70. [DOI](https://doi.org/10.1086/340906) (27pp)
-- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2431654~S5) Ch 7 Same-sex Relationships and Transgendered Performance pp137-153, Ch 9 Sexuality and the Other pp169-197. (61pp)
-- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P) Introduction pp1-6, pp227-9 (9pp)
-- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3288095~S5) (P) Ch 8 The Iron Girls pp221-241 (20pp)
+- Mann, Susan L. *Gender and Sexuality in Modern Chinese History*. 2011.  Ch 7 Same-sex Relationships and Transgendered Performance pp137-153, Ch 9 Sexuality and the Other pp169-197. (61pp)
+- Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.  (P) Introduction pp1-6, pp227-9 (9pp)
+- Wang, Zheng. *Finding Women in the State: A Socialist Feminist Revolution in the People’s Republic of China, 1949-1964*. 2017. (P) Ch 8 The Iron Girls pp221-241 (20pp)
 
 ### Elective Reading (50-70pp)
 
-- **(A) Family and State** -  Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003. [Link](https://library.st-andrews.ac.uk/record=b3285896~S5) (P) Introduction pp1-27, Ch 4 Love for Revolution: Xiao Jiating in the People's Republic pp167-196 (56pp)
+- **(A) Family and State** -  Glosser, Susan L. *Chinese Visions of Family and State, 1915-1953*. 2003.  (P) Introduction pp1-27, Ch 4 Love for Revolution: Xiao Jiating in the People's Republic pp167-196 (56pp)
 
-- **(B) Cinderella's Sisters** - Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005. [Link](https://library.st-andrews.ac.uk/record=b3286662~S5) (P) Ch 2 The Body Inside Out pp38-67, Ch 6 Cinderella's Dreams pp187-225 (67pp)
+- **(B) Cinderella's Sisters** - Ko, Dorothy. *Cinderella’s Sisters: A Revisionist History of Footbinding*. 2005.  (P) Ch 2 The Body Inside Out pp38-67, Ch 6 Cinderella's Dreams pp187-225 (67pp)
 
-- **(C) Suicide of Miss Xi** - Goodman, Bryna. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. Harvard University Press, 2021. [Link](https://library.st-andrews.ac.uk/record=b3172723~S5) (P) Prologue only pp1-4, Ch 2 The New Woman, the Ghost, and the Ubiquitous Concubine pp57-102 (49pp)
+- **(C) Suicide of Miss Xi** - Goodman, Bryna. *The Suicide of Miss Xi: Democracy and Disenchantment in the Chinese Republic*. Harvard University Press, 2021.  (P) Prologue only pp1-4, Ch 2 The New Woman, the Ghost, and the Ubiquitous Concubine pp57-102 (49pp)
 
-- **(D) Gender of Memory** - Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. [Link](https://library.st-andrews.ac.uk/record=b3287142~S5) (P) Ch 4 Activist, pp96-128, Ch 9 Laborer, pp236-266 (62pp) 
+- **(D) Gender of Memory** - Hershatter, Gail. *The Gender of Memory: Rural Women and China’s Collective Past*. 1st ed. 2011. (P) Ch 4 Activist, pp96-128, Ch 9 Laborer, pp236-266 (62pp) 
 
-- **(E) Revolutionizing the Family** - Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000. [Link](http://library.st-andrews.ac.uk/record=b3285764~S5) (P) Introduction pp1-29, Ch 7 The Conservative Backlash: Politics, Sex, and the Family in the Cultural Revolution, 1966–1968 pp281-312 (60pp)
+- **(E) Revolutionizing the Family** - Diamant, Neil J. *Revolutionizing the Family: Politics, Love, and Divorce in Urban and Rural China, 1949–1968*. 2000.  (P) Introduction pp1-29, Ch 7 The Conservative Backlash: Politics, Sex, and the Family in the Cultural Revolution, 1966–1968 pp281-312 (60pp)
 
-- **(F) Question of Women** - Barlow, Tani E. *The Question of Women in Chinese Feminism* [Link](https://library.st-andrews.ac.uk/record=b3138737~S5), Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252 (62pp) 
+- **(F) Question of Women** - Barlow, Tani E. *The Question of Women in Chinese Feminism* , Ch: 5 "Woman under Maoist Nationalism in the Thought of Ding Ling" p190-252 (62pp) 
 
 ### Overview
 
@@ -1213,7 +1213,7 @@ Republican period:
 - Remick, Elizabeth J. *Regulating Prostitution in China: Gender and Local Statebuilding, 1900-1937*. 2014.
 - Rodriguez, Sarah Mellors. *Reproductive Realities in Modern China: Birth Control and Abortion, 1911–2021*. 2023.
 - Schillinger, Nicolas. *The Body and Military Masculinity in Late Qing and Early Republican China: The Art of Governing Soldiers*. 2016.
-- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. 2011. [Link](https://library.st-andrews.ac.uk/record=b2059919~S5).
+- Strand, David. *An Unfinished Republic: Leading by Word and Deed in Modern China*. 2011. 
 - Tran, Lisa. ‘Sex and Equality in Republican China: The Debate over the Adultery Law’. *Modern China* 35, no. 2 (2009): 191–223.
 - ———. ‘The Concubine in Republican China: Social Perception and Legal Construction’. *Études Chinoises* 28, no. 1 (2009): 119–49. [DOI](https://doi.org/10.3406/etchi.2009.928).
 - Wolf, Arthur P., and Chieh-shan Huang. *Marriage and Adoption in China, 1845-1945*. 1980.
@@ -1263,17 +1263,17 @@ Qing:
 
 *Secondary Sources:* (~80pp)
 
-- Cheek, Timothy *A Critical Introduction to Mao* (2010), Ch 12 Third World Maoism, Ch 13 Mao's Journeys to the West, pp288-331 [Link](https://library.st-andrews.ac.uk/record=b3052188~S5)
+- Cheek, Timothy *A Critical Introduction to Mao* (2010), Ch 12 Third World Maoism, Ch 13 Mao's Journeys to the West, pp288-331 
 
-- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 13 Principally Contradiction: The Flourishing of French Maoism pp225-242. 
+- Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014.  Ch 13 Principally Contradiction: The Flourishing of French Maoism pp225-242. 
 
-- Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Introduction pp1-19
+- Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017.  (P) Introduction pp1-19
 
 ### Elective Reading
 
 - **(A) India** (~50pp)
     - Charu Mazumdar "Take This Opportunity" [Link](https://www.marxists.org/reference/archive/mazumdar/1966/x01/x01.htm)
-    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 7 Empty Symbol: The Little Red Book in India pp117-129
+    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014.  Ch 7 Empty Symbol: The Little Red Book in India pp117-129
     - Gupta, Dipak K. ‘The Naxalites and the Maoist Movement in India: Birth, Demise, and Reincarnation’. *Democracy and Security* 3, no. 2 (2007): 157–88. [DOI](https://doi.org/10.1080/17419160701374911).
     - *Further Reading:*
         - Banerjee, Milinda. ‘“We Shall Create a New World, A New Man, A New Society”: Globalized Horizons among Bengali Naxalites’. In *The Global 1960s*. 2017.
@@ -1284,7 +1284,7 @@ Qing:
         - Samaddar, Ranabir. *From Popular Movements to Rebellion: The Naxalite Decade*. 2018.
 - **(B) Nepal** (~56pp)
     - Hutt, Michael. ‘Reading Nepali Maoist Memoirs’. *Studies in Nepali History and Society* 17, no. 1 (June 2012) but only read 107–23. [Link](https://eprints.soas.ac.uk/14544/).
-    - Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. [Link](https://library.st-andrews.ac.uk/record=b3301697~S5)
+    - Hoffmann, Michael. ‘Introduction. The Maoist Victory Rally’. In *The Partial Revolution: Labour, Social Movements and the Invisible Hand of Mao in Western Nepal*, 1–40. 2018. 
     - *Further Reading:*
         - Adhikari, Aditya. *The Bullet and the Ballot Box: The Story of Nepal’s Maoist Revolution*. 2014.
         - Davis, Paul K., Eric V. Larson, Zachary Haldeman, Mustafa Oguz, and Yashodhara Rana. ‘Public Support for the Maoists in Nepal’. In *Understanding and Influencing Public Support for Insurgency and Terrorism*, 119–50. 2012. [Link](https://www.jstor.org/stable/10.7249/mg1122osd.13).
@@ -1304,7 +1304,7 @@ Qing:
         - Zharkevich, Ina. *Maoist’s People War and the Revolution of Everyday Life Innepal*. Electronic book. South Asia in the Social Sciences 8. 2019.
 - **(C) Peru** (~50pp)
     - Central Committee of the Communist Party of Peru "General Political Line of the Communist Party of Peru" (1988) (Files) but only pp1-20
-    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 8 The Influence of Maoism in Peru pp130-144
+    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014.  Ch 8 The Influence of Maoism in Peru pp130-144
     - Starn, Orin. ‘Maoism in the Andes: The Communist Party of Peru-Shining Path and the Refusal of History’. *Journal of Latin American Studies* 27, no. 2 (1 May 1995): 399–421. [Link](http://www.jstor.org/stable/158120).
     - *Further Reading:*
         - Degregori, Carlos Iván. *How Difficult It Is to Be God: Shining Path’s Politics of War in Peru, 1980–1999*. 2012.
@@ -1321,7 +1321,7 @@ Qing:
         - Stern, Steve J. *Shining and Other Paths: War and Society in Peru, 1980-1995*. 1998.
         - Taylor, Lewis. *Maoism in the Andes: Sendero Luminoso and the Contemporary Guerilla Movement in Peru*. 1983.
 - **(D) Cambodia** (69pp)
-    - Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3244068~S5) Ch 2 Transmitting Maoism; pp55-84 Ch 6 "We Must Combine Theory and Practice" pp159-199
+    - Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. 2022.  Ch 2 Transmitting Maoism; pp55-84 Ch 6 "We Must Combine Theory and Practice" pp159-199
     - *Further Reading:*
         - Chandler, David P. *Brother Number One: A Political Biography Of Pol Pot*. 2018.
         - Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
@@ -1329,8 +1329,8 @@ Qing:
         - Kiernan, Ben. *How Pol Pot Came to Power: A History of Communism in Kampuchea, 1930-1975*. 1985.
         - Mertha, Andrew. *Brothers in Arms: Chinese Aid to the Khmer Rouge, 1975–1979*. 2014.
 - **(E) USA** (64pp)
-    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3053036~S5) Ch 14 By the Book pp255-263
-    - Ho, Fred, Bill V. Mullen, and Lisa Li Shen Yun, eds. *Afro Asia: Revolutionary Political and Cultural Connections between African Americans and Asian Americans*. Electronic book. 2008. [Link](http://library.st-andrews.ac.uk/record=b3132124~S5). 
+    - Cook, Alexander C. *Mao’s Little Red Book: A Global History*. 2014.  Ch 14 By the Book pp255-263
+    - Ho, Fred, Bill V. Mullen, and Lisa Li Shen Yun, eds. *Afro Asia: Revolutionary Political and Cultural Connections between African Americans and Asian Americans*. Electronic book. 2008.  
         - Mao Zedong, Statement Supporting the Afro-American in Their Just Struggle Against Racial Discrimination by U.S. Imperialism, August 8, 1963 pp91-3
         - Mao Zedong, Statement by Mao Tse-Tung, Chairman of the Central Committee of the Communist Party of China, in Support of the Afro-American Struggle Against Violent Repression, April 16, 1968 pp94-96
         - Black Like Mao: Red China and Black Revolution pp97-148
@@ -1348,7 +1348,7 @@ Qing:
     - 1972.9.17 *New York Times Magazine* article on French Maoists (Files)
     - Anonymous (Louis Althusser) "On the Cultural Revolution" trans. Jason E. Smith *Décalages* 1.1 [Archived Link](https://web.archive.org/web/20180426052352/http://scholar.oxy.edu/decalages/vol1/iss1/9/) (See also Files) 20pp
     - Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77. [Link](https://muse.jhu.edu/pub/4/article/190192). 9pp
-    - Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012. [Link](https://library.st-andrews.ac.uk/record=b3087999~S5) (P) Ch 4 Who Were the Maoists? pp109-154
+    - Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2012.  (P) Ch 4 Who Were the Maoists? pp109-154
     - *Further Reading:*
         - Badiou, Alain, and Alberto Toscano. ‘An Essential Philosophical Thesis: “It Is Right to Rebel against the Reactionaries”’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 669–77.
         - Bosteels, Bruno. ‘Post-Maoism: Badiou and Politics’. *Positions: East Asia Cultures Critique* 13, no. 3 (2005): 575–634.
@@ -1356,7 +1356,7 @@ Qing:
         - Robcis, Camille. ‘“China in Our Heads”: Althusser, Maoism, and Structuralism’. *Social Text* 30, no. 1 (110) (1 March 2012): 51–69. [DOI](https://doi.org/10.1215/01642472-1468317).
         - Wolin, Richard. *The Wind from the East: French Intellectuals, the Cultural Revolution, and the Legacy of the 1960s*. 2010.
 - **(G) End of Concern** (76pp)
-    - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3131639~S5) (P) Ch 1 Discovering China, Rethinking Knowledge; Ch 2 To Be or Not to Be, A Scholar: The Praxis of Radicalism in Academia pp23-99 
+    - Lanza, Fabio. *The End of Concern: Maoist China, Activism, and Asian Studies*. 2017. (P) Ch 1 Discovering China, Rethinking Knowledge; Ch 2 To Be or Not to Be, A Scholar: The Praxis of Radicalism in Academia pp23-99 
 
 ### Overview
 
@@ -1437,7 +1437,7 @@ The advantage of long essays related to this week's topic is that you can work w
 - Galimberti, Jacopo, Noemí de Haro García, and Victoria H. F. Scott, eds. *Art, Global Maoism and the Chinese Cultural Revolution*. 2020.
 - Galway, Matthew. *The Emergence of Global Maoism: China’s Red Evangelism and the Cambodian Communist Movement, 1949–1979*. Electronic book. 2022.
 - ———. ‘“The Most Dissolute and Dishonest” Khmer to Aid China: Hu Nim and Indigenising the Maoist Ideological System, 1955–77’. In *Experiments with Marxism-Leninism in Cold War Southeast Asia*, edited by Matthew Galway and Marc H. Opper, 1st ed., 69–106. 2022. [Link](https://www.jstor.org/stable/j.ctv2xc67r5.8).
-- Galway, Matthew, and Marc H. Opper. *Experiments with Marxism-Leninism in Cold War Southeast Asia*. 2022. [Link](https://library.st-andrews.ac.uk/record=b3616656~S5).
+- Galway, Matthew, and Marc H. Opper. *Experiments with Marxism-Leninism in Cold War Southeast Asia*. 2022.
 - Goldman, Rene. ‘Mao, Maoism and Mao-Ology’. *Pacific Affairs* 41, no. 4 (1 December 1968): 560–74. [DOI](https://doi.org/10.2307/2754566).
 - Gorriti, Gustavo. *The Shining Path: A History of the Millenarian War in Peru*. 2000.
 - Graber, Lauren, and Daniel Spaulding. ‘The Red Flag: The Art and Politics of West German Maoism’. In *Art, Global Maoism and the Chinese Cultural Revolution*, edited by Jacopo Galimberti, Noemi de Haro García, and Victoria H. F. Scott, 1st ed., 109–28. 2020. [Link](https://www.jstor.org/stable/j.ctvs32qkr.11).
@@ -1545,11 +1545,11 @@ The following three resolutions are the "historical resolutions" that helped est
 
 (~40-60pp)
 
-- **(A) Curating Revolution** - Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017. [Link](https://library.st-andrews.ac.uk/record=b3058820~S5) (P) Ch 2 Exhibiting New China: Fangua Lane Past and Present 
-- **(B) Chairman Mao's Children** - Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. 2021. [Link](https://library.st-andrews.ac.uk/record=b3164128~S5) (P) Introduction, only pp1-8; Ch 2 Unequal Memories pp73-101
-- **(C) Exhibiting the Past** - Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. 2014. [Link](https://library.st-andrews.ac.uk/record=b3173013~S5) (P) Ch 2 Exhibiting the Revolution pp45-75 and Ch 10 Revolutionary Memory and National Landscape pp214-242
-- **(D) Popular Memories** - Veg, Sebastian, ed. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. 2019. [Link](https://library.st-andrews.ac.uk/record=b2901265~S5)  Ch 2 Writing About the Past pp21-42, Ch 10 Case Files as a Source pp199-219
-- **(E) Negative Exposures** - Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. 2020. [Link](https://library.st-andrews.ac.uk/record=b3133146~S5) (P) Ch 2 Keeping it in the Family pp89-130
+- **(A) Curating Revolution** - Ho, Denise Y. *Curating Revolution: Politics on Display in Mao’s China*. 2017. (P) Ch 2 Exhibiting New China: Fangua Lane Past and Present 
+- **(B) Chairman Mao's Children** - Xu, Bin. *Chairman Mao’s Children: Generation and the Politics of Memory in China*. 2021.  (P) Introduction, only pp1-8; Ch 2 Unequal Memories pp73-101
+- **(C) Exhibiting the Past** - Denton, Kirk A. *Exhibiting the Past: Historical Memory and the Politics of Museums in Postsocialist China*. 2014.  (P) Ch 2 Exhibiting the Revolution pp45-75 and Ch 10 Revolutionary Memory and National Landscape pp214-242
+- **(D) Popular Memories** - Veg, Sebastian, ed. *Popular Memories of the Mao Era: From Critical Debate to Reassessing History*. 2019.   Ch 2 Writing About the Past pp21-42, Ch 10 Case Files as a Source pp199-219
+- **(E) Negative Exposures** - Hillenbrand, Margaret. *Negative Exposures: Knowing What Not to Know in Contemporary China*. 2020.  (P) Ch 2 Keeping it in the Family pp89-130
 - **(F) Mining China's Revolutionary Tradition** - Perry, Elizabeth J. *Anyuan: Mining China’s Revolutionary Tradition*. 2012. [Link](http://library.st-andrews.ac.uk/record=b2065636~S5). Introduction pp1-14; Ch 5 Constructing a Revolutionary Tradition
 - **(G) 1981 Resolution Guide**  学习《关于建国以来党的若干历史问题的决议》(1981)  - opportunity for Chinese readers, contact Konrad
 
@@ -1595,7 +1595,7 @@ As we saw from very early in the semester, there are many Chinese historical wor
 - Li, Huaiyin. *Reinventing Modern China: Imagination and Authenticity in Chinese Historical Writing*. 2013.
 - Li, Jie, and Enhua Zhang. *Red Legacies in China: Cultural Afterlives of the Communist Revolution*. 2016.
 - Matten, Marc Andre. *Places of Memory in Modern China: History, Politics, and Identity*. 2011.
-- Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. [Link](https://library.st-andrews.ac.uk/record=b3568916~S5).
+- Mueggler, Erik. *The Age of Wild Ghosts: Memory, Violence, and Place in Southwest China*. 2001. .
 - Ng, On Cho, and Q. Edward Wang. *Mirroring the Past: The Writing and Use of History in Imperial China*. 2005.
 - Perry, Elizabeth J. *Anyuan: Mining China’s Revolutionary Tradition*. 2012.
 - Qiu, Jin. ‘History and State: Searching the Past in the Light of the Present in the People’s Republic of China’. *Historiography East and West* 2, no. 1 (1 January 2004): 1–44. [DOI](https://doi.org/10.1163/1570186053682314).
